@@ -1,0 +1,108 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Gettier%
+}{%
+Gettier%
+}{%
+{\protect \APACyear {1963}}%
+}]{%
+Gettier}
+\APACinsertmetastar {%
+Gettier}%
+\begin{APACrefauthors}%
+Gettier, E\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1963}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Is Justified True Belief Knowledge?} {Is justified true
+  belief knowledge?}{\BBCQ}
+\newblock
+
+\newblock
+\begin{APACrefDOI} \doi{10.1093/analys/23.6.121} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ichikawa%
+\ \BBA {} Steup%
+}{%
+Ichikawa%
+\ \BBA {} Steup%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+sep-knowledge-analysis}
+\APACinsertmetastar {%
+sep-knowledge-analysis}%
+\begin{APACrefauthors}%
+Ichikawa, J\BPBI J.%
+\BCBT {}\ \BBA {} Steup, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The Analysis of Knowledge}} {{The Analysis of
+  Knowledge}}.{\BBCQ}
+\newblock
+\BIn{} E\BPBI N.~Zalta\ (\BED), \APACrefbtitle {The {Stanford} Encyclopedia of
+  Philosophy} {The {Stanford} encyclopedia of philosophy}\
+  (\PrintOrdinal{{S}ummer 2018}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Metaphysics Research Lab, Stanford University}.
+\newblock
+\APAChowpublished
+  {\url{https://plato.stanford.edu/archives/sum2018/entries/knowledge-analysis/}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Maudlin%
+}{%
+Maudlin%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+Maudlin2014Filosofia:7985}
+\APACinsertmetastar {%
+Maudlin2014Filosofia:7985}%
+\begin{APACrefauthors}%
+Maudlin, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Filosofía de la física, I} {Filosofía de la física, i}.
+\newblock
+\APACaddressPublisher{}{Fondo de Cultura Economica}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Plat\'{o}n%
+}{%
+Plat\'{o}n%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+platonmeno}
+\APACinsertmetastar {%
+platonmeno}%
+\begin{APACrefauthors}%
+Plat\'{o}n.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Men\'{o}n} {Men\'{o}n}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Di\'{a}logos} {Di\'{a}logos}\ (\BVOL~II, \BPGS\
+  275--337).
+\newblock
+\APACaddressPublisher{Madrid, Espa\~{n}a}{Editorial Gredos}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
