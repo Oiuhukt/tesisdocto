@@ -71,11 +71,4 @@
   edition   = {3ª},
 }
 
-@Book{Sosa2017-SOSE,
-  author    = {Ernest Sosa},
-  publisher = {Princeton: Princeton University Press},
-  title     = {Epistemology},
-  year      = {2017},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}

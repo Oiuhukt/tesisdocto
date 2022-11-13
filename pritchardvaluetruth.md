@@ -4,13 +4,13 @@ Pritchard trata de resolver unos problemas con respecto a la tesis de que la ver
 
 A esta conclusión, Pritchard señala de manera muy ràpida hasta la página 5 que
 
->For the subject who knows that p will tend to have lots of other true beliefs >in the vicinity (not least regarding the epistemic basis of that knowledge), in >contrast to the subject who merely truly believes that p (i.e., who lacks any >epistemic basis for that belief).
+>For the subject who knows that p will tend to have lots of other true beliefs >in the vicinity (not least regarding the epistemic basis of that knowledge), in >contrast to the subject who merely truly believes that p (i.e., who lacks any epistemic basis for that belief).
 
 Otro conjunto de problemas está relacionado con que la verdad de hecho no es un valor fundamental. El argumento es que lo que legitima una buena investigación no es la verdad, sino el entendimiento [understanding].
 
 A esto Pritchard señala que 
 
->The point is that in caring about the truth, one wants not only to believe it, >but also to know it and to understand it. That’s just what manifesting a >concern for the truth amount to. In particular, we are not to understand this >as really an implicit concern for something else over and above the truth, but >rather as a manifestation of precisely what EVTM prescribes for inquiry.
+>The point is that in caring about the truth, one wants not only to believe it, but also to know it and to understand it. That’s just what manifesting a concern for the truth amount to. In particular, we are not to understand this as really an implicit concern for something else over and above the truth, but rather as a manifestation of precisely what EVTM prescribes for inquiry.
 
 Después hace una analogía con un chef. __Por supuesto la analogía es buena: que un chef haga comida deliciosa y luego la pruebe para saber si lo es, no significa que su interés era probarla y no hacerla deliciosa. El probarla sólo es una manera de asegurarse que es deliciosa. Esto me convence, pero creo que un par de detalles son necesarios: esto sucede una vez que tenemos algo _la verdad_ para luego entenderla. ¿Pero como llegamos a ella en principio?__
 
@@ -18,12 +18,9 @@ Para sortear estos problemas, Pritchard señala que suponen que el objeto de con
 
 Deshagámonos de dicha suposición. ¿Qué forma debería tomar una teoría del conocimiento que se deshaga de las proposiciones, mientras afirma que el valor fundamental del conocimiento es la verdad? Este cambio ha hecho emerger muchas teorías del conocimiento, en especial algunas teorías de la virtud epistémica.
 
-de acuerdo, tomemos la noción de virtud como básica. Ahora entendamos el valor epistémico bajo estos términos. El problema del empantamiento desaparece, porque la verdad tiene una relación importante con el mundo, algo de lo que carece el valor paráctico. Por lo que un agente virtuoso en búsqueda de la verdad podría dsitinguir entre la mera creencia justificada y el conocimiento.
+de acuerdo, tomemos la noción de virtud como básica. Ahora entendamos el valor epistémico bajo estos términos. El problema del empantamiento desaparece, porque la verdad tiene una relación importante con el mundo, algo de lo que carece el valor práctico. Por lo que un agente virtuoso en búsqueda de la verdad podría dsitinguir entre la mera creencia justificada y el conocimiento.
 
 Sobre el cambio entre verdad y entendimiento, Pritchard sugiere
 
->If one cares about truth, then one will want to know and understand that truth, >but one does so because one cares about the truth, and not because what one >really cares about is knowledge or understanding. p. 12
-
-
-
+>If one cares about truth, then one will want to know and understand that truth, but one does so because one cares about the truth, and not because what one really cares about is knowledge or understanding. p. 12
 
