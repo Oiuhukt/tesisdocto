@@ -4,7 +4,7 @@ Pritchard trata de resolver unos problemas con respecto a la tesis de que la ver
 
 A esta conclusión, Pritchard señala de manera muy ràpida hasta la página 5 que
 
->For the subject who knows that p will tend to have lots of other true beliefs >in the vicinity (not least regarding the epistemic basis of that knowledge), in >contrast to the subject who merely truly believes that p (i.e., who lacks any epistemic basis for that belief).
+>For the subject who knows that p will tend to have lots of other true beliefs in the vicinity (not least regarding the epistemic basis of that knowledge), in contrast to the subject who merely truly believes that p (i.e., who lacks any epistemic basis for that belief).
 
 Otro conjunto de problemas está relacionado con que la verdad de hecho no es un valor fundamental. El argumento es que lo que legitima una buena investigación no es la verdad, sino el entendimiento [understanding].
 
