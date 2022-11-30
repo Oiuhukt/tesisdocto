@@ -1,5 +1,3 @@
-'@misc{,		title={Intellectual virtues and the epistemic value of truth | SpringerLink},		file={:https\://link.springer.com/article/10.1007/s11229-019-02418-z:PDF},		url = {https://link.springer.com/article/10.1007/s11229-019-02418-z},		accessDate={2022-11-08},		}
-
 @Article{Gettier,
   author  = {Gettier, E. L.},
   journal = {Analysis},
@@ -69,6 +67,105 @@
   title     = {Ética nicomaquea},
   year      = {2012},
   edition   = {3ª},
+}
+
+@Book{Sosa2017-SOSE,
+  author    = {Ernest Sosa},
+  publisher = {Princeton: Princeton University Press},
+  title     = {Epistemology},
+  year      = {2017},
+}
+
+@InCollection{Maddy2022-MADAPF-4,
+  author    = {Penelope Maddy},
+  booktitle = {A plea for natural philosophy: and other essays},
+  publisher = {Oxford University Press},
+  title     = {A note on truth and reference},
+  year      = {2022},
+  chapter   = {6},
+}
+
+@InCollection{sep-modality-epistemology,
+  author       = {Mallozzi, Antonella and Vaidya, Anand and Wallner, Michael},
+  booktitle    = {The {Stanford} Encyclopedia of Philosophy},
+  publisher    = {Metaphysics Research Lab, Stanford University},
+  title        = {{The Epistemology of Modality}},
+  year         = {2022},
+  edition      = {{W}inter 2022},
+  editor       = {Edward N. Zalta and Uri Nodelman},
+  howpublished = {\url{https://plato.stanford.edu/archives/win2022/entries/modality-epistemology/}},
+}
+
+@InCollection{sep-spacetime-iframes,
+  author       = {DiSalle, Robert},
+  booktitle    = {The {Stanford} Encyclopedia of Philosophy},
+  publisher    = {Metaphysics Research Lab, Stanford University},
+  title        = {{Space and Time: Inertial Frames}},
+  year         = {2020},
+  edition      = {{W}inter 2020},
+  editor       = {Edward N. Zalta},
+  howpublished = {\url{https://plato.stanford.edu/archives/win2020/entries/spacetime-iframes/}},
+}
+
+'
+@InCollection{Freudenthal1986,
+  author       = {Freudenthal, Gideon},
+  publisher    = {Springer Netherlands},
+  title        = {Newton’s {Justification} of the {Theory} of {Absolute} {Space}},
+  year         = {1986},
+  address      = {Dordrecht},
+  editor       = {Cohen, Robert S. and Wartofsky, Marx W.},
+  isbn         = {9789401085052 9789400945005},
+  pages        = {13--28},
+  volume       = {88},
+  collaborator = {Freudenthal, Gideon},
+  doi          = {10.1007/978-94-009-4500-5_2},
+  url          = {http://link.springer.com/10.1007/978-94-009-4500-5_2},
+  urldate      = {2022-11-29},
+}
+
+@Article{LEWONTIN2006,
+  author   = {LEWONTIN, R. C.},
+  journal  = {Int J Epidemiol},
+  title    = {The analysis of variance and the analysis of causes},
+  year     = {2006},
+  issn     = {0300-5771},
+  month    = jun,
+  number   = {3},
+  pages    = {520--525},
+  volume   = {35},
+  abstract = {This issue of the American Journal of Human Genetics contains two articles by Newton Morton and his colleagues1,2 that provide a detailed analytic critique of various estimates of heritability and components of variance for human phenotypes. They make especially illuminating remarks on the problems of partitioning variances and covariances among groups such as social classes and races. The most important point of all, at least from the standpoint of the practical, social, and political applications of human population genetics, occurs at the conclusion of the first paper1 in which Morton points out explicitly the chief programmatic fallacy committed by those who argue so strongly for the importance of heritability measures for human traits. The fallacy is that a knowledge of the heritability of some trait in a population provides an index of the efficacy of environmental or clinical intervention in altering the trait either in individuals or in the population as a whole. This fallacy, sometimes propagated even by geneticists, who should know better, arises from the confusion between the technical meaning of heritablility and the everyday meaning of the word. A trait can have a heritability of 1.0 in a population at some time, yet this could be completely altered in the future by a simple environmental change. If this were not the case, ‘inborn errors of metabolism’ would be forever incurable, which is patently untrue. But the misunderstanding about the relationship between heritability and phenotypic plasticity is not simply the result of an ignorance of genetics on the part of psychologists and electronic engineers. It arises from the entire system of analysis of causes through linear models, embodied in the analysis of variance and covariance and in path analysis. It is indeed ironic that while Morton and his colleagues dispute the erroneous programmatic conclusions that are drawn from the analysis of human phenotypic variation, they nevertheless rely heavily for their analytic techniques on the very linear models that are responsible for the confusion.},
+  doi      = {10.1093/ije/dyl062},
+  url      = {https://doi.org/10.1093/ije/dyl062},
+}
+
+@Book{Pearl2018,
+  author    = {Pearl, J. and Mackenzie, D.},
+  publisher = {Basic Books},
+  title     = {The Book of Why: The New Science of Cause and Effect},
+  year      = {2018},
+  isbn      = {9780465097616},
+  lccn      = {2018005510},
+  url       = {https://books.google.com.mx/books?id=9H0dDQAAQBAJ},
+}
+
+@Book{book:360820,
+  author    = {Isaac Newton},
+  editor    = {Florian Cajori & Andrew Motte},
+  publisher = {University of California Press},
+  title     = {Principia : Vol. 1 The Motion of Bodies},
+  year      = {1966},
+  isbn      = {0520009282,9780520009288},
+}
+
+@Book{Mach2013,
+  author    = {Mach, Ernst},
+  publisher = {Cambridge University Press},
+  title     = {The Science of Mechanics},
+  year      = {2013},
+  isbn      = {9781108066488},
+  series    = {Cambridge Library Collection - Physical Sciences},
+  url       = {https://books.google.com.mx/books?id=IdD1AAAAQBAJ},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

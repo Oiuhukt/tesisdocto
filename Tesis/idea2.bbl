@@ -1,6 +1,62 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Aristóteles%
+}{%
+Aristóteles%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+aristotelesnico}
+\APACinsertmetastar {%
+aristotelesnico}%
+\begin{APACrefauthors}%
+Aristóteles.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Ética nicomaquea} {Ética nicomaquea}\ (\PrintOrdinal{3ª}\
+  \BEd; A\BPBI G.~Robledo, \BED{}).
+\newblock
+\APACaddressPublisher{}{UNAM}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Freudenthal%
+}{%
+Freudenthal%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+Freudenthal1986}
+\APACinsertmetastar {%
+Freudenthal1986}%
+\begin{APACrefauthors}%
+Freudenthal, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Newton’s {Justification} of the {Theory} of {Absolute}
+  {Space}} {Newton’s {Justification} of the {Theory} of {Absolute}
+  {Space}}.{\BBCQ}
+\newblock
+\BIn{} R\BPBI S.~Cohen\ \BBA {} M\BPBI W.~Wartofsky\ (\BEDS), (\BVOL~88, \BPGS\
+  13--28).
+\newblock
+\APACaddressPublisher{Dordrecht}{Springer Netherlands}.
+\newblock
+\begin{APACrefURL}
+  [{2022-11-29}]\url{http://link.springer.com/10.1007/978-94-009-4500-5_2}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-94-009-4500-5_2} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Gettier%
 }{%
 Gettier%
@@ -20,7 +76,7 @@ Gettier, E\BPBI L.%
 {\BBOQ}\APACrefatitle {Is Justified True Belief Knowledge?} {Is justified true
   belief knowledge?}{\BBCQ}
 \newblock
-
+\APACjournalVolNumPages{Analysis}{}{}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.1093/analys/23.6.121} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -59,6 +115,31 @@ Ichikawa, J\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Mach%
+}{%
+Mach%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Mach2013}
+\APACinsertmetastar {%
+Mach2013}%
+\begin{APACrefauthors}%
+Mach, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {The Science of Mechanics} {The science of mechanics}.
+\newblock
+\APACaddressPublisher{}{Cambridge University Press}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.com.mx/books?id=IdD1AAAAQBAJ}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Maudlin%
 }{%
 Maudlin%
@@ -75,9 +156,61 @@ Maudlin, T.%
 \newblock
 \APACrefYear{2014}.
 \newblock
-\APACrefbtitle {Filosofía de la física, I} {Filosofía de la física, i}.
+\APACrefbtitle {Filosofía de la física I} {Filosofía de la física i}.
 \newblock
 \APACaddressPublisher{}{Fondo de Cultura Economica}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Newton%
+}{%
+Newton%
+}{%
+{\protect \APACyear {1966}}%
+}]{%
+book:360820}
+\APACinsertmetastar {%
+book:360820}%
+\begin{APACrefauthors}%
+Newton, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1966}.
+\newblock
+\APACrefbtitle {Principia : Vol. 1 The Motion of Bodies} {Principia : Vol. 1
+  the motion of bodies}\ (F\BPBI C\BPBI \BPBI A.~Motte, \BED{}).
+\newblock
+\APACaddressPublisher{}{University of California Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Papineau%
+}{%
+Papineau%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Papineau2021}
+\APACinsertmetastar {%
+Papineau2021}%
+\begin{APACrefauthors}%
+Papineau, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The disvalue of knowledge} {The disvalue of
+  knowledge}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Synthese}{198}{6}{5311--5332}.
+\newblock
+\begin{APACrefURL}
+  [{2022-11-08}]\url{https://doi.org/10.1007/s11229-019-02405-4}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11229-019-02405-4} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -103,6 +236,57 @@ Plat\'{o}n.%
   275--337).
 \newblock
 \APACaddressPublisher{Madrid, Espa\~{n}a}{Editorial Gredos}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pritchard%
+}{%
+Pritchard%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+Pritchard2021}
+\APACinsertmetastar {%
+Pritchard2021}%
+\begin{APACrefauthors}%
+Pritchard, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Intellectual virtues and the epistemic value of truth}
+  {Intellectual virtues and the epistemic value of truth}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Synthese}{198}{6}{5515--5528}.
+\newblock
+\begin{APACrefURL}
+  [{2022-11-08}]\url{https://doi.org/10.1007/s11229-019-02418-z}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s11229-019-02418-z} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sosa%
+}{%
+Sosa%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Sosa2017-SOSE}
+\APACinsertmetastar {%
+Sosa2017-SOSE}%
+\begin{APACrefauthors}%
+Sosa, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Epistemology} {Epistemology}.
+\newblock
+\APACaddressPublisher{}{Princeton: Princeton University Press}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
