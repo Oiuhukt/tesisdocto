@@ -91,6 +91,7 @@
   title     = {Ética nicomaquea},
   year      = {2012},
   edition   = {3ª},
+  groups    = {Verdad como valor},
 }
 
 @Book{Sosa2017-SOSE,
@@ -223,6 +224,42 @@
   title     = {Form-Driven Vs. Content-Driven Arguments for Realism},
   year      = {2010},
   editor    = {P. D. Magnus and Jacob Busch},
+  groups    = {Realismo/antirrealismo},
+}
+
+@Article{Elgin2004,
+  author  = {Catherine Z. Elgin},
+  journal = {Philosophical Issues},
+  title   = {True Enough},
+  year    = {2004},
+  number  = {1},
+  pages   = {113--131},
+  volume  = {14},
+  doi     = {10.1111/j.1533-6077.2004.00023.x},
+}
+
+@Book{Sher2016,
+  author    = {Gila Sher},
+  publisher = {Oxford: Oxford University Press UK},
+  title     = {Epistemic Friction: An Essay on Knowledge, Truth, and Logic},
+  year      = {2016},
+  file      = {:/home/oiuhukt/Downloads/Sher, Gila - Epistemic friction _ an essay on knowledge, truth, and logic-Oxford University Press (2016).pdf:PDF},
+  groups    = {Verdad como valor},
+}
+
+@Article{Blaasjoe2022,
+  author   = {Blåsjö, Viktor},
+  journal  = {Foundations of Science},
+  title    = {Operationalism: An Interpretation of the Philosophy of Ancient Greek Geometry},
+  year     = {2022},
+  issn     = {1572-8471},
+  number   = {2},
+  pages    = {587--708},
+  volume   = {27},
+  abstract = {I present a systematic interpretation of the foundational purpose of constructions in ancient Greek geometry. I argue that Greek geometers were committed to an operationalist foundational program, according to which all of mathematics--including its entire ontology and epistemology--is based entirely on concrete physical constructions. On this reading, key foundational aspects of Greek geometry are analogous to core tenets of 20th-century operationalist/positivist/constructivist/intuitionist philosophy of science and mathematics. Operationalism provides coherent answers to a range of traditional philosophical problems regarding classical mathematics, such as the epistemic warrant and generality of diagrammatic reasoning, superposition, and the relation between constructivism and proof by contradiction. Alleged logical flaws in Euclid (implicit diagrammatic reasoning, superposition) can be interpreted as sound operationalist reasoning. Operationalism also provides a compelling philosophical motivation for the otherwise inexplicable Greek obsession with cube duplication, angle trisection, and circle quadrature. Operationalism makes coherent sense of numerous specific choices made in this tradition, and suggests new interpretations of several solutions to these problems. In particular, I argue that: Archytas’s cube duplication was originally a single-motion machine; Diocles’s cissoid was originally traced by a linkage device; Greek conic section theory was thoroughly constructive, based on the conic compass; in a few cases, string-based constructions of conic sections were used instead; pointwise constructions of curves were rejected in foundational contexts by Greek mathematicians, with good reason. Operationalism enables us to view the classical geometrical tradition as a more unified and philosophically aware enterprise than has hitherto been recognised.},
+  doi      = {10.1007/s10699-021-09791-4},
+  refid    = {Blåsjö2022},
+  url      = {https://doi.org/10.1007/s10699-021-09791-4},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
@@ -231,5 +268,5 @@
 0 AllEntriesGroup:;
 1 StaticGroup:Casos históricos\;0\;1\;0xb3e6e6ff\;\;\;;
 1 StaticGroup:Realismo/antirrealismo\;0\;1\;0x1a4d4dff\;\;\;;
-1 StaticGroup:Verdad como valor\;0\;1\;0xcc99ccff\;\;\;;
+1 StaticGroup:Verdad como valor\;0\;0\;0xcc99ccff\;\;\;;
 }
