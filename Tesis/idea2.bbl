@@ -24,6 +24,59 @@ Aristóteles.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Blåsjö%
+}{%
+Blåsjö%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+Blaasjoe2022}
+\APACinsertmetastar {%
+Blaasjoe2022}%
+\begin{APACrefauthors}%
+Blåsjö, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Operationalism: An Interpretation of the Philosophy of
+  Ancient Greek Geometry} {Operationalism: An interpretation of the philosophy
+  of ancient greek geometry}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Foundations of Science}{27}{2}{587--708}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1007/s10699-021-09791-4}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1007/s10699-021-09791-4} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Elgin%
+}{%
+Elgin%
+}{%
+{\protect \APACyear {2004}}%
+}]{%
+Elgin2004}
+\APACinsertmetastar {%
+Elgin2004}%
+\begin{APACrefauthors}%
+Elgin, C\BPBI Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {True Enough} {True enough}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophical Issues}{14}{1}{113--131}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1533-6077.2004.00023.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Freudenthal%
 }{%
 Freudenthal%
@@ -82,6 +135,31 @@ Gettier, E\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Grimm%
+}{%
+Grimm%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+Grimm2012-GRITVO-4}
+\APACinsertmetastar {%
+Grimm2012-GRITVO-4}%
+\begin{APACrefauthors}%
+Grimm, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Value of Understanding} {The value of
+  understanding}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophy Compass}{7}{2}{103--117}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1747-9991.2011.00460.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Ichikawa%
 \ \BBA {} Steup%
 }{%
@@ -115,6 +193,87 @@ Ichikawa, J\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Khalifa%
+}{%
+Khalifa%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Khalifa2010-KHASCA}
+\APACinsertmetastar {%
+Khalifa2010-KHASCA}%
+\begin{APACrefauthors}%
+Khalifa, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Social Constructivism and the Aims of Science} {Social
+  constructivism and the aims of science}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Social Epistemology}{24}{1}{45--61}.
+\newblock
+\begin{APACrefDOI} \doi{10.1080/02691721003632818} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Klein%
+}{%
+Klein%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Klein2019}
+\APACinsertmetastar {%
+Klein2019}%
+\begin{APACrefauthors}%
+Klein, P\BPBI D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How to get Certain Knowledge from Fallible
+  Justification} {How to get certain knowledge from fallible
+  justification}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Episteme}{16}{4}{395-412}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.cambridge.org/core/article/how-to-get-certain-knowledge-from-fallible-justification/B1337451D2EF1534F1061E84659418D3}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1017/epi.2019.33} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Laudan%
+}{%
+Laudan%
+}{%
+{\protect \APACyear {1981}}%
+}]{%
+Laudan1981}
+\APACinsertmetastar {%
+Laudan1981}%
+\begin{APACrefauthors}%
+Laudan, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1981}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A {Confutation} of {Convergent} {Realism}} {A
+  {Confutation} of {Convergent} {Realism}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophy of Science}{48}{1}{19--49}.
+\newblock
+\begin{APACrefURL} [{2022-12-12}]\url{https://www.jstor.org/stable/187066}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Mach%
 }{%
 Mach%
@@ -140,25 +299,33 @@ Mach, E.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Maudlin%
+Mayo%
 }{%
-Maudlin%
+Mayo%
 }{%
-{\protect \APACyear {2014}}%
+{\protect \APACyear {2018}}%
 }]{%
-Maudlin2014Filosofia:7985}
+Mayo2018}
 \APACinsertmetastar {%
-Maudlin2014Filosofia:7985}%
+Mayo2018}%
 \begin{APACrefauthors}%
-Maudlin, T.%
+Mayo, D\BPBI G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2014}.
+\APACrefYear{2018}.
 \newblock
-\APACrefbtitle {Filosofía de la física I} {Filosofía de la física i}.
+\APACrefbtitle {Statistical Inference as Severe Testing: How to Get Beyond the
+  Statistics Wars} {Statistical inference as severe testing: How to get beyond
+  the statistics wars}.
 \newblock
-\APACaddressPublisher{}{Fondo de Cultura Economica}.
+\APACaddressPublisher{Cambridge}{Cambridge University Press}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.cambridge.org/core/books/statistical-inference-as-severe-testing/D9DF409EF568090F3F60407FF2B973B2}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1017/9781107286184} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -265,6 +432,55 @@ Pritchard, D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s11229-019-02418-z} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Saatsi%
+}{%
+Saatsi%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+Saatsi2010-SAAFVC-2}
+\APACinsertmetastar {%
+Saatsi2010-SAAFVC-2}%
+\begin{APACrefauthors}%
+Saatsi, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Form-Driven Vs. Content-Driven Arguments for Realism}
+  {Form-driven vs. content-driven arguments for realism}.{\BBCQ}
+\newblock
+\BIn{} P\BPBI D.~Magnus\ \BBA {} J.~Busch\ (\BEDS), \APACrefbtitle {New Waves
+  in Philosophy of Science.} {New waves in philosophy of science.}
+\newblock
+\APACaddressPublisher{}{Palgrave-Macmillan}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sher%
+}{%
+Sher%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Sher2016}
+\APACinsertmetastar {%
+Sher2016}%
+\begin{APACrefauthors}%
+Sher, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Epistemic Friction: An Essay on Knowledge, Truth, and Logic}
+  {Epistemic friction: An essay on knowledge, truth, and logic}.
+\newblock
+\APACaddressPublisher{}{Oxford: Oxford University Press UK}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
