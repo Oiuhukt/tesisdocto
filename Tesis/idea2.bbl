@@ -193,31 +193,6 @@ Ichikawa, J\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Khalifa%
-}{%
-Khalifa%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-Khalifa2010-KHASCA}
-\APACinsertmetastar {%
-Khalifa2010-KHASCA}%
-\begin{APACrefauthors}%
-Khalifa, K.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Social Constructivism and the Aims of Science} {Social
-  constructivism and the aims of science}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Social Epistemology}{24}{1}{45--61}.
-\newblock
-\begin{APACrefDOI} \doi{10.1080/02691721003632818} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Klein%
 }{%
 Klein%
@@ -432,32 +407,6 @@ Pritchard, D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1007/s11229-019-02418-z} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Saatsi%
-}{%
-Saatsi%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-Saatsi2010-SAAFVC-2}
-\APACinsertmetastar {%
-Saatsi2010-SAAFVC-2}%
-\begin{APACrefauthors}%
-Saatsi, J.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Form-Driven Vs. Content-Driven Arguments for Realism}
-  {Form-driven vs. content-driven arguments for realism}.{\BBCQ}
-\newblock
-\BIn{} P\BPBI D.~Magnus\ \BBA {} J.~Busch\ (\BEDS), \APACrefbtitle {New Waves
-  in Philosophy of Science.} {New waves in philosophy of science.}
-\newblock
-\APACaddressPublisher{}{Palgrave-Macmillan}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
