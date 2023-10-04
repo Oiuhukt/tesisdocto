@@ -2,7 +2,10 @@
 title: Capítulo 1
 author: Oscar Abraham Olivetti Alvarez
 bibliography: ~/Archivos/Notas/tesisdocto/Tesis/tesisdocto.bib
-
+output: 
+  pdf_document: 
+header-includes:
+- \usepackage{todonotes}
 ---
 
 # La verdad importa
@@ -54,7 +57,6 @@ También me parece que podemos conciliar el compromiso realista con los casos hi
 Para conciliar este conflicto quiero presentar un marco, desarrollado por Klein
 [-@Klein2019] que me permite señalar que los casos históricos expuestos no presentan problema a la tesis veritista.
 Esto depende de que lo que señalamos en los casos históricos depende no sólo de que las teorías sean verdaderas a secas, sino también de cómo justificamos hipótesis en investigación científica.
-
 
 ## El problema del valor
 
@@ -110,12 +112,12 @@ Me quedo dormido durante 10 minutos.
 Durante el intervalo en el que me quedé dormido, la persona que vi se baja del autobús y se sube Atziri, quien casualmente lleva un atuendo idéntico a la persona que se bajó.
 Despierto de mi sueño y al bajar de la unidad paso al lado de Atziri, la saludo y la invito a tomar un café (siempre es un gusto hablar con ella).
 
- La conclusión de Gettier es que la caracterización de Platón no ofrece condiciones suficientes para decir que S sabe que $p$.
+La conclusión de Gettier es que la caracterización de Platón no ofrece condiciones suficientes para decir que S sabe que $p$.
 Hay que recordar que el análisis de Gettier sólo aplica a uno de los lados del condicional material.
 Gettier comienza señalando que el análisis de Platón pretende ofrecer condiciones necesarias y suficientes que señalan qué es el conocimiento[^6].
 Es decir, que captura todos y sólo los casos que constituyen la aplicación del término.
  
- Si bien las condiciones no son conjuntamente suficientes, esto no señala un problema con que dichas condiciones sean necesarias.
+Si bien las condiciones no son conjuntamente suficientes, esto no señala un problema con que dichas condiciones sean necesarias.
 En particular quiero señalar que, en principio, aceptamos que la verdad es una condición necesaria para saber algo.
 Si sabes que hay un gato sobre la alfombra, entonces hay un gato sobre la alfombra.
 El conocimiento tiene una estrecha conexión con la verdad.
@@ -184,7 +186,7 @@ Toma un número cualquiera y súmale 1, si haces esto indefinidamente tendrás u
 Además, hay verdades que no son interesantes en absoluto, por ejemplo, hay una respuesta verdadera sobre el número total de granos de arena en Cancún y una respuesta verdadera sobre si la luna gira alrededor de la tierra.
 Dado que queremos distinguir entre las respuestas que son importantes de las que no, entonces la verdad no es lo único que da valor al conocimiento.
 
-Para dar una respuesta a estos problemas, Pritchard [-@Pritchard2021,  @Pritchard2021a] nos dice que estos problemas surgen al asumir que el objeto de evaluación epistémica es el _número de proposiciones_ verdaderas.
+Para dar una respuesta a estos problemas, Pritchard [-@Pritchard2021, @Pritchard2021a] nos dice que estos problemas surgen al asumir que el objeto de evaluación epistémica es el _número de proposiciones_ verdaderas.
 Pritchard señala que si además involucramos la teoría de la virtud epistémica, entonces somos capaces de resolver los problemas antes mencionados, señala, por ejemplo que:
 
     A true statement of fundamental science may be expressed as a single proposition, but it ofers us a great deal by way of cognitive contact with reality. In contrast a long list of trivial empirical claims might ofer us hardly any cognitive contact with reality at all. In the sense that matters to us, there is more truth in the former than in the latter, even if the latter involves more true propositions. [@Pritchard2021a, pp. 1353-1354]
@@ -252,9 +254,10 @@ Esto se debe a que la persona que sepa ciertas verdades, tendrá más verdades e
 --->
 
 Con este marco explicado, Pritchard resuelve los dos problemas que se le achacan al veritismo.
-Con el problema de la absorción nos presenta una analogía con un chef (p. 6 ).
-La analogía es la siguiente: que un chef haga comida deliciosa y luego la pruebe para saber si lo es, no significa que su interés era probarla y no hacerla deliciosa.
+Sobre el problema del drenado, Pritchard nos presenta una analogía con un chef (p. 6 ).
+La analogía es la siguiente: que un chef haga comida deliciosa y luego la pruebe para saber si es deliciosa, no significa que su fin era probarla y no hacerla deliciosa.
 El probarla sólo es una manera de asegurarse que es deliciosa.
+La analogía parece indicar que si bien obtener verdades es el fin de nuestras empresas epistémicas, 
 Si es verdad que el valor fundamental de cualquier empresa epistémica es la verdad, eso explicaría por qué nos interesa obtener verdades: si bien esto tiene implicaciones prácticas, cualquier consecuencia depende de que de hecho nuestro conocimiento apunte a la verdad y la consiga.
 Más aún, las virtudes intelectuales nos ofrecen un marco para solventar el problema de las verdades irrelevantes: queremos no sólo que nuestras creencias sean verdaderas, sino que además el proceso para llegar a la verdad sea fiable y que esté guiado por características de un agente.
 Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, a otra de más peso.
