@@ -1,11 +1,29 @@
 ---
+corrections: true
+css:
+    - corrections.css 
+lang: es-u-co-trad
+citeproc: true
+metadata:
+    bibliography: ~/Archivos/Notas/tesisdocto/Tesis/tesisdocto.bib
+    csl: apa-6th-edition.csl
 title: Capítulo 1
 author: Oscar Abraham Olivetti Alvarez
-bibliography: ~/Archivos/Notas/tesisdocto/Tesis/tesisdocto.bib
 output: 
-  pdf_document: 
-header-includes:
-- \usepackage{todonotes}
+    table-of-contents: true
+    pdf_document: 
+    header-includes:
+        - \usepackage{todonotes}
+---
+
+
+* [El problema del valor](#el-problema-del-valor)
+* [La receta Gettier](#la-receta-gettier)
+* [Problemas con el valor de la verdad](#problemas-con-el-valor-de-la-verdad)
+* [Pritchard contra VI y PD](#pritchard-contra-vi-y-pd)
+  * [Desfase: teoría de las virtudes epistémicas](#desfase:-teoría-de-las-virtudes-epistémicas)
+* [Solución de Pritchard](#solución-de-pritchard)
+
 ---
 
 # La verdad importa
@@ -47,7 +65,7 @@ Menciono estos ejemplos porque mi interés general es la evaluación de teorías
 en particular, el debate realismo/antirrealismo en filosofía de la ciencia. <!--- mandar siguiente párrafo a pie --->
 
 En términos muy generales, los realistas científicos señalan que hay que entender literalmente las oraciones afirmadas por las teorías científicas.[^3]
-Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos.
+Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos.set conceallevel=2
 Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.
 Pero sabemos gracias a muchos casos históricos que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas.
 Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
@@ -124,7 +142,7 @@ El conocimiento tiene una estrecha conexión con la verdad.
 
 ## Problemas con el valor de la verdad
 
-Dicho lo anterior, que la verdad es un componente necesario del conocimiento, muchos epistemólogos centran sus esfuerzos para explicar por qué el conocimiento es valioso con base en el componente de verdad.
+Dicho lo anterior, que la verdad es un componenteset conceallevel=2 necesario del conocimiento, muchos epistemólogos centran sus esfuerzos para explicar por qué el conocimiento es valioso con base en el componente de verdad.
 
 Siguiendo esta línea de razonamiento, filósofos como Pritchard [-@Pritchard2021] han defendido que la verdad es un bien epistémico fundamental del conocimiento, _i. e_ un valor final, no instrumental.
 Pritchard, por ejemplo, señala que:
@@ -257,10 +275,17 @@ Con este marco explicado, Pritchard resuelve los dos problemas que se le achacan
 Sobre el problema del drenado, Pritchard nos presenta una analogía con un chef (p. 6 ).
 La analogía es la siguiente: que un chef haga comida deliciosa y luego la pruebe para saber si es deliciosa, no significa que su fin era probarla y no hacerla deliciosa.
 El probarla sólo es una manera de asegurarse que es deliciosa.
-La analogía parece indicar que si bien obtener verdades es el fin de nuestras empresas epistémicas, 
+La analogía parece indicar que obtener verdades es el fin de nuestras empresas epistémicas, las consecuencias prácticas que pueda tener esto, es sólo para asegurarse de que nuestro conocimiento es verdadero.
+
+    So once we unpack EVTM properly, in line with the intellectual virtues, then it follows that it isn’t committed to a view according to which any true belief is thereby of final epistemic value; rather, it is only those true beliefs that offer one genuine cognitive contact with reality [...] [@Pritchard2021, p. 11]. 
+
 Si es verdad que el valor fundamental de cualquier empresa epistémica es la verdad, eso explicaría por qué nos interesa obtener verdades: si bien esto tiene implicaciones prácticas, cualquier consecuencia depende de que de hecho nuestro conocimiento apunte a la verdad y la consiga.
-Más aún, las virtudes intelectuales nos ofrecen un marco para solventar el problema de las verdades irrelevantes: queremos no sólo que nuestras creencias sean verdaderas, sino que además el proceso para llegar a la verdad sea fiable y que esté guiado por características de un agente.
-Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, a otra de más peso.
+Esto último contra PD.
+Más aún, las virtudes intelectuales nos ofrecen un marco para solventar el problema de las verdades irrelevantes: queremos no sólo que nuestras creencias sean verdaderas, sino que además el proceso para llegar a la verdad sea fiable, en particular que esté guiado por características virtuosas de un agente.
+Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, la otra de más peso.
+Recordemos también que Pritchard caracteriza al veritismo, de tal manera que no importa el _número_ de creencias verdaderas, sino que nuestras creencias verdaderas tengan contacto con la realidad, _i. e_ que sean certeras.
+
+Una vez que Pritchard introduce a la teoría de las virtudes, VI no es un problema. 
 
 Si podemos resolver estos problemas para el veritismo, entonces no es claro que debamos abandonar a la verdad como una condición necesaria para el conocimiento, menos aún como el valor fundamental del conocimiento.
 Sin embargo, cuando empatamos el veritismo con la práctica científica, entramos en problemas <!---Creo con convicción que el objetivo de la indagación, en contextos de investigación, es obtener conocimiento. Esto implica obtener verdades. ¿habrá que decir algo respecto a esto? --->
