@@ -64,7 +64,7 @@ Mi pretensión es señalar que este conflicto es sólo aparente si tomamos en cu
 
 
 Para este capítulo, el plan es el siguiente: comienzo exponiendo algunas motivaciones, luego el problema del Menón y la tesis _veritista_ (recordemos que la tesis señala que el conocimiento es valioso porque es verdadero).
-Después presento dos argumentos que se han usado en la literatura para tratar de mostrar que el veritismo es falso; a saber, el argumento de las _verdades irrelevantes_ [VI] y el _argumento del drenado_ [AD].
+Después presento dos argumentos que se han usado en la literatura para tratar de mostrar que el veritismo es falso; a saber, el argumento de las _verdades irrelevantes_ [VI] y el _argumento del drenado_ [PD].
 Aunque pretendo defender la tesis veritista, exponiendo la respuesta de Pritchard a VI y AD, presento un par de casos históricos que debilitan la plausibilidad de la tesis.[^2]
 Menciono estos ejemplos porque mi interés general es la evaluación de teorías; en particular, el debate realismo/antirrealismo en filosofía de la ciencia. <!--- mandar siguiente párrafo a pie --->
 
@@ -224,8 +224,10 @@ Entre estos problemas  están  problema del drenado y el problema de las verdade
 
 
 Pritchard explica ambos problemas de la siguiente manera.
-El problema del drenado indica que la verdad es valiosa porque es epistémicamente útil.
+El problema del drenado indica que el conocimiento y la mera creencia verdadera no tienen diferentes valores.
+La verdad es valiosa porque es epistémicamente útil.
 En este sentido, la verdad no es fundamental, sino sólo una manera de obtener otros bienes valiosos: modificar el mundo de alguna manera, obtener beneficios de algún tipo, etc.
+Pero si esto es verdad, entonces podemos llevar a cabo todas nuestras actividades con sólo creencias verdaderas.
 
 
 Si esto es el caso, entonces que valoremos la verdad es parasitario a la utilidad que esta nos brinda y dicha utilidad no hace diferencia entre conocimiento y creencia verdadera: para fines prácticos, da lo mismo tener conocimiento y creencias verdaderas.
@@ -298,28 +300,12 @@ En particular, los marcos de virtudes responsabilistas han servido para debatir 
 Pero en principio no son teorías excluyentes.
 
 
-<!--- Ahora, sobre el problema del valor, Sosa también señala que si bien el fin de las empresas epistémicas es la verdad, esto no es lo que valoramos como agentes: lo que valoramos es el _concocimiento_.
-Sosa [-@Sosa2017-SOSE, pp. 111-113] propone que el conocimiento, a diferencia de la creencia verdadera tiene las siguientes características: no sólo valoramos que el conocimiento sea certero (característica que comparte con la creencia verdadera), sino que valoramos que sea certero porque depende de las habilidades del agente; por último, valoramos que el conocimiento sea certero porque el agente llegó al objetivo debido a sus habilidades. Esta última oración "certero debido a las habilidades del agente" es lo que constituye que el conocimiento sea _apto_.
---->
-
-
 ## Solución de Pritchard
-
-<!---
-Asumiendo esta caracterización del conocimiento, Pritchard argumenta que el problema de la absorción y de las verdades irrelevantes deja de tener sentido, ya que si bien la verdad juega un papel importante en el conocimiento, el valor de la verdad está dado por el conocimiento asociado a dicha verdad\todo{explicar por qué vpy a hablar de esto}.
-
-Si bien Sosa señala que la verdad no es en lo que recae el valor del conocimiento, no señala que la verdad no sea una condición necesaria del conocimiento, al menos el concepto de certeza involucra una relación entre creencias y mundo, que a primera vista no es diferente de la versión intuitiva que estamos usando. 
-Esto hasta ahora no contradice a Pritchard en que la verdad es fundamental en nuestras empresas epistémicas.
-
-Los dos están de acuerdo en que el valor del conocimiento no depende del sólo hecho de que una proposición sea verdadera, sino de que el proceso para obtenerla descanse en las virtudes del agente.
-Pritchard también señala que cambiar el valor fundamental del conocimiento
-(que es la verdad) por algún otro como la comprensión es un cambio demasiado apresurado.
-Esto se debe a que la persona que sepa ciertas verdades, tendrá más verdades en su vecindario de creencias que aquel que sólo tiene una creencia verdadera o que sólo comprende.
---->
 
 Con este marco explicado, Pritchard resuelve los dos problemas que se le achacan al veritismo.
 Recordemos que hay al menos dos problemas que Pritchard discute para señalar defender al veritismo.
-Señalé ambos problemas al inicio: el problema de las verdades irrelevantes [VI] y ell problema del drenado [PD].
+Señalé ambos problemas al inicio: el problema de las verdades irrelevantes [VI] y el problema del drenado [PD].
+
 
 El problema de las verdades irrelevantes nos dice que si lo único que nos importa en nuestras empresas epistémicas es la verdad, entonces antes dos proposiciones verdaderas: una de peso y una irrelevante; deberíamos creer ambas.
 
@@ -329,33 +315,56 @@ Pero si el veritismo es correcto, entonces deberíamos creer ambas proposiciones
 Pero esto es claramente absurdo, por tanto, el veritismo es falso.
 
 
-El problema del drenado [PD], argumentan, es otro problema para el veritismo. El conocimiento no tiene un valor práctico diferente a la creencia verdadera. Y si lo único interesante de tener conocimiento son sus consecuencias prácticas,
+El problema del drenado [PD], argumentan, muestra que el veritismo no puede ser verdadero.
+Los veritistas nos dicen que la verdad es el valor final para diferentes estados epistémicos.
+Pero si esto es verdad, entonces el conocimiento no tiene un valor diferente a la creencia verdadera.
+Entonces, según el veritismo, no hay una diferencia de valor entre tener conocimiento de $p$ y una creencia verdadera de que $p$.
+La creencia verdadera ha drenado todo valor que pudiéramos darle al conocimiento.
+Esto claramente es problemático, por tanto el veritismo es falso.
 
 
-
-Sobre el problema del drenado, Pritchard nos presenta una analogía con un chef (p. 6 ).
+Es interesante la analogía que Pritchard nos presenta.
 La analogía es la siguiente: que un chef haga comida deliciosa y luego la pruebe para saber si es deliciosa, no significa que su fin era probarla y no hacerla deliciosa.
 El probarla sólo es una manera de asegurarse que es deliciosa.
-La analogía indica que obtener verdades es el fin de nuestras empresas epistémicas, las consecuencias prácticas que pueda tener esto, sirven sólo para asegurarse de que nuestro conocimiento es verdadero.
+La analogía indica que si obtener verdades es el fin de nuestras empresas epistémicas, eso no implica que sólo con la mera creencia verdadera, hemos llegado a nuestro objetivo.
+Cualquier consecuencia práctica sirve sólo para asegurarse de que nuestro conocimiento es verdadero [certero]. 
+
+
+Ahora, la solución a estos problemas consiste en que el veritismo no implica que hay que maximizar el número de proposiciones.
+Lo que buscamos es que nuestro conocimiento tenga contacto con la realidad.
+Esto lo podemos solventar usando el marco que nos ofrece la teoría de las virtudes epistémicas.
+
+
+Si es verdad que el valor fundamental de cualquier empresa epistémica es la verdad, eso explicaría por qué nos interesa obtener verdades: si bien esto tiene implicaciones prácticas, cualquier consecuencia depende de que de hecho nuestro conocimiento apunte a la verdad y la consiga.
+
+
+La mera creencia verdadera no está motivada por las virtudes del agente.
+Tener creencias verdaderas es muy barato.
+Sin embargo, es más complicado obtener conocimiento.
+El conocimiento no sólo depende de la verdad, sino de que haya sido producida por un agente virtuoso.
+Si esto es verdad, entonces el veritismo sí puede distinguir entre la mera creencia verdadera y el conocimiento.
+Resolviendo el problema con PD.
+
+
+Resolver VI sigue una estrategia parecida. 
+Una vez que nutrimos el veritismo con la teoría de las virtudes epistémicas, VI deja de ser probleḿatico.
+Más aún, las virtudes intelectuales nos ofrecen un marco para solventar el problema de las verdades irrelevantes: queremos no sólo que nuestro conocimiento sea certero, además que el proceso para llegar a la verdad sea fiable.
+En particular que esté guiado por características virtuosas de un agente.
+Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, la otra de más peso.
+Recordemos también que Pritchard caracteriza al veritismo, de tal manera que no importa el _número_ de proposiciones verdades, sino que nuestras creencias verdaderas tengan contacto sustantivo con la realidad.
+
+Una vez que Pritchard introduce a la teoría de las virtudes, VI no es un problema. 
 
 
     So once we unpack EVTM properly, in line with the intellectual virtues, then it follows that it isn’t committed to a view according to which any true belief is thereby of final epistemic value; rather, it is only those true beliefs that offer one genuine cognitive contact with reality [...] [@Pritchard2021, p. 11]. 
 
-
-Si es verdad que el valor fundamental de cualquier empresa epistémica es la verdad, eso explicaría por qué nos interesa obtener verdades: si bien esto tiene implicaciones prácticas, cualquier consecuencia depende de que de hecho nuestro conocimiento apunte a la verdad y la consiga.
-Esto último contra PD.
-Más aún, las virtudes intelectuales nos ofrecen un marco para solventar el problema de las verdades irrelevantes: queremos no sólo que nuestras creencias sean verdaderas, sino que además el proceso para llegar a la verdad sea fiable, en particular que esté guiado por características virtuosas de un agente.
-Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, la otra de más peso.
-Recordemos también que Pritchard caracteriza al veritismo, de tal manera que no importa el _número_ de creencias verdaderas, sino que nuestras creencias verdaderas tengan contacto con la realidad, _i. e_ que sean certeras.
-
-
-Una vez que Pritchard introduce a la teoría de las virtudes, VI no es un problema. 
-
-Si podemos resolver estos problemas para el veritismo, entonces no es claro que debamos abandonar a la verdad como una condición necesaria para el conocimiento, menos aún como el valor fundamental del conocimiento.
+Si podemos resolver estos problemas para el veritismo, entonces no es claro que debamos abandonar a la verdad como el valor fundamental del conocimiento.
 
 
 
+----
 
+## Hasta aquí tengo.
 
 
 
