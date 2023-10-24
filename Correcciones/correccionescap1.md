@@ -29,7 +29,7 @@ output:
 
 # La verdad importa
  
-Los seres humanos valoramos la inteligencia.
+Los seres humanos valoramos la inteligencia.<!--- Ejemplo --->
 Damos valor a las personas que saben algo que nosotros no, confiamos en los expertos y tratamos de intercambiar información con nuestros pares.
 Confiamos en lo que _saben_ y confiamos que no nos están _mintiendo_ cuando nos dan información.
 Por usar términos de Williams [-@Williams2002] al darle valor a la información dada por otros, esperamos que sea _Precisa_ y _Sincera_.
