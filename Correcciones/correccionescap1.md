@@ -60,7 +60,7 @@ Puesto que concebimos a las teorías científicas de acuerdo a ciertos valores c
 Mi pretensión es señalar que este conflicto es sólo aparente si tomamos en cuenta la justificación y las virtudes de los agentes que hacen investigación.
 
 Para este capítulo, el plan es el siguiente: comienzo exponiendo algunas motivaciones, luego el problema del Menón y la tesis _veritista_ (recordemos que la tesis señala que el conocimiento es valioso porque es verdadero).
-Después presento dos argumentos que se han usado en la literatura para tratar de mostrar que el veritismo es falso; a saber, el argumento de las _verdades irrelevantes_ [VI] y el _argumento del drenado_ [PD].
+Después presento dos argumentos que se han usado en la literatura para tratar de mostrar que el veritismo es falso; a saber, el argumento de las _verdades irrelevantes_ [VI] y el _argumento del drenado_ [PD]. <!--- Nota al piue de por qué suena más sensato PD que Swamping Problem --->
 Aunque pretendo defender la tesis veritista, exponiendo la respuesta de Pritchard a VI y AD, presento un par de casos históricos que debilitan la plausibilidad de la tesis.[^2]
 Menciono estos ejemplos porque mi interés general es la evaluación de teorías; en particular, el debate realismo/antirrealismo en filosofía de la ciencia. <!--- mandar siguiente párrafo a pie --->
 
@@ -123,7 +123,6 @@ El argumento de Gettier depende de presentar dos contraejemplos.
 Lo que hace Gettier con estos contraejemplos es presentar dos casos que cumplen las tres condiciones establecidas y en los cuáles no diríamos que los agentes en cuestión “saben”.
 De hecho tenemos una receta para generar contraejemplos tipo Gettier [@Zagzebski1994-ZAGTIO], sólo hay que agregar un evento fortuito que haga nuestras creencias verdaderas.
 
-
 Supongamos que voy viajando en el autobús.
 Voy viendo la ventana, comienzo a sentirme somnoliento, volteo hacia el frente de la unidad y creo ver a una amiga (digamos Atziri, para que sea más sencilla la narración).
 Sin embargo, la persona que vi no es Atziri, sino otra persona muy parecida a ella.
@@ -137,6 +136,8 @@ Hay que recordar que el análisis de Gettier sólo aplica a uno de los lados del
 Gettier comienza señalando que el análisis de Platón pretende ofrecer condiciones necesarias y suficientes que señalan qué es el conocimiento[^6].
 Es decir, que captura todos y sólo los casos que constituyen la aplicación del término.
 
+<!--- Poner conocimiento no inferencial --->
+
 Si bien las condiciones no son conjuntamente suficientes, esto no señala un problema con que dichas condiciones sean necesarias.
 En particular quiero señalar que, en principio, aceptamos que la verdad es una condición necesaria para saber algo.
 Si sabes que hay un gato sobre la alfombra, entonces hay un gato sobre la alfombra.
@@ -145,7 +146,7 @@ El conocimiento tiene una estrecha conexión con la verdad.
 
 ## Problemas con el valor de la verdad
 
-Dicho lo anterior, que la verdad es un componenteset conceallevel=2 necesario del conocimiento, muchos epistemólogos centran sus esfuerzos para explicar por qué el conocimiento es valioso con base en el componente de verdad.
+Dicho lo anterior, que la verdad es un necesario del conocimiento, muchos epistemólogos centran sus esfuerzos para explicar por qué el conocimiento es valioso con base en el componente de verdad.
 
 Siguiendo esta línea de razonamiento, filósofos como Pritchard [-@Pritchard2021] han defendido que la verdad es un bien epistémico fundamental del conocimiento, _i. e_ un valor final, no instrumental.
 Pritchard, por ejemplo, señala que:
@@ -198,12 +199,12 @@ Como mencioné antes, a pesar del peso intuitivo que tiene la tesis del valor ep
 Entre estos problemas  están  problema del drenado y el problema de las verdades irrelevantes.
 
 Pritchard explica ambos problemas de la siguiente manera.
-El problema del drenado indica que el conocimiento y la mera creencia verdadera no tienen diferentes valores.
+El problema del drenado indica que el conocimiento y la mera creencia verdadera no tienen diferentes <!--- medidas de valor---> valores.
 La verdad es valiosa porque es epistémicamente útil.
 En este sentido, la verdad no es fundamental, sino sólo una manera de obtener otros bienes valiosos: modificar el mundo de alguna manera, obtener beneficios de algún tipo, etc.
 Pero si esto es verdad, entonces podemos llevar a cabo todas nuestras actividades con sólo creencias verdaderas.
 
-Si esto es el caso, entonces que valoremos la verdad es parasitario a la utilidad que esta nos brinda y dicha utilidad no hace diferencia entre conocimiento y creencia verdadera: para fines prácticos, da lo mismo tener conocimiento y creencias verdaderas.
+Si esto es el caso, entonces que valoremos la verdad es parasitario a la utilidad que esta nos brinda y dicha utilidad no hace diferencia entre conocimiento y creencia verdadera: para fines prácticos, da lo mismo tener conocimiento que creencias verdaderas.
 Por ejemplo, no hace ninguna diferencia que crea verdaderamente que hay comida en mi refrigerador y saber que hay comida en mi refrigerador, al final obtendré comida que es lo que quiero.
 
 El problema de las verdades irrelevantes establece que si la verdad es el valor fundamental, entonces ante dos verdades cualesquiera, no podríamos elegir cuál deberíamos creer.
