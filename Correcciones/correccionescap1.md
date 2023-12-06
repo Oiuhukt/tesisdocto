@@ -28,52 +28,78 @@ output:
 
 
 # La verdad importa
+
+## Introducción
  
-Los seres humanos valoramos la inteligencia.<!--- Ejemplo --->
-Damos valor a las personas que saben algo que nosotros no, confiamos en los expertos y tratamos de intercambiar información con nuestros pares.
+Los seres humanos valoramos la sinceridad.
+Confiamos en los expertos y tratamos de intercambiar información con nuestros pares.
+También valoramos que la información sea correcta.
+Damos valor a las personas que saben algo que nosotros no.
+Por supuesto aún cuando tengamos confianza en la información que nos proporcionan otros, queremos que la información sea acertada y dudamos de la información que sinceramente nos ofrecen cuando es errónea.
 Confiamos en lo que _saben_ y confiamos que no nos están _mintiendo_ cuando nos dan información.
 Por usar términos de Williams [-@Williams2002] al darle valor a la información dada por otros, esperamos que sea _Precisa_ y _Sincera_.
+Dadas estas condiciones, es sensato esperar que las personas haciendo investigación sean sinceras y precisas.
+
+Sin embargo, a pesar de lo intuitivo de estos puntos, es bastante más complicado evaluar nuestras teorías científicas con base en la precisión y la sinceridad.
+La historia de la ciencia nos ha mostrado que los debates teóricos no están cerrados de una vez y para siempre: descubrimos nuevos fenómenos y modificamos nuestras treorías con base en la evidencia.
+Aún así, la sinceridad y la precisión es algo esperable.
+¿Cómo podemos reconciliar ambos fenómenos?
+Por un lado los cambios en nuestras teorías y por otro la sinceridad y la precisión.
 Partamos de estos puntos que creo que son bastante intuitivos y nada controvertidos para explicar la parte central de este capítulo.
 
-En este capítulo explico la tesis _veritista_ como la presenta Duncan Pritchard [-@Pritchard2021].
+En este capítulo, me propongo a exponer la tesis _veritista_ como la presenta Duncan Pritchard [-@Pritchard2021].
 La tesis veritista afirma que la verdad es el valor epistémico fundamental.
-Es decir que, valoramos los estados epistémicos de los agentes debido a que son verdaderos.
+Es decir que valoramos los estados epistémicos de los agentes debido a que son verdaderos.
 Esto es una forma de monismo sobre el valor: el único valor de cualquier estado epistémico depende de que sea verdadero.
-En particular, filósofos veritistas que afirman que el _conocimiento_ es el estado epistémico por antonomasia, señalan que valoramos el conocimiento porque es verdadero (y este no es un valor instrumental).
-No se confunda esto con un valor de naturaleza instrumental, puesto qué <!---explicar qué es instrumental--->
+En particular, filósofos veritistas que afirman que el _conocimiento_ es el estado epistémico por antonomasia, señalan que valoramos el conocimiento porque es verdadero y no porque sirva a otros fines.
 
-Respecto a lo anterior, De Paul [-@DePaul2001] ofrece una divertida historia sobre el problema del valor en epistemología.
-Hay dos niveles con respecto al problema del valor.
+Hay al menos dos maneras en las que se ha señalado que el conocimiento no es valioso. 
+La primera línea de argumentos, por ejemplo, discute si la _creencia verdadera_ es distinta del conocimiento.
+Al final, ambos estados epistémicos tienen los mismo fines intrumentales.
+Que yo tenga hambre y que yo sepa que hay comida en el refrigerador, no hace diferencia con que crea verdaderamente que hay comida en el refrigerador: al final, saciaré mi hambre.
+En este caso, lo valioso es saciar mi hambre, que es un valor de naturaleza instrumental.
+
+La segunda línea de argumentos, descansa en el hecho de que _la verdad_ puede restringirnos de otros fines cognitivos valiosos [@elgin2017true].
+Elgin sugiere que, cuando analizamos investigaciones científicas, debemos relajar nuestros compromisos con la verdad.
+En ciencia encontramos idealizaciones y modelos que difieren de una representación precisa de la realidad, por lo que deberíamos abandonar el compromiso con la verdad.
+
+Para este trabajo, me ocuparé de la segunda línea de argumentos. 
+Para señalar esto, quiero exponer los argumentos de Pritchard contra Elgin, que consisten en mostrar que la tesis veritista no está comprometida con evaluar el número de proposiciones verdaderas.
+Veritistas como Pritchard nos dicen que las verdades tienen que tener una conexión profunda con la realidad.
+Después de esto, quiero señalar que aún en los casos que menciona Elgin, la verdad es un valor que no podemos rechazar.
+Para esto, presento los argumentos de Klein que permiten lidiar con este tipo de casos. 
+
+## Tensiones en la evaluación de teorías
+
+De Paul [-@DePaul2001] ofrece una divertida historia sobre el problema del valor en epistemología.
+De Paul señala que hay dos niveles con respecto al problema del valor.
 Uno de ellos es señalar que el conocimiento no es el único estado epistémico que es valioso.
 Valoramos la sabiduría, por ejemplo, y la sabiduría no es algo que esté relacionado con la verdad.
 Si bien, parece haber acuerdo en que el conocimiento no es el único estado epistémico valioso, los filósofos que afirman la tesis veritista defienden que el valor que damos a los diferentes estados epistémicos depende de que sean verdaderos. 
-Pero esto resulta polémico especialmente para estados epistémicos como la comprensión y la sabiduría.
+Pero esto resulta polémic para estados epistémicos como la comprensión y la sabiduría.
 
-Yo estoy de acuerdo con el veritismo, creo que el valor de cualquier estado epistémico depende de que sean verdaderos.
+Por mi parte, estoy de acuerdo con el veritismo: creo que el valor de cualquier estado epistémico depende de que sean verdaderos.
 Por usar una metáfora de Sher [-@Sher2016], la verdad impone fricción en nuestras creencias, así es como sabemos que hicimos las cosas bien, es decir, que nuestras creencias son precisas.
-En este capítulo quiero apoyar la tesis de Pritchard [-@Pritchard2021] defendiendo el veritismo.
-Sin embargo, creo que falta por señalar qué papel juega la verdad y de qué manera conceptualizarla para explicar por qué es valiosa.
+En este capítulo quiero exponer la tesis de Pritchard [-@Pritchard2021] defendiendo el veritismo.
+No obstante, mis creencias personales no justifican esta tesis, falta por señalar qué papel juega la verdad y de qué manera conceptualizarla para explicar por qué es valiosa.
 Por ejemplo, sabemos que hay errores en la historia de la ciencia.
-Teorías “erróneas” que, sin embargo, explican fenómenos, hacen las cosas bien,son precisas[^1].
+Teorías “erróneas” que, sin embargo, explican fenómenos, hacen las cosas bien; son precisas[^1].
 Debido a esto, parece haber un conflicto entre la tesis veritista y el valor que damos a las teorías científicas.
-Puesto que concebimos a las teorías científicas de acuerdo a ciertos valores como que sean verdaderas, que salven los fenómenos, incluso <!--- seguir con otros valores --->
-Mi pretensión es señalar que este conflicto es sólo aparente si tomamos en cuenta la justificación y las virtudes de los agentes que hacen investigación.
+Algunos filósofos señalan que la verdad no juega un papel prominente y que deberíamos evaluar a las teorías de acuerdo a otros valores.
+Por ejemplo, evaluamos a las teorías científicas si salvan los fenómenos, representan bien su objeto de estudio e incluso la estética [@ivanovaAestheticsScienceBeauty2020].
+Mi pretensión es señalar que la verdad también es uno de los valores a tener en cuenta en esta evaluación y que el conflicto con el veritismo es sólo aparente.
+Si tomamos en cuenta la justificación y las virtudes de los agentes que hacen investigación, el conflicto desaparece.
+
+## El plan
 
 Para este capítulo, el plan es el siguiente: comienzo exponiendo algunas motivaciones, luego el problema del Menón y la tesis _veritista_ (recordemos que la tesis señala que el conocimiento es valioso porque es verdadero).
-Después presento dos argumentos que se han usado en la literatura para tratar de mostrar que el veritismo es falso; a saber, el argumento de las _verdades irrelevantes_ [VI] y el _argumento del drenado_ [PD]. <!--- Nota al piue de por qué suena más sensato PD que Swamping Problem --->
-Aunque pretendo defender la tesis veritista, exponiendo la respuesta de Pritchard a VI y AD, presento un par de casos históricos que debilitan la plausibilidad de la tesis.[^2]
-Menciono estos ejemplos porque mi interés general es la evaluación de teorías; en particular, el debate realismo/antirrealismo en filosofía de la ciencia. <!--- mandar siguiente párrafo a pie --->
+Después presento dos argumentos que se han usado en la literatura para tratar de mostrar que el veritismo es falso; a saber, el argumento de las _verdades irrelevantes_ [VI] y el _problema del drenado_[^9] [PD].
+Aunque pretendo defender la tesis veritista exponiendo la respuesta de Pritchard a VI y AD, los casos históricos parecen debilitar la plausibilidad de la tesis.[^2]
+Por lo que hay una tensión entre lo que nos ha enseñado la historia de la ciencia y el veritismo.
+Menciono estos ejemplos porque mi interés general es la evaluación de teorías.[^10] 
 
-En términos muy generales, los realistas científicos señalan que hay que entender literalmente las oraciones afirmadas por las teorías científicas.[^3]
-Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos.
-Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.
-Pero sabemos gracias a muchos casos históricos que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas.
-Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
-
-A pesar de la tensión entre el realismo y los casos históricos, defiendo que el veritismo es correcto.
-También me parece que podemos conciliar el compromiso realista con los casos históricos.
 Para conciliar este conflicto quiero presentar un marco, desarrollado por Klein [-@Klein2019] que me permite señalar que los casos históricos expuestos no presentan problema a la tesis veritista.
-Esto depende de que lo que señalamos en los casos históricos depende no sólo de que las teorías sean verdaderas a secas, sino también de cómo justificamos hipótesis en investigación científica.
+Esto porque lo que señalamos en los casos históricos depende no sólo de que las teorías sean verdaderas a secas, sino también de cómo justificamos hipótesis y qué papel juegan las virtudes epistémicas en la investigación científica.
 
 ## El problema del valor
 
@@ -100,10 +126,10 @@ Valoramos otros estados epistémicos como la comprensión, la sabiduría, la rac
 Estos estados son epistémicamente valiosos sin que su valor dependa de que sean verdaderos [@Kvanvig2003-KVATVO-8], aun si valoramos el conocimiento porque es verdadero.
 
 Otra manera de negar la tesis es señalar que la verdad no es el valor fundamental de ningún estado epistémico, por tanto, tampoco la característica por la cual el conocimiento tiene valor.
-Catherine Elgin [-@Elgin2004] ha desarrollado una epistemología que toma en serio las falsedades que encontramos comúnmente en las ciencias.
-Negando que cuando realizamos investigación, lo que valoramos como fin del conocimiento es la verdad.
+Catherine Elgin [-@Elgin2004] ha desarrollado una epistemología que toma en serio las falsedades que encontramos comúnmente en las ciencias, afirmando que cuando realizamos investigación, la verdad es irrelevante.
 
-Kvanvig discute el valor de la comprensión.
+Kvanvig, por ejemplo, señala que la comprensión es un estado epistémico que no tiene los problemas del conocimiento proposicional.
+Grimm hace un recuento de las tesis a favor de la comprensión [-@grimmValueUnderstanding2012], señalando que la comprensión puede suplantar al conocimiento proposicional.
 Si bien Kvanvig asume que el problema de la naturaleza del conocimiento involucra necesariamente a la _verdad_ como un componente, esto no implica que la comprensión involucre dicho componente.
 
 Supongamos, por ejemplo, que tomo un libro que contiene una cantidad $n$ de proposiciones verdaderas, de manera tal que es una lista de proposiciones sin conexión alguna entre ellas: la suma de "$2+2 = 2²$", "Yo estoy aquí ahora", "Borges escribió 'El Aleph'", etc.
@@ -113,6 +139,16 @@ Si bien tengo un conjunto de proposiciones verdaderas, no es el caso que compren
 Kvanvig señala que casos como el anterior fallan en ser casos de comprensión porque carezco de las relaciones estructurales relevantes entre las diferentes proposiciones verdaderas.
 
    > For when understanding comes to mind, the central elements in focus are ones concerned with structural relationships between various pieces of information grasped by the possessor of understanding, unlike the central element of non-accidentality in focus when one is reflecting on the concept of knowledge. [@Kvanvig2009-KVATVO-5]
+
+Por un lado, no es claro que el conocimiento no pueda involucrar dichas relaciones estructurales.
+Tampoco es claro que la comprensión excluya casos de comprensión accidentales.
+Una actriz mexicana alguna vez dijo que sentía mucho pésame por las víctimas del "surimi" de Singapur.
+Entendemos que la palabra que quiso usar era "Tsunami".
+La actriz puede incluso comprender _lo que quiso decir_, pero accidentalmente uso la palabra incorrecta.
+Pero la actriz puede tardar en comprender _lo que dijo_, incluso jamás comprenderlo y esto no implica un problema.
+
+
+
 
 
 ## La receta Gettier
@@ -326,9 +362,14 @@ Sin embargo, cuando empatamos el veritismo con la práctica científica, entramo
 
 
 
-[^1]: Dado el papel central que juega la verdad, el segundo capítulo de este trabajo estará dedicado a las teorías de la verdad. 
+[^1]: Dado el papel central que juega la verdad, el segundo capítulo de este trabajo estará dedicado a las teorías de la verdad.
+[^9]: En inglés "swamping problem". Decidí traducirlo como "problema del drenado", por la siguiente razón: los valores instrumentales consumen cualquier valor que asociemos a la verdad en el conocimiento. Esto en analogía con el artículo de Ned Block "¿se drenan hasta desaparecer los poderes causales?" [@blockSeDrenanHasta2013]
+[^10]: En términos muy generales, los realistas científicos señalan que hay que entender literalmente las oraciones afirmadas por las teorías científicas.
+Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos.
+Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.
+Pero sabemos, gracias a muchos casos históricos, que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas.
+Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
 [^2]: Por supuesto, el argumento más general para esto es la llamada meta-inducción pesimista [@Laudan1981].
-[^3]: El argumento más famoso a favor del realismo científico es el llamado “argumento de los no-milagros”.
 [^4]: Utilizo el concepto de ‘empresas epistémicas’ como algo muy general y no bien definido. El concepto puede ser usado para describir tanto a la investigación científica, como a la curiosidad de un niño que está aprendiendo a sumar.
 [^5]: No es claro exactamente cuál es la sugerencia platónica. Williamson [-@Williamson2002] sugiere que el conocimiento es más estable que la creencia verdadera frente a nueva evidencia. Por utilizar un tecnicismo, los derrotadores para la creencia forman un conjunto de cardinalidad mayor que los derrotadores para el conocimiento.
 [^6]: Caracterizar al conocimiento de manera tal que recuperemos todos y sólo los casos en los cuales podamos aplicar el término se conoce como el problema del análisis del conocimiento [@sep-knowledge-analysis]. 
