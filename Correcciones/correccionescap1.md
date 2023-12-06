@@ -37,7 +37,7 @@ También valoramos que la información sea correcta.
 Damos valor a las personas que saben algo que nosotros no.
 Por supuesto aún cuando tengamos confianza en la información que nos proporcionan otros, queremos que la información sea acertada y dudamos de la información que sinceramente nos ofrecen cuando es errónea.
 Confiamos en lo que _saben_ y confiamos que no nos están _mintiendo_ cuando nos dan información.
-Por usar términos de Williams [-@Williams2002] al darle valor a la información dada por otros, esperamos que sea _Precisa_ y _Sincera_.
+Por usar términos de Williams [-@williamsTruthTruthfulnessEssay2002] al darle valor a la información dada por otros, esperamos que sea _Precisa_ y _Sincera_.
 Dadas estas condiciones, es sensato esperar que las personas haciendo investigación sean sinceras y precisas.
 
 Sin embargo, a pesar de lo intuitivo de estos puntos, es bastante más complicado evaluar nuestras teorías científicas con base en la precisión y la sinceridad.
@@ -47,7 +47,7 @@ Aún así, la sinceridad y la precisión es algo esperable.
 Por un lado los cambios en nuestras teorías y por otro la sinceridad y la precisión.
 Partamos de estos puntos que creo que son bastante intuitivos y nada controvertidos para explicar la parte central de este capítulo.
 
-En este capítulo, me propongo a exponer la tesis _veritista_ como la presenta Duncan Pritchard [-@Pritchard2021].
+En este capítulo, me propongo a exponer la tesis _veritista_ como la presenta Duncan Pritchard [-@pritchardIntellectualVirtuesEpistemic2021].
 La tesis veritista afirma que la verdad es el valor epistémico fundamental.
 Es decir que valoramos los estados epistémicos de los agentes debido a que son verdaderos.
 Esto es una forma de monismo sobre el valor: el único valor de cualquier estado epistémico depende de que sea verdadero.
@@ -71,7 +71,7 @@ Para esto, presento los argumentos de Klein que permiten lidiar con este tipo de
 
 ## Tensiones en la evaluación de teorías
 
-De Paul [-@DePaul2001] ofrece una divertida historia sobre el problema del valor en epistemología.
+De Paul [-@depaul170ValueMonismEpistemology2001] ofrece una divertida historia sobre el problema del valor en epistemología.
 De Paul señala que hay dos niveles con respecto al problema del valor.
 Uno de ellos es señalar que el conocimiento no es el único estado epistémico que es valioso.
 Valoramos la sabiduría, por ejemplo, y la sabiduría no es algo que esté relacionado con la verdad.
@@ -79,8 +79,8 @@ Si bien, parece haber acuerdo en que el conocimiento no es el único estado epis
 Pero esto resulta polémic para estados epistémicos como la comprensión y la sabiduría.
 
 Por mi parte, estoy de acuerdo con el veritismo: creo que el valor de cualquier estado epistémico depende de que sean verdaderos.
-Por usar una metáfora de Sher [-@Sher2016], la verdad impone fricción en nuestras creencias, así es como sabemos que hicimos las cosas bien, es decir, que nuestras creencias son precisas.
-En este capítulo quiero exponer la tesis de Pritchard [-@Pritchard2021] defendiendo el veritismo.
+Por usar una metáfora de Sher [-@sherEpistemicFrictionEssay2016], la verdad impone fricción en nuestras creencias, así es como sabemos que hicimos las cosas bien, es decir, que nuestras creencias son precisas.
+En este capítulo quiero exponer la tesis de Pritchard [-@pritchardIntellectualVirtuesEpistemic2021] defendiendo el veritismo.
 No obstante, mis creencias personales no justifican esta tesis, falta por señalar qué papel juega la verdad y de qué manera conceptualizarla para explicar por qué es valiosa.
 Por ejemplo, sabemos que hay errores en la historia de la ciencia.
 Teorías “erróneas” que, sin embargo, explican fenómenos, hacen las cosas bien; son precisas[^1].
@@ -98,14 +98,14 @@ Aunque pretendo defender la tesis veritista exponiendo la respuesta de Pritchard
 Por lo que hay una tensión entre lo que nos ha enseñado la historia de la ciencia y el veritismo.
 Menciono estos ejemplos porque mi interés general es la evaluación de teorías.[^10] 
 
-Para conciliar este conflicto quiero presentar un marco, desarrollado por Klein [-@Klein2019] que me permite señalar que los casos históricos expuestos no presentan problema a la tesis veritista.
+Para conciliar este conflicto quiero presentar un marco, desarrollado por Klein [-@kleinHowGetCertain2019] que me permite señalar que los casos históricos expuestos no presentan problema a la tesis veritista.
 Esto porque lo que señalamos en los casos históricos depende no sólo de que las teorías sean verdaderas a secas, sino también de cómo justificamos hipótesis y qué papel juegan las virtudes epistémicas en la investigación científica.
 
 ## El problema del valor
 
 Quiero señalar que a los seres humanos nos interesa la verdad.
 Esta importancia que le damos a la verdad guía también nuestras empresas epistémicas[^4].
-Platón en su diálogo con Menón [-@platonmeno, ¶¶ 97a-98b] señala que hay un factor de seguridad ligado al conocimiento, que no se encuentra en la mera opinión verdadera.
+Platón en su diálogo con Menón [-@platonMenon2008, ¶¶ 97a-98b] señala que hay un factor de seguridad ligado al conocimiento, que no se encuentra en la mera opinión verdadera.
 Sócrates pide a Menón señalar cuál es la diferencia entre creencia verdadera y conocimiento.
 
    > Sóc. — Por lo tanto, la opinión verdadera, en relación con la rectitud del obrar, no será peor guía que el discernimiento; y es esto, precisamente lo que antes omitíamos al investigar acerca de cómo era la virtud, cuando afirmábamos que solamente el discernimiento guiaba correctamente al obrar.
@@ -123,10 +123,10 @@ Para fines narrativos, llamaré _veritistas_ a aquellos que defienden que el val
 Hay al menos dos maneras de negar la tesis veritista.
 Una de ellas es señalar que el conocimiento no es el único estado epistémico valioso.
 Valoramos otros estados epistémicos como la comprensión, la sabiduría, la racionalidad, etc.
-Estos estados son epistémicamente valiosos sin que su valor dependa de que sean verdaderos [@Kvanvig2003-KVATVO-8], aun si valoramos el conocimiento porque es verdadero.
+Estos estados son epistémicamente valiosos sin que su valor dependa de que sean verdaderos [@kvanvigValueKnowledgePursuit2003], aun si valoramos el conocimiento porque es verdadero.
 
 Otra manera de negar la tesis es señalar que la verdad no es el valor fundamental de ningún estado epistémico, por tanto, tampoco la característica por la cual el conocimiento tiene valor.
-Catherine Elgin [-@Elgin2004] ha desarrollado una epistemología que toma en serio las falsedades que encontramos comúnmente en las ciencias, afirmando que cuando realizamos investigación, la verdad es irrelevante.
+Catherine Elgin [-@elginTrueEnough2004] ha desarrollado una epistemología que toma en serio las falsedades que encontramos comúnmente en las ciencias, afirmando que cuando realizamos investigación, la verdad es irrelevante.
 
 Kvanvig, por ejemplo, señala que la comprensión es un estado epistémico que no tiene los problemas del conocimiento proposicional.
 
@@ -138,7 +138,7 @@ Si bien tengo un conjunto de proposiciones verdaderas, no es el caso que compren
 
 Kvanvig señala que casos como el anterior fallan en ser casos de comprensión porque carezco de las relaciones estructurales relevantes entre las diferentes proposiciones verdaderas.
 
-   > For when understanding comes to mind, the central elements in focus are ones concerned with structural relationships between various pieces of information grasped by the possessor of understanding, unlike the central element of non-accidentality in focus when one is reflecting on the concept of knowledge. [@Kvanvig2009-KVATVO-5]
+   > For when understanding comes to mind, the central elements in focus are ones concerned with structural relationships between various pieces of information grasped by the possessor of understanding, unlike the central element of non-accidentality in focus when one is reflecting on the concept of knowledge. [@kvanvigValueUnderstanding2009]
 
 
 Grimm hace un recuento de las tesis a favor de la comprensión [-@grimmValueUnderstanding2012], señalando que la comprensión puede suplantar al conocimiento proposicional.
@@ -194,9 +194,9 @@ Además, sirve para contextualizar el ejemplo de la sección anterior.
 Quisiera recordarle al lector el problema Gettier y la "receta" de Zagzebski para generar casos Gettier.
 
 A partir de lo discutido con Menón y Teeteto, Platón sugirió que el conocimiento tiene tres componentes: el conocimiento es una “creencia, verdadera y justificada”.
-De manera ingeniosa, esta caracterización del conocimiento fue puesta en duda por Gettier [-@Gettier].
+De manera ingeniosa, esta caracterización del conocimiento fue puesta en duda por Gettier [-@gettierJustifiedTrueBelief1963].
 El argumento de Gettier depende de presentar dos contraejemplos, lo que hace Gettier con estos contraejemplos es presentar dos casos que cumplen las tres condiciones establecidas y en los cuáles no diríamos que los agentes en cuestión “saben”.
-Incluso tenemos una receta para generar contraejemplos tipo Gettier [@Zagzebski1994-ZAGTIO], sólo hay que agregar un evento fortuito que haga nuestras creencias verdaderas.
+Incluso tenemos una receta para generar contraejemplos tipo Gettier [@zagzebskiInescapabilityGettierProblems1994], sólo hay que agregar un evento fortuito que haga nuestras creencias verdaderas.
 
 Por ejemplo, supongamos que voy viajando en el autobús.
 Voy viendo la ventana, comienzo a sentirme somnoliento, volteo hacia el frente de la unidad y creo ver a una amiga (digamos Atziri, para que sea más sencilla la narración).
@@ -219,87 +219,116 @@ Pero incluso podemos generar casos para el conocimiento no inferencial, como mi 
 La literatura posterior a Gettier trató de agregar condiciones que excluyeran  estos casos [@zagzebskiInescapabilityGettierProblems1994].
 Y si bien las condiciones no son conjuntamente suficientes, esto no señala un problema con que dichas condiciones sean necesarias.
 
-En particular quiero señalar que, en principio, aceptamos que la verdad es una condición necesaria para saber algo.
+En particular quiero señalar que, en principio, aceptamos que la verdad es una condición necesaria para decir que sabemos algo, digamos que una proposición es verdadera.
 Si sabes que hay un gato sobre la alfombra, entonces hay un gato sobre la alfombra.
-El conocimiento tiene una estrecha conexión con la verdad.
+El conocimiento tiene una estrecha conexión con la verdad y la justificación es el adhesivo.
 
+Si bien, la verdad es una condición necesaria del conocimiento (el conocimiento es fáctico), esto no implica que nuestro conocimiento sea valioso porque es verdadero.
+Como prometí al inició del capítulo, quiero presentar los argumentos de Pritchard contra los problemas que han discutido algunos filósofos concluyendo que la verdad no es el componente valioso del conocimiento.
+En particularm, hay dos argumentos para rechazar a la verdad como valor: el argumento de las _verdades irrelevantes_ [VI] y el _problema del drenado_ [PD].
+
+Hasta este momento del capítulo, he señalado mis pretensiones, he dicho que encuentro un problema con la tesis veritista y casos de historia de la ciencia;he señalado, también, que pretendo ofrecer razones para decir que la tensión es aparente.
+Además, he ofrecido razones en contra de remplazar al conocimiento por la comprensión.
+
+En el siguiente apartado hago un breve repaso de por qué tenemos la intuición de que el conocimiento es valioso porque es verdadero.
+Luego presentaré los argumentos de Pritchard contra VI y PD.
+Al final diré por qué los argumentos de Pritchard me parecen relevantes para la evaluación de teorías.
 
 ## Problemas con el valor de la verdad
 
-Dicho lo anterior, que la verdad es un necesario del conocimiento, muchos epistemólogos centran sus esfuerzos para explicar por qué el conocimiento es valioso con base en el componente de verdad.
+Que la verdad es un componente necesario del conocimiento ha hecho que muchos epistemólogos centren sus esfuerzos para explicar por qué el conocimiento es valioso porque es verdadero.
 
-Siguiendo esta línea de razonamiento, filósofos como Pritchard [-@Pritchard2021] han defendido que la verdad es un bien epistémico fundamental del conocimiento, _i. e_ un valor final, no instrumental.
+Siguiendo esta línea de razonamiento, filósofos como Pritchard [-@pritchardIntellectualVirtuesEpistemic2021] han defendido que la verdad es el valor epistémico fundamental del conocimiento, _i. e_ un valor final, no instrumental.
 Pritchard, por ejemplo, señala que:
 
-   > It wasn’t all that long ago that the idea that truth is the fundamental epistemic good was orthodoxy in epistemology. Indeed, this was the kind of claim that was so commonplace that it was almost not worth stating, as to do so would be somewhat superfulous. [@Pritchard2021]
+   > It wasn’t all that long ago that the idea that truth is the fundamental epistemic good was orthodoxy in epistemology. Indeed, this was the kind of claim that was so commonplace that it was almost not worth stating, as to do so would be somewhat superfulous. [@pritchardIntellectualVirtuesEpistemic2021]
 
 
 Esta sugerencia es altamente intuitiva.
-Pero este componente no hace una diferencia con las creencias verdaderas.
-Ambos casos involucran a la verdad.
-Una sugerencia es desechar el concepto de conocimiento y quedarnos con la pura creencia verdadera [@Papineau2021].
+Pero como también podemos ver en la cita anterior, esto ha ido cambiando a lo largo de la historia de la filosofía.
+
+La verdad como componente del conocimiento no hace una diferencia con las creencias verdaderas.
+En ambos casos la verdad estñá involucrada.
+Una sugerencia es desechar el concepto de conocimiento y quedarnos con la pura creencia verdadera [@papineauDisvalueKnowledge2021].
 Sin embargo, dicha sugerencia es apresurada.
 
-Quiero decir apresurada porque Papineau señala que el concepto de conocimiento limita métodos de justificación como las inferencias ampliativas.
-Con esta sugerencia, me parece, se está olvidando un componente importante de cómo obtenemos verdades.
-Pienso en particular en la justificación.
+Con esta sugerencia, me parece, estamos olvidando un componente importante de cómo obtenemos verdades, en particular en la justificación de creencias.
+La justificación de nuestras creencias no es algo que podamos obtener fácilmente.
+Requerimos trabajo para afirmar que las creencias que tenemos son verdaderas.
+Recabamos evidencia, escuchamos atentamente, comparamos información y buscamos nueva información para fijar o rechazar nuestras creencias.
+Todos estos fenómenos ese encuentran entre los esfurerzos que usamos para justificar lo que creemos.
 
-Sugiero que la _justificación_ es un componente instrumental para llegar a tener verdades.
+La justificación juega un papel importante en el conocimiento.
+Sugiero que la _justificación_ es un componente en el que recae el esfuerzo de nosotros los agentes, y que el pago que obtenemos por dicho esfuerzo es a tener verdades.
 Justificar creencias no es tarea fácil y trataré de motivar esta sugerencia en la siguiente sección.
-Quiero mencionar que esta tesis marca una diferencia entre la _creencia verdadera_ y el _conocimiento_, al mismo tiempo que es compatible con el _veritismo_: porque el valor del conocimiento depende de la verdad.
-Esto entra en clara contradicción con la propuesta de Elgin expuesta casi al principio de este capítulo.
+Quiero mencionar que esta tesis marca una diferencia entre la _creencia verdadera_ y el _conocimiento_, al mismo tiempo que es compatible con el _veritismo_: porque el valor del conocimiento depende de que sea verdadero.
+Esto entra en clara contradicción con la propuesta de Elgin expuesta al principio de este capítulo.
 
-Dada la sugerencia anterior y los componentes que tomo de Williams, _sinceridad_ y _certeza_, puedo señalar por qué maximizar la verdad es uno de los puntos centrales del veritismo.
-Sin embargo, estoy del lado de Pritchard en que maximizar el _número_ de creencias verdaderas es una empresa fútil.
-Que busquemos maximizar el número de creencias claramente está minado por AD.
-Sin embargo, esto no es un componente necesario de la tesis veritista.
-Nos importa la verdad, no cualquier verdad. Ahora bien, en esta sección me dedicaré a presentar los argumentos de Pritchard contra PD y VI.
+Dada la sugerencia anterior y los componentes que tomo de William: _sinceridad_ y _certeza_, puedo señalar por qué maximizar la verdad es uno de los puntos centrales del veritismo.
 
-Antes de continuar con dicha exposición quiero motivar por qué centrarse en la verdad como valor fundamental del conocimiento.
-Primero que nada, de alguna manera tenemos que ser capaces de corregir creencias y quizás la forma más intuitiva de señalar esto es que el mundo impone ciertos constreñimientos sobre el conocimiento humano.
+Pero esta sugerencia rápidamente nos pone a merced de VI.
+Si el veritismo depende de maximizar el número de proposiciones verdaderas, entonces es muy sencillo obtener verdades.
+Tomemos un número natural cualquiera $n$ y sumemos 1.
+Sumemos 1 consecutivamente a cada $n+1$ y tenemos un número potencialmente infinito de creencias verdaderas, que además están justificadas.
+Pero claramente hay una diferencia entre este proceso trivial y, digamos, los axiomas de Peano.
+Claramente es más valioso el trabajo realizado por Peano en su investigación para axiomatizar la aritmética.
+Por ello, maximizar el número de proposiciones verdaderas es una empresa fútil.
+Llamemos a esto _la tesis de la maximización_
+
+Sin embargo, un veritista no tiene por qué aceptar la tesis de la maximización. Pritchard nos dice que un veritista no tiene por qué maximizar el _número_ de creencias verdaderas.
+Esto no es un componente necesario de la tesis veritista.
+Pritchard dice que el veritista está interesado en verdades que "tengan un contacto cognitivo con la realidad" [@pritchardEpistemicValueCognitive2021].Nos importa la verdad, pero no cualquier verdad. 
+
+En esta sección me dedicaré a presentar los argumentos de Pritchard contra PD y VI. Antes de continuar con dicha exposición quiero motivar por qué es deseable centrarse en la verdad como valor fundamental del conocimiento.
+
+Primero que nada, de alguna manera tenemos que ser capaces de corregir creencias y quizás la forma más intuitiva de hacer esto es que el mundo impone ciertos constreñimientos sobre el conocimiento humano.
 Gila Sher usa el término 'fricción epistémica' para describir esta relación.
 La preocupación de Sher reside en que el conocimiento debe tener un fundamento.
-En particular, Sher sugiere que este fundamento lo encontramos en el mundo "Groundedness in the world is veridicality, i.e., compliance with substantial standards of truth, evidence, and justification." [-@Sher2016, pp. 9].
+En particular, Sher sugiere que este fundamento lo encontramos en el mundo "Groundedness in the world is veridicality, i.e., compliance with substantial standards of truth, evidence, and justification." [-@sherEpistemicFrictionEssay2016, pp. 9].
 
-Una tarea similar es la que lleva a cabo Blåsjö [-@Blaasjoe2022].
-El autor señala que los geómetras griegos estaban comprometidos con un programa operacionalista: las construcciones geométricas son construcciones físicas concretas, que además representan cómo es el mundo.
+Una sugerencia similar es la que hace Blåsjö [-@blasjoOperationalismInterpretationPhilosophy2022].
+El autor señala que los geómetras griegos estaban comprometidos con un programa operacionalista: las construcciones geométricas son construcciones físicas concretas, que buscan representan cómo es el mundo.
+Incluso Descartesa en su libro de geometría genera instrumentos físicos para trazar curvas algebráicas [@descartesGeometryReneDescartes2018]. 
 Resumiendo mucho de su tesis, Blåsjö dice:
 
    > Yet operationalism celebrates concrete constructions and embraces their physicality and real-worldness. This is a point that invites confusion, and indeed I shall argue that previous literature has fallen into misinterpretations for this reason. From a modern point of view, it is natural to take for granted that the foundations of mathematics is a matter of pure theory, while constructions with physical tools can only be of practical relevance. This is completely wrong, according to the operationalist perspective. To understand the philosophy of Greek geometry, we must abandon the dogma that to make mathematics rigorous it “should” be separated from any links to physical reality and turned into purely formal and abstract theory. Operationalism, in contrast to this modern dogma,anchors mathematical rigour in the physical realm. Technical mathematical sources detailing constructions with various curve-tracing devices have often been misinterpreted as quasi-practical, whereas the operationalist perspective suggests that they should instead be read as epistemologically motivated foundational investigations. (p. 590)
 
 
-Según el autor, esto además servía para evitar contradicciones.
+Según el autor, esto además servía para evitar contradicciones en los métodos geométricos de la época.
+Aún cuando fallamos en representar de forma precisa cómo es el mundo, buscamos que nuestras creencias estén lo suficientemente justificadas. 
 Por el momento asumamos que la verdad juega un papel importante en nuestras 'empresas epistémicas' tanto mundanas como teóricas.
-Continúo la siguiente sección exponiendo la solución de Pritchard.
+Continúo la siguiente sección exponiendo los argumentos de Pritchard.
 
 
 ## Pritchard contra VI y PD 
 
 Como mencioné antes, a pesar del peso intuitivo que tiene la tesis del valor epistémico de la verdad, varios filósofos han presentado problemas en contra de esta tesis.
-Entre estos problemas  están  problema del drenado y el problema de las verdades irrelevantes.
+Entre los problemas más apremiantes están  PD y VI.
 
 Pritchard explica ambos problemas de la siguiente manera.
-El problema del drenado indica que el conocimiento y la mera creencia verdadera no tienen diferentes <!--- medidas de valor---> valores.
-La verdad es valiosa porque es epistémicamente útil.
-En este sentido, la verdad no es fundamental, sino sólo una manera de obtener otros bienes valiosos: modificar el mundo de alguna manera, obtener beneficios de algún tipo, etc.
-Pero si esto es verdad, entonces podemos llevar a cabo todas nuestras actividades con sólo creencias verdaderas.
+PD nos indica que aún cuando el conocimiento es verdadero, lo valioso de saber algo depende de otros factores distintos a la verdad, por ejemplo, que es útil.
 
-Si esto es el caso, entonces que valoremos la verdad es parasitario a la utilidad que esta nos brinda y dicha utilidad no hace diferencia entre conocimiento y creencia verdadera: para fines prácticos, da lo mismo tener conocimiento que creencias verdaderas.
-Por ejemplo, no hace ninguna diferencia que crea verdaderamente que hay comida en mi refrigerador y saber que hay comida en mi refrigerador, al final obtendré comida que es lo que quiero.
+Esta sugerencia no distingue entre la mera creencia verdadera y el conocimiento.
+Además, esto motiva la sugerencia de Elgin, si el valor del conocimiento depende de otros factores, no hace una diferencia tener creencias falsas, siempre y cuando sean epistémicamente útiles para otros propósitos.
 
-El problema de las verdades irrelevantes establece que si la verdad es el valor fundamental, entonces ante dos verdades cualesquiera, no podríamos elegir cuál deberíamos creer.
-Si maximizar el número de creencias verdaderas es el objetivo, obtener dicho objetivo es sencillo.
-Toma un número cualquiera y súmale 1, si haces esto indefinidamente tendrás un conjunto muy grande de creencias verdaderas.
-Además, hay verdades que no son interesantes en absoluto, por ejemplo, hay una respuesta verdadera sobre el número total de granos de arena en Cancún y una respuesta verdadera sobre si la luna gira alrededor de la tierra.
-Dado que queremos distinguir entre las respuestas que son importantes de las que no, entonces la verdad no es lo único que da valor al conocimiento.
+En este sentido, la verdad no es un valor fundamental, sino sólo una manera de obtener otros bienes valiosos: modificar el mundo de alguna manera, obtener beneficios de algún tipo, etc.
+Pero si esto es verdad, entonces podemos llevar a cabo todas nuestras actividades con sólo creencias verdaderas, incluso creencias falsas. Si esto es el caso, entonces que valoremos la verdad es parasitario a la utilidad que esta nos brinda.
 
-Para dar una respuesta a estos problemas, Pritchard [-@Pritchard2021, @Pritchard2021a] nos dice que estos problemas surgen al asumir que el objeto de evaluación epistémica es el _número de proposiciones_ verdaderas.
-Pritchard señala que si además involucramos la teoría de la virtud epistémica, entonces somos capaces de resolver los problemas antes mencionados, señala, por ejemplo que:
+Por otro lado, VI establece que si la verdad es el valor fundamental, entonces ante dos verdades cualesquiera, no podríamos elegir cuál deberíamos creer.
+Si maximizar el número de creencias verdaderas es el objetivo del conocimiento, obtener dicho objetivo es bastante sencillo: podemos simplemente memorizar el contenido de un libro de "fun facts"
 
-   > A true statement of fundamental science may be expressed as a single proposition, but it ofers us a great deal by way of cognitive contact with reality. In contrast a long list of trivial empirical claims might ofer us hardly any cognitive contact with reality at all. In the sense that matters to us, there is more truth in the former than in the latter, even if the latter involves more true propositions. [@Pritchard2021a, pp. 1353-1354]
+Más aún, hay verdades que no son interesantes en absoluto.
+Por ejemplo, hay una respuesta verdadera sobre el número total de granos de arena en Cancún y una respuesta verdadera sobre si la luna gira alrededor de la tierra.
+Dado que queremos distinguir entre las respuestas que son importantes de las que no, entonces la verdad no puede ser lo único que da valor al conocimiento.
+
+Para dar una respuesta a estos problemas, Pritchard [-@pritchardIntellectualVirtuesEpistemic2021, @pritchardVeritismGoalInquiry2021] nos dice que estos problemas surgen al asumir que el objeto de evaluación epistémica es el _número de proposiciones_ verdaderas.
+Pritchard señala que si además involucramos la teoría de la virtud epistémica en el veritismo, entonces somos capaces de resolver los problemas antes mencionados, Pritchard apunta que:
+
+   > A true statement of fundamental science may be expressed as a single proposition, but it ofers us a great deal by way of cognitive contact with reality. In contrast a long list of trivial empirical claims might ofer us hardly any cognitive contact with reality at all. In the sense that matters to us, there is more truth in the former than in the latter, even if the latter involves more true propositions. [@pritchardVeritismGoalInquiry2021, pp. 1353-1354]
 
 Y el paso a las virtudes intelectuales, está en el siguiente párrafo del mismo artículo "In particular, we should understand how to achieve the epistemic good of truth via appeal to what an intellectually virtuous inquiry would involve." (p. 1354).
 
+Antes de continuar, quisiera exponer de qué trata la teoría de las virtudes epistémicas, que es una forma de fiabilismo sobre la justificación [@kleinHowGetCertain2019].
 
 ### Desfase: teoría de las virtudes epistémicas
 
@@ -312,16 +341,16 @@ La forma más complicada para hacerlo es trabajando (e idealmente ganando un sue
 
 De las tres estrategias mencionadas anteriormente, en términos evaluativos, la primera estrategia es más virtuosa que la segunda.
 Mientras que la última no constituye un ejercicio de mi parte para ganar ingresos.
-Es por ello que el ejercicio de estas virtudes son decisiones voluntarias que se practican de acuerdo con el fin que queremos lograr.[^8]
+Es por ello que el ejercicio de estas virtudes, decisiones voluntarias que practicamos para llegar al fin que queremos lograr.[^8]
 
 Uno de los pioneros de la teoría de la virtud epistémica es Ernest Sosa.
-Sosa [-@Sosa2017-SOSE] articula una teoría del conocimiento que caracteriza a las virtudes epistémicas como el ejercicio de ciertas habilidades de los agentes, tales que al ejercitarlas, constituyen el conocimiento.
-Podemos describir este proceso como que dichas habilidades virtuosas aseguran que tengamos más creencias verdaderas que falsas, de ahí la etiqueta _fiabilista_.
+Sosa [-@sosaEpistemology2017] articula una teoría del conocimiento que caracteriza a las virtudes epistémicas como el ejercicio de ciertas habilidades de los agentes, tales que al ejercitarlas, son constitutivas del conocimiento.
+Podemos describir este proceso diciendo que dichas habilidades virtuosas aseguran que tengamos más creencias verdaderas que falsas, de ahí la etiqueta _fiabilista_.
 
 Sin embargo la versión de Sosa, no es la única caracterización de las virtudes epistémicas. 
-Zagzebski [-@Zagzebski1996-ZAGVOT-3] distingue su teoría de la de Sosa, señalando que la teoría de Sosa está más relacionada con el consecuencialismo que con la teoría de virtudes aritotélicas.
-Zagzebski señala que si el objetivo de la teoría de Sosa es obtener más creencias verdaderas que falsas, entonces la teoría ética relevante es la consecuencialista.
-Pero una teoría de las virtudes más comprometida con la teoría de las virtudes aristotélicas, puede explicar cómo le damos valor a los productos generados por los agentes epistémicos, aún cuando no produzcan creencias verdaderas.
+Zagzebski [-@zagzebskiVirtuesMindInquiry1996] distingue su teoría de la de Sosa, señalando que la teoría de Sosa está más relacionada con el consecuencialismo que con la teoría de virtudes aritotélicas.
+Zagzebski señala que si el objetivo de la teoría de Sosa es obtener más creencias verdaderas que falsas, entonces la teoría ética relevante es la consecuencialista: mientras más creencias verdaderas tengamos, mucho mejor.
+Pero una teoría de las virtudes más comprometida con la teoría de las virtudes aristotélicas, como la que propone Zagzebski, puede explicar cómo le damos valor a los productos generados por los agentes epistémicos, aún cuando no produzcan creencias verdaderas.
 
 La literatura ha llamado _responsabilista_ a la teoría de Zagzebski, porque no se centra sólo en los productos epistémicos _per se_ (habitualmente creencias verdaderas), sino que toma en cuenta otras características que no necesariamente están relacionadas con obtener la verdad: el deseo de obtener creencias verdaderas no constituye conocimiento, aún cuando es una motivación importante para obtener conocimiento.
 
@@ -329,21 +358,19 @@ Hay un debate sobre si ambas aproximaciones son realmente excluyentes.
 A primera vista parece que es sólo una cuestión acerca de a qué decidimos llamar 'virtud epistémica'.
 Esto incluso se vuelve más complicado debido a que tanto Sosa como Zagzebski, nos dan un conjunto de virtudes y extensionalmente no es claro que sean excluyentes.
 No es claro porque cuando tomamos en cuenta qué habilidades son necesarias para obtener conocimiento, ambas teorías (representadas extensionalmente) se traslapan.
-Supongamos, por ejemplo, que un investigador de renombre está recolectando evidencia para cierta hipótesis $h$.
-Debido a que es un investigador de renombre es capaz de observar con atención la evidencia y seguir buenos patrones de inferencia (virtudes fiabilistas).
+Supongamos, por ejemplo, que un investigador virtuoso está recolectando evidencia para cierta hipótesis $h$.
+Debido a que es un investigador virtuoso, es capaz de observar con atención la evidencia y seguir buenos patrones de inferencia (virtudes fiabilistas).
 
-Sin embargo, sin darse cuenta, hay un error en los datos recabados, digamos que definió una función en R que devolvía valores muy bajos para apoyar la hipótesis.
+Sin embargo, sin darse cuenta, hay un error en los datos recabados, digamos que definió una función en R que devolvía valores muy bajos que apoyan la hipótesis. Uno de sus asistentes de investigación se da cuenta de el error y le señala esto al investigador, el investigador amablemente revisa el código y lo corrige (virtudes responsabilistas).
 
-Uno de sus asistentes de investigación se da cuenta de el error y le señala esto al investigador, el investigador amablemente revisa el código y lo corrige
-(virtudes responsabilistas).
-Este ejemplo pretende ilustrar un caso en el que ambos tipos de virtudes contribuyen a evitar errores y obtener una creencia verdadera.
-Por lo que no es claro que haya una distinción de los diferentes tipos si para distinguirlos echamos mano de que las virtudes del fiabilista constituyen conocimiento, mientras que las virtudes del responsabilista son auxiliares [@Sosa2017-SOSE, pp., 144].
+El ejemplo anterior pretende ilustrar un caso en el que ambos tipos de virtudes contribuyen a evitar errores y obtener una creencia verdadera.
+Por lo que no es claro que haya una distinción de los diferentes tipos si para distinguirlos echamos mano de que las virtudes del fiabilista constituyen conocimiento, mientras que las virtudes del responsabilista son auxiliares [@sosaEpistemology2017, pp., 144].
 Greco [-@Greco2002-GREVIE] señala que, si bien es verdad que esto sólo parece un debate terminológico, hay casos interesantes en los que ambas teorías difieren.
 En particular, los marcos de virtudes responsabilistas han servido para debatir problemas que se alejan de la epistemología clásica, por ejemplo, las injusticias epistémicas.
 Pero en principio no son teorías excluyentes.
 
 
-## Solución de Pritchard
+### Solución de Pritchard
 
 Con este marco explicado, Pritchard resuelve los dos problemas que se le achacan al veritismo.
 Recordemos que hay al menos dos problemas que Pritchard discute para señalar defender al veritismo.
@@ -360,48 +387,132 @@ El problema del drenado [PD], argumentan, muestra que el veritismo no puede ser 
 Los veritistas nos dicen que la verdad es el valor final para diferentes estados epistémicos.
 Pero si esto es verdad, entonces el conocimiento no tiene un valor diferente a la creencia verdadera.
 Entonces, según el veritismo, no hay una diferencia de valor entre tener conocimiento de $p$ y una creencia verdadera de que $p$.
-La creencia verdadera ha drenado todo valor que pudiéramos darle al conocimiento.
-Esto claramente es problemático, por tanto el veritismo es falso.
+Si ambos estados son igualmente valiosos por ser verdaderos, entonces el valor reside en otros factores distintos a la verdad.
+La utilidad ha drenado todo valor que pudiéramos darle al conocimiento.
+Por tanto el veritismo es falso.
 
-Es interesante la analogía que Pritchard nos presenta.
+Es interesante la analogía que Pritchard nos presenta para ilustrar lo que tiene en mente.
 La analogía es la siguiente: que un chef haga comida deliciosa y luego la pruebe para saber si es deliciosa, no significa que su fin era probarla y no hacerla deliciosa.
 El probarla sólo es una manera de asegurarse que es deliciosa.
-La analogía indica que si obtener verdades es el fin de nuestras empresas epistémicas, eso no implica que sólo con la mera creencia verdadera, hemos llegado a nuestro objetivo.
-Cualquier consecuencia práctica sirve sólo para asegurarse de que nuestro conocimiento es verdadero [certero]. 
+La analogía indica que si obtener verdades es el fin de nuestras empresas epistémicas, eso no implica que sólo con la mera creencia verdadera, hemos llegado a nuestro objetivo, ni que los factores que no están vinculados a la verdad sean en lo que reside el valor del conocimiento.
+Cualquier consecuencia práctica sirve sólo para asegurarse de que nuestro conocimiento es verdadero, es decir _certero_. 
 
-Ahora, la solución a estos problemas consiste en que el veritismo no implica que hay que maximizar el número de proposiciones.
-Lo que buscamos es que nuestro conocimiento tenga contacto con la realidad.
-Esto lo podemos solventar usando el marco que nos ofrece la teoría de las virtudes epistémicas.
+Ahora, una parte crucial de la solución a estos problemas, consiste en que el veritismo no implica que hay que maximizar el número de proposiciones verdaderas.
+Lo que buscamos es que nuestro conocimiento tenga contacto sustantivo con la realidad.
+Además de involucrar el marco que nos ofrece la teoría de las virtudes epistémicas para señalar que la justificación es un esfuerzo de los agentes.
 
 Si es verdad que el valor fundamental de cualquier empresa epistémica es la verdad, eso explicaría por qué nos interesa obtener verdades: si bien esto tiene implicaciones prácticas, cualquier consecuencia depende de que de hecho nuestro conocimiento apunte a la verdad y la consiga.
 
 La mera creencia verdadera no está motivada por las virtudes del agente.
-Tener creencias verdaderas es muy barato.
-Sin embargo, es más complicado obtener conocimiento.
+Como bien señala Elgin, tener creencias verdaderas es muy barato.
+Pero es falso que el conocimiento deba tener el mismo valor, porque es más complicado obtener conocimiento.
 El conocimiento no sólo depende de la verdad, sino de que haya sido producida por un agente virtuoso.
-Si esto es verdad, entonces el veritismo sí puede distinguir entre la mera creencia verdadera y el conocimiento.
+Un agente que se esfuerza en aprender y ejercer sus virtudes.
+Si esto es verdad, entonces el veritismo sí puede distinguir entre la mera creencia verdadera y el conocimiento sin depender de factores como la utilidad.
 Resolviendo el problema con PD.
 
 Resolver VI sigue una estrategia parecida. 
 Una vez que nutrimos el veritismo con la teoría de las virtudes epistémicas, VI deja de ser probleḿatico.
-Más aún, las virtudes intelectuales nos ofrecen un marco para solventar el problema de las verdades irrelevantes: queremos no sólo que nuestro conocimiento sea certero, además que el proceso para llegar a la verdad sea fiable.
+Como agentes virtuosos, queremos no sólo que nuestro conocimiento sea certero, sino además que el proceso para llegar a la verdad sea fiable.
 En particular que esté guiado por características virtuosas de un agente.
 Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, la otra de más peso.
 Recordemos también que Pritchard caracteriza al veritismo, de tal manera que no importa el _número_ de proposiciones verdades, sino que nuestras creencias verdaderas tengan contacto sustantivo con la realidad.
 
 Una vez que Pritchard introduce a la teoría de las virtudes, VI no es un problema. 
 
-   > So once we unpack EVTM properly, in line with the intellectual virtues, then it follows that it isn’t committed to a view according to which any true belief is thereby of final epistemic value; rather, it is only those true beliefs that offer one genuine cognitive contact with reality [...] [@Pritchard2021, p. 11]. 
+   > So once we unpack EVTM properly, in line with the intellectual virtues, then it follows that it isn’t committed to a view according to which any true belief is thereby of final epistemic value; rather, it is only those true beliefs that offer one genuine cognitive contact with reality [...] [@pritchardIntellectualVirtuesEpistemic2021, p. 11]. 
 
 Si podemos resolver estos problemas para el veritismo, entonces no es claro que debamos abandonar a la verdad como el valor fundamental del conocimiento.
 
-## Veristismo y dos casos históricos
+Sin embargo, cuando empatamos el veritismo con la práctica científica, parece que entramos en problemas.
+Uno de los casos más claros de logro epistémico son nuestras teorías científicas.
+Regularmente evaluamos teorías científicas si nos permiten explicar fenómenos. 
+Las explicaciones de los fenómenos tienen que ser correctas para contar como una buena explicación.
+Sin embargo, la historia de la ciencia 
+
+Creo con convicción que el objetivo de la indagación, en contextos de investigación, es obtener conocimiento. Esto implica obtener verdades. ¿habrá que decir algo respecto a esto? --->
+
+## Veristismo en problemas: dos casos históricos
+
+Hasta este punto desarrollé los argumentos de Pritchard. 
+Las razones expuestas están a favor de que la verdad es lo que hace valioso al conocimiento.
+La verdad es un factor que nos asegura que vamos por el camino correcto, cuando nuestras creencias están bien justificadas.
+Las explicaciones y demás consecuencias del conocimiento también dependen de la verdad. 
+Más aún, las virtudes intelectuales nos ofrecen una manera de evitar el conocimiento espurio: queremos no sólo que nuestras creencias sean verdaderas, sino que además el proceso para llegar a la verdad sea fiable y guiado por características de un agente. 
+Un agente virtuoso puede sopesar entre verdades relevantes e irrelevantes.
+
+Estoy de acuerdo con lo que señala Pritchard, que la verdad es de dónde el conocimiento obtiene su valor (dejemos por el momento si la verdad es una motivación para la indagación). 
+Este marco, incluso encaja bien con cómo podemos evaluar la investigación científica a la luz de la teoría presentada: evaluamos sus logros cognitivos las virtudes involucradas en el proceso y que sus resultados sean correctos. 
+
+Sin embargo, no es claro que la tesis veritista sea adecuada para evaluar teorías científicas. 
+La investigación científica es probablemente la manera más sistematizada que tenemos los seres humanos para producir conocimiento.
+Muchas de nuestras explicaciones dependen de saber algunos hechos acerca de las diferentes disciplinas científicas. 
+Sabemos, por ejemplo, que para que haya una combustión se necesita combustible y oxígeno.
+Si cualquiera de estos factores está ausente, entonces no hay combustión.
+Esto es una explicación del fenomeno de la combustión, sabemos que es una buena explicación que involucra muchos casos particulares de el mismo proceso: la combustión interna, que no seamos capaces de encender una fogata bajo el agua; que cuando la combustión agota el oxígeno a su alrededor, se apaga, etc.
+
+Por supuesto, una explicación que utilice información falsa no es una buena explicación. 
+Consideremos, por ejemplo, que tiro mi taza de café al piso.
+Y que explico esto con base en señalar (falsamente) que justo antes de que mi brazo golpeara la taza, el viento la empujo y fue esta la razón por la que cayó al piso.
+Esto, por supuesto, es una mala explicación.
+A lo menos es una mentira para evadir culpabilidad, pero es incorrecta en muchos sentidos.
+Alguien que haya escuchado lo que dije puede preguntar por el peso de la taza y la velocidad del viento.
+Fenómenos que sin las condiciones adecuadas, no pueden tirar una taza.
+Luego concluir que mi explicación fue mala.
+De manera sucinta, las teorías y explicaciones parecen tener que representar adecuadamente el mundo.
+Todo esto es consistente con la tesis veritista.
+
+Supongamos por un momento que las explicaciones verdaderas son las únicas explicaciones que nos interesan. 
+La suposición anterior es claramente falsa. 
+Podemos incluso citar el uso contemporáneo de teorías, por ejemplo, la mecánica Newtoniana o la teoría de la selección natural de Darwin. 
+Usamos cotidianamente ambas teorías para explicar diferentes fenómenos. 
+La teoría de la selección natural nos ayuda a explicar fenómenos biológicos como la adaptación y la especiación. 
+Con base en esta teoría podemos explicar, por ejemplo, por qué un grupo dentro de una población tiene más descendencia que otro grupo dentro de la misma población; podemos también saber, por ejemplo, cuáles son los ancestros comunes de especies contemporáneas, _e. g._, las aves de los dinosaurios. 
+
+Por otra parte, utilizamos la teoría newtoniana para explicar el movimiento de los astros y hacer predicciones de qué posición tomarán en un momento dado, podemos explicar la fuerza que se imprime en una superficie cuando es golpeada por una masa con cierta aceleración y nos sirve para explicar el movimiento de objetos apelando a la inercia.
+
+Ambas teorías tienen grandes ventajas: nos permiten explicar un amplio rango de fenómenos.
+A pesar de que estas teorías nos permiten explicar una amplia variedad de fenómenos, no es claro que sean _literalmente_ verdaderas. 
+En lo siguiente presentaré la teoría newtoniana y la teoría de la selección natural de Darwin, luego expondré algunos de los problemas que varios investigadores han detectado en ellas.
+
+### Mecánica newtoniana y selección natural darwiniana
+
+Tanto Darwin como Newton son dos personajes históricos que asociamos con logros científicos.
+Para poder explicar el movimiento, Newton desarrolló una teoría que tiene como entidades el _tiempo absoluto_ y el _espacio absoluto_. 
+Un cuerpo se mueve o permanece en reposo con respecto al espacio y tiempo absolutos. 
+Todos los puntos en el espacio absoluto permanecen constantes durante diferentes intervalos temporales. 
+Para explicar la llamada "primera ley" de Newton (inercia), es necesario definir qué significa que un cuerpo esté en reposo o en movimiento. 
+Siguiendo a Newton, sabemos que un cuerpo está en movimiento, porque ocupa distintos puntos del espacio en diferentes intervalos de tiempo.
+Si el movimiento entre los puntos se da en intervalos iguales de tiempo, entonces el movimiento es uniforme.
+Como señala Freudenthal "The distinction between 'rest' and 'uniform motion' implies, however, an absolutely resting frame of reference, and this can only be absolute space'' [@freudenthalNewtonJustificationTheory1986].
+El movimiento en el espacio absoluto no puede ser percibido, mientras que las posiciones relativas entre los cuerpos sí.
+
+Darwin también 
 
 
 
-Sin embargo, cuando empatamos el veritismo con la práctica científica, entramos en problemas <!--- Creo con convicción que el objetivo de la indagación, en contextos de investigación, es obtener conocimiento. Esto implica obtener verdades. ¿habrá que decir algo respecto a esto? --->
+Esto, por supuesto no significa que haya que echar a la basura ambas entidades, porque el espacio y tiempo absolutos juegan un papel en la explicación del movimiento.
+Además, dicha explicación recupera muchos de los fenómenos que buscamos explicar.
 
 
+
+Señalé que la teoría newtoniana sugiere la existencia de una entidad de la que no es claro que tengamos certeza de que existe. Algunos teóricos como Leibniz sugirieron que algo extraño estaba sucediendo en la física newtoniana: si sólo tenemos evidencia de los movimientos relativos y un cuerpo en el espacio absoluto no se mueve con respecto a nada, entonces no tenemos evidencia de que exista el espacio absoluto. Newton en la \textit{principia} presenta dos experimentos mentales para señalar la existencia del espacio absoluto. Uno de ellos es en el cual señala que si atamos dos globos con un cordón y los hacemos rotar sobre su eje en direcciones contrarias, la cuerda se tensa. Si aceptamos que es verdad que la cuerda se tensa incluso en el espacio absoluto, entonces tenemos que aceptar que sí hay movimiento en el espacio absoluto, los globos se mueven con respecto a dicho marco, aunque estén en reposo uno respecto del otro \cite[pp. 6-12]{book:360820}.
+
+Leibniz no fue el único en sospechar de la teoría newtoniana. Físicos como Ernst Mach (véase especialmente el capítulo 2) \citeyear{Mach2013} señala que debido a que diferentes marcos de referencia inerciales tienen las mismas consecuencias empíricas que hablar de espacio absoluto, entonces no es necesario apelar a dicha entidad, algo que sabemos gracias a la relatividad galileana\footnote{Por supuesto, Newton no hablaba de un marco privilegiado, sino que se refería al espacio absoluto como una entidad física. Pero lo que es importante notar es que podemos tener las mismas consecuencias sin apelar a dicha entidad.}.
+
+Más aún, la relatividad señala que donde Newton distinguía dos entidades, realmente sólo hay una: espacio-tiempo. Incluso en la teoría de la relatividad, no es necesario apelar al tiempo absoluto para dar explicaciones. En la relatividad no hay un marco privilegiado y como consecuencia de la estructura del espacio-tiempo tenemos la dilatación temporal.
+
+A partir de lo dicho aquí podemos obtener dos conclusiones. La primera de ellas es que la teoría de Newton es muy útil: nos permite describir una variedad de fenómenos desde la aceleración en caída libre de cuerpos en la tierra, hasta el movimiento de los cuerpos celestes (¡nos permitió incluso llegar a la luna!). Sin embargo, teorías físicas más recientes niegan que haya \textbf{espacio absoluto}, incluso señalan que la distinción entre dos entidades: espacio y tiempo, no es la más adecuada para describir la estructura del mundo. Por lo cual podemos concluir que la teoría de Newton es falsa. La segunda conclusión es que la verdad es una condición necesaria del conocimiento. Si no tuviéramos explicaciones verdaderas, simplemente no tenemos explicación.
+
+Aquí hay algo extraño: ¡ambas conclusiones no pueden ser verdaderas! Por lo que será necesario o bien dar un par de razones a favor de cómo ambas conclusiones pueden ser compatibles, o bien negar alguna de las conclusiones a las que hemos llegado. Si tomamos la segunda estrategia, dos opciones se abren ante nosotros: o bien la teoría newtoniana sí es verdadera después de todo, o bien la verdad no es una condición necesaria del conocimiento.
+
+Tomemos el segundo disyunto: que la verdad no es una condición necesaria para el conocimiento. El argumento que ofrece Pritchard, y que expusimos líneas arriba, señala que la verdad es una condición necesaria porque de otra manera no podríamos explicar muchas de nuestras metas cognitivas, su marco tiene la ventaja de resolver los problemas con los que comúnmente se embiste esta tesis. El primer problema que encuentro con este marco es la afirmación de que ``las virtudes epistémicas son aquellas que son constitutivas del conocimiento''. Pero tanto Pritchard como Sosa están de acuerdo\footnote{Por supuesto la tesis que señalan ambos no es exactamente la misma. Sosa afirma que el objetivo de nuestras empresas epistémicas es el conocimiento, mientras que Pritchard parece sugerir que la finalidad es la verdad adquirida por un agente virtuoso. Sin embargo, recordemos que ambos afirman que la verdad es una condición necesaria del conocimiento, que es lo que está en cuestión aquí.} es con que la verdad es una condición necesaria para el conocimiento. Al menos eso parece indicar la condición ``accurate'' de Sosa, suponiendo que el objetivo de nuestras ``empresas epistémicas'' es la verdad'\footnote{Por el momento estamos asumiendo que el objetivo de nuestras empresas epistémicas es la verdad. Creo que lo dicho hasta este punto me permite asumir esta tesis sin problemas. Sin embargo, creo que la investigación tiene un par de detalles que hay que tomar en cuenta, en especial cuando usamos modelos para describir fenómenos. Esto es algo que discutiré en los siguientes capítulos.}. 
+
+Lo anterior son razones para señalar que la verdad sí es una condición necesaria del conocimiento. Más aún, señalamos que el mundo impone cierta fricción en nuestras creencias, por lo que el conocimiento es fáctico. Además, no creo que haya duda de que Newton es un agente virtuoso, sin embargo, su uso de las virtudes no lo llevó a la verdad (que es una de las condiciones necesarias para el conocimiento). Si esto es verdad, entonces habría que negar que las virtudes epistémicas son constitutivas del conocimiento. Afortunadamente, el marco de virtudes de Sosa no es el único que tenemos disponible\todo{Si bien podemos negar que las virtudes epistémicas son constitutivas del conocimiento, el marco de Sosa no es el único marco de epistemología de la virtud. El trabajo de Zagzebski puede ayudar acá, Tengo que poner una breve descripción de esto.}
+
+Por supuesto, esto sólo es un problema para la teoría de las virtudes, y no para la tesis de que la verdad es una condición necesaria del conocimiento. Supongamos que la verdad es una condición necesaria del conocimiento y que el conocimiento es una condición necesaria para la ciencia. Entonces habría que señalar cómo a pesar de los problemas detectados, la teoría de Newton es verdadera a pesar de todo. Es decir, tomamos el otro disyunto. Pero esto también es problemático para cualquier teoría en filosofía de la ciencia que se tome en serio que somos agentes falibles. El argumento de Laudan \citeyear{Laudan1981} nos enseñó que las buenas explicaciones no están necesariamente conectadas a la verdad. La teoría de Newton funciona, aunque no es claro que debamos asumir que es verdadera.
+
+Ninguna de las conclusiones a la que nos llevan los disyuntos rescata las intuiciones con las que iniciamos. La otra salida es hacer que ambas tesis sean compatibles. Creo que puedo hacer eso. La siguiente sección estará dedicada a hacer compatibles que la verdad es una condición necesaria y que podemos estar equivocados, aún teniendo buenas explicaciones.
 
 
 
