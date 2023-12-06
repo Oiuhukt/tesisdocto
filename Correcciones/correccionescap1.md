@@ -129,7 +129,7 @@ Otra manera de negar la tesis es señalar que la verdad no es el valor fundament
 Catherine Elgin [-@Elgin2004] ha desarrollado una epistemología que toma en serio las falsedades que encontramos comúnmente en las ciencias, afirmando que cuando realizamos investigación, la verdad es irrelevante.
 
 Kvanvig, por ejemplo, señala que la comprensión es un estado epistémico que no tiene los problemas del conocimiento proposicional.
-Grimm hace un recuento de las tesis a favor de la comprensión [-@grimmValueUnderstanding2012], señalando que la comprensión puede suplantar al conocimiento proposicional.
+
 Si bien Kvanvig asume que el problema de la naturaleza del conocimiento involucra necesariamente a la _verdad_ como un componente, esto no implica que la comprensión involucre dicho componente.
 
 Supongamos, por ejemplo, que tomo un libro que contiene una cantidad $n$ de proposiciones verdaderas, de manera tal que es una lista de proposiciones sin conexión alguna entre ellas: la suma de "$2+2 = 2²$", "Yo estoy aquí ahora", "Borges escribió 'El Aleph'", etc.
@@ -140,26 +140,65 @@ Kvanvig señala que casos como el anterior fallan en ser casos de comprensión p
 
    > For when understanding comes to mind, the central elements in focus are ones concerned with structural relationships between various pieces of information grasped by the possessor of understanding, unlike the central element of non-accidentality in focus when one is reflecting on the concept of knowledge. [@Kvanvig2009-KVATVO-5]
 
-Por un lado, no es claro que el conocimiento no pueda involucrar dichas relaciones estructurales.
-Tampoco es claro que la comprensión excluya casos de comprensión accidentales.
+
+Grimm hace un recuento de las tesis a favor de la comprensión [-@grimmValueUnderstanding2012], señalando que la comprensión puede suplantar al conocimiento proposicional.
+Las motivaciones detrás de esto es que la comprensión puede evitar casos Gettier, que la comprensión es un estado epistémico mas transparente y que es claramente un logro cognitivo.
+
+Estos comentarios parecen señalar que la comprensión es un estado claramente distinto al conocimiento proposicional. 
+Un estado que puede solucionar muchos de los problemas de la epistemología clásica y que ofrece una mejor imagen de los logros cognitivos de los agentes.
+
+Que un nuevo concepto resuelva tantos problemas al mismo tiempo suena sospechoso. 
+No es obvio que una teoría del conocimiento más robusta no pueda lidiar con algunos de estos problemas.
+Pienso en particular en las relaciones estructurales de las que habla Kvanvig ¿El conocimiento proposicional excluye dichas relaciones?
+
+Esto no es obvio. El debate entre coherentistas y fundacionalistas en teorías de la justificación nos ha enseñado que hay relaciones entre nuestras diferentes creencias.
+Ambas teorías buscan explicar cuándo estamos justificados en afirmar que una proposición es verdadera.
+Ambas teorías están de acuerdo con que justificamos nuestras creencias con base en otras creencias.
+En lo que difieren es en la naturaleza de la justificación.
+Los fundacionalistas nos dicen que cada creencia está justificada y que la justificación de que $p$ es verdadera depende de la justificación de que $q$ es verdadera.
+La justificación está dada por cada una de las creencias que sostenemos .
+
+Por su lado, los coherentistas señalan que la justificación no está dada por cada una de las proposiciones en nuestro sistema de creencias, sino que el sistema completo de creencias está justificado cuando el sistema es coherente.<!--- Faltan las citas del libro verde --->
+
+En epistemología clásica el conocimiento está separado en componentes: justificación, creencia y verdad.
+Estas teorías de la justificación claramente abogan por relaciones estructurales en el conocimiento.
+No es obvio que la comprensión esté dividida. Sólo parece agrupar estos componentes en uno y le pusieron un nuevo nombre.
+
+Además, esto no resuelve los problemas que regularmente asociamos al concepto de "conocimiento".
+Supongamos que la _comprensión_ efectivamente es distinta al _conocimiento_, entonces el conocimiento sigue teniendo los mismos problemas.
+Sólo hemos pasado el problema a otro lado.
+Nuestra noción de conocimiento todavía tiene que ser analizada.
+
+Entonces no es claro que el conocimiento no pueda involucrar dichas relaciones estructurales.
+Más apremiante que los problemas anteriores, es la motivación para evitar casos Gettier que tiene la comprensión.
+Me parece que podemos generar casos Gettier para el entendimiento.
+Por lo que la comprensión no excluye casos accidentales.
+
 Una actriz mexicana alguna vez dijo que sentía mucho pésame por las víctimas del "surimi" de Singapur.
 Entendemos que la palabra que quiso usar era "Tsunami".
-La actriz puede incluso comprender _lo que quiso decir_, pero accidentalmente uso la palabra incorrecta.
-Pero la actriz puede tardar en comprender _lo que dijo_, incluso jamás comprenderlo y esto no implica un problema.
+La actriz puede incluso comprender _lo que quiso decir_, pero accidentalmente uso la palabra incorrecta.[^11]
+Pero la actriz puede tardar en comprender _lo que dijo_, incluso jamás comprenderlo, nunca volver a prestar atención a la afirmación que hizo.
 
-
-
+El ejemplo anterior pretende señalar lo siguiente: en un sentido importante, la actriz comprende _lo que quiso decir_.
+Pero podemos estar de acuerdo en que la actriz no comprende _lo que dijo_.
+Si evaluamos la expresión, la afirmación es claramente incorrecta.
+Pero somos capaces de comprender qué fue lo que quiso decir con su expresión.
+Creo que este ejemplo sirve para dudar que la comprensión sea invulnerable a casos Gettier.
 
 
 ## La receta Gettier
 
-Sabemos que a partir de lo discutido con Menón y Teeteto, Platón sugirió que el conocimiento tiene tres componentes: el conocimiento es una “creencia, verdadera y justificada”.
-De manera admirable, esta caracterización fue puesta en duda por Gettier [-@Gettier].
-El argumento de Gettier depende de presentar dos contraejemplos.
-Lo que hace Gettier con estos contraejemplos es presentar dos casos que cumplen las tres condiciones establecidas y en los cuáles no diríamos que los agentes en cuestión “saben”.
-De hecho tenemos una receta para generar contraejemplos tipo Gettier [@Zagzebski1994-ZAGTIO], sólo hay que agregar un evento fortuito que haga nuestras creencias verdaderas.
+En esta sección quiero repasar brevemente el problema del análisis del conocimiento.
+Este problema no es uno que quiera discutir a profundidad, sin embargo, esclarece los componentes que solemos esperar que tenga un agente que sabe que $p$
+Además, sirve para contextualizar el ejemplo de la sección anterior.
+Quisiera recordarle al lector el problema Gettier y la "receta" de Zagzebski para generar casos Gettier.
 
-Supongamos que voy viajando en el autobús.
+A partir de lo discutido con Menón y Teeteto, Platón sugirió que el conocimiento tiene tres componentes: el conocimiento es una “creencia, verdadera y justificada”.
+De manera ingeniosa, esta caracterización del conocimiento fue puesta en duda por Gettier [-@Gettier].
+El argumento de Gettier depende de presentar dos contraejemplos, lo que hace Gettier con estos contraejemplos es presentar dos casos que cumplen las tres condiciones establecidas y en los cuáles no diríamos que los agentes en cuestión “saben”.
+Incluso tenemos una receta para generar contraejemplos tipo Gettier [@Zagzebski1994-ZAGTIO], sólo hay que agregar un evento fortuito que haga nuestras creencias verdaderas.
+
+Por ejemplo, supongamos que voy viajando en el autobús.
 Voy viendo la ventana, comienzo a sentirme somnoliento, volteo hacia el frente de la unidad y creo ver a una amiga (digamos Atziri, para que sea más sencilla la narración).
 Sin embargo, la persona que vi no es Atziri, sino otra persona muy parecida a ella.
 Me quedo dormido durante 10 minutos.
@@ -167,14 +206,19 @@ Durante el intervalo en el que me quedé dormido, la persona que vi se baja del 
 Despierto de mi sueño y al bajar de la unidad paso al lado de Atziri, la saludo y la invito a tomar un café (siempre es un gusto hablar con ella).
 
 
+Este ejemplo es uno generado por la receta de Zagzebski.
 La conclusión de Gettier es que la caracterización de Platón no ofrece condiciones suficientes para decir que S sabe que $p$.
+
 Hay que recordar que el análisis de Gettier sólo aplica a uno de los lados del condicional material.
 Gettier comienza señalando que el análisis de Platón pretende ofrecer condiciones necesarias y suficientes que señalan qué es el conocimiento[^6].
-Es decir, que captura todos y sólo los casos que constituyen la aplicación del término.
+Es decir, que captura todos y sólo los casos que constituyen la aplicación del término "saber".
 
-<!--- Poner conocimiento no inferencial --->
+Gettier utiliza para sus contraejemplos dos casos de inferencia defectuosa.
+Pero incluso podemos generar casos para el conocimiento no inferencial, como mi falta de atención en el autobús.
 
-Si bien las condiciones no son conjuntamente suficientes, esto no señala un problema con que dichas condiciones sean necesarias.
+La literatura posterior a Gettier trató de agregar condiciones que excluyeran  estos casos [@zagzebskiInescapabilityGettierProblems1994].
+Y si bien las condiciones no son conjuntamente suficientes, esto no señala un problema con que dichas condiciones sean necesarias.
+
 En particular quiero señalar que, en principio, aceptamos que la verdad es una condición necesaria para saber algo.
 Si sabes que hay un gato sobre la alfombra, entonces hay un gato sobre la alfombra.
 El conocimiento tiene una estrecha conexión con la verdad.
@@ -369,6 +413,7 @@ Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafís
 Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.
 Pero sabemos, gracias a muchos casos históricos, que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas.
 Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
+[11]: Me encantaría decir que este ejemplo es original, pero está inspirado en la discusión de Davidson en "A nice derangement of epitaphs" [-@davidsonNiceDerangementEpitaphs1986]. Por supuesto, la discusión en este artículo es sobre fallos en composicionalidad lingüística. Pero me parece que podemos extraer una moraleja para el tema de la comprensión epistémica.
 [^2]: Por supuesto, el argumento más general para esto es la llamada meta-inducción pesimista [@Laudan1981].
 [^4]: Utilizo el concepto de ‘empresas epistémicas’ como algo muy general y no bien definido. El concepto puede ser usado para describir tanto a la investigación científica, como a la curiosidad de un niño que está aprendiendo a sumar.
 [^5]: No es claro exactamente cuál es la sugerencia platónica. Williamson [-@Williamson2002] sugiere que el conocimiento es más estable que la creencia verdadera frente a nueva evidencia. Por utilizar un tecnicismo, los derrotadores para la creencia forman un conjunto de cardinalidad mayor que los derrotadores para el conocimiento.
