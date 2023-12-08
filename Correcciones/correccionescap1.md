@@ -1,29 +1,6 @@
 ---
-corrections: true
-css:
-    - corrections.css 
-lang: es
-citeproc: true
-metadata:
-    bibliography: ~/Archivos/Notas/tesisdocto/Tesis/tesisdocto.bib
-    csl: apa-6th-edition.csl
 title: Capítulo 1
 author: Oscar Abraham Olivetti Alvarez
-output: 
-    table-of-contents: true
-    pdf_document: 
-    header-includes:
-        - \usepackage{todonotes}
----
-
-
-* [El problema del valor](#el-problema-del-valor)
-* [La receta Gettier](#la-receta-gettier)
-* [Problemas con el valor de la verdad](#problemas-con-el-valor-de-la-verdad)
-* [Pritchard contra VI y PD](#pritchard-contra-vi-y-pd)
-  * [Desfase: teoría de las virtudes epistémicas](#desfase:-teoría-de-las-virtudes-epistémicas)
-* [Solución de Pritchard](#solución-de-pritchard)
-
 ---
 
 
@@ -451,10 +428,10 @@ Sabemos, por ejemplo, que para que haya una combustión se necesita combustible 
 Si cualquiera de estos factores está ausente, entonces no hay combustión.
 Esto es una explicación del fenomeno de la combustión, sabemos que es una buena explicación que involucra muchos casos particulares de el mismo proceso: la combustión interna, que no seamos capaces de encender una fogata bajo el agua; que cuando la combustión agota el oxígeno a su alrededor, se apaga, etc.
 
-Por supuesto, una explicación que utilice información falsa no es una buena explicación. 
+Por supuesto, una explicación que utilice información falsa no es una buena explicación[^exp]. 
 Consideremos, por ejemplo, que tiro mi taza de café al piso.
 Y que explico esto con base en señalar (falsamente) que justo antes de que mi brazo golpeara la taza, el viento la empujo y fue esta la razón por la que cayó al piso.
-Esto, por supuesto, es una mala explicación.
+Esto es una mala explicación.
 A lo menos es una mentira para evadir culpabilidad, pero es incorrecta en muchos sentidos.
 Alguien que haya escuchado lo que dije puede preguntar por el peso de la taza y la velocidad del viento.
 Fenómenos que sin las condiciones adecuadas, no pueden tirar una taza.
@@ -487,47 +464,257 @@ Si el movimiento entre los puntos se da en intervalos iguales de tiempo, entonce
 Como señala Freudenthal "The distinction between 'rest' and 'uniform motion' implies, however, an absolutely resting frame of reference, and this can only be absolute space'' [@freudenthalNewtonJustificationTheory1986].
 El movimiento en el espacio absoluto no puede ser percibido, mientras que las posiciones relativas entre los cuerpos sí.
 
-Darwin también 
+La mecánica newtoniana explica el movimiento de los cuerpos con masa. 
+La selección natural explica los cambios y las diferencias entre los del planeta. 
+Darwin fue quien desarrolló la idea de la selección natural. 
+Si bien, antes de la teoría de la selección natural, ya había intentos por explicar cómo se modifican los organismo, Darwin presentó un mecanismo mediante el cuál esto sucede.
+
+Darwin no fue el primero en formular la diea de que los organismos se modifican durante el transcurso del tiempo.
+Lamarck tenía una teoría de que los organismos se transforman.
+La idea de Lamarck era que el "uso y desuso" de ciertos rasgos de los organismos, los hacía adaptarse mejor a su ambiente.
+Pero Lamarck creía que las especies se generaban espontáneamente y luego se adaptaban a su ambiente. 
+Fue Darwin quien tuvo la idea del mecanismo de la selección natural.
+
+Darwin fue un personaje interesante, hizo un viaje en barco para recabar información acerca de las corrientes, información meteorológica y la profundidad del mar [allenHistoryEvolutionaryThought2014].
+Darwin originalmente estaba convencido del transformacionismo lamarckiano, pero durante el viaje modificó sus creencias al descubrir evidencia fósil y patrones idénticos en diferentes regiones geográficas. 
+Al regresar a Inglaterra, comenzó e ditar el libro que después se publicaría bajo el nombre "El origen de las especies".
+
+A grandes rasgos, la teoría de la selección natural de Darwin la podemos formular de la siguiente manera:
+
+1. Hay variación entre los organismos de una población.
+2. La variación es heredable, por lo que la descendencia se parece más a los padres que otros organismos dentro de la misma población.
+3. Las variantes mejor adaptadas tienden a tener más descendencia que las otras.[^hull]
+
+Esto expica por qué los descendientes se parecen más a los padres que a otros organismos de la población, algo que le preocupaba a Buffon [-@buffonNaturalHistoryGeneral1885] y a otros naturalistas.
+Además, explica la variación de las especies a partir del mecanismo de la selección natural.
+Muchas dudas se sucitaron con respecto a la teoría, en particular, hay personas que dudan de que la teoría sea correcta porque la selección natural no puede "ser vista"
+
+### Problemas con las teorías
+
+Ambas teorías explican un amplia variedad de fenómenos naturales.
+Dada nuestra suposición inicial, es de esperarse que sean verdaderas.
+Sin embargo, esta última afirmación dista de ser obvia.
+
+Señalé que la teoría newtoniana sugiere la existencia de una entidad de la que no es claro que tengamos certeza de que existe: el espacio absoluto. 
+Algunos teóricos como Leibniz sugirieron que algo extraño estaba sucediendo en la física newtoniana: si sólo tenemos evidencia de los movimientos relativos y un cuerpo en el espacio absoluto no se mueve con respecto a nada, entonces no tenemos evidencia de que exista el espacio absoluto. 
+Newton en la _principia_ presenta dos experimentos mentales para señalar la existencia del espacio absoluto.
+Uno de ellos es en el cual señala que si atamos dos globos con un cordón y los hacemos rotar sobre su eje en direcciones contrarias, la cuerda se tensa.
+Si aceptamos que es verdad que la cuerda se tensa incluso en el espacio absoluto, entonces tenemos que aceptar que sí hay movimiento en el espacio absoluto, los globos se mueven con respecto a dicho marco, aunque estén en reposo uno respecto del otro [@newtonPrincipiaVolMotion1966 pp. 6-12].
+
+Leibniz no fue el único en sospechar de la teoría newtoniana. Físicos como Ernst Mach (véase especialmente el capítulo 2) [-@machScienceMechanics2013] señala que debido a que diferentes marcos de referencia inerciales tienen las mismas consecuencias empíricas que hablar de espacio absoluto, entonces no es necesario apelar a dicha entidad, algo que sabemos gracias a la relatividad galileana[^mach].
+Más aún, la teoría de la relatividad moderna, señala que donde Newton distinguía dos entidades, realmente sólo hay una: espacio-tiempo.
+Incluso en la teoría de la relatividad, no es necesario apelar al tiempo absoluto para dar explicaciones. 
+En la relatividad no hay un marco privilegiado y como consecuencia de la estructura del espacio-tiempo tenemos la dilatación temporal.
+
+La discusión anterior está relacionada sólo con el problema del tiempo y el espacio absoluto.
+No quisiera entrar en demasiado detalles de la teoría newtoniana (como la naturaleza de las fuerzas gravitacionales).
+Pero el ejemplo anterior sirve para ilustrar que hubo dudas sobre las entidades de la teoría newtoniana y que, más aun, sabemos que no existen.
+
+La teoría de la selección natural de Darwin tampoco está excenta de problemas.
+Primero que todo, sabemos que Darwin no sugirió cuál era el mecanismo segun el cual hay herencia de caracteres.
+Darwin creía, como también formuló Buffon, que la herencia de caracteres se daba a través de la sangre. 
+En ese momento, la teoría de la herencia mendeleiana no había sido revisada por Darwin. 
+Esta mezcla entre herencia medeleiana y selección natural, la hicieron los investigadores de la "síntesis moderna"[^sint]. [@dieguezVidaBajoEscrutinio2012, pp. 50] El anterior no es el único problema de la teoría evolutiva.
+Darwin pensaba que la selección natural es gradual y que va a un paso considerablemente lento [@lososWhatEvolution2014].
+
+Hablando de Darwin, ahora sabemos que hay periodos de estásis, esto es, periodos donde no hay cambio evolutivo durante largos periodos de tiempo.
+Sabemos, además, que la selección natural puede durar periodos cortos de tiempo, por ejemplo, en poblaciones de bacterias.
+
+Durante la síntesis moderna, tuvimos una mejor formulación de la teoría darwinista.
+Sin embargo, dada nueva evidencia, sabemos también que algunas afirmaciones de los investigadores de la síntesis moderna son erróneas. 
+El programa adaptacionista de Mayr fue debatido por Lewontin y Gould.
+Los adaptacionistas nos dicen que todos y cada uno de los rasgos de un organismo fueron seleccionados naturalmente.
+Gould y Lewontin tienen un artículo famoso acerca de por qué este programa es falso [@gouldSpandrelsSanMarco1979].
+Sabemos además que la herencia genética no es la única forma de selección natural.
+La plasticidad fenotípica y otras formas de herencia son evidencia en contra de la herencia genética [@ullerEvolutionaryCausationBiological2019]. 
+
+A partir de lo dicho aquí podemos obtener dos conclusiones.
+La primera de ellas es que ambas teorías son muy útiles.
+Nos permiten describir una amplia variedad de fenómenos. 
+La mecánica newtoniana permite explicar la aceleración en caída libre de cuerpos en la tierra, el movimiento de los cuerpos celestes e incluso nos permitió llegar a la luna [@nasaGravityMechanics]).
+Con la teoría de la selección natural de Darwin podemos explicar la variación de las especies, los cambios que han sufrido a lo largo del tiempo e incorporar especies bajo el mismo clado de manera que expliquemos las relaciones entre diferentes organismos.
+
+Sin embargo, teorías físicas más recientes niegan que haya _espacio absoluto_, incluso señalan que la distinción entre dos entidades: espacio y tiempo, no es la más adecuada para describir la estructura del mundo.
+Nueva evidencia recabada, nos ha mostrado que la teoría darwiniana no es correcta: hay un mecanismo para la herencia, la herencia no es sólo genética y el gradualismo de la teoría de Darwin es incorrecto.
+Dado esto, parece que podemos concluir que las teorías, tanto de Newton como de Darwin, son falsas.
+Lo que contradice nuestra suposición de que sólo las explicaciones verdaderas son genuinamente explicaciones, nuestra suposición es falsa.
+
+Pero a lo largo de este capítulo he tratado de defender que la verdad es el valor fundamental del conocimiento, aquello por lo que el conocimiento es valioso.
+La tesis veritista, entonces, está en serios problemas.
+
+Ambas conclusiones no pueden ser verdaderas: afirmar la tesis veritista (cuya consecuencia es que sólo las explicaciones verdaderas son útiles) y al mismo tiempo afirmar que teorías literalmente falsas son explicativas.
+Personalmente, creo que ambas afirmaciones son verdaderas. 
+Claramente hay una inconsistencia en afirmar ambas.
+Pero sabemos que si sospechamos que hay una inconsistencia: o bien hay que elegir sólo una afirmación, o bien no son afirmaciones exluyentes, o bien no son afirmaciones exhaustivas. 
+
+Creo que hasta ahora he dado razones a favor de ambas afirmaciones y no creo que ninguna de ellas sea falsa.
+No estoy seguro de que sean afirmaciones exhaustivas, pero confieso que no me parece que sean afirmaciones excluyentes.
+Lo que resta es decir por qué creo que no son afirmaciones excluyentes.
+En la siguiente sección trataré de dar razones para esto.
+
+## Promesas: veritismo, virtudes y explicaciones falsas
+
+Es ecesario dar razones a favor de cómo ambas conclusiones pueden ser compatibles.
+Si tomamos la segunda estrategia, hasta donde veo, tenemos dos opciones: o bien ambas teorías son verdaderas después de todo, o bien la verdad es fudamental para el conocimiento.
+
+Tomemos el segundo disyunto: que la verdad no es fundamental para para el conocimiento.
+El argumento que ofrece Pritchard, y que expusimos líneas arriba, señala que la verdad es el valor fundamental.
+Pero esto también es problemático para cualquier teoría en filosofía de la ciencia que se tome en serio que somos agentes falibles. El argumento de Laudan [-@laudanConfutationConvergentRealism1981] nos enseñó que las buenas explicaciones no están necesariamente conectadas a la verdad. 
+La teoría de Newton funciona, aunque no es claro que debamos asumir que es verdadera.
+
+Pero el marco que presenta Pritchard tiene la ventaja de resolver los problemas con los que comúnmente se embiste esta tesis.
+Pero este marco no tiene por qué restringir las explicaiones con teorías que no son literalmente verdaderas.
+Lo únicop necesario es que tengamos un "contacto cognitivo con la realidad".
+No es obvio lo que Pritchard quiere decir con esto, pero al menos, creo que podemos entenderlo con el supuesto de que las virtudes intelectuales de los agentes ofrecen dicho contacto.
+
+En general, justificar nuestras creencias es complicado, en particular, la investigación científica no es empresa fácil.
+Hay bastantes detalles que debemos en cuenta en el proceso de justificación de hipótesis, en especial cuando usamos modelos, leyes, teorías literalmente falsas para describir fenómenos. 
+
+La verdad sí es el valor fundamental del conocimiento. 
+Señalé que el mundo impone cierta fricción en nuestras creencias, el conocimiento es fáctico. 
+Es más, no creo que haya duda de que Newton y Darwin son agentes virtuosos, cuyo uso de virtudes intelectuales no los llevó a la verdad.
+Pero las virtudes epistémicas juegan un papel fundamental en la justificación de sus hipótesis.
+Ambos son personajes que se involucraron con sus teorías y que ofrecieron las mejores razones que tuvieron para justificar sus hipótesis.
+
+El conocimiento tiene como componente a la justificación y justificar hipótesis es un proceso dinámico. 
+Pero podemos afirmar que los agentes sabemos que algo es verdadero aún cuando no podamos afirmar con 100% de seguridad que no habrá nueva evidencia en contra de nuestras creencias.
+Lo que importa durante el proceso es el ejercicio de las virtudes intelectuales.
+
+Desde hace algunos años, los epistemólogos han tratado de modificar el objeto de estudio de la epistemología.
+En lugar de tratar de explicar el valor del conocimiento proposicional, han sugerido un cambio hacia el entendimiento. E
+ste cambio tiene algunas motivaciones: entre ellas está la falla del programa del análisis del conocimiento y la falta de una respuesta contundente para el escéptico. 
+
+El cambio que proponen aquellas filósofas que sugieren el cambio de conocimiento a entendimiento depende de que no juzgamos las proposiciones, sino que tenemos más objetos que somos capaces de juzgar: relaciones entre diferentes fenómenos, estructuras, pedazos de información, relaciones de dependencia, etc.
+
+Las epistemólogas que han transitado de un enfoque proposicional a uno que toma otro tipo de objetos, señalan también que tenemos más formas de juzgar creencias además de ser verdaderas o falsas. 
+Entre estas diferentes maneras de juzgar creencias tenemos: creencias justificadas, racionales, fiablemente formadas, virtuosamente formadas, etc. 
+Al mismo tiempo este enfoque no renuncia a la verdad como uno de los objetivos de nuestras empresas epistémicas \cite{Grimm2012-GRITVO-4}.
+
+Si bien las motivaciones para realizar este cambio responden a problemas puramente epistémicos, este cambio de enfoque nos permite incorporar el hecho de que el número de proposiciones no es lo único a lo que los investigadores deberían prestar atención.
+Somos agentes falibles que pueden tener entendimiento de un fenómeno, aun cuando no es claro que hemos llegado a proposiciones verdaderas.
+
+Esto indica que si bien nuestro objetivo en la investigación es la verdad, no es algo que podamos obtener tan fácilmente. 
+No parece que esto sea una afirmación problemática: somos agentes falibles y las herramientas que tenemos disponibles para justificar hipótesis no son perfectas. 
+Por ejemplo, una de las herramientas más utilizadas en investigación empírica es la estadística.
+Sabemos que un resultado estadístico no justifica al 100% una hipótesis. 
+
+Esto parecería ir en contra de nuestra intuición inicial: que el objetivo de la investigación científica es la verdad. 
+Pero como he señalado, la verdad es difícil de obtener: nuestras capacidades cognitivas y herramientas para justificar hipótesis no son perfectas.
+Aun así, nuestro problema es cómo obtener la verdad a pesar de nuestra falibilidad. 
+Que nuestros métodos sean falibles, no implica que no haya manera de obtener conocimiento.
+Tenemos maneras para modificar nuestras creencias con base en nueva evidencia.
+
+Si bien es verdad que somos agentes falibles, de esto no se sigue que debamos abandonar por completo nuestros compromisos veritistas. 
+En el libro citado anteriormente de Deborah Mayo, hay una frase que encaja muy bien con la teoría falibilista de Peter Klein [-@kleinHowGetCertain2019] que quiero presentar a continuación. 
+Mayo nos dice "We set sail with a simple tool: If little or nothing has been done to rule out flaws in inferring a claim, then it has not passed a severe test." [-@mayoStatisticalInferenceSevere2018, p. xii].
+
+Lo que señala Mayo es una intuición que sólo se puede descartar con razones de peso. 
+Como agentes en investigación, sabemos que somos falibles.
+Sabemos que nuestras creencias pueden ser falsas, pero también sabemos que al justificar creencias, deberíamos ser capaces de eliminar alternativas contrarias (derroteros) a nuestras creencias.
+
+La pregunta importante es cómo a pesar de nuestra falibilidad podemos obtener conocimiento. 
+Afortunadamente, Peter Klein [-@kleinHowGetCertain2019] ha desarrollado una teoría del conocimiento que encaja muy bien con lo que he señalado hasta ahora.
+
+De acuerdo con lo que Klein llama "infinitismo derrotable" [defeasible infinitism], los seres humanos somos agentes falibles.
+Pero valoramos el conocimiento, el "conocimiento de verdad". 
+Esto quiere decir: conocimiento para el que tenemos suficientes razones.
+
+El punto de Klein es que, como agentes, justificamos nuestras creencias con base en las mejores razonez disponibles.
+Si tenemos a nuestra disposición razones para sostener una creencia cualquiera $x$, y no tenemos a nuestra disposición una creencia $y$ que disminuya nuestra justificación de $x$, tenemos conocimiento certero.
+Si obtenemos nueva información $z$ que haga que dudemos de $x$ y nos haga retractarnos de nuestra creencia original, entonces hay que evaluar nuestra creencia a la luz de la nueva evidencia.
+
+Por ejemplo, supongamos que leemos un estudio que señala una fuerte correlación entre el omeparazol y problemas cardiacos.
+Luego descubrimos que el estudio está sesgado.
+En este caso dos opciones se abren ante nosotros: o bien retractamos nuestra creencia, o bien ofrecemos razones para señalar por qué no hay sesgo después de todo.
+Si somos capaces de dar razones de por qué no hay sesgo en el estudio, entonces tenemos conocimiento certero.
+
+Para que esta tesis sea plausible, Klein defiende su teoría en contra de lo que él llama "el riesgo de desconfirmación empírica".
+Este problema, señala Klein, embiste a las teorías epistémicas que afirman que una creencia debe tener una cadena causal adecuada.
+
+El argumento de Klein descansa en lo siguiente: supongamos que tenemos una creencia falsa causada por evidencia empírica.
+Al momento de corregir nuestra creencia con base en nueva evidencia empírica, no podemos estar seguro de si la nueva creencia modifica la cadena causal o es parte de la misma cadena.
+
+Una sugerencia es señalar que lo que hice fue corregir mi creencia.
+Pero la creencia formada por nueva evidencia tiene una historia causal completamente diferente a la anterior.
+No sé si ahora tengo dos creencias causalmente formadas, o una creencia causalmente revisada. 
+
+Siempre es difícil saber si hay una relación causal entre eventos (es necesario investigar empíricamente), más difícil aún saber si nuestras creencias fueron causadas por diferentes eventos o hemos modificado la cadena. 
+En palabras de Klein:
+
+   > I take that as a good prima facie reason for thinking that the diffrence between real knowledge and less paradigmatic forms of knowledge or ignorance depend on the quality of reasons for the belief, not the etiology of the belief. [-@kleinHowGetCertain2019, p~.403]
+
+
+Esto hace sentido del hecho de que tanto Newton como Darwin _entendían_ tenían conocimiento certero. 
+Esto es la calidad de sus razones era adecuada. 
+Lo cual indica que hay valor en las investigaciones que realizaron, aun cuando nueva información nos dice que estaban equivocados. 
+
+Siempre podemos encontrar derroteros para muchas de nuestras razones para sostener creencias.
+Nueva información hace que nos retractemos de nuestras creencias, a menos que podamos derrotar la información.
+En la época de Newton hubo investigadores que dudaron de la existencia del espacio absoluto.
+
+Ahora sabemos que podemos hacer mucho trabajo en física sin la necesidad de postular dicha entidad. 
+Pero Newton tenía buenas razones para sostener sus creencias, además la investigación racional opera de esa manera: desarrollamos teorías y nueva información es capaz de derrotar nuestras creencias. 
+A menos que tengamos razones para desechar esa nueva información, estamos justificados y tenemos conocimiento.
+
+Por supuesto, esto sólo indica que Newton tenía conocimiento, pero nosotros sabemos que la teoría es falsa.
+Me parece que esto no es problemático en absoluto.
+Como agentes preocupados por tener creencias justificadas, usamos modelos, abstracciones e idealizaciones para justificar dichas creencias.
+
+Estos métodos no reflejan de manera precisa los fenómenos.
+Pero son métodos que justifican lo suficiente como para decir que hay conocimiento.
+Lo que importa es que estemos conscientes de que no reflejan de manera precisa su objetivo y esto puede ser problemático.
+En estos métodos, ampliamente usados en investigación, fácilmente podemos cometer errores.
+Errores que pueden llevarnos a conclusiones equivocadas, pero que somos capaces de solventar.
+Pensemos por ejemplo en la definición de agente de la economía clásica y las diferentes maneras en la que los economistas han tratado de resolver.
+Esto no quiere decir que la economía clásica sea algo que deberíamos abandonar por completo, sólo que hay que ser cuidadosos y tener en cuenta los diferentes factores involucrados [@senRationalFoolsCritique1977].
+
+El problema es, me parece, como entendemos la naturaleza de la verdad y cómo estos métodos encajan con lo que he dicho hasta ahora.
+Quiero discutir estos temas en el siguiente capítulo porque, al final, me interesa discutir cómo la verdad juega un papel en nuestros modelos causales.
+
+## Conclusiones
+
+En este capítulo defendí la tesis veritista: que el conocimiento es valioso porque es verdadero.
+Presenté dos problemas que algunas filósofas señalan en contra de la tesis.
+A estos problemas, expuse las soluciones que ofrece Pritchard a favor del veritismo. 
+
+Sin embargo, no quedaba claro que si la verdad hace que el conocimiento sea valioso, cómo dicha tesis es compatible con casos de teorías que son literalmente falsas.
+Presenté dos casos históricos que son casos de éxito epistémico, pero no son teorías verdaderas. 
+Para hacer compatible la tesis veritista con estos casos, presenté la teoría de Klein que nos permite rescatar nuestras intuiciones originales: el veritismo y una teoría de la certeza basada en justificación falible.
+
+Quisiera terminar señalando dos cosas que restan por hacer. 
+Mi objetivo final es decir cómo los modelos causales sirven en la investigación, incluso cuando son abstracciones de los fenómenos que represenmtan.
+Creo que el marco presentado en este capítulo es útil para continuar argumentando que los compromisos que tienen los investigadores cuando utilizan modelos es menos problemático de lo que pudiera parecer a primera vista.
 
 
 
-Esto, por supuesto no significa que haya que echar a la basura ambas entidades, porque el espacio y tiempo absolutos juegan un papel en la explicación del movimiento.
-Además, dicha explicación recupera muchos de los fenómenos que buscamos explicar.
 
-
-
-Señalé que la teoría newtoniana sugiere la existencia de una entidad de la que no es claro que tengamos certeza de que existe. Algunos teóricos como Leibniz sugirieron que algo extraño estaba sucediendo en la física newtoniana: si sólo tenemos evidencia de los movimientos relativos y un cuerpo en el espacio absoluto no se mueve con respecto a nada, entonces no tenemos evidencia de que exista el espacio absoluto. Newton en la \textit{principia} presenta dos experimentos mentales para señalar la existencia del espacio absoluto. Uno de ellos es en el cual señala que si atamos dos globos con un cordón y los hacemos rotar sobre su eje en direcciones contrarias, la cuerda se tensa. Si aceptamos que es verdad que la cuerda se tensa incluso en el espacio absoluto, entonces tenemos que aceptar que sí hay movimiento en el espacio absoluto, los globos se mueven con respecto a dicho marco, aunque estén en reposo uno respecto del otro \cite[pp. 6-12]{book:360820}.
-
-Leibniz no fue el único en sospechar de la teoría newtoniana. Físicos como Ernst Mach (véase especialmente el capítulo 2) \citeyear{Mach2013} señala que debido a que diferentes marcos de referencia inerciales tienen las mismas consecuencias empíricas que hablar de espacio absoluto, entonces no es necesario apelar a dicha entidad, algo que sabemos gracias a la relatividad galileana\footnote{Por supuesto, Newton no hablaba de un marco privilegiado, sino que se refería al espacio absoluto como una entidad física. Pero lo que es importante notar es que podemos tener las mismas consecuencias sin apelar a dicha entidad.}.
-
-Más aún, la relatividad señala que donde Newton distinguía dos entidades, realmente sólo hay una: espacio-tiempo. Incluso en la teoría de la relatividad, no es necesario apelar al tiempo absoluto para dar explicaciones. En la relatividad no hay un marco privilegiado y como consecuencia de la estructura del espacio-tiempo tenemos la dilatación temporal.
-
-A partir de lo dicho aquí podemos obtener dos conclusiones. La primera de ellas es que la teoría de Newton es muy útil: nos permite describir una variedad de fenómenos desde la aceleración en caída libre de cuerpos en la tierra, hasta el movimiento de los cuerpos celestes (¡nos permitió incluso llegar a la luna!). Sin embargo, teorías físicas más recientes niegan que haya \textbf{espacio absoluto}, incluso señalan que la distinción entre dos entidades: espacio y tiempo, no es la más adecuada para describir la estructura del mundo. Por lo cual podemos concluir que la teoría de Newton es falsa. La segunda conclusión es que la verdad es una condición necesaria del conocimiento. Si no tuviéramos explicaciones verdaderas, simplemente no tenemos explicación.
-
-Aquí hay algo extraño: ¡ambas conclusiones no pueden ser verdaderas! Por lo que será necesario o bien dar un par de razones a favor de cómo ambas conclusiones pueden ser compatibles, o bien negar alguna de las conclusiones a las que hemos llegado. Si tomamos la segunda estrategia, dos opciones se abren ante nosotros: o bien la teoría newtoniana sí es verdadera después de todo, o bien la verdad no es una condición necesaria del conocimiento.
-
-Tomemos el segundo disyunto: que la verdad no es una condición necesaria para el conocimiento. El argumento que ofrece Pritchard, y que expusimos líneas arriba, señala que la verdad es una condición necesaria porque de otra manera no podríamos explicar muchas de nuestras metas cognitivas, su marco tiene la ventaja de resolver los problemas con los que comúnmente se embiste esta tesis. El primer problema que encuentro con este marco es la afirmación de que ``las virtudes epistémicas son aquellas que son constitutivas del conocimiento''. Pero tanto Pritchard como Sosa están de acuerdo\footnote{Por supuesto la tesis que señalan ambos no es exactamente la misma. Sosa afirma que el objetivo de nuestras empresas epistémicas es el conocimiento, mientras que Pritchard parece sugerir que la finalidad es la verdad adquirida por un agente virtuoso. Sin embargo, recordemos que ambos afirman que la verdad es una condición necesaria del conocimiento, que es lo que está en cuestión aquí.} es con que la verdad es una condición necesaria para el conocimiento. Al menos eso parece indicar la condición ``accurate'' de Sosa, suponiendo que el objetivo de nuestras ``empresas epistémicas'' es la verdad'\footnote{Por el momento estamos asumiendo que el objetivo de nuestras empresas epistémicas es la verdad. Creo que lo dicho hasta este punto me permite asumir esta tesis sin problemas. Sin embargo, creo que la investigación tiene un par de detalles que hay que tomar en cuenta, en especial cuando usamos modelos para describir fenómenos. Esto es algo que discutiré en los siguientes capítulos.}. 
-
-Lo anterior son razones para señalar que la verdad sí es una condición necesaria del conocimiento. Más aún, señalamos que el mundo impone cierta fricción en nuestras creencias, por lo que el conocimiento es fáctico. Además, no creo que haya duda de que Newton es un agente virtuoso, sin embargo, su uso de las virtudes no lo llevó a la verdad (que es una de las condiciones necesarias para el conocimiento). Si esto es verdad, entonces habría que negar que las virtudes epistémicas son constitutivas del conocimiento. Afortunadamente, el marco de virtudes de Sosa no es el único que tenemos disponible\todo{Si bien podemos negar que las virtudes epistémicas son constitutivas del conocimiento, el marco de Sosa no es el único marco de epistemología de la virtud. El trabajo de Zagzebski puede ayudar acá, Tengo que poner una breve descripción de esto.}
-
-Por supuesto, esto sólo es un problema para la teoría de las virtudes, y no para la tesis de que la verdad es una condición necesaria del conocimiento. Supongamos que la verdad es una condición necesaria del conocimiento y que el conocimiento es una condición necesaria para la ciencia. Entonces habría que señalar cómo a pesar de los problemas detectados, la teoría de Newton es verdadera a pesar de todo. Es decir, tomamos el otro disyunto. Pero esto también es problemático para cualquier teoría en filosofía de la ciencia que se tome en serio que somos agentes falibles. El argumento de Laudan \citeyear{Laudan1981} nos enseñó que las buenas explicaciones no están necesariamente conectadas a la verdad. La teoría de Newton funciona, aunque no es claro que debamos asumir que es verdadera.
-
-Ninguna de las conclusiones a la que nos llevan los disyuntos rescata las intuiciones con las que iniciamos. La otra salida es hacer que ambas tesis sean compatibles. Creo que puedo hacer eso. La siguiente sección estará dedicada a hacer compatibles que la verdad es una condición necesaria y que podemos estar equivocados, aún teniendo buenas explicaciones.
 
 
 
 
 [^1]: Dado el papel central que juega la verdad, el segundo capítulo de este trabajo estará dedicado a las teorías de la verdad.
+
 [^9]: En inglés "swamping problem". Decidí traducirlo como "problema del drenado", por la siguiente razón: los valores instrumentales consumen cualquier valor que asociemos a la verdad en el conocimiento. Esto en analogía con el artículo de Ned Block "¿se drenan hasta desaparecer los poderes causales?" [@blockSeDrenanHasta2013]
-[^10]: En términos muy generales, los realistas científicos señalan que hay que entender literalmente las oraciones afirmadas por las teorías científicas.
-Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos.
-Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.
-Pero sabemos, gracias a muchos casos históricos, que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas.
-Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
+
+[^10]: En términos muy generales, los realistas científicos señalan que hay que entender literalmente las oraciones afirmadas por las teorías científicas. Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos. Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.Pero sabemos, gracias a muchos casos históricos, que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas. Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
+
 [11]: Me encantaría decir que este ejemplo es original, pero está inspirado en la discusión de Davidson en "A nice derangement of epitaphs" [-@davidsonNiceDerangementEpitaphs1986]. Por supuesto, la discusión en este artículo es sobre fallos en composicionalidad lingüística. Pero me parece que podemos extraer una moraleja para el tema de la comprensión epistémica.
+
 [^2]: Por supuesto, el argumento más general para esto es la llamada meta-inducción pesimista [@Laudan1981].
+
 [^4]: Utilizo el concepto de ‘empresas epistémicas’ como algo muy general y no bien definido. El concepto puede ser usado para describir tanto a la investigación científica, como a la curiosidad de un niño que está aprendiendo a sumar.
+
 [^5]: No es claro exactamente cuál es la sugerencia platónica. Williamson [-@Williamson2002] sugiere que el conocimiento es más estable que la creencia verdadera frente a nueva evidencia. Por utilizar un tecnicismo, los derrotadores para la creencia forman un conjunto de cardinalidad mayor que los derrotadores para el conocimiento.
+
 [^6]: Caracterizar al conocimiento de manera tal que recuperemos todos y sólo los casos en los cuales podamos aplicar el término se conoce como el problema del análisis del conocimiento [@sep-knowledge-analysis]. 
 [^7]: "Con relación a las mismas cosas son, pues, el cobarde, el temerario y el valiente, pero se conducen diferentemente a su respecto. Aquéllos pecan por exceso y por defecto, en tanto que éste guarda el medio y el deber." [@aristotelesnico], especialmente los capítulos 2-8 del libro III. 
+
 [^8]: Es controvertido señalar exactamente cuál es el _telos_ de nuestras empresas epistémicas. En particular el fin de la investigación o de la indagación. Varios candidatos entran en esta canasta: la verdad, la comprensión, etc. Por ahora dejaré de lado este problema, pero el trabajo de Friedman puede ofrecer una respuesta para esto.
+
+[^hull]: Estos tres puntos son una ligera modificación de los puntos que presenta Peter Godfrey-Smith en su libro "Philosophy of Biology" [-@smithPhilosophyBiology2014, p. 30]. El lector puede encontrar una formulación parecida en [@lloydStructureConfirmationEvolutionary1988]. Originalmente esta formulación se la debemos a Lewontin [-@doi:10.1146/annurev.es.01.110170.000245].
+
+[^exp]: Por el momento esto es una suposición, hay literatura que afirma la tesis contraria. Diré un poco más sobre esto en la sección final del capítulo y en el capítulo siguiente.
+
+[^mach]: Por supuesto, Newton no hablaba de un marco privilegiado, sino que se refería al espacio absoluto como una entidad física. Pero lo que es importante notar es que podemos tener las mismas consecuencias sin apelar a dicha entidad.
+
+[^sint]: La síntesis moderna es un periodo de la historia de la teoría evolutiva que se desarrolló al principio del siglo XX. Los biólogos de este periodo incorporaron la genética mendeleiana a la teoría de la selección de Darwin. 
