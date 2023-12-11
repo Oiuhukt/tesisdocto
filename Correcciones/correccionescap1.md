@@ -342,7 +342,7 @@ Sin embargo, sin darse cuenta, hay un error en los datos recabados, digamos que 
 
 El ejemplo anterior pretende ilustrar un caso en el que ambos tipos de virtudes contribuyen a evitar errores y obtener una creencia verdadera.
 Por lo que no es claro que haya una distinción de los diferentes tipos si para distinguirlos echamos mano de que las virtudes del fiabilista constituyen conocimiento, mientras que las virtudes del responsabilista son auxiliares [@sosaEpistemology2017, pp., 144].
-Greco [-@Greco2002-GREVIE] señala que, si bien es verdad que esto sólo parece un debate terminológico, hay casos interesantes en los que ambas teorías difieren.
+Greco [-@grecoVirtuesEpistemology2002] señala que, si bien es verdad que esto sólo parece un debate terminológico, hay casos interesantes en los que ambas teorías difieren.
 En particular, los marcos de virtudes responsabilistas han servido para debatir problemas que se alejan de la epistemología clásica, por ejemplo, las injusticias epistémicas.
 Pero en principio no son teorías excluyentes.
 
@@ -389,7 +389,7 @@ Si esto es verdad, entonces el veritismo sí puede distinguir entre la mera cree
 Resolviendo el problema con PD.
 
 Resolver VI sigue una estrategia parecida. 
-Una vez que nutrimos el veritismo con la teoría de las virtudes epistémicas, VI deja de ser probleḿatico.
+Una vez que nutrimos el veritismo con la teoría de las virtudes epistémicas, VI deja de ser problemático.
 Como agentes virtuosos, queremos no sólo que nuestro conocimiento sea certero, sino además que el proceso para llegar a la verdad sea fiable.
 En particular que esté guiado por características virtuosas de un agente.
 Un agente virtuoso puede sopesar entre dos verdades: una irrelevante, la otra de más peso.
@@ -407,7 +407,7 @@ Regularmente evaluamos teorías científicas si nos permiten explicar fenómenos
 Las explicaciones de los fenómenos tienen que ser correctas para contar como una buena explicación.
 Sin embargo, la historia de la ciencia 
 
-Creo con convicción que el objetivo de la indagación, en contextos de investigación, es obtener conocimiento. Esto implica obtener verdades. ¿habrá que decir algo respecto a esto? --->
+Creo con convicción que el objetivo de la indagación, en contextos de investigación, es obtener conocimiento. Esto implica obtener verdades.
 
 ## Veristismo en problemas: dos casos históricos
 
@@ -660,7 +660,7 @@ Por supuesto, esto sólo indica que Newton tenía conocimiento, pero nosotros sa
 Me parece que esto no es problemático en absoluto.
 Como agentes preocupados por tener creencias justificadas, usamos modelos, abstracciones e idealizaciones para justificar dichas creencias.
 
-Estos métodos no reflejan de manera precisa los fenómenos.
+Estos métodos no reflejan de manera precisa los fenómenos [@bokulichFictionVehicleTruth2016].
 Pero son métodos que justifican lo suficiente como para decir que hay conocimiento.
 Lo que importa es que estemos conscientes de que no reflejan de manera precisa su objetivo y esto puede ser problemático.
 En estos métodos, ampliamente usados en investigación, fácilmente podemos cometer errores.
@@ -698,20 +698,20 @@ Creo que el marco presentado en este capítulo es útil para continuar argumenta
 
 [^10]: En términos muy generales, los realistas científicos señalan que hay que entender literalmente las oraciones afirmadas por las teorías científicas. Esta tesis se divide en varios compromisos: epistémicos, semánticos y metafísicos. Por ahora sólo voy a formular la tesis epistémica, que es lo que me concierne en este capítulo: un realista científico está comprometido con que nuestras mejores teorías científicas son descripciones exactas del mundo.Pero sabemos, gracias a muchos casos históricos, que las mejores teorías del pasado han sido revisadas, corregidas y —en algunos casos— descartadas. Es clara la tensión que hay entre el realismo científico, el compromiso del realista con la verdad y los múltiples casos históricos.
 
-[11]: Me encantaría decir que este ejemplo es original, pero está inspirado en la discusión de Davidson en "A nice derangement of epitaphs" [-@davidsonNiceDerangementEpitaphs1986]. Por supuesto, la discusión en este artículo es sobre fallos en composicionalidad lingüística. Pero me parece que podemos extraer una moraleja para el tema de la comprensión epistémica.
+[^11]: Me encantaría decir que este ejemplo es original, pero está inspirado en la discusión de Davidson en "A nice derangement of epitaphs" [-@davidsonNiceDerangementEpitaphs1986]. Por supuesto, la discusión en este artículo es sobre fallos en composicionalidad lingüística. Pero me parece que podemos extraer una moraleja para el tema de la comprensión epistémica.
 
-[^2]: Por supuesto, el argumento más general para esto es la llamada meta-inducción pesimista [@Laudan1981].
+[^2]: Por supuesto, el argumento más general para esto es la llamada meta-inducción pesimista [@laudanConfutationConvergentRealism1981].
 
 [^4]: Utilizo el concepto de ‘empresas epistémicas’ como algo muy general y no bien definido. El concepto puede ser usado para describir tanto a la investigación científica, como a la curiosidad de un niño que está aprendiendo a sumar.
 
-[^5]: No es claro exactamente cuál es la sugerencia platónica. Williamson [-@Williamson2002] sugiere que el conocimiento es más estable que la creencia verdadera frente a nueva evidencia. Por utilizar un tecnicismo, los derrotadores para la creencia forman un conjunto de cardinalidad mayor que los derrotadores para el conocimiento.
+[^5]: No es claro exactamente cuál es la sugerencia platónica. Williamson [-@williamsonKnowledgeItsLimits2002] sugiere que el conocimiento es más estable que la creencia verdadera frente a nueva evidencia. Por utilizar un tecnicismo, los derrotadores para la creencia forman un conjunto de cardinalidad mayor que los derrotadores para el conocimiento.
 
-[^6]: Caracterizar al conocimiento de manera tal que recuperemos todos y sólo los casos en los cuales podamos aplicar el término se conoce como el problema del análisis del conocimiento [@sep-knowledge-analysis]. 
-[^7]: "Con relación a las mismas cosas son, pues, el cobarde, el temerario y el valiente, pero se conducen diferentemente a su respecto. Aquéllos pecan por exceso y por defecto, en tanto que éste guarda el medio y el deber." [@aristotelesnico], especialmente los capítulos 2-8 del libro III. 
+[^6]: Caracterizar al conocimiento de manera tal que recuperemos todos y sólo los casos en los cuales podamos aplicar el término se conoce como el problema del análisis del conocimiento [@ichikawaAnalysisKnowledge2018]. 
+[^7]: "Con relación a las mismas cosas son, pues, el cobarde, el temerario y el valiente, pero se conducen diferentemente a su respecto. Aquéllos pecan por exceso y por defecto, en tanto que éste guarda el medio y el deber." [@aristotelesEticaNicomaquea2012], especialmente los capítulos 2-8 del libro III. 
 
 [^8]: Es controvertido señalar exactamente cuál es el _telos_ de nuestras empresas epistémicas. En particular el fin de la investigación o de la indagación. Varios candidatos entran en esta canasta: la verdad, la comprensión, etc. Por ahora dejaré de lado este problema, pero el trabajo de Friedman puede ofrecer una respuesta para esto.
 
-[^hull]: Estos tres puntos son una ligera modificación de los puntos que presenta Peter Godfrey-Smith en su libro "Philosophy of Biology" [-@smithPhilosophyBiology2014, p. 30]. El lector puede encontrar una formulación parecida en [@lloydStructureConfirmationEvolutionary1988]. Originalmente esta formulación se la debemos a Lewontin [-@doi:10.1146/annurev.es.01.110170.000245].
+[^hull]: Estos tres puntos son una ligera modificación de los puntos que presenta Peter Godfrey-Smith en su libro "Philosophy of Biology" [-@godfrey-smithPhilosophyBiology2014, p. 30]. El lector puede encontrar una formulación parecida en [@lloydStructureConfirmationEvolutionary1988]. Originalmente esta formulación se la debemos a Lewontin [-@doi:10.1146/annurev.es.01.110170.000245].
 
 [^exp]: Por el momento esto es una suposición, hay literatura que afirma la tesis contraria. Diré un poco más sobre esto en la sección final del capítulo y en el capítulo siguiente.
 
