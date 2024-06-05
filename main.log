@@ -1,0 +1,51 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.6.4)  4 JUN 2024 22:12
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2024-06-01>
+L3 programming layer <2024-05-08>
+(./tufte-book.cls
+Document Class: tufte-book 2015/06/30 v3.5.3 Tufte-book class
+(./tufte-common.def
+File: tufte-common.def 2015/06/21 v3.5.2 Common code for the Tufte-LaTeX styles
+
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count194
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+! LaTeX Error: File `xifthen.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: X
+
+! Emergency stop.
+<read *> 
+         
+l.14 
+     
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 269 strings out of 475051
+ 4322 string characters out of 5763930
+ 1925890 words of memory out of 5000000
+ 23014 multiletter control sequences out of 15000+600000
+ 558069 words of font info for 36 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 48i,0n,54p,182b,22s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
