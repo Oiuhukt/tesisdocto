@@ -4,8 +4,10 @@
 % https://jflamant.github.io/ Ph.D. thesis
 % https://guilgautier.github.io/ Ph.D. thesis
 
-\documentclass[letterpaper, twoside, table, justified,
-               nofonts, nobib, nohyper]{tufte-book}
+\documentclass[letterpaper, twoside, table, justified, nofonts, nobib, nohyper]{tufte-book}
+
+
+\usepackage{soul}
 
 % Book metadata
 \title{Title}
@@ -19,7 +21,7 @@
 
 %\input{input_files/acronyms_and_glossary}  % must be imported in preamble %movido a posopts
 
-% The bibliography is managed with biblatex
+% The bibliography is managed with biblatexmain.tex
 \addbibresource{bibliography.bib}
 
 \usepackage{fontawesome}
@@ -73,7 +75,7 @@
 %\input{input_files/acknowledgements} %movido a posopts, es decir, posibles opciones
 
 \begin{fullwidth}
-    \tableofcontents
+	\tableofcontents
 \end{fullwidth}
 
 %\listoffigures
@@ -111,17 +113,17 @@
 
 \input{input_files/conclusion}
 
-%\begin{fullwidth}
-%    \printbibliography[heading=bibintoc]
-%\end{fullwidth} %04 de junio del 2024. Creo que esta madre no copila porque la base de datos .bib es muy grande.
+\begin{fullwidth}
+	\printbibliography[heading=bibintoc]
+\end{fullwidth} %04 de junio del 2024. Creo que esta madre no copila porque la base de datos .bib es muy grande.
 
 \begin{fullwidth}
-    \printindex
+	\printindex
 \end{fullwidth}
 
 %\begin{fullwidth}
- %   \printglossary[type=\acronymtype]
- %   \printglossary
+%   \printglossary[type=\acronymtype]
+%   \printglossary
 %\end{fullwidth} %movido a posopts. "Movido" es un anglicismo? no tengo una mejor palabra en español para esto.
 
 %\input{input_files/abstract} %Movido a posopts, o sea, posibles opciones
