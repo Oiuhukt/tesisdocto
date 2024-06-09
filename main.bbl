@@ -118,6 +118,34 @@
       \field{title}{Ética Nicomaquea}
       \field{year}{2012}
     \endentry
+    \entry{Bentley2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=7f40c6b3d380369bfc12711847a38b47}{%
+           family={Bentley},
+           familyi={B\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{fullhash}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{fullhashraw}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{bibnamehash}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{authorbibnamehash}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{authornamehash}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{authorfullhash}{7f40c6b3d380369bfc12711847a38b47}
+      \strng{authorfullhashraw}{7f40c6b3d380369bfc12711847a38b47}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Logical Empiricism and Naturalism: Neurath and Carnap?s Metatheory of Science}
+      \field{year}{2023}
+    \endentry
     \entry{blasjo2022}{article}{}{}
       \name{author}{1}{}{%
         {{hash=b9e19e1efa82ccd9b843e65f73c91ae7}{%
@@ -593,6 +621,138 @@
       \verb 10.1007/978-94-009-4500-5_2
       \endverb
     \endentry
+    \entry{Freudenthal2009}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=b87e48abf6e749b5aecc747916e54d66}{%
+           family={Freudenthal},
+           familyi={F\bibinitperiod},
+           given={Gideon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10c056d5ca844620d5f79a3a49b5dee2}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b87e48abf6e749b5aecc747916e54d66}{%
+           family={Freudenthal},
+           familyi={F\bibinitperiod},
+           given={Gideon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10c056d5ca844620d5f79a3a49b5dee2}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{fullhash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{fullhashraw}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{bibnamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{authorbibnamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{authornamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{authorfullhash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{authorfullhashraw}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorbibnamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editornamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorfullhash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorfullhashraw}{c8dcc91bde918d7a58a0082da67b3903}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781402096044}
+      \field{shorttitle}{Classical {Marxist} {Historiography} of {Science}}
+      \field{title}{Classical {Marxist} {Historiography} of {Science}: {The} {Hessen}-{Grossmann}-{Thesis}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-9604-4_1
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:Freudenthal2009.html:URL:https\://link.springer.com/content/pdf/10.1007%2F978-1-4020-9604-4_1.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4020-9604-4_1
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4020-9604-4_1
+      \endverb
+    \endentry
+    \entry{friedmana}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=7cbc05a37535463724c63ee26df47a93}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{fullhash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{fullhashraw}{7cbc05a37535463724c63ee26df47a93}
+      \strng{bibnamehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authorbibnamehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authornamehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authorfullhash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authorfullhashraw}{7cbc05a37535463724c63ee26df47a93}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zetetic {{Epistemology}}}
+      \field{year}{2020}
+    \endentry
+    \entry{friedman}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7cbc05a37535463724c63ee26df47a93}{%
+           family={Friedman},
+           familyi={F\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{fullhash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{fullhashraw}{7cbc05a37535463724c63ee26df47a93}
+      \strng{bibnamehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authorbibnamehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authornamehash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authorfullhash}{7cbc05a37535463724c63ee26df47a93}
+      \strng{authorfullhashraw}{7cbc05a37535463724c63ee26df47a93}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Philosophy and Phenomenological Research}
+      \field{title}{The {{Aim}} of {{Inquiry}}?}
+      \field{year}{2024}
+      \verb{doi}
+      \verb 10.1111/phpr.12982
+      \endverb
+    \endentry
     \entry{Frigg2020}{book}{}{}
       \name{author}{2}{}{%
         {{hash=b904242ed2ff958dcef789f85b209779}{%
@@ -801,6 +961,140 @@
       \verb 10.1111/j.1747-9991.2011.00460.x
       \endverb
       \keyw{correccionescap1}
+    \endentry
+    \entry{Grossmann2009}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=48f5f658b1f972f7f6131437c09d4e53}{%
+           family={Grossmann},
+           familyi={G\bibinitperiod},
+           given={Henryk},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b87e48abf6e749b5aecc747916e54d66}{%
+           family={Freudenthal},
+           familyi={F\bibinitperiod},
+           given={Gideon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10c056d5ca844620d5f79a3a49b5dee2}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{fullhash}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{fullhashraw}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{bibnamehash}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{authorbibnamehash}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{authornamehash}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{authorfullhash}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{authorfullhashraw}{48f5f658b1f972f7f6131437c09d4e53}
+      \strng{editorbibnamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editornamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorfullhash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorfullhashraw}{c8dcc91bde918d7a58a0082da67b3903}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781402096044}
+      \field{title}{The {Social} {Foundations} of the {Mechanistic} {Philosophy} and {Manufacture}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-9604-4_3
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:Grossmann2009.html:URL:https\://link.springer.com/content/pdf/10.1007%2F978-1-4020-9604-4_3.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4020-9604-4_3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4020-9604-4_3
+      \endverb
+    \endentry
+    \entry{Hessen2009}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=5b660c750e21037c69bc2cd4522b684e}{%
+           family={Hessen},
+           familyi={H\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b87e48abf6e749b5aecc747916e54d66}{%
+           family={Freudenthal},
+           familyi={F\bibinitperiod},
+           given={Gideon},
+           giveni={G\bibinitperiod}}}%
+        {{hash=10c056d5ca844620d5f79a3a49b5dee2}{%
+           family={McLaughlin},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{fullhash}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{fullhashraw}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{bibnamehash}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{authorbibnamehash}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{authornamehash}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{authorfullhash}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{authorfullhashraw}{5b660c750e21037c69bc2cd4522b684e}
+      \strng{editorbibnamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editornamehash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorfullhash}{c8dcc91bde918d7a58a0082da67b3903}
+      \strng{editorfullhashraw}{c8dcc91bde918d7a58a0082da67b3903}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781402096044}
+      \field{title}{The {Social} and {Economic} {Roots} of {Newton}’s {Principia}}
+      \field{urlday}{7}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-1-4020-9604-4_2
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:Hessen2009.html:URL:https\://link.springer.com/content/pdf/10.1007%2F978-1-4020-9604-4_2.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4020-9604-4_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4020-9604-4_2
+      \endverb
     \endentry
     \entry{Hodgkin1951}{article}{}{}
       \name{author}{1}{}{%
@@ -1456,6 +1750,60 @@
       \verb 10.1017/9781107286184
       \endverb
     \endentry
+    \entry{Millstein2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=08c66196beaefb97485e0bfa508147d6}{%
+           family={Millstein},
+           familyi={M\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{fullhash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{fullhashraw}{08c66196beaefb97485e0bfa508147d6}
+      \strng{bibnamehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authorbibnamehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authornamehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authorfullhash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authorfullhashraw}{08c66196beaefb97485e0bfa508147d6}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Biology and Philosophy}
+      \field{title}{Are Random Drift and NAtural selection Conceptually Disctinct?}
+      \field{year}{2002}
+    \endentry
+    \entry{Millstein2006}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=08c66196beaefb97485e0bfa508147d6}{%
+           family={Millstein},
+           familyi={M\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{fullhash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{fullhashraw}{08c66196beaefb97485e0bfa508147d6}
+      \strng{bibnamehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authorbibnamehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authornamehash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authorfullhash}{08c66196beaefb97485e0bfa508147d6}
+      \strng{authorfullhashraw}{08c66196beaefb97485e0bfa508147d6}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{British Journal the Philosophy of science}
+      \field{title}{Natural Selection as a Population-Level Causal Process}
+      \field{year}{2006}
+    \endentry
     \entry{nasa}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=1f99771bc3e23e6097509a331544ab65}{%
@@ -1852,6 +2200,109 @@
       \verb 10.1007/978-3-031-17964-8_7
       \endverb
     \endentry
+    \entry{Richardson2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=bc213d2babe8be5c1ef8393ce6c3b327}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Alan\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{fullhash}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{fullhashraw}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{bibnamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{authorbibnamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{authornamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{authorfullhash}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \strng{authorfullhashraw}{bc213d2babe8be5c1ef8393ce6c3b327}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{isbn}{9781009471497 9781009471510 9781009471473}
+      \field{journaltitle}{Elements in the Philosophy of Science}
+      \field{title}{Logical {Empiricism} as {Scientific} {Philosophy}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/9781009471497
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
+      \endverb
+    \endentry
+    \entry{Riel2014}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d54fac7bc87839c84414246dd3ea8a14}{%
+           family={Riel},
+           familyi={R\bibinitperiod},
+           given={Raphael\bibnamedelima van},
+           giveni={R\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{fullhash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{fullhashraw}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{bibnamehash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{authorbibnamehash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{authornamehash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{authorfullhash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{authorfullhashraw}{d54fac7bc87839c84414246dd3ea8a14}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The {Concept} of {Reduction}}
+      \field{year}{2014}
+    \endentry
+    \entry{russelllogical}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3630f11c6a3b7c50a173f0f54f95c41f}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{fullhash}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{fullhashraw}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{bibnamehash}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{authorbibnamehash}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{authornamehash}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{authorfullhash}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \strng{authorfullhashraw}{3630f11c6a3b7c50a173f0f54f95c41f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Philosophical Issues}
+      \field{title}{Logical {{Nihilism}}: Could There Be No Logic?}
+      \field{year}{2018}
+    \endentry
     \entry{saatsi2010}{incollection}{}{}
       \name{author}{1}{}{%
         {{hash=b30d3f3e70967c999da48380d5e9015a}{%
@@ -1954,6 +2405,57 @@
       \field{title}{Epistemic {{Friction}}: {{An Essay}} on {{Knowledge}}, {{Truth}}, and {{Logic}}}
       \field{year}{2016}
     \endentry
+    \entry{Sosa1991}{incollection}{}{}
+      \name{editor}{1}{}{%
+        {{hash=93ccfe488a5fbcc8d3e35ca30e844673}{%
+           family={Sosa},
+           familyi={S\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{fullhash}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{fullhashraw}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{bibnamehash}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{editorbibnamehash}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{editornamehash}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{editorfullhash}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \strng{editorfullhashraw}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780521396431}
+      \field{series}{Cambridge {Studies} in {Philosophy}}
+      \field{shorttitle}{The raft and the pyramid}
+      \field{title}{The raft and the pyramid: coherence versus foundations in the theory of knowledge}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{1991}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9780511625299.011
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:Sosa1991.html:URL:https\://www.cambridge.org/core/services/aop-cambridge-core/content/view/9A57916C42969164B50746B12F06CFC8/9780511625299c10_p165-191_CBO.pdf/the-raft-and-the-pyramid-coherence-versus-foundations-in-the-theory-of-knowledge.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/books/knowledge-in-perspective/raft-and-the-pyramid-coherence-versus-foundations-in-the-theory-of-knowledge/9A57916C42969164B50746B12F06CFC8
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/books/knowledge-in-perspective/raft-and-the-pyramid-coherence-versus-foundations-in-the-theory-of-knowledge/9A57916C42969164B50746B12F06CFC8
+      \endverb
+    \endentry
     \entry{sosa2017}{book}{}{}
       \name{author}{1}{}{%
         {{hash=93ccfe488a5fbcc8d3e35ca30e844673}{%
@@ -1973,6 +2475,7 @@
       \strng{authornamehash}{93ccfe488a5fbcc8d3e35ca30e844673}
       \strng{authorfullhash}{93ccfe488a5fbcc8d3e35ca30e844673}
       \strng{authorfullhashraw}{93ccfe488a5fbcc8d3e35ca30e844673}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -2009,6 +2512,90 @@
       \field{labeltitlesource}{title}
       \field{title}{Mere {{Possibilities}}: {{Metaphysical Foundations}} of {{Modal Semantics}}}
       \field{year}{2012}
+    \endentry
+    \entry{suarez2004}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=2d38046d5183ca0a9859dc6a514033de}{%
+           family={Suárez},
+           familyi={S\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{fullhash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{fullhashraw}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{bibnamehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authorbibnamehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authornamehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authorfullhash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authorfullhashraw}{2d38046d5183ca0a9859dc6a514033de}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{0031-8248, 1539-767X}
+      \field{journaltitle}{Philosophy of Science}
+      \field{langid}{english}
+      \field{title}{An {{Inferential Conception}} of {{Scientific Representation}}}
+      \field{urlday}{24}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2004}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1086/421415
+      \endverb
+    \endentry
+    \entry{Suarez2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=2d38046d5183ca0a9859dc6a514033de}{%
+           family={Suárez},
+           familyi={S\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Chicago, IL}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{fullhash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{fullhashraw}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{bibnamehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authorbibnamehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authornamehash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authorfullhash}{2d38046d5183ca0a9859dc6a514033de}
+      \strng{authorfullhashraw}{2d38046d5183ca0a9859dc6a514033de}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9780226830049}
+      \field{shorttitle}{Inference and {Representation}}
+      \field{title}{Inference and {Representation}: {A} {Study} in {Modeling} {Science}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://press.uchicago.edu/ucp/books/book/chicago/I/bo207912978.html
+      \endverb
+      \verb{url}
+      \verb https://press.uchicago.edu/ucp/books/book/chicago/I/bo207912978.html
+      \endverb
+      \keyw{Representation,Modeling,19th century science,Modeling attitude,Artistic representation}
     \endentry
     \entry{uller2019}{book}{}{}
       \name{author}{2}{}{%
@@ -2172,6 +2759,74 @@
       \field{year}{2002}
       \verb{doi}
       \verb 10.1093/019925656X.001.0001
+      \endverb
+    \endentry
+    \entry{Yturbe1995}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=ec7de7818e15c1bbb4d024f73d57c583}{%
+           family={Yturbe},
+           familyi={Y\bibinitperiod},
+           given={Corina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f3b152b88b2a2f2a6c20dd01e3fe21ae}{%
+           family={Ramirez},
+           familyi={R\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod}}}%
+        {{hash=00f9b8f6bba99328965ebca80938477e}{%
+           family={Cohen},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{fullhash}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{fullhashraw}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{bibnamehash}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{authorbibnamehash}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{authornamehash}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{authorfullhash}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{authorfullhashraw}{ec7de7818e15c1bbb4d024f73d57c583}
+      \strng{editorbibnamehash}{c901f1605840964c350e66654182d95c}
+      \strng{editornamehash}{c901f1605840964c350e66654182d95c}
+      \strng{editorfullhash}{c901f1605840964c350e66654182d95c}
+      \strng{editorfullhashraw}{c901f1605840964c350e66654182d95c}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9789400901094}
+      \field{shorttitle}{The {History} of {Science}}
+      \field{title}{The {History} of {Science}: {Internal} or {External}?}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{year}{1995}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-94-009-0109-4_6
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:Yturbe1995 - The History of Science_ Internal or External_.html:URL:https\://link.springer.com/content/pdf/10.1007%2F978-94-009-0109-4_6.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-94-009-0109-4_6
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-94-009-0109-4_6
       \endverb
     \endentry
     \entry{yu2021}{inproceedings}{}{}

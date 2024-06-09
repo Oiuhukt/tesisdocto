@@ -4,13 +4,18 @@
 % https://jflamant.github.io/ Ph.D. thesis
 % https://guilgautier.github.io/ Ph.D. thesis
 
-\documentclass[letterpaper, twoside, table, justified, nofonts, nobib, nohyper]{tufte-book}
+\documentclass[letterpaper, 13pt, twoside, table, justified, 
+nofonts, nobib, nohyper]{tufte-book}
 
-
+\usepackage{xkeyval}
 \usepackage{soul}
+\usepackage{dirtytalk}
+\usepackage[spanish]{babel}
+%\usepackage{hyphenat}
+%\hyphenation{ex-ter-na-lis-ta preo-cu-pa-ban in-ves-ti-ga-do-res des-cu-bri-mien-to ac-ti-vi-dad his-tó-ri-cas in-ves-ti-ga-ción des-ha-cer-nos preo-cu-pa-ción ex-ter-nal in-ter-na-lis-tas Dis-covery his-tó-ri-cas un-der-stan-ding preo-cu-pa-ción}
 
 % Book metadata
-\title{Title}
+\title{¿Realmente importa?\\  {\LARGE Semántica de contrafácticos y el valor epistémico de la verdad}}
 \author[Oscar Abraham Olivetti Alvarez]{Oscar Abraham Olivetti Alvarez}
 \publisher{UNAM}
 
@@ -57,16 +62,20 @@
 \counterwithin{equation}{section}
 
 \usepackage{amsfonts, amssymb}
-
+\usepackage{url}
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The front matter contains title page, acknowledgements, toc, nomenclature and dedication
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\frontmatter
+%\frontmatter
 
+\frontmatter
 \maketitle
+
+\title{¿Realmente Importa?} % <========================================
+
 
 \setcounter{chapter}{-1}  % Start at Chapter 0 (Introduction)
 \setcounter{secnumdepth}{3}
@@ -91,6 +100,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \mainmatter
+
+\input{input_files/promesas.tex}
 
 \input{input_files/introduction}  % Chapter 0
 
