@@ -2,7 +2,7 @@
 
 Esto es del artículo de Corina Yturbe \cite{Yturbe1995}
 
-one of the philosophical theses in favor of the contraposition between the internalist approach and the externalist approach is the so-called doctrine ofthe two contexts, developed by positivism.
+one of the philosophical theses in favor of the contraposition between the internalist approach and the externalist approach is the so-called doctrine of the two contexts, developed by positivism.
 
 became the only aspect relevant to the history of science. The consideration of non-rational, external factors, according to this position, not only fails to increase our understanding of scientific development, but even obscures the fundamental question of the rational validation of scientific arguments. p.75
 
@@ -14,4 +14,27 @@ External factors are not only found in the context of discovery, they are presen
 
 This conception constitutes the dominant framework in which the philosophy of science has been developed, and consists in drawing a radlcal distinction between the context of discovery and the context of validation. p. 75
 
+# Esto es del de Hoyningen 15-07-2024
 
+# Esto es del de Reichenbach. 19-07-2024
+
+Thus a fictive definitive system of knowledge was made the basis of epistemological inquiry, with the result that the schematized character of this basis was soon forgotten, and the fictive construction was identified with the actual system. 
+It is one of the elementary laws of approximative procedure that the consequences drawn from a schematized conception do not hold outside the limits of the approximation; that in particular no consequences may be drawn from features belonging to the nature of the schematization only and not to the coordinated object.
+
+for many a purpose the number tt maybe sufficiently approximated by the value 22/7; to infer from this, however, that tt is a rational number is by no means permissible. Many of the inferences of traditional epistemology and of positivism as well, I must confess, do not appear much better to me. It is particularly the domain of the verifiability conception of meaning and of questions connected with it, such as the problem of the existence of external things, which has been overrun with paralogisms of this type.
+
+
+# Esto es de Philipp Frank
+
+In order to obtain a basis from which one can pronounce sound judgment about this situation, one should put the question: In what sense does science search for the "truth" about the universe? This "truth" certainly does not consist of "facts" but of general hypotheses or theories. 
+What we call "facts" in the strictly empirical sense, without any admixture of theory, are, in the last analysis, sense impressions between which no connection is given.
+Hence, the question of what we have to regard as the "truth" about the universe has to be formulated rather as follows: "What are the criteria under which we accept a hypothesis or a theory?" 
+If we put this or a similar question, we shall see soon that these criteria will contain, to a certain extent, the psychological and sociological characteristics of the scientist, because they are relevant for the acceptance of any doctrine. 
+In other words, the validation of "theories" cannot be separated neatly from the values which the scientist accepts. 
+This is true in all fields of science, over the whole spectrum ranging from geometry and mechanics to psychoanalysis.
+
+Obviously, fitnessto support a desirable conduct of citizens or, briefly,to support moral behavior, has served through the ages as a reason for acceptance of a theory. When the "scientific criterions" did not uniquely determine a theory, its fitness to support moral or political indoctrination became an important factor for its acceptance. 
+It is important to learn that the interpretationof a scientifictheoryas a support of moral rules is not
+a rare case but has played a role in all periods of history.
+
+* Esto es algo que claramente tienen en mente los autores de "Not in our genes". 
