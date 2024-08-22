@@ -4,19 +4,27 @@
 % https://jflamant.github.io/ Ph.D. thesis
 % https://guilgautier.github.io/ Ph.D. thesis
 
-\documentclass[b5paper, 12pt, twoside, table, justified, 
-nofonts, nobib, nohyper]{tufte-book}
+\documentclass[
+letterpaper, 
+twoside, 
+table, 
+justified, 
+nofonts, 
+nobib, 
+nohyper]{tufte-book}
 
+\usepackage{fontspec}
+\setmainfont{TeX Gyre Termes}
 \usepackage{xkeyval}
 \usepackage{soul}
 \usepackage{dirtytalk}
 \usepackage[spanish]{babel}
-%\usepackage{hyphenat}
+\usepackage{hyphenat}
 %\hyphenation{ex-ter-na-lis-ta preo-cu-pa-ban in-ves-ti-ga-do-res des-cu-bri-mien-to ac-ti-vi-dad his-tó-ri-cas in-ves-ti-ga-ción des-ha-cer-nos preo-cu-pa-ción ex-ter-nal in-ter-na-lis-tas Dis-covery his-tó-ri-cas un-der-stan-ding preo-cu-pa-ción}
 
 % Book metadata
 \title{¿Realmente importa?\\  {\LARGE Semántica de contrafácticos y el valor epistémico de la verdad}}
-\author[Oscar Abraham Olivetti Alvarez]{Oscar Abraham Olivetti Alvarez}
+\author{Oscar Abraham Olivetti Alvarez}
 \publisher{UNAM}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -63,18 +71,20 @@ nofonts, nobib, nohyper]{tufte-book}
 
 \usepackage{amsfonts, amssymb}
 \usepackage{url}
+
+
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The front matter contains title page, acknowledgements, toc, nomenclature and dedication
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 %\frontmatter
 
-\frontmatter
 \maketitle
 
-\title{¿Realmente Importa?} % <========================================
+%\title{¿Realmente Importa?} % <========================================
 
 
 \setcounter{chapter}{-1}  % Start at Chapter 0 (Introduction)
@@ -101,19 +111,19 @@ nofonts, nobib, nohyper]{tufte-book}
 
 \mainmatter
 
-\input{input_files/promesas.tex}
+%\input{input_files/promesas.tex}
 
-\input{input_files/introduction}  % Chapter 0
+\input{input_files/introduction.tex} %Chapter 0
 
-\input{input_files/chapter_1}
+%\input{input_files/chapter_1}
 
-\input{input_files/chapter_2}
+%\input{input_files/chapter_2}
 
-\input{input_files/chapter_3}
+%\input{input_files/chapter_3}
 
-\input{input_files/chapter_4}
+%\input{input_files/chapter_4}
 
-\input{input_files/chapter_5}
+%\input{input_files/chapter_5}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % The back matter contains unnumbered chapters

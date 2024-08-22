@@ -72,8 +72,24 @@ If we put this or a similar question, we shall see soon that these criteria will
 In other words, the validation of "theories" cannot be separated neatly from the values which the scientist accepts. 
 This is true in all fields of science, over the whole spectrum ranging from geometry and mechanics to psychoanalysis.
 
+
+sical conception, the aim of science is the discovery of an existing  'true' world, while according to the positivist, however, it is the  construction of a system of statements with the help of which we can  find our way in the world of our experiences. Planck finds fault with  the latter conception: the passion and readiness for sacrifice with  which men like Galileo have fought for their convictions could not be  understood if the matter had been merely purposeful, useful, constructions and not the discovery of truth.
+
+The events around Galileo make it clear that the passionate conflicts  connected with a physical theory have nothing to do with its suitability  to represent natural processes but much more with their relationships  to the political and social events of the time. Therefore there is no need  to amplify the positivist conception of science by a metaphysical  concept of truth but only by a more comprehensive study of the  connections that exist between the activity of the invention of theories  and the other normal human activities.
+
+
+. In this, I kept mainly to the formulations of Russian Marxists because the connection between theory and  political practice is closest in their case. (p. 15) the law of causality and its limits Fuck me
+
+arly years of its existence appears in Chapter III. Here we find the synthesis of positivism  and the new logic explicitly presented. It is also  interesting that since the rigorously logical formulation of the positivistic ideas, their connection with  American pragmatism has become clearly revealed; in  this essay this connection is distinctly emphasized.  
+
+
+In particular, Charles  W . Morris of Chicago recognized the connection  with American pragmatism and publicized the idea  of cooperation between the two groups. It was decided, for the purpose of this cooperation, to call a  special congress, for which the name "Congress for  the Unity of Science" was coined by Otto Neurath.  A preliminary conference in preparation for this congress took place in 1934 in Prague. C. W . Morris said  there: "The doctrine of the Vienna Circle is 'logical  positivism,' that of the American pragmatists is 'biological positivism'." For the result of the cooperation  of the two, Morris suggested the name "logical empiricism," which has been generally adopted in the  United States.
+
+
 Obviously, fitnessto support a desirable conduct of citizens or, briefly,to support moral behavior, has served through the ages as a reason for acceptance of a theory. When the "scientific criterions" did not uniquely determine a theory, its fitness to support moral or political indoctrination became an important factor for its acceptance. 
 It is important to learn that the interpretationof a scientifictheoryas a support of moral rules is not
 a rare case but has played a role in all periods of history.
+
+This book aims to treat all questions put in it without this opium  that is often called 'philosophy', by misuse of an honourable name.  Nowhere will we attempt to make unsettled questions appear as if they  were settled, by the use of dazzling turns of phrase; moreover,  nowhere will we attempt to avoid questions concerning the borders of  the area commonly called 'science', by shifting to another plane. Much  more, our object is to treat all problems that appear during the  operation of science with the same striving toward real solutions to  which one is accustomed within the fields called often with benign  condescension the 'special sciences'.
 
 * Esto es algo que claramente tienen en mente los autores de "Not in our genes". 
