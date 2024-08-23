@@ -2,7 +2,9 @@
 
 Esto es del artículo de Corina Yturbe \cite{Yturbe1995}
 
-oArchimedes was probably the first mathematician candid enough to explain that there is a difference between the way theorems are discovered and the way they are proved. ne of the philosophical theses in favor of the contraposition between the internalist approach and the externalist approach is the so-called doctrine of the two contexts, developed by positivism.
+oArchimedes was probably the first mathematician candid enough to explain that there is a difference between the way theorems are discovered and the way they are proved. 
+
+ne of the philosophical theses in favor of the contraposition between the internalist approach and the externalist approach is the so-called doctrine of the two contexts, developed by positivism.
 
 became the only aspect relevant to the history of science. The consideration of non-rational, external factors, according to this position, not only fails to increase our understanding of scientific development, but even obscures the fundamental question of the rational validation of scientific arguments. p.75
 
@@ -65,15 +67,21 @@ for many a purpose the number tt maybe sufficiently approximated by the value 22
 
 # Esto es de Philipp Frank
 
-In order to obtain a basis from which one can pronounce sound judgment about this situation, one should put the question: In what sense does science search for the "truth" about the universe? This "truth" certainly does not consist of "facts" but of general hypotheses or theories. 
+The final theory has to be in fair agreement with observations and also has to be sufficiently simple to be usable. If we consider this point, it is obvious that such a theory cannot be "the truth." In modern science, a theory is regarded as an instrument that serves toward some definite purpose. It has to be helpful in predicting future observable facts on the basis of facts that have been observed in the past and the present. It should also be helpful in the construction of machines and devices that can save us time and labor. A scientific theory is : in a sense, a tool that produces other tools according to a practical scheme. 
+
+In Corder to obtain a basis from which one can pronounce sound judgment about this situation, one should put the question: In what sense does science search for the "truth" about the universe? This "truth" certainly does not consist of "facts" but of general hypotheses or theories. 
+
 What we call "facts" in the strictly empirical sense, without any admixture of theory, are, in the last analysis, sense impressions between which no connection is given.
+
 Hence, the question of what we have to regard as the "truth" about the universe has to be formulated rather as follows: "What are the criteria under which we accept a hypothesis or a theory?" 
+
 If we put this or a similar question, we shall see soon that these criteria will contain, to a certain extent, the psychological and sociological characteristics of the scientist, because they are relevant for the acceptance of any doctrine. 
+
 In other words, the validation of "theories" cannot be separated neatly from the values which the scientist accepts. 
 This is true in all fields of science, over the whole spectrum ranging from geometry and mechanics to psychoanalysis.
 
 
-sical conception, the aim of science is the discovery of an existing  'true' world, while according to the positivist, however, it is the  construction of a system of statements with the help of which we can  find our way in the world of our experiences. Planck finds fault with  the latter conception: the passion and readiness for sacrifice with  which men like Galileo have fought for their convictions could not be  understood if the matter had been merely purposeful, useful, constructions and not the discovery of truth.
+sical conception, the aim of science is the discovery of an existing 'true' world, while according to the positivist, however, it is the  construction of a system of statements with the help of which we can  find our way in the world of our experiences. Planck finds fault with  the latter conception: the passion and readiness for sacrifice with  which men like Galileo have fought for their convictions could not be  understood if the matter had been merely purposeful, useful, constructions and not the discovery of truth.
 
 The events around Galileo make it clear that the passionate conflicts  connected with a physical theory have nothing to do with its suitability  to represent natural processes but much more with their relationships  to the political and social events of the time. Therefore there is no need  to amplify the positivist conception of science by a metaphysical  concept of truth but only by a more comprehensive study of the  connections that exist between the activity of the invention of theories  and the other normal human activities.
 
@@ -91,5 +99,12 @@ It is important to learn that the interpretationof a scientifictheoryas a suppor
 a rare case but has played a role in all periods of history.
 
 This book aims to treat all questions put in it without this opium  that is often called 'philosophy', by misuse of an honourable name.  Nowhere will we attempt to make unsettled questions appear as if they  were settled, by the use of dazzling turns of phrase; moreover,  nowhere will we attempt to avoid questions concerning the borders of  the area commonly called 'science', by shifting to another plane. Much  more, our object is to treat all problems that appear during the  operation of science with the same striving toward real solutions to  which one is accustomed within the fields called often with benign  condescension the 'special sciences'.
+
+. Nevertheless, many educators and political leaders were afraid that denial of the exceptional status of the celestial bodies in physical science would make it more difficult to teach the belief in the existence of spiritual beings as distinct from material bodies; and since it was their general conviction that the belief in spiritual beings is a powerful instrument to bring about a desirable conduct among citizens, a physical theory that supported this belief seemed to be highly desirable. 
+
+l these factors participate in the making of a scientific theory. We remember, however, that according to the opinion of the majority of active scientists, these extrascientific factors "should not" have any influence on the acceptance of a scientific theory. But who has claimed and who can claim that they "should not"?
+
+. Technological changes have to produce social changes that manifest themselves in changing human conduct. Everybody knows of the Industrial Revolution of the nineteenth century and the accompanying changes in human life from a rural into an urban patten^ Probably the rise of atomic power will produce analogous changaf in man's way of life.
+
 
 * Esto es algo que claramente tienen en mente los autores de "Not in our genes". 
