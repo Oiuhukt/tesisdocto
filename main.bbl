@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{abrams2023evolution}{book}{}{1}
+    \entry{abrams2023evolution}{book}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4b7afc2ad907ccfdd2b8c74899f1d22e}{%
            family={Abrams},
@@ -851,6 +851,98 @@
       \field{title}{The end of bias: A beginning: The science and practice of overcoming unconscious bias}
       \field{year}{2021}
     \endentry
+    \entry{Pearl2018}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
+           family={Pearl},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c0da54a393132c16f193163ede0465f}{%
+           family={Mackenzie},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{fullhash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{fullhashraw}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{bibnamehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authorbibnamehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authornamehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authorfullhash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authorfullhashraw}{0e261b286c760930d3ccdf103d6742f3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-465-09761-6}
+      \field{title}{The {{Book}} of {{Why}}: {{The New Science}} of {{Cause}} and {{Effect}}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
+      \endverb
+    \endentry
+    \entry{Pearl2016}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
+           family={Pearl},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44c29f217aaea0ac9e133beb5e3229cb}{%
+           family={Glymour},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a80cec263663e82a2336c37d792b6aea}{%
+           family={Jewell},
+           familyi={J\bibinitperiod},
+           given={N.P.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{c926a8308adfca1253f3fdd335f70b9d}
+      \strng{fullhash}{05da879308ce8a4056015abbc362608a}
+      \strng{fullhashraw}{05da879308ce8a4056015abbc362608a}
+      \strng{bibnamehash}{05da879308ce8a4056015abbc362608a}
+      \strng{authorbibnamehash}{05da879308ce8a4056015abbc362608a}
+      \strng{authornamehash}{c926a8308adfca1253f3fdd335f70b9d}
+      \strng{authorfullhash}{05da879308ce8a4056015abbc362608a}
+      \strng{authorfullhashraw}{05da879308ce8a4056015abbc362608a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781119186847}
+      \field{title}{Causal Inference in Statistics: A Primer}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
+      \endverb
+    \endentry
     \entry{Piccolino2013}{book}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ea7b065f9840ce5d6bdb0903c7c7acd7}{%
@@ -1174,6 +1266,61 @@
       \field{title}{The {Concept} of {Reduction}}
       \field{year}{2014}
     \endentry
+    \entry{sep-causal-explanation-science}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d75a1d860c0a9657e89e1353677cd6cc}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=47603970fcd579d567acd0cb66cdb242}{%
+           family={Nodelman},
+           familyi={N\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{e6946891f01298719291d746bd35b996}
+      \strng{fullhash}{e6946891f01298719291d746bd35b996}
+      \strng{fullhashraw}{e6946891f01298719291d746bd35b996}
+      \strng{bibnamehash}{e6946891f01298719291d746bd35b996}
+      \strng{authorbibnamehash}{e6946891f01298719291d746bd35b996}
+      \strng{authornamehash}{e6946891f01298719291d746bd35b996}
+      \strng{authorfullhash}{e6946891f01298719291d746bd35b996}
+      \strng{authorfullhashraw}{e6946891f01298719291d746bd35b996}
+      \strng{editorbibnamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{S}pring 2023}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2023/entries/causal-explanation-science/}}
+      \field{title}{{Causal Approaches to Scientific Explanation}}
+      \field{year}{2023}
+    \endentry
     \entry{Seo2015}{inbook}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=319cb35b1268ee2a63a473686383797e}{%
@@ -1468,7 +1615,89 @@
       \verb https://www.jstor.org/stable/20620065
       \endverb
     \endentry
-    \entry{sep-causation-mani}{inbook}{}{1}
+    \entry{Woodward2000-WOOEAI}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{bibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorbibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authornamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal for the Philosophy of Science}
+      \field{number}{2}
+      \field{title}{Explanation and Invariance in the Special Sciences}
+      \field{volume}{51}
+      \field{year}{2000}
+      \field{pages}{197\bibrangedash 254}
+      \range{pages}{58}
+      \verb{doi}
+      \verb 10.1093/bjps/51.2.197
+      \endverb
+    \endentry
+    \entry{Woodward2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{bibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorbibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authornamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book develops a manipulationist theory of causation and explanation: causal and explanatory relationships are relationships that are potentially exploitable for purposes of manipulation and control. The resulting theory is a species of counterfactual theory that (I claim) avoids the difficulties and counterexamples that have infected alternative accounts of causation and explanation, from the Deductive-Nomological model onwards. One of the key concepts in this theory is the notion of an intervention, which is an idealization of the notion of an experimental manipulation that is stripped of its anthropocentric elements. This notion is used to provide a characterization of causal relationships that is non-reductive but also not viciously circular. Relationships that correctly tell us how the value of one variable Y would change under interventions on a second variable Y are invariant. The notion of an invariant relationship is more helpful than the notion of a law of nature (the notion on which philosophers have traditionally relied) in understanding how explanation and causal attribution work in the special sciences.}
+      \field{isbn}{9780195155273}
+      \field{month}{01}
+      \field{title}{Making Things Happen: A Theory of Causal Explanation}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1093/0195155270.001.0001
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/0195155270.001.0001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/0195155270.001.0001
+      \endverb
+    \endentry
+    \entry{sep-causation-mani}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
            family={Woodward},
@@ -1504,6 +1733,7 @@
       \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{extraname}{3}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -1592,7 +1822,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{abrams2023evolution}{book}{}{1}
+    \entry{abrams2023evolution}{book}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4b7afc2ad907ccfdd2b8c74899f1d22e}{%
            family={Abrams},
@@ -2424,6 +2654,98 @@
       \field{title}{The end of bias: A beginning: The science and practice of overcoming unconscious bias}
       \field{year}{2021}
     \endentry
+    \entry{Pearl2016}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
+           family={Pearl},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44c29f217aaea0ac9e133beb5e3229cb}{%
+           family={Glymour},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a80cec263663e82a2336c37d792b6aea}{%
+           family={Jewell},
+           familyi={J\bibinitperiod},
+           given={N.P.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{c926a8308adfca1253f3fdd335f70b9d}
+      \strng{fullhash}{05da879308ce8a4056015abbc362608a}
+      \strng{fullhashraw}{05da879308ce8a4056015abbc362608a}
+      \strng{bibnamehash}{05da879308ce8a4056015abbc362608a}
+      \strng{authorbibnamehash}{05da879308ce8a4056015abbc362608a}
+      \strng{authornamehash}{c926a8308adfca1253f3fdd335f70b9d}
+      \strng{authorfullhash}{05da879308ce8a4056015abbc362608a}
+      \strng{authorfullhashraw}{05da879308ce8a4056015abbc362608a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781119186847}
+      \field{title}{Causal Inference in Statistics: A Primer}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
+      \endverb
+    \endentry
+    \entry{Pearl2018}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
+           family={Pearl},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c0da54a393132c16f193163ede0465f}{%
+           family={Mackenzie},
+           familyi={M\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{fullhash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{fullhashraw}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{bibnamehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authorbibnamehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authornamehash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authorfullhash}{0e261b286c760930d3ccdf103d6742f3}
+      \strng{authorfullhashraw}{0e261b286c760930d3ccdf103d6742f3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-465-09761-6}
+      \field{title}{The {{Book}} of {{Why}}: {{The New Science}} of {{Cause}} and {{Effect}}}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
+      \endverb
+    \endentry
     \entry{Piccolino2013}{book}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=ea7b065f9840ce5d6bdb0903c7c7acd7}{%
@@ -2747,6 +3069,61 @@
       \field{title}{The {Concept} of {Reduction}}
       \field{year}{2014}
     \endentry
+    \entry{sep-causal-explanation-science}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d75a1d860c0a9657e89e1353677cd6cc}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=47603970fcd579d567acd0cb66cdb242}{%
+           family={Nodelman},
+           familyi={N\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{e6946891f01298719291d746bd35b996}
+      \strng{fullhash}{e6946891f01298719291d746bd35b996}
+      \strng{fullhashraw}{e6946891f01298719291d746bd35b996}
+      \strng{bibnamehash}{e6946891f01298719291d746bd35b996}
+      \strng{authorbibnamehash}{e6946891f01298719291d746bd35b996}
+      \strng{authornamehash}{e6946891f01298719291d746bd35b996}
+      \strng{authorfullhash}{e6946891f01298719291d746bd35b996}
+      \strng{authorfullhashraw}{e6946891f01298719291d746bd35b996}
+      \strng{editorbibnamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{S}pring 2023}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2023/entries/causal-explanation-science/}}
+      \field{title}{{Causal Approaches to Scientific Explanation}}
+      \field{year}{2023}
+    \endentry
     \entry{Seo2015}{inbook}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=319cb35b1268ee2a63a473686383797e}{%
@@ -3041,7 +3418,89 @@
       \verb https://www.jstor.org/stable/20620065
       \endverb
     \endentry
-    \entry{sep-causation-mani}{inbook}{}{1}
+    \entry{Woodward2000-WOOEAI}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{bibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorbibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authornamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal for the Philosophy of Science}
+      \field{number}{2}
+      \field{title}{Explanation and Invariance in the Special Sciences}
+      \field{volume}{51}
+      \field{year}{2000}
+      \field{pages}{197\bibrangedash 254}
+      \range{pages}{58}
+      \verb{doi}
+      \verb 10.1093/bjps/51.2.197
+      \endverb
+    \endentry
+    \entry{Woodward2004}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{bibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorbibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authornamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book develops a manipulationist theory of causation and explanation: causal and explanatory relationships are relationships that are potentially exploitable for purposes of manipulation and control. The resulting theory is a species of counterfactual theory that (I claim) avoids the difficulties and counterexamples that have infected alternative accounts of causation and explanation, from the Deductive-Nomological model onwards. One of the key concepts in this theory is the notion of an intervention, which is an idealization of the notion of an experimental manipulation that is stripped of its anthropocentric elements. This notion is used to provide a characterization of causal relationships that is non-reductive but also not viciously circular. Relationships that correctly tell us how the value of one variable Y would change under interventions on a second variable Y are invariant. The notion of an invariant relationship is more helpful than the notion of a law of nature (the notion on which philosophers have traditionally relied) in understanding how explanation and causal attribution work in the special sciences.}
+      \field{isbn}{9780195155273}
+      \field{month}{01}
+      \field{title}{Making Things Happen: A Theory of Causal Explanation}
+      \field{year}{2004}
+      \verb{doi}
+      \verb 10.1093/0195155270.001.0001
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/0195155270.001.0001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/0195155270.001.0001
+      \endverb
+    \endentry
+    \entry{sep-causation-mani}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
            family={Woodward},
@@ -3077,6 +3536,7 @@
       \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{extraname}{3}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
       \field{extradatescope}{labelyear}
@@ -3164,6 +3624,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{Potochnik 2017}
   \missing{suárez emergence}
 \endrefsection
 \endinput
