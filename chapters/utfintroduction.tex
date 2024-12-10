@@ -1,0 +1,703 @@
+% !TEX root = ../main.tex
+% LTeX: language=es, en
+
+\chapter{Introducción}
+%\label{ch:introduction}
+
+\section{Una breve anécdota}
+
+\noindent El doctorado ha sido un largo viaje durante el cuál aprendí mucho. 
+Una parte considerable del aprendizaje está relacionado con la filosofía,\sidenote{
+	Juro que este breve relato tiene un punto. 
+	La otra parte de mi aprendizaje no está relacionado con filosofía, por tanto no aparecerá en el escrito.
+} 
+y la alta calidad del posgrado me permitió profundizar en los temas que me interesaban. 
+Quiero mencionar además, que mi interés en estos temas nació durante mi licenciatura. 
+Me interesé en filosofía de la ciencia porque tuve dos profesores tuve durante este periodo; ambos excelentes maestros y excelentes filósofos.
+
+Los temas que vimos durante sus clases fueron sumamente interesantes, pero mi atención la dirigí especialmente a los temas de la \emph{explicación científica} y la \emph{naturaleza de la causalidad}. 
+Mis intuiciones --todavía queda un resabio de esto-- señalaban que encontrar la causa de un fenómeno es la mejor manera de explicar por qué sucede ese fenómeno.
+
+Esta intuición no está muy alejada de algunas teorías de la
+explicación, por ejemplo, Potochnik señala que \say{[$\ldots$] I make the case that much of science is profitably understood as the search for causal patterns.} \parencite[][p.~24]{Potochnik2017-POTIAT-3} 
+No sólo eso, Potochnik también afirma que son las teorías \emph{manipulabilistas} \parencite{sep-causation-mani} de la causalidad las que mejor vinculan a la práctica de la investigación científica con la búsqueda de patrones causales. 
+
+\paragraph{Brevemente, las teorías \emph{manipulabilistas}\sidenote{
+	La siguiente caracterización está basada en \parencite{sep-causation-mani, sep-causal-explanation-science, Woodward2004, Woodward2000-WOOEAI}
+	} afirman} que dadas dos variables $A$ y $B$, decimos que $A$ \emph{causa} $B$ si al intervenir (manipular) la variable $A$, la variable $B$ cambia en consecuencia.
+Esto, por supuesto sólo es una parte de la historia de las teorías \emph{manipulabilistas}. 
+Si hay una función bien definida entre las variables, la tarea es ligeramente sencilla.
+Pensemos, por ejemplo, en una función cualquiera entre dos variables, digamos que la función está definida de la siguiente manera $f(x) = 2y$, donde $x \in \mathbb{N}$.
+Esto significa que si $x$ toma el $3$ como valor, la variable $y$ tendrá $6$ como valor.
+
+Supongamos que estos son los valores que puede tomar una medida de fuerza.
+Digamos que \emph{dos centímetros} de presión en un resorte producen \emph{cuatro metros} de distancia de un proyectil, \emph{independiente} de cualquier fuerza externa, por ejemplo, la fuerza del aire --insisto en que esto es sólo un caso para ejemplificar. 
+
+Esto significaría que la compresión del resorte \emph{causa} que el proyectil alcance más distancia. 
+Además es posible que la función definida anteriormente no sea correcta para algunos de los valores de $x$, por ejemplo, si el resorte sólo mide $8$ cm, llegará un momento en que el resorte esté completamente comprimido como para que más compresión haga una diferencia.
+
+El ejemplo anterior sirve para describir algunas de las características de la teoría \emph{manipulabilista.} 
+Que la función describa correctamente el comportamiento del proyectil, \emph{independiente} de otra fuerza, quiere decir que la compresión en el resorte es la única variable que afecta el traslado del proyectil. 
+
+Que la \emph{intervención} en el resorte cause que el proyectil llegue a mas distancia, \emph{independiente} de cualquier otra fuerza, significa que es posible hacer una intervención \say{quirúrgica} y que sólo haya ciertos valores que describen correctamente el comportamiento del proyectil, significa que es \emph{invariante} bajo un rango de intervenciones. 
+En esto, a grandes rasgos, consiste una teoría \emph{manipulabilista} de la causalidad.
+
+Hay otras características integran la teoría \emph{manipulabilista} de la causalidad.
+Quizás la más controversial de ellas es que la teoría hace uso de condicionales \emph{contrafácticos.} 
+Estos condicionales sirven para responder preguntas del tipo \say{¿qué huibiera sucedido si $x$ hubiera tomado un valor distinto al que tomó?}
+En investigación, se suele mencionar el uso de condicionales \emph{contrafácticos}, principalmente en inferencias causales. 
+
+Si tomamos en serio el trabajo que realizan las personas cuando hacen investigación, es claro que el uso de estas herramientas juega un papel central y, de manera particular, los modelos estadísticos hacen uso de condicionales \emph{contrafácticos.} 
+Los condicionales \emph{contrafácticos} son aquellos condicionales que evaluamos bajo el supuesto de que algo no sucede, pero que nos obligan a preguntarnos que pasaría si se cumplieran ciertas condiciones particulares. 
+Dicho de otro modo, nos preguntamos cómo sería el mundo si, por ejemplo, México no hubiera sido conquistado por los españoles. 
+
+Estos métodos sirven, sobre todo, cuando utilizamos modelos estadísticos para justificar hipótesis causales \parencite{Pearl2016, Pearl2018}.
+Un ejemplo de esto son las \emph{Pruebas Controladas Aleatorizadas} (RCT, por sus siglas en inglés), donde se interviene en una de las variables --típicamente un grupo
+de control al que se le da un placebo,-- mientras que otro grupo recibe el medicamento a testar.
+Este esperando que seamos capaces de detectar si el
+medicamento está jugando un papel causal. 
+Los condicionales contrafácticos encuentran su aplicación en estos contextos para \say{crear} un evento alterno.
+
+\paragraph{No voy a hacer una defensa} de la teoría \emph{manipulabilista} de la causalidad. 
+Eso lo hice en mi proyecto de maestría, en particular tratando de elucidar cómo esta teoría lidia con explicaciones causales en biología evolutiva --sea cual sea el éxito que haya tenido esta defensa,-- con
+mi proyecto actual quiero hacer claro cómo sabemos qué condicionales \emph{contrafácticos} son \say{verdaderos}.
+
+Parece que queda claro que herramientas estadísticas, en el contexto de las inferencias causales, echan mano de \emph{condicionales contrafácticos.}
+Además, son estos condicionales, los que nos permiten trazar relaciones causales según la teoría \emph{manipulabilista}
+
+Una motivación que se ha mencionado en la literatura para introducir métodos que nos permitan trazar relaciones causales es la llamada \say{paradoja de Simpson.}
+Esto no es estrictamente una paradoja, pero aparece cuando los datos se comportan de manera poco intuitiva. \parencite[p.~13]{Hajek2016-HAJOHO}
+Algunos autores han señalado que la solución radica en ser capaces de ofrecer un método para obtener relaciones causales a partir de datos estadísticos.
+
+Este tema --el de la explicación causal-- está fuertemente vinculado con el uso de herramientas y \emph{modelos} estadísticos en investigación.
+Mi propósito es hacer claro cómo funcionan dichos modelos y qué herramientas nos sirven para justificar que en efecto dos variables están causalmente relacionadas.
+Esto es importante, porque en muchos casos se suele decir que los \emph{modelos} usados en investigación, sea cual sea su uso, son \say{falsos} 
+
+
+\paragraph{Se suele señalar} que hay un sentido en el cuál los modelos son \say{falsos}, sentido que suele expresar como \say{[$\ldots$] models typically only hold \emph{approximately,} in some ranges of circumstances, and they liberally employ idealizations to accomplish this \emph{partial} fit.} \parencite[p.~18, énfasis agregado]{Potochnik2017-POTIAT-3}
+
+Potochnik también afirma que buena parte de la investigación se centra en ofrecer explicaciones causales y, más aún, afirma que una buena manera de
+lidiar con explicaciones causales en investigación científica es adoptando una teoría causal \emph{manipulabilista.} 
+Los argumentos de Potochnik que vinculan a la práctica de investigación con las teorías \emph{manipulabilistas}, dejan claro que hay una genuina preocupación sobre cómo de hecho se realiza investigación.
+
+Potochnik también defiende que el uso de modelos en investigación --y cualquier supuesto que imponga ciertas condiciones en el modelo-- surge de la necesidad de que seres con capacidades cognitivas limitadas queremos representar fenómenos naturales para aislar los factores causales bajo escrutinio. 
+Es importante poner énfasis en esto porque implica que los modelos se generan con ciertos objetivos en mente, o como ella misma señala \say{[$\ldots$] the nature of these idealizations is relative to the aim of research, as is most clearly demonstrated by the different idealizations involved in the various approaches to human aggression
+research.} 
+
+Mi investigación actual lidia con la afirmación de que los modelos son falsos. 
+Este no es un problema grave si la \say{verdad} no es una parte central de la investigación en cualquier área. 
+Pero si la investigación se propone \emph{justificar} hipótesis para obtener \emph{conocimiento} de relaciones causales reales, entonces tenemos un problema.
+¿Cómo los modelos, que no representan adecuadamente el fenómeno, pueden dar como resultado conocimiento?
+Si suponemos que el conocimiento es fáctico, entonces entramos en problemas.
+
+El problema, me parece, radica en cómo representamos adecuadamente un fenómeno. 
+Debo aclarar también cómo es que funciona la representación científica y cómo la adecuación parcial de modelos que usan contara fácticos, implica fenómenos fácticos.
+
+Mi hipótesis es que cierta forma de verdad debe estar involucrada en nuestra definición de \emph{conocimiento,} si es que queremos que las intervenciones en un sistema sean de alguna utilidad. 
+Por ejemplo, si el aumento del salario mínimo causa un aumento en el desempleo y qué condiciones juegan un papel causal en dicha relación.
+
+\paragraph{Regresando a la anécdota,} el hecho de que estos dos profesores buenos trabajaran filosofía de la
+ciencia --al menos lo que en ese momento creía que era la filosofía de la ciencia-- sesgó mis intereses a lo que hasta ahora ha sido mi trabajo.
+La influencia de estos dos profesores me hizo tomar la decisión de entrar al posgrado en Filosofía de la Ciencia.
+
+En las clases de maestría hubo profesores excelentes.
+Mucho de lo que aprendí en estos cursos me sirvió para enmarcar de diferente manera las preguntas que me preocupaban, lo cuál me permitió entender --mejor, me parece-- la naturaleza de la investigación científica. 
+En particular quería responder preguntas sobre la epistemología de la ciencia, preguntas del tipo: \say{¿qué estamos justificados a creer?}, \say{¿cuándo podemos afirmar que una hipótesis ha sido corroborada?}, \say{¿es la explicación o compresión más básica que el conocimiento?}, etc. 
+Preguntas que surgen a partir de mi interés por la explicación causal.
+
+Ahondar en estas preguntas y tratar de responderlas es una tarea más que complicada. 
+Muchos de los obstáculos se deben a que la práctica científica es más caótica y heterogénea de lo que parece en un principio. 
+Incluso si nos concentramos en el uso de herramientas estadísticas o herramientas que echan mano de la teoría de la probabilidad, en casi todos los casos, ciertas propiedades del \emph{fenómeno en cuestión} son idealizadas o ignoradas para hacer que el modelo estadístico sea de utilidad.
+
+Esta representación parcial del fenómeno se debe a que en muchos casos buscamos destacar algunas propiedades particulares del fenómeno, sin que todas las variables estén representadas en el modelo.
+Que no involucremos todas y cada una de las variables que afectan el fenómeno es un reflejo de nuestra limitada capacidad cognitiva.
+A lo largo de su escrito, Potochnik nos recuerda que los modelos diseñados en la investigación científica tienen un propósito particular. 
+Son usados para destacar algunas propiedades particulares, especialmente, especialmente si lo que nos interesa son las relaciones causales. 
+Que simplifiquemos de ciertas manera el modelo se debe a que los investigadores intentan resaltar las características de un fenómeno en un momento particular.
+
+Potochnik no es la única que ha señalado esto,
+\textcite[][p.24]{abrams2023evolution}, por ejemplo, nos recuerda que \say{So-called infnite-population models are simply models that have no role for drift. 
+Biologists do often say things about evolution in infinite populations, and these claims are usually correct: the role of this terminology \emph{in practice} implies that it should not be understood literally.} (énfasis agregado) 
+
+A pesar de que los modelos no son completamente adecuados, --en el sentido en el que no representan totalmente el fenómeno en cuestión,-- son ampliamente utilizados en la investigación científica. 
+Si estas herramientas son usadas ampliamente, entonces como filósofos de la ciencia hay que ofrecer un análisis de cómo exactamente los modelos sirven para justificar hipótesis 
+
+En la maestría aprendí nuevas metodologías de investigación, además de diferentes maneras de plantear y entender las preguntas que me preocupaban. 
+Pero sin lugar a dudas, lo más valioso que aprendí, fue la importancia que tiene la historia de la ciencia en la filosofía de la ciencia. 
+Me voy a permitir hacer una breve caracterización, exageradamente general, de dos posturas en historia de la ciencia.
+
+
+\chapter{Un rÃ¡pido diagnÃ³stico}
+
+\section{Un breve repaso de dos posturas}
+
+\noindent El siguiente serÃ¡ un breve y burdo repaso de las
+\emph{metodologÃ­as}\sidenote{Esto que describo es igual a lo que SuÃ¡rez
+llama \say{posturas}} \emph{externalistas} e \emph{internalistas}. 
+Las llamo \say{metodologÃ­as} porque difieren en tÃ©rminos sustanciales
+--por ejemplo, el de \emph{verdad}-- y es a partir de estas diferencias
+que ambas metodologÃ­as ofrecen una interpretaciÃ³n distinta de la historia
+de la ciencia. Al usar el tÃ©rmino \emph{metodologÃ­a}, no quiero
+comprometerme con si son teorÃ­as en contradicciÃ³n, o teorÃ­as
+complemetarias; esto es algo que no puedo discutir aquÃ­ y el nombre
+\say{metodologÃ­as}, me parece, es lo suficientemente neutro\sidenote{ Lo
+que llamo aquÃ­ \emph{metodologÃ­as}, corresponde a lo que SuÃ¡rez llama
+\emph{postura} \cite{suÃ¡rez emergence} }.
+
+%La secciÃ³n \ref{sbc:yturbe} la dedico a analizar una supuesta alternativa para el debate anterior.
+%AdemÃ¡s, esta alternativa, es mÃ¡s cercana a la filosofÃ­a de la ciencia.
+
+\subsection{Dos metodologÃ­as: \emph{externalismo} e \emph{internalismo}}
+
+\noindent Digamos que en historia de la ciencia se suelen distinguir dos
+corrientes: los \emph{internalistas} y los \emph{externalistas}. De manera
+procaz, los internalistas argumentan que la historia de la ciencia deberÃ­a
+interpretarse como un progreso de ideas; cada uno de los nuevos
+descubrimientos en la ciencia estÃ¡n motivados por intenciones internas
+a los investigadores: la bÃºsqueda de la verdad, curiosidad natural, el
+gusto por explicar fenÃ³menos, etc.
+
+Con mejores mÃ©todos de investigaciÃ³n, los investigadores ofrecerÃ¡n mejores respuestas a sus preguntas.
+TendrÃ¡n, por decirlo de alguna manera, respuestas mÃ¡s detalladas del fenÃ³meno que les interesa y descubrirÃ¡n nuevos fenÃ³menos que no contemplaban originalmente.
+Todo este proceso guiado siempre por sus intereses.
+Al ser guiados por sus intereses, y sÃ³lo por sus intereses, los investigadores son inmunes a los fenÃ³menos culturales que les rodean.
+Dicho de otra manera: que la ciencia es inmune a la cultura. Creo que
+podemos identificar a Weinberg\sidenote{Esto es tramposo porque no sÃ© si
+los historiadores de la ciencia estiman a Weinberg como uno de sus
+colegas. Aparece en este escrito para fines puramente explicativos.} como
+un internalista, cuando dice que:
+
+	\begin{quote}
+	
+	The word \say{discovery} in the subtitle is also problematic.
+	I had thought of using The Invention of Modern Science as
+	a subtitle. After all, science could hardly exist without human
+	beings to practice it. I chose \say{Discovery} instead of
+	\say{Invention} to suggest that science is the way it is not so
+	much because of various adventitious historic acts of invention,
+	but \emph{because of the way nature is}. \parencite[Prefacio,
+	Ã©nfasis agregado]{Weinberg2015}
+
+	\end{quote}
+
+Quiero destacar el Ã©nfasis que hice en la cita anterior. Creo que no hay
+mucho peligro en asumir que la investigaciÃ³n es la mejor manera que
+tenemos de producir conocimiento; y en particular, creo que parte de este
+conocimiento depende de \say{la forma en la que la naturaleza es.} Creo,
+ademÃ¡s, que la investigaciÃ³n tiene como meta ofrecer explicaciones
+\emph{verdaderas} de los fenÃ³menos; puedo decir entonces que me alÃ­neo con
+Weinberg en un sentido restringido de \say{descubrimiento}\sidenote{ El
+sentido restringido del que hablo es algo que quiero discutir a lo largo
+de este capÃ­tulo introductorio. Al menos es parte de lo que voy a defender
+en este documento. El lector tendrÃ¡ que leer el trabajo completo
+y regresar a esto cuando termine.}. Para regresar a la caracterizaciÃ³n del
+\emph{internalismo}: el internalista estima el papel que la \emph{verdad}
+juega en la ciencia; la ciencia \emph{descubre} fenÃ³menos, no los
+\emph{inventa}.
+
+Por supuesto, decirlo de esta manera esconde varios problemas, por ejemplo, esconde que \say{ciencia} no es un tÃ©rmino que estÃ© libre de debate; debate que una vez que entramos en los detalles se torna bastante complejo.
+Hay por lo menos dos maneras en las que el tÃ©rmino es problemÃ¡tico.
+
+En primer lugar, en filosofÃ­a de la ciencia, los filÃ³sofos debaten si es posible distinguir entre ciencia $/$ no-ciencia.\sidenote{El debate es mÃ¡s sofisticado y no podrÃ­a explicarlo con justicia en este documento.
+	El lector interesado puede revisar la entrada \parencite{sep-pseudo-science}.}.
+En segundo lugar, los historiadores de la ciencia debaten si es posible definir en quÃ© periodo comienza la \emph{ciencia} tal como la conocemos en tiempos contemporÃ¡neos.
+
+Y si adoptamos una metodologÃ­a externalista, estas discusiones se vuelven cada vez mÃ¡s claras; y para lograr esta claridad debemos resaltar los \say{actos histÃ³ricos fortuitos} de los que habla Weinberg; todo ello con la finalidad de elucidar cÃ³mo proceden las personas cuando investigan, quÃ© influencias externas afectan el proceso de investigaciÃ³n; y que la historia debe jugar un papel central, si es que queremos responder estas preguntas.
+
+Un externalista explicarÃ¡ los procesos de investigaciÃ³n
+cientÃ­f<t_€ý>hlua require"cmp.utils.feedkeys".run(306) kuica
+a partir de las condiciones histÃ³ricas en las que se desarrollaron;
+periodos de tiempo durante los cuales se desenvolvieron los investigadores
+y sus investigaciones. El externalista resalta que la investigaciÃ³n
+cientÃ­fica no es una actividad que pueda separarse de su contexto
+\say{cultural}.
+
+Quiero hacer notar que introduje deliberadamente el tÃ©rmino \say{verdad.}
+La naturaleza de la verdad es una discusiÃ³n que requiere mÃ¡s detalle; pero este tÃ©rmino es central para la discusiÃ³n que seguirÃ© a lo largo del documento.
+Por ello, quiero rÃ¡pidamente seÃ±alar cÃ³mo la \say{verdad} difiere en las dos metoddologÃ­as que he descrito.
+Sobre la \say{verdad,} Shapin se expresa claramente cuando afirma que \say{All claims have to win credibility, and credibility is the outcome of contingent social and cultural practice.} \parencite[CapÃ­tulo 2]{shapin2010never}
+
+Adoptando, digamos, una metodologÃ­a externalista, Shapin se ha dedicado a estudiar detalladamente como los fenÃ³menos sociales irrigan conceptos tan centrales en la investigaciÃ³n cientÃ­fica como es el de \emph{verdad}; y para aclarar el punto, la siguiente cita es ilustrativa
+
+\begin{quote}
+	The notion of truthfulness was thus central to the description of gentle qualities.
+	Through the Renaissance and into the eighteenth century an honorable man and an honest man were interchangeable designations: \say{honesty} included the notion of truthtelling but was understood far more broadly to include concepts of probity, uprightness, fairdealing, and respectability. \parencite[pp. 70-71]{Shapin1995}
+\end{quote}
+
+Es decir que la verdad estaba asociada no sÃ³lo a ser honesto, sino con la figura del hombre honorable; la nobleza y la riqueza suelen estar asociadas al hombre honorable, por tanto su \say{palabra} valÃ­a mÃ¡s que las de otros.
+
+Si lo que he descrito hasta ahora es ligeramente correcto y asumimos que Weinberg es un \emph{internalista} y que Shapin es un \emph{externalista}, entonces los pÃ¡rrafos de arriba son suficientes para saber cÃ³mo la \emph{verdad} juega un papel en ambas metodologÃ­as.
+Para el internalista el objetivo de la ciencia es la verdad.
+Esta verdad, por supuesto, deberÃ­a estar acorde con la forma en la que la naturaleza es.
+Por otro lado, el externalista nos dice que la verdad siempre estÃ¡
+atravesada por un contexto histÃ³rico y que no siempre depende del modo en
+que la naturaleza es, sino tambiÃ©n por consideraciones sociales como la
+honorabilidad. <t_k€>Ã½require"cmp.utils.feedkeys".run(283) uParece que
+esta breve caracterizaciÃ³n me ha desviado del tema. Pero el papel que
+juega la verdad en ambas metodologÃ­as es algo que los filÃ³sofos han
+discutido ampliamente. AdemÃ¡s, esta exposiciÃ³n es importante porque
+quiero convencer al lector de que hay que considerar seriamente la
+distinciÃ³n entre el \emph{contexto de descubrimiento} y el \emph{contexto
+de justificaciÃ³n.} Â¿Por quÃ© lo anterior estÃ¡ relacionado con el
+\emph{contexto de justificaciÃ³n} y el \emph{contexto de descubrimiento}?
+Porque hay una autora que seÃ±ala que la distinciÃ³n entre factores
+\emph{internos} y \emph{externos}, surge a partir de la distinciÃ³n de los
+dos contextos.
+
+Para lograr mi propÃ³sito, quiero discutir un artÃ­culo que presenta un caso mÃ¡s cercano a la filosofÃ­a de la ciencia.
+Un artÃ­culo que relaciona por un lado a las metodologÃ­as que he discutido hasta aquÃ­, y por otro cÃ³mo Ã©stas juegan un papel en la filosofÃ­a de la ciencia.
+Me dedico a este caso a continuaciÃ³n.
+
+\subsection{Un caso mÃ¡s cercano a la filosofÃ­a de la ciencia}\label{sbc:yturbe}
+
+\noindent En el artÃ­culo \citetitle{Yturbe1995}, la autora argumenta que es un falso dilema tener que elegir entre las metodologÃ­as \emph{internalista} y \emph{externalista.}
+Yturbe dice, por ejemplo que
+
+\begin{quote}
+	The general tendency in the historiography of the sciences is to consider the social function of science, as weIl as some aspects of the matrix from which the problematic is formed, as external elements, while the conceptual apparatus and the problem field are treated as internal. \emph{But we should not think of science as having two independent histories.} \parencite[p.85, Ã‰nfasis agregado]{Yturbe1995}
+\end{quote}
+
+La oraciÃ³n en itÃ¡licas implica que no deberÃ­amos hacer una distinciÃ³n entre factores internos y factores externos.
+AdemÃ¡s, Corina defiende que una teorÃ­a a la vez internalista como externalista no es una teorÃ­a plausible.
+Al menos esto parece sugerir cuando dice que
+
+\begin{quote}
+	The search for new explanatory programs is characterized above all by the attempt to reconcile the internalist and externalist approaches.
+	But, in view of the fact that both approaches are committed to theses concerning the nature of science that are not only incompatible, but are unsustainable, their union without important changes in their philosophical presuppositions cannot result in a viable program. \parencite[p. 79]{Yturbe1995}
+\end{quote}
+
+Su conclusiÃ³n se basa en que no es posible marginar ambos factores; ademÃ¡s, la autora sugiere que esta supuesta distinciÃ³n tiene sus orÃ­genes en la distinciÃ³n entre el \emph{contexto de descubrimiento} y el \emph{contexto de justificaciÃ³n} que trazaron los positivistas.
+La autora seÃ±ala, por ejemplo que
+
+\begin{quote}
+	External factors are not only found in the context of discovery, they are present also in the development of the concepts, problems, methods, problem fields, etc. of scientific discourses: that is, external factors are present in the context of validation itself.
+	There are scientific discourses in which ideological conceptions pass on to form part of the body of the science itself, functioning as principles which define its field of study or guide its research; thus, external factors can become internal. \parencite[p. 85]{Yturbe1995}
+\end{quote}
+
+La cita anterior sugiere que el \emph{contexto de justificaciÃ³n} involucra sÃ³lo \emph{factores internos,} mientras que el \emph{contexto de descubrimiento} involucra sÃ³lo \emph{factores externos.}
+La autora nos dice que los factores externos contagian al contexto de justificaciÃ³n, cuando dichos factores se convierten en parte de las teorÃ­as --generando conceptos, principios centrales, etc.--
+La autora dice que esta ceguera a considerar que los \emph{factores externos} afectan al \emph{contexto de justificaciÃ³n,} surge de la \say{doctrina de los dos contextos.}
+Corina nos dice que \say{One of the philosophical theses in favor of the contraposition between the internalist approach and the externalist approach is the so-called doctrine of the two contexts, developed by positivism.} \parencite[p. 75]{Yturbe1995}
+
+Debido a que quiero convencer al lector de que deberÃ­amos adoptar la distinciÃ³n entre los dos contextos, debo seÃ±alar que la autora se equivoca.
+Que es perfectamente plausible hacer la distinciÃ³n entre el \emph{contexto de descubrimiento} y el \emph{contexto de justificaciÃ³n} sin que esto implique la distinciÃ³n enctre factores \emph{internos} y \emph{externos.}
+
+Para lograr esto, voy a seÃ±alar que la premisa, en la que la autora nos dice que el contexto de justificaciÃ³n$/$descubrimiento es equivalente a los factores internos$/$externos, es falsa y que la equivalencia descansa en una confusiÃ³n.
+Esta confusiÃ³n se debe, en parte, a la mala caracterizaciÃ³n de las tesis del \say{positivismo}; la otra parte, me parece, se debe a una interpretaciÃ³n poco caritativa de la historia de la ciencia y los propÃ³sitos de los investigadores.
+
+El argumento de la mala caracterizaciÃ³n del positivismo lo doy en este mismo capÃ­tulo.
+El argumento sobre la interpretaciÃ³n y los propÃ³sitos de los investigadores serÃ¡ dado a lo largo del capÃ­tulo 2.
+Pero, este argumento comienza en este capÃ­tulo, en especial la secciÃ³n \ref{ssc:aprender}.
+
+Recordemos que el argumento que voy a ofrecer es para concluir que la autora ofrece una mala caracterizaciÃ³n del positivismo.
+Esta conclusiÃ³n depende de que el \emph{contexto de descubrimiento} y el \emph{contexto de justificaciÃ³n} no son equivalentes a los \emph{factores externos} y \emph{factores internos} respectivamente; lo que Yturbe llama \say{la doctrina de los dos contextos}.
+Para este propÃ³sito quiero repasar brevemente en quÃ© consisten el \emph{contexto de descubrimiento} y el \emph{contexto de justificaciÃ³n.}
+
+
+
+\paragraph{La distinciÃ³n} entre el \emph{contexto de descubrimiento} y el \emph{contexto de justificaciÃ³n}, generalmente estÃ¡ asociada a Reichenbach\sidenote{
+	Stillwell comenta que la distinciÃ³n puede trazarse hasta ArquÃ­medes.
+	Al menos eso entiendo cuando afirma que \say{Archimedes was probably the first mathematician candid enough to explain that there is a difference between the way theorems are discovered and the way they are proved.} \parencite[p. 56]{stillwell1989mathematics}
+	}.
+En su libro \citetitle{reichenbach1938experience}, el autor usa esta distinciÃ³n para \say{excluir} los asÃ­ llamados factores externos (sean sociales, polÃ­ticos o econÃ³micos.)\sidenote{
+	El pasaje no dice exactamente esto, sino algo mÃ¡s cercano a que tenemos claro cÃ³mo hacer un anÃ¡lisis filosÃ³fico$/$formal para la justificaciÃ³n de teorÃ­as, mientras que no tenemos manera de hacer ese anÃ¡lisis en el contexto de descubrimiento.
+	Este lado de la investigaciÃ³n cientÃ­fica, digamos, es muy heterogÃ©neo como para que sea posible ofrecer un anÃ¡lisis formal.
+	}.
+Esta distinciÃ³n, nos dice Reichenbach, sirve para ilustrar el hecho de que no tenemos a la mano un \say{mÃ©todo} para analizar el fenÃ³meno del descubrimiento cientÃ­fico; lo que algunos filÃ³sofos \parencite{reichenbach1938experience, Seo2015} llaman el momento \emph{Eureka}.
+Pero no tener una herramienta de anÃ¡lisis formal, no implica que lo que sucede en el contexto de descubrimiento sea absolutamente deleznable.
+
+Que los factores \emph{externos} pueden afectar el \emph{contexto de justificaciÃ³n}, fue un tema que se discutiÃ³ ampliamente durante los aÃ±os del cÃ­rculo de Viena\sidenote{
+	O positivismo lÃ³gico o empirismo lÃ³gico, cada quien elige su etiqueta favorita.
+} y no es una distinciÃ³n que, digamos,  permaneciÃ³ fija a lo largo de la historia del positivismo lÃ³gico. 
+O aquello a lo que Yturbe se refiere como \say{positivismo}.
+
+Como me parece que la distinciÃ³n juega un papel importante en (i) cÃ³mo interpretamos filosÃ³ficamente la historia de la ciencia y que juega un papel clave en (ii) cÃ³mo los investigadores realizan investigaciÃ³n, necesito convencer al lector de que esta distinciÃ³n es Ãºtil; 
+y me pareceque ofrecer una justificaciÃ³n para (i) y (ii), es suficiente para convencer al lector de que vale la pena adoptar la distinciÃ³n.
+LlamarÃ© a (i) el \emph{objetivo metodolÃ³gico} y a (ii) el \emph{objetivo epistÃ©mico}
+Para lograr estos objetivos, quiero repasar brevemente cÃ³mo algunos de los miembros del cÃ­rculo de Viena lidiaron con la distinciÃ³n que nos ocupa.
+
+
+\subsection{El cÃ­rculo de Viena}
+
+\noindent Quiero comenzar seÃ±alando que los positivistas\sidenote{
+	Me voy a referir con este tÃ©rmino a los filÃ³sofos que aparecen en la publicaciÃ³n de la \emph{International Encyclopedia of Unified Science} \parencite{Carnap1938-CARFOL-10}.
+	Tanto del comitÃ© organizador, como el comitÃ© asesor.
+	}, 
+estaban al tanto de cÃ³mo los \emph{factores externos} influyen en el \emph{contexto de justificaciÃ³n}.
+Dicho de otra manera, que los aspectos sociales, polÃ­ticos y econÃ³micos afectan las prÃ¡cticas de las personas dedicadas a hacer investigaciÃ³n.
+
+La afirmaciÃ³n de Reichernbach sobre la carencia de un anÃ¡lisis formal del \emph{contexto de justificaciÃ³n} es una carencia que los miembros del cÃ­rculo buscaron solventar; y lograron dicho anÃ¡lisis con mayor o menor Ã©xito.
+
+\paragraph{Neurath}, nos recuerda Joseph Bentley, sostenÃ­a que
+
+\begin{quote}
+	Despite his advocacy for scientific methods, Neurath never takes this method to be set in stone, nor does he attempt to portray science as an enterprise of purely objective methods, completely divorced from social, historical, and material contexts or the personalities of scientific practitioners. \parencite[p.~41]{Bentley2023}
+\end{quote}
+
+Neurath sabÃ­a que los fenÃ³menos sociales y polÃ­ticos afectan las prÃ¡cticas cientÃ­ficas; sin embargo, sostenÃ­a tambiÃ©n, que estudiar esta relaciÃ³n debe llevarse a cabo con otro tipo de herramientas.
+Bentley lo expresa mucho mejor cuando seÃ±ala que \say{As in the case of theory-choice, decision-making is central. 
+But to make metatheoretical decisions, metatheoretical information is needed.} \parencite[p.~62]{Bentley2023}
+
+Neurath llama \say{beahaviouristics of scholars} al conjunto de herramientas y mÃ©todos para reunir esta informaciÃ³n metateÃ³rica; 
+esta disciplina serÃ­a aquella con las herramientas para analizar aspectos histÃ³ricos, polÃ­ticos, econÃ³micos, etc.
+Lo que aquÃ­ estamos llamando factores externos.
+
+Y al hablar especÃ­ficamente de la justificaciÃ³n de creencias, Bentley seÃ±ala que \say{[science], Neurath maintains, it is still the best we have} \parencite[p.~41]{Bentley2023}.
+Y si somos capaces de reconocer cÃ³mo las prÃ¡cticas, digamos los factores externos,  juegan un papel, entonces podemos evaluar y mejorar nuestras prÃ¡cticas de investigaciÃ³n.
+Utilizando la terminologÃ¡ que sugiero, Neurath ofrece una respuesta al
+problema metodolÃ³gico. Neurath nos dice que durante el \emph{proceso de
+justificaciÃ³n} de una teorÃ­a, los factores externos estÃ¡n involucrados en
+la justificaciÃ³n. Es sÃ³lo cuando incluimos dichos factores que podemos
+mejorar el proceso de justificaciÃ³n
+
+No es tarea fÃ¡cil mejorar las herramientas que usamos en investigaciÃ³n, porque modificar una herramienta tiene como consecuencia analizar detalladamente no sÃ³lo la herramienta, sino que hay que revisar los resultados que dependen de ella.
+Para mejorar nuestras prÃ¡cticas, no debemos olvidar que Neurath fue un \say{holista} confirmacional; esto significa que Neurath creÃ­a que no podemos confirmar o falsificar una proposiciÃ³n aislada, sino que todo el conocimiento es juzgado a la vez; 
+cada vez que modifiquemos una hipÃ³tesis o alguna de nuestras herramientas, hay que hacer cambios en otras hipÃ³tesis y herramientas.\sidenote{
+	Tanto fue su interÃ©s por sistematizar la comunicaciÃ³n entre diferentes comunidades cientÃ­ficas que diseÃ±Ã³ el proyecto de la Enciclopedia de la  Ciencia Unificada.
+	De esta manera el trabajo se distribuye entre distintas comunidades y se coteja con el trabajo de otras comunidades de investigaciÃ³n.
+	}
+
+SÃ³lo podemos hacer mejores nuestras herramientas y minimizar los errores cuando somos capaces de reconocer el papel que juegan los factores externos, Bentley expresa mejor el objetivo de Neurath diciendo \say{if we recognize the $\ldots$ creation of the norms, methods and values of science, it can be made better.} \parencite[p.~41]{Bentley2023}
+
+Quiero enfatizar que Neurath no fue el Ãºnico miembro de los positivistas lÃ³gicos que reconociÃ³ el papel que juegan estos factores en la investigaciÃ³n;
+las personas que realizan esta actividad tienen ciertos sesgos polÃ­ticos y sociales, son personas que tienen que tomar decisiones y que tratan de justificar sus hipÃ³tesis con las mejores herramientas a la mano.
+Philipp Frank expresa mucho mejor la relaciÃ³n entre los factores \emph{externos} y el \emph{contexto de justificaciÃ³n.}
+
+
+
+\paragraph{Philipp Frank sostenÃ­a que} los aspectos \say{externos} eran
+una parte crucial del anÃ¡lisis que los filÃ³sofos pueden ofrecer de las
+ciencias. En su artÃ­culo \citetitle{Frank1956}, Frank argumenta que los
+aspectos sociales jamÃ¡s han estado excluidos del proceso de
+justificaciÃ³n de teorÃ­as. Esto es mÃ¡s o menos claro cuando Frank nos dice
+que \say{The special mechanism by which social powers bring about
+a tendency to accept or reject a certain theory depends upon the structure
+of the society within which the scientist operate.}
+\parencite[p.~143]{Frank1954}
+
+Para su argumento, Frank comienza enfatizando que a lo largo de la historia, la elecciÃ³n de teorÃ­as nunca ha sido arbitraria;
+supongamos, por ejemplo, que tenemos dos teorÃ­as en competencia $a$ y $b$.
+Los investigadores no simplemente deciden entre $a$ o $b$ sopesando cuÃ¡l de las dos tiene mÃ¡s consecuencias empÃ­ricas.
+Frank nos recuerda que tomar una decisiÃ³n entre $a$ y $b$ involucra diferentes aspectos polÃ­ticos y sociales.
+Estos aspectos son parte del proceso de justificaciÃ³n de una teorÃ­a en donde no sÃ³lo revisamos las consecuencias empÃ­ricas de la teorÃ­a, sino ademÃ¡s quÃ© tan coherente es con otros dominios (digamos biologÃ­a, quÃ­mica, economÃ­a, etc.)
+Estos aspectos tanto teÃ³ricos como sociales estÃ¡n involucrados en la justificaciÃ³n de teorÃ­as porque la investigaciÃ³n es un producto realizado por seres humanos;
+como seres humanos, tenemos capacidades cognitivas limitadas \parencite{Potochnik2017-POTIAT-3}, ademÃ¡s tenemos una gran cantidad de sesgos implÃ­citos \parencite{nordell2021end} y estar al tanto de dichos fenÃ³menos ayuda a mejorar nuestras herramientas.
+Si para el proceso de elecciÃ³n de teorÃ­as sÃ³lo evaluamos a la teorÃ­a al medir quÃ© tanto estÃ¡ \emph{de acuerdo con los hechos}, nunca podrÃ­amos decir si una teorÃ­a es \emph{mejor que} la otra.
+
+Hay que aclarar que Frank expresa que una teorÃ­a \emph{es mejor que} otra en tÃ©rminos de la \emph{utilidad} de la teorÃ­a.
+Diha utilidad, depende de los propÃ³sitos que queremos lograr con una teorÃ­a particular;
+y si la teorÃ­a va a ser \emph{usada}, entonces debe ser \emph{simple.}
+Esto lo expresa diciendo que \say{The final theory has to be in fair
+agreement with observations and also has to be sufficiently simple to be
+usable.} \parencite[p.~14]{Frank1956} Siguiendo esta lÃ­nea de
+razonamiento, Frank afirma que una teorÃ­a no se juzga sÃ³lo a partir de las
+consecuencias empÃ­ricas, sino tambiÃ©n de acuerdo a quÃ© uso queremos darle:
+cuando es usada para fines \emph{prÃ¡cticos.}
+
+Frank lo expresa mucho mejor al decir que \say{[h]owever, the situation becomes much more complex, if we mean by simplicity not only simplicity of the mathematical scheme but also simplicity of the whole discourse by which the theory is formulated.} \parencite[p.~4]{Frank1956}
+Hay que saber, ademÃ¡s, que el discurso bajo el que la teorÃ­a estÃ¡ formulada, en algunas ocasiones, sirve para fines propagandÃ­sticos.
+Tanto Neurath como Frank condenaban dichos fines propagandÃ­sticos, pero la Ãºnica manera de saber cuÃ¡ndo los fines son propagandÃ­sticos es conociendo cuÃ¡les son los supuestos de la teorÃ­a y la finalidad que se le estÃ¡ dando.
+Si involucramos la utilidad de la teorÃ­a y el discurso bajo el cual estÃ¡ formulada, como filÃ³sofos de la ciencia podemos ofrecer un anÃ¡lisis mÃ¡s completo.
+
+Las afirmaciones anteriores, que hay que considerar el discurso bajo el cuÃ¡l la teorÃ­a estÃ¡ formulada y que el valor de la teorÃ­a depende tambiÃ©n de los fines para los cuales va a ser usada, son afirmaciones inscritas en el problema de la \emph{elecciÃ³n de teorÃ­as} y en el problema de la \emph{subdeterminaciÃ³n empÃ­rica de las teorÃ­as.}
+Supongamos que queremos decidir si una teorÃ­a $a$ es mejor que $b$. 
+SegÃºn lo que nos dicen Neurath y Frank debemos involucrar los factores externos y es en este sentido en el que los factores externos son parte del contexto de justificaciÃ³n.
+Aceptar o rechazar una teorÃ­a es un proceso que involucra \emph{justificar} las teorÃ­as y decidir cuÃ¡l es \emph{mejor} para los propÃ³sitos que deseamos.
+Es durante la fase de aceptaciÃ³n de la teorÃ­a, cuando los factores externos toman un papel central, porque de no ser por la finalidad prÃ¡ctica de una teorÃ­a, no tendrÃ­amos manera de decidir quÃ© teorÃ­a es mÃ¡s adecuada.
+Don Howard seÃ±ala esto al decir que 
+
+\begin{quote}
+	On Neurathâ€™s view, it is a contingent fact, well supported by historical evidence, that we do choose among empirically equivalent theories on the basis of our estimation of the likelihood of their serving our favored social and political ends, this especially in sciences like economics and sociology. \parencite[p.~5]{Howard2006}
+\end{quote}
+
+Muchas de estas afirmaciones se deben a que los miembros del cÃ­rculo de Viena estaban interesados en saber si $a$ es equivalente a $b$;
+y algunos de los miembros del cÃ­rculo argumentaban que la Ãºnica manera en que $a$ y $b$ sean equivalentes es si hacen las mismas predicciones, es decir, si tienen las mismas consecuencias empÃ­ricas.
+O como tambiÃ©n dice Don Howard
+
+\begin{quote}
+	The place of values in science is secured by the fact that, on Neurathâ€™s view, logic and experience underdetermine theory choice.
+	But turn that argument around and it implies that values come into play only within what I like to call the domain of underdetermination. 
+	That is, logic and experience are first allowed to do all of the work they can do. 
+	Only then do we ask which of several empirically equivalent theories is most conducive to the achievement of our social and political ends. \parencite[p.~10]{Howard2006}
+\end{quote}
+
+SeÃ±alo lo anterior porque no es completamente obvio por quÃ© las consecuencias empÃ­ricas no son suficientes para resolver el problema de la elecciÃ³n de teorÃ­as;
+No es obvio porque es completamente plausible que $a$ y $b$ tengan \emph{distintas} consecuencias empÃ­ricas;
+ademÃ¡s, suponiendo que de hecho hay subdeterminaciÃ³n empÃ­rica, es completamente plausible que $a$ y $b$ sean contradictorias entre sÃ­ y que tengan las \emph{mismas} consecuencias empÃ­ricas.
+
+Para aclarar por quÃ© no es suficiente, hay que saber que esta conclusiÃ³n estÃ¡ motivada por el fenÃ³meno de la \emph{subdeterminaciÃ³n empÃ­rica de las teorÃ­as.}
+El fenÃ³meno de la subdeterminaciÃ³n empÃ­rica sucede cuando en un punto del tiempo la evidencia no es suficiente para determinar quÃ© teorÃ­a deberÃ­amos aceptar.
+Dos teorÃ­as contradictorias entre sÃ­ pueden hacer las mismas predicciones, en cuyo caso, la evidencia no es suficiente para decidir entre una teorÃ­a u otra.
+Ahora, supongamos que en un momento dado sÃ³lamente existe una teorÃ­a.
+Supongamos ademÃ¡s que esta teorÃ­a ha hecho predicciones exactas hasta ahora y que dada la teorÃ­a predecimos que sucederÃ¡ un fenÃ³meno $f$.
+Llega la fecha de la predicciÃ³n y $f$ no sucede.
+
+Si la descripciÃ³n anterior le parece plausible al lector, entonces hay que investigar en quÃ© consistiÃ³ el error.
+Sabemos ademÃ¡s que una teorÃ­a depende de un conjunto de supuestos y que si $f$ no sucede, entonces hay que revisar cuÃ¡l de los supuestos de la teorÃ­a fallÃ³.
+Si el valor de la teorÃ­a depende sÃ³lo de las predicciones que podemos obtener al hacer uso de ella, entonces la teorÃ­a ha perdido su valor.
+
+Pero no es obvio que las teorÃ­as que hacen predicciones errÃ³neas pierden completamente su valor, hay al menos un ejemplo en el que modificar alguno de los supuestos ha llevado a descripciones exitosas: el caso del desccubrimiento de NEptuno  
+Si hay casos reales de subdeterminaciÃ³n empÃ­rica en la historia de la ciencia no es algo que pueda discutir aquÃ­.
+Pero saber que puede suceder un caso como este es suficiente para concluir que si la evidencia es lo Ãºnico que importa, entonces puede haber casos de subdeterminaciÃ³n empÃ­rica 
+
+
+
+haciendo Ã©nfasis en que estos factores sociales jamÃ¡s han desaparecido del \emph{contexto de justificaciÃ³n}.
+En particular, ante dos teeorÃ­as en competencia, la decisiÃ³n no puede tomarse sin este tipo de consideraciones prÃ¡cticas.
+Consideraciones prÃ¡cticas que dependen del contexto histÃ³rico y sociocultural\sidenote{En algunas ocasiones la utilidad de la teorÃ­a es funcionar como propaganda, algo que seÃ±alan los autores de \parencite{Lewontin2017}  y tambiÃ©n Frank en \parencite{}.}.
+
+Hasta este punto, me parece que la evidencia textual muestra suficiente informaciÃ³n para concluir que hay una confusiÃ³n en la caracterizaciÃ³n de la llamada \emph{doctrina de los dos contextos} \parencite{Yturbe1995}.
+Se suele caracterizar a los miembros del cÃ­rculo de Viena defendiendo tesis exageradamente estrictas, Philipp Frank incluso lo menciona en \say{cita de Frank} y mÃ¡s recientemente, Bentley tambiÃ©n cuando dice que \say{citga de bentley}.
+Y esta no es la Ãºnica menciÃ³n a esto \say{cita del nÃºmero especial}
+
+Suele mencionarse tambiÃ©n que los miembros del cÃ­rculo no prestaron atenciÃ³n a ciertos temas por estar demasiado ocupados con la fÃ­sica [citar al de Sahorta] o que el problema de la reducciÃ³n de teorÃ­as incluÃ­a el proyecto de reducciÃ³n de las ciencias especiales a la fÃ­sica [citar a Raphael van Riel].
+Afortunadamente, existen intentos recientes por ofrecer una caracterizaciÃ³n justa de las afirmaciones de los miÃ©mbros del \emph{cÃ­rculo de Viena.}
+
+Quiero seÃ±alar que esto puede ser una preocupaciÃ³n mÃ¡s filosÃ³fica que histÃ³rica, y por lo tanto, parecer que como Yturbe \cite{Yturbe1995} estoy confundiendo una tesis filosÃ³fica y una tesis sobre historiografÃ­a.
+No soy historiador, por lo que no puedo mÃ¡s que referirme a dos autores en particular que, me parece, vinculan las preocupaciones de los miembros del cÃ­rculo con la historiografÃ­a de la ciencia.
+A esto me deddico en la siguiente secciÃ³n.
+
+
+\subsection{Justificar una teorÃ­a es el objetivo principal de la investigaciÃ³n}
+
+Llegado a este punto, he seÃ±alado que la caracterizaciÃ³n que hace la autora de la \emph{doctrina de los dos contextos} es incorrecta; 
+mÃ¡s aÃºn, prometÃ­ que valÃ­a la pena recuperar esta distinciÃ³n porque me parece que el objetivo principal de la investigaciÃ³n 
+cientÃ­fica es el \emph{proceso} de \emph{justificar} teorÃ­as.
+Quiero llegar a esta conclusiÃ³n a partir de lo que dije anteriormente: como la caracterizaciÃ³n de Yturbe es errÃ³nea, tenemos una alternativa; 
+nuestra alternativa es que hay una manera de separar el \emph{contexto de justificaciÃ³n} del \emph{contexto de descubrimiento}.
+
+
+
+
+\paragraph{Justificar} una teorÃ­a, nos dicen ambos filÃ³sofos, involucra necesariamente aspectos pragmÃ¡ticos.
+La prÃ¡ctica cientÃ­fica no estÃ¡ separada de su contexto cultural.
+Pero cuando lidiamos con procesos de justificaciÃ³n, lo mejor que tenemos son las herramientas que usamos en investigaciÃ³n.
+Herramientas que pueden cambiar con el tiempo y que necesitarÃ¡n una justificaciÃ³n mÃ¡s robusta.
+Todo esto con el objetivo de seÃ±alar si una oraciÃ³n es verdadera o falsa.
+Reconociendo que la verdad y la falsedad de las oraciones no estÃ¡ separada de otras oraciones.
+
+Estos comentarios sobre el \say{materialismo dialÃ©ctico} y el \say{pragmatismo americano},
+% Mencionar la menciÃ³n al operacionalismo 
+, pueden sonar fuera de lugar.
+Pero es importante mencionar esto porque las fuentes histÃ³ricas que voy a citar son, una de ellas soviÃ©ticas, usando la llamada metodologÃ­a del \say{materialismo histÃ³rico}, mientras que la otra fuente ofrece una interpretaciÃ³n operacionalista de la matemÃ¡tica griega.
+
+El pragmatismo americano se vincula al operacionalismo
+
+Pero
+
+CÃ³mo juega el verificacionismo un papel?, esto es, por quÃ© la manera de verificar si una oraciÃ³n es verdadera o falsa depende de cÃ³mo se verifica?
+Lo Ãºnico que nos piden los positivistas es que tengamos cuidado al juzgar si la oraciÃ³n es verdadera.
+Al juzgar una oraciÃ³n, debemos tener en cuenta quÃ© operaciones serÃ­an necesarias para saber si la oraciÃ³n es verdadera.
+A los tÃ©rminos singulares de la oraciÃ³n, se les da una definiciÃ³n \emph{operacional}, donde por operacional, los positivistas se refieren a quÃ© experiencias fÃ­sicas serÃ­an necesarias para decir que una oraciÃ³n es verdadera.
+
+Some has to do with it's sustainability.
+SÃ³lo para hacer la distinciÃ³n entre el contexto de descubrimiento y el contexto de justificaciÃ³n.
+Pero no hay que confundir a la operaciÃ³n con la cosa.
+Hay que distinguir claramente entre la decisiÃ³n de cÃ³mo representar un fenÃ³meno y entre el fenÃ³meno mismo.
+
+Sobre la representaciÃ³n
+
+pues introduciendo
+Digamos que el operacion
+
+Frank traza tambiÃ©n un puente entre el pragmatismo, el materialismo histÃ³rico soviÃ©tico y la filosofÃ­a del positivismo.
+
+
+%\section{citas}
+
+
+
+%Value considerations are not intended to trump considerations of logic and experience; they are intended to respect them. Don Howard p.10
+
+%The place of values in science is secured by the fact that, on Neurathâ€™s view, logic and experience underdetermine theory choice. But turn that argument around and it implies that values come into play only within what I like to call the domain of underdetermination. That is, logic and experience are first allowed to do all of the work they can do. Only then do we ask which of several empirically equivalent theories is most conducive to the achievement of our social and political ends. Don Howard p. 10
+
+The freedom of choice is not a freedom simply to deny the manifest evidence of the senses. One has to interpret, one has to tell a coherent story, and one has to tell a story that works. p. 14
+
+
+This means there is no possibilityt of isolating a class of priviledged sentences, to act as a fixed foundation Naturalism and the Vienna Circle
+
+Every term  introduced into the theory must be accompanied by  a description of the physical operations by which may  be tested the degree to which the property expressed  by this term may be attributed to a given physical  system. The description of these operations, the  "operational definition" of this term, may be more or  less direct; perhaps only a combination of terms will  correspond to a certain operation. Professor Bridgman's views have frequently been labelled "operationalism," although he himself is not pleased by this name.
+
+But the outlook of the so-called "Vienna Circle"  has been only one particularly coherent doctrine  among the many intellectual fruits which have  emerged from the soil of Central-European positivism.
+
+In particular, Charles  W . Morris of Chicago recognized the connection  with American pragmatism and publicized the idea  of cooperation between the two groups. It was decided, for the purpose of this cooperation, to call a  special congress, for which the name "Congress for  the Unity of Science" was coined by Otto Neurath.
+
+The conception of the relative worthlessness of the theory in  comparison to the phenomenon gives to the theorizing  of such an investigator something especially free and  imaginative.
+
+The known connections among  phenomena form a network; the theory seeks to pass  a continuous surface through the knots and threads  of the net. Naturally, the smaller the meshes, the  more closely is the surface fixed by the net. Hence,  as our experience progresses the surface is permitted  less and less play, without ever being unequivocally  determined by the net.
+
+nce this possibility has been substantiated,  the whole of analysis can proceed to develop as usual.  But now when a theorem about derivatives is set up  and somebody begins to subtilize about it, asking  whether this theorem is really in agreement with the  "nature" of the differential and going into profound  and skeptical deliberations concerning this "nature,"  he can be told quite simply: "I could express this  theorem, if I took enough time, as a theorem about  integers; the nature of this theorem is hence no more  and no less mysterious than that of the natural  numbers."
+
+The  atoms are auxiliary conceptions just like others which  can be employed advantageously in a limited domain.  They are not suitable for an epistemological foundation.
+
+MÃ¡s aÃºn, Frank veÃ­a en la prÃ¡ctica cientÃ­fica una manera de resolver problemas como el de la representaciÃ³n y el de la elecciÃ³n, digamos \say{temporal}, de una teorÃ­a.
+Esto queda bastante claro cuando Frank afirma
+
+	\begin{quote}
+	
+	If we look for an answer to the question of wether a certain theory, say
+	the copernican system or the theory of relativity, is preferred or true,
+	we have to ask the preliminary question: what purpose is the theory to
+	serve? \parencite[p. 15]{Frank1954} 
+
+	\end{quote}
+
+Ambos filÃ³sofos estaban al tanto de que los factores externos afectan el contexto de justificaciÃ³n.
+Ambos fueron miembros del cÃ­rculo de Viena y si ambos sostenÃ­an que hay una distinciÃ³n entre el \emph{contexto de descubrimiento} y \emph{el contexto de justificaciÃ³n}; entonces no son equivalentes el \emph{contexto de descubrimiento} y los \emph{factores externos}; y  tampoco son equivalentes el \emph{contexto de justificaciÃ³n} y \emph{los factores internos}.
+
+Me parece que con seÃ±alar que los miembros del cÃ­rculo de Viena que he discutido hasta ahora, no se alineaban con las tesis descritas por \parencite{Yturbe1995}, es suficiente para decir que hay una confusiÃ³n en la premisa que usa la autora.
+Sin embargo, quiero decir un poco mÃ¡s sobre las tesis a las que se adherÃ­an Neurath y Frank; ademÃ¡s quiero seÃ±alar la relaciÃ³n que ve Frank entre la postura del \say{empirismo lÃ³gico} y la \say{filosofÃ­a de la UniÃ³n SoviÃ©tica}, que es algo que quiero discutir en la siguiente secciÃ³n.
+
+\paragraph{Tanto Neurath como Frank} sostienen una forma de verificacionismo: que el significado de de una oraciÃ³n depende del mÃ©todo de comprobaciÃ³n.
+Pero, ambos estÃ¡n de acuerdo en que nunca tenemos una imagen perfecta, con la que podamos saber con completa seguridad, que una oraciÃ³n es verdadera o falsa.
+
+
+
+%\section{Citas Amsterdamski}
+
+%The sociology of science studies the evolution of science as a  social institution, the styles of scientific thinking, the reception of scientific  ideas and their social determination. Finally, logic and the methodology  of science (often called the philosophy of science), as a branch of epistemology, study the structure of scientific theories, their development, the  rules of concept and theory formation, the criteria of accepting and  refuting the claims of science, and the relations between theory and  empirical data.
+
+%Anyone who has even a slight interest in the history of science must have  found himself faced by many bewildering problems. How was it possible,  for instance, that the most remarkable minds of their times held opinions  that could today be disproved by any high school student, often on the  basis of empirical facts known even then? It is just this last circumstance  which appears to be most striking, for it is one thing to accept theories  which later may be proved imprecise or simply false, but are not contradicted by known facts, and quite a different matter to maintain opinions regardless of known facts which clearly contradict them. If the first  instance seems quite natural to us, as we believe that it is the discovery of  new facts which usually compel us to revise old theories, then the second  instance appears to be perplexing; in fact, it seems to contradict the very  nature of scientific knowledge.
+
+%the paintings of the Aztecs were more valuable than those of the European  Renaissance, the philosopher or historian of science sees nothing wrong  with comparing the theories of Ptolemy and Copernicus, Newton and  Einstein, or Darwin and Mendel. He is convinced that these theories had  to provide a coherent explanation of the same domains of phenomena (the  movement of celestial bodies, mechanics, the mechanism of heredity),  and that in attempting to formulate explanations they utilized the same  criteria for evaluating the results of their work.
+
+%Although we are prone to evaluate works of art in a relativistic manner,  taking into account the aesthetic criteria and historical circumstances  which are particular to a given period, we tend to evaluate the achievements of scientists (just their achievements, not their merits) on the grounds  of some supra-historical criteria. More precisely, we tend to evaluate  scientific results on the grounds of those criteria which are accepted by  contemporary science and which we take (for better or for worse - we  will come back to this problem) as supra-historical.
+
+%It was not only the Copernican theory that for years had to deal with a  mass of anomalies. The same thing happened with Newton's theory, with  quantum mechanics, and in general with any new theory which required a  radical reconstruction of large areas of acquired knowledge. This is the  fate of any new theory which attempts to introduce a new order into the  domain of phenomena which it describes and which were ordered in a  different way by its predecessors. Since every such theory must take into  account experiments and observations previously carried out, it must  therefore reinterpret them, make them fit into the new theoretical framework. Sometimes this reinterpretation is extremely complex and hardly  discernible to anyone but the specialist, especially in cases when the meaning of those basic concepts which became a part of everyday language  undergo a radical change. Thus after the rise of the theory of relativity, the  meaning of such notions as 'mass', 'velocity' or 'simultaneity' had  changed, and this fact should be taken in account when we investigate its  relation to Newtonian mechanics.
+
+%such as, for instance, the contemporary state of mathematical knowledge,  the theoretical situation in other disciplines, the state of the technical  apparatus available or the accepted epistemological and ontological  beliefs, etc. To quote F. Jacob, there is" ... a domain which thought strives  to explore, where it seeks to establish order and attempts to construct a  world of abstract relationships in harmony not only with observations and  techniques but also with current practices, values and interpretations."15
+
+%It is worth remembering that the empirical confirmation of the Copernican theory, which at the same time disproved the Ptolemaic system,  was only provided many years after the death of Copernicus. Copernicus  himself could offer no decisive fact which would confirm his own theory.  "No fundamental astronomical discovery, no new sort of astronomical  observation, persuaded Copernicus of ancient astronomy's inadequacy or  of the necessity for change."!7 The prognoses of celestial phenomena  provided by either theory proved to be essentially the same.
+
+%The content of Newtonian mechanics not only stepped outside the  boundaries of empirical data and, therefore, could not be deduced from  them, but also was incompatible with observational data which were  known at the time when it was formulated - such as the impossibility of  distinguishing between absolute and relative motion.
+
+%In any case, neither statements of scientists nor  reasonings of philosophers provide sufficient confirmation of the thesis,  that in posing experimental questions about nature, and reading the  answers by means of measuring instruments, scientists were free from  hypotheses and presuppositions and that in declaring the glory of radical  empiricism they were not subject to any philosophy or metaphysics. We  would indeed be quite naive if we took their words in this matter.
+
+
+%Secondly, what is the true relationship between the empirical basis of  science (i.e., facts), and theory, and what changes of this basis can provide  a satisfactory foundation for the understanding of the process of the  evolution of scientific cognition?
+
+
+
+%Los factores sociales y polÃ­ticos son medios para sleccionar una teorÃ­a.
+%De acuerdo a los objetivos que buscamos en la investigaciÃ³n.
+%Y estos objetivos son influencias que imbuyen el contexto de justificaciÃ³n.
+%
+%Incluso Carnap, que es al que mÃ¡s le llueven vergazos y del que se sotiene tenÃ­a las ideas mÃ¡ws radicales deel cÃ­rculo, llegÃ³ a aceptar que las teorÃ­as tienen sin duda un aspecto pragmÃ¡tico. 
+%Neurath y Philipp Frank exponen este tipo de preocupaciones.
+
+
+%Neurath fue falibilista, coherentista (sobre la justificaciÃ³n) y holista.
+%Por supuesto que sostenÃ­a una forma de \emph{verificacionismo}, Bentley lo expresa mÃ¡s claramente \say{Theories must be sensitive to, grounded in and testible by experience} \parencite[p. 38][]{Bentley2023}.
+%Este criterio es bastante vago, pero Bentley lo describe no como una tesis, sino como una postura; una postura que es difÃ­cil capturar con una sola afirmaciÃ³n \parencite[p.38][Cfr.]{Bentley2023} 
+
+
+%\subsection{Citas Phillip Frank}
+
+%The misinterpretation of scientific principles, as will be shown, can be avoided if, in every statement found in books on physics or chemistry, one is careful to distinguish an experimentally testable assertion  about observable facts from a proposal to represent the facts in a certain way by word or diagram.
+%If this distinction is sharply drawn, there will no longer be any room for the interpretation of physics in favor of a spiritualistic or a materialistic metaphysics. [p. 4-5]
+
+%The views represented in the present book are closely associated with the movement now generally  called "logical empiricism" or "logical positivism."
+%I must confess that I do not like these words either.
+%But a long life among views and theories has shown me that if we want a view to be regarded as a respectable tree in the garden of opinions it must have a label just as much as the elms and oaks in our public gardens. [p. 5]
+
+%* recordar que Philipp Frank fue fundador del grupo original, que 20 aÃ±os despuÃ©s se convirtiÃ³ en el cÃ­rculo de Vienna.
+
+%* Cualquier reconstrucciÃ³n se le va a quedar corta a este libro.
+
+%But the outlook of the so-called "Vienna Circle"  has been only one particularly coherent doctrine  among the many intellectual fruits which have  emerged from the soil of Central-European positivism. Mathematicians such as R. von Mises, Îš. Menger, and Îš. Godei, physicists such as E. Schroedinger,  economists such as J. Schumpeter, lawyers such as  H. Kelsen, and sociologists such as E. Zilsel had their  roots in this environment. The whole intellectual  background of this general movement can be understood best through R. von Mises' textbook of positivism. [p. 9]
+
+%Several young American philosophers  traveled to Vienna and Prague in order to come into  scientific contact with Schlick and Carnap. Among  them were W . V . Quine (now at Harvard) and  E. Nagel (now at Columbia). In particular, Charles  W . Morris of Chicago recognized the connection  with American pragmatism and publicized the idea  of cooperation between the two groups. []
+
+%But what does it mean when we say that a question  is insoluble? Let us suppose, for example, that someone has asserted that the problem of a regular airplane  route to the planet Neptune is insoluble, or that the  production of a living organism from lifeless matter  is insoluble. 
+%Despite this assertion, the person making  it can describe quite accurately the concrete experience we should have if the problem were solved.
+
+\section{Â¿QuÃ© podemos aprender de la historia de la ciencia?}\label{sub:aprender}
+
+
+\noindent Quiero comenzar esta secciÃ³n confesando lo siguiente: estoy de acuerdo con la autora, en particular con el carÃ¡cter de la conclusiÃ³n anterior, esto es, que es complicado--si no es que imposible--, separar entre los procesos externos y los procesos internos que influyen en la investigaciÃ³n cientÃ­fica.
+Pero aceptar esto --eso quiero argumentar-- no implica que debamos deshacernos de la distinciÃ³n entre el \emph{contexto de investigaciÃ³n} y el \emph{contexto de descubrimiento}.
+En lo que resta de la secciÃ³n quiero hacer un breve repaso de los argumentos de la autora.
+
+Yturbe nos dice que el contexto de descubrimiento, se dedica a analizar factores externos que fueron influyendo en los factores internos; mientras que el \emph{contexto de justificaciÃ³n} sÃ³lo se dedica a analizar los factores internos al desarrollo teÃ³rico.
+Lo que ella llama \say{the doctrine of the two contexts}\sidenote{
+	\say{one of the philosophical theses in favor of the contraposition between the internalist approach and the externalist approach is the so-called doctrine of the two contexts, developed by positivism.} \cite[p. 75]{Yturbe1995}
+}
+La autora nos dice que la doctrina de los dos contextos hace una distinciÃ³n que no se puede hacer.
+El contexto de justificaciÃ³n es siempre influenciado por el contexto de descubrimiento porque la ideologÃ­a, la economÃ­a, las relaciones de poder, etc. influyen en la toma de decisiones\sidenote{Por usar una caricatura: a quiÃ©n se le asigna presupuesto}, por lo tanto la doctrina es incorrecta.
+
+Como dije al principio de esta secciÃ³n, estoy de acuerdo con que es casi imposible hacer la distinciÃ³n entre \emph{historia interna} e \emph{historia externa}, pero aceptar esto, no implica deshacernos de la distinsiÃ³n \emph{contexto de descubrimiento} y \emph{contexto de justificaciÃ³n}.
+Para sustentar esto, dependo de la caracterizaciÃ³n que hace la autora sobre \say{la doctrina de los dos contextos}, la caracterizaciÃ³n de la doctrina estÃ¡ ligeramente sesgada, si no es que completamente inadecuada.
+En la siguiente secciÃ³n quiero ofrecer mis razones para esta conclusiÃ³n.
+
+\subsection{La doctrina}
+
+\noindent En el texto de \textcite[p.75]{Yturbe1995}, la autora ofrece una descripciÃ³n de la doctrina, ella seÃ±ala que los filÃ³sofos doctrinarios afirman que \say{according to this position, [factores externos], not only fails to increase our understanding of scientific development, but even obscures the fundamental question of the rational validation of scientific arguments.}
+AdemÃ¡s que \say{This conception constitutes the dominant framework in which the philosophy of science has been developed, and consists in drawing a radlcal distinction between the context of discovery and the context of validation.}
+
+
+Su argumento para decir que hay un colapso entre factores externos (contexto de descubrimiento) y factores internos (contexto de justificaciÃ³n) se encuentra en la pÃ¡gina 85
+
+\begin{quote}
+
+	External factors are not only found in the context of discovery, they are present also in the development of the concepts, problems, methods, problem fields, etc. of scientific discourses: that is, external factors are present in the context of validation itself.
+	There are scientific discourses in which ideological conceptions pass on to form part of the body of the science itself, functioning as principles which define its field of study or guide its research; thus, external factors can become internal.
+
+\end{quote}
+
+La doctrina de los dos contextos implica que podemos claramente separar entre el \emph{contexto de descubrimiento} y el \emph{contexto de justificaciÃ³n}.
+Pero los factores externos estÃ¡n presentes en el contexto de justificaciÃ³n, tanto asÃ­ que pueden convertirse en factores internos.
+Esto implica que los contextos no son claramente separables, y que, por tanto, la doctrina es incorrecta.
+
+Contrario a lo que dice la autora
+
+\begin{quote}
+	The search for new explanatory programs is characterized above all by the attempt to reconcile the internalist and externalist approaches. But, in view of the fact that both approaches are committed to theses concerning the nature of science that are not only incompatible, but are unsustainable, their union without important changes in their philosophical presuppositions cannot result in a viable program. \parencite[p. 79]{Yturbe1995}
+\end{quote}
+
+Creo que es verdad que no podemos distinguir entre factores externos y factores internos en la ciencia.
+Sin embargo, me parece que lo que expresa la cita anterior es claramente errÃ³neo: no se siguie la conclusiÃ³n \say{que no pueden resultar en un programa viable}, porque depende de seÃ±alar que la distinciÃ³n entre  \emph{contexto de descubrimiento} $|$ \emph{contexto de justificaciÃ³n} es equivalente a la distinciÃ³n \emph{factores externos} $|$ \emph{factores internos} y estas distinciones no son equivalentes.
+
+
+
+\subsection{En defensa de la doctrina}
+
+\noindent En aÃ±os recientes ha habido un creciente interÃ©s en discutir las publicaciones del CÃ­rculo de Vienna \parencite{Bentley2023, Richardson2023, Suarez2024, Riel2014}.
+Si hago una tosca generalizaciÃ³n, dirÃ­a que literatura reciente se ha dedicado a seÃ±alar que los miembros del CÃ­rculo de Vienna, no eran tan hermÃ©ticos como se pensaba.
+AdemÃ¡s, la cantidad de temas que discutieron es mÃ¡s vasta de lo que se creÃ­a.
+Particularmente pensando en que cada uno de los miembros diferÃ­a de los otros en tesis centrales.
+
+\textcite{Suarez2024}, por ejemplo, discute que una preocupaciÃ³n genuina sobre los modelos en la ciencia, precede, data y prosigue a los aÃ±os del CÃ­rculo de Vienna, el autor nos dice \say{I focus particularly on the nineteenth-century modelers and summarize their insights and contributions, which, I claim, remain essentially unsurpassed.} (p. 20)
+
+AdemÃ¡s, los miembros del CÃ­rculo de Vienna tuvieron una preocupaciÃ³n genuina por las prÃ¡cticas cientÃ­ficas--Neurath, por ejemplo--
+TenÃ­an presente que ciertos factores externos pueden influenciar a la investigaciÃ³n cientÃ­fica.
+\textcite[p. 24]{Bentley2023} lo expresa mejor: \say{Frank's historical work, which frequently anticipates Kuhnian or post-Kuhnian themes, consistently emphasizes the significance of non-scientific, external factors on the decision making of scientists.}
+Los miembros del CÃ­rculo de Vienna tenÃ­an claro que los factores externos influyen en el proceso de la investigaciÃ³n cientÃ­fica, presentes incluso en el \emph{contexto de justificaciÃ³n}.
+
+Hablando en particular del trabajo de Neurath y las tesis que sostenÃ­a, Otto defendÃ­a una teorÃ­a coherentista de la justificaciÃ³n.
+Neurath argumentaba que nuestras teorÃ­as cientÃ­ficas estÃ¡n subdeterminadas empÃ­ricamente.
+En cualquier momento del tiempo hay hipÃ³tesis en pugna.
+Pero si las teorÃ­as estÃ¡n empÃ­ricamente subdeterminadas, es posible que dos teorÃ­as internamente coherentes y externamente inconsistentes entre sÃ­, convivan al mismo tiempo.
+
+Pero si el escenario anterior es plausible, entonces es patente que aquÃ©l que defienda una teorÃ­a coherentista de la confirmaciÃ³n, no puede resolver el problema de la elecciÃ³n racional de teorÃ­as.
+Debido a que todo el tiempo hay teorÃ­as en pugna, como filÃ³sofos, deberÃ­amos poder explicar por quÃ© es racional elegir entre una teorÃ­a y sus rivales. Para poder resolver este problema, Neurath defendÃ­a que los factores externos son informaciÃ³n clave para explicar la racionalidad de la elecciÃ³n de los investigadores.
+Factores externos como los eventos histÃ³ricos fortuitos.
+
+\textcite{Bentley2023} nos recuerda que Neurath fue falibilista sobre el conocimiento, es decir,  sostenÃ­a que cada una de nuestras creencias puede estar equivocada.
+Sumado a esto, sostenÃ­a que la confirmaciÃ³n es holista: no son oraciones particulares, sino grupos de oraciones, los que contrastamos con el mundo.
+Bentley lo expresa mejor \say{$\ldots$ it is always possible for a system of beliefs to be altered to accommodate a statement or for the statement to be rejected $\ldots$} (p. 21).
+
+
+
+Esto Ãºltimo iniciÃ³ como un abstract que mandÃ© a un taller y se fue volviendo mÃ¡s largo mientras leÃ­a.
+
+Hablando de modelos en la filosofÃ­a de la ciencia durante el periodo del CÃ­rculo de Vienna, una figura importante que mencionar es Mary Hesse.
+Mary Hesse trabajÃ³ con especial atenciÃ³n el uso de modelos en la ciencia.
+
+``This historical chapter introduces the emergence in the nineteenth century of  what I call the modeling attitude.
+This is a stance toward scientific work and  discovery, and it continues to this day." (p. 43)
+
+
+
+
+
+
