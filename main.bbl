@@ -19,7 +19,44 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{Bentley2023}{book}{}{}
+    \entry{abrams2023evolution}{book}{}{1}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b7afc2ad907ccfdd2b8c74899f1d22e}{%
+           family={Abrams},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{fullhash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{fullhashraw}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{bibnamehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authorbibnamehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authornamehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authorfullhash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authorfullhashraw}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780226826639}
+      \field{title}{Evolution and the Machinery of Chance: Philosophy, Probability, and Scientific Practice in Biology}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=piO2EAAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=piO2EAAAQBAJ
+      \endverb
+    \endentry
+    \entry{Bentley2023}{book}{}{7}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7f40c6b3d380369bfc12711847a38b47}{%
            family={Bentley},
@@ -49,7 +86,7 @@
       \field{title}{Logical Empiricism and Naturalism: Neurath and Carnap?s Metatheory of Science}
       \field{year}{2023}
     \endentry
-    \entry{Carnap1938-CARFOL-10}{inbook}{}{}
+    \entry{Carnap1938-CARFOL-10}{inbook}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6ac7e21451c80f04ca26894d84279358}{%
            family={Carnap},
@@ -284,7 +321,7 @@
       \field{year}{2017}
       \keyw{correccionescap1}
     \endentry
-    \entry{Frank1956}{inbook}{}{}
+    \entry{Frank1956}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=5cfab282dc9ba8c859a002b7523fd98b}{%
            family={Frank},
@@ -326,7 +363,7 @@
       \field{title}{The variety of reasons for the acceptance of scientific theories}
       \field{year}{1956}
     \endentry
-    \entry{Frank1954}{article}{}{}
+    \entry{Frank1954}{article}{}{2}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=9607c922744f60a808db3d4eb161be79}{%
            family={Frank},
@@ -406,7 +443,7 @@
       \field{title}{Modelling {Nature}. {An} {Opinionated} {Introduction} to {Scientific} {Representation}}
       \field{year}{2020}
     \endentry
-    \entry{sep-pseudo-science}{inbook}{}{}
+    \entry{sep-pseudo-science}{inbook}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=dfe96a2af337cda966c57cf2072bd650}{%
            family={Hansson},
@@ -668,7 +705,7 @@
       \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
       \endverb
     \endentry
-    \entry{Howard2006}{inbook}{}{}
+    \entry{Howard2006}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0ebf1006f134bbfd4bfb5cf4fb834b22}{%
            family={Howard},
@@ -784,7 +821,7 @@
       \endverb
       \keyw{Political Science / History \& Theory,Science / Environmental Science,Science / Life Sciences / Genetics \& Genomics,Science / Life Sciences / Developmental Biology,Science / Life Sciences / Biological Diversity}
     \endentry
-    \entry{nordell2021end}{book}{}{}
+    \entry{nordell2021end}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d321dab8a3d1cdee7fa6551fda1c1b0c}{%
            family={Nordell},
@@ -1031,7 +1068,7 @@
       \verb https://www.jstor.org/stable/2181906
       \endverb
     \endentry
-    \entry{reichenbach1938experience}{article}{}{}
+    \entry{reichenbach1938experience}{article}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
            family={Reichenbach},
@@ -1058,7 +1095,7 @@
       \field{title}{Experience and prediction: An analysis of the foundations and the structure of knowledge}
       \field{year}{1938}
     \endentry
-    \entry{Richardson2023}{article}{}{}
+    \entry{Richardson2023}{article}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc213d2babe8be5c1ef8393ce6c3b327}{%
            family={Richardson},
@@ -1089,7 +1126,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Cambridge Core - Philosophy of Science - Logical Empiricism as Scientific Philosophy}
-      \field{isbn}{9781009471497 9781009471510 9781009471473}
       \field{journaltitle}{Elements in the Philosophy of Science}
       \field{month}{12}
       \field{title}{Logical {Empiricism} as {Scientific} {Philosophy}}
@@ -1098,9 +1134,6 @@
       \field{urlyear}{2024}
       \field{year}{2023}
       \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1017/9781009471497
-      \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
       \endverb
@@ -1108,7 +1141,7 @@
       \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
       \endverb
     \endentry
-    \entry{Riel2014}{book}{}{}
+    \entry{Riel2014}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d54fac7bc87839c84414246dd3ea8a14}{%
            family={Riel},
@@ -1141,7 +1174,7 @@
       \field{title}{The {Concept} of {Reduction}}
       \field{year}{2014}
     \endentry
-    \entry{Seo2015}{inbook}{}{}
+    \entry{Seo2015}{inbook}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=319cb35b1268ee2a63a473686383797e}{%
            family={Seo},
@@ -1204,7 +1237,7 @@
       \verb https://doi.org/10.1007/978-94-007-2150-0_239
       \endverb
     \endentry
-    \entry{Shapin1995}{book}{}{}
+    \entry{Shapin1995}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2e2ab6af788a9d8fd8e1b5ae682c3006}{%
            family={Shapin},
@@ -1242,7 +1275,7 @@
       \verb https://books.google.com.mx/books?id=Cr4lEAAAQBAJ
       \endverb
     \endentry
-    \entry{shapin2010never}{book}{}{}
+    \entry{shapin2010never}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=37133bbe457b00ce2744c88d3132358a}{%
            family={Shapin},
@@ -1273,7 +1306,7 @@
       \field{title}{Never pure: Historical studies of science as if it was produced by people with bodies, situated in time, space, culture, and society, and struggling for credibility and authority}
       \field{year}{2010}
     \endentry
-    \entry{stillwell1989mathematics}{book}{}{}
+    \entry{stillwell1989mathematics}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8e3125fd9a902a9b525121e39152ba3d}{%
            family={Stillwell},
@@ -1304,7 +1337,7 @@
       \field{volume}{3}
       \field{year}{1989}
     \endentry
-    \entry{Suarez2024}{book}{}{}
+    \entry{Suarez2024}{book}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d38046d5183ca0a9859dc6a514033de}{%
            family={Suárez},
@@ -1355,7 +1388,7 @@
       \endverb
       \keyw{Representation,Modeling,19th century science,Modeling attitude,Artistic representation}
     \endentry
-    \entry{Weinberg2015}{book}{}{}
+    \entry{Weinberg2015}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=15e144c72b0b9d10db00ddc6d37a19e6}{%
            family={Weinberg},
@@ -1484,7 +1517,7 @@
       \field{title}{{Causation and Manipulability}}
       \field{year}{2023}
     \endentry
-    \entry{Yturbe1995}{inbook}{}{}
+    \entry{Yturbe1995}{inbook}{}{10}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ec7de7818e15c1bbb4d024f73d57c583}{%
            family={Yturbe},
@@ -1559,7 +1592,44 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{Bentley2023}{book}{}{}
+    \entry{abrams2023evolution}{book}{}{1}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4b7afc2ad907ccfdd2b8c74899f1d22e}{%
+           family={Abrams},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{fullhash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{fullhashraw}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{bibnamehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authorbibnamehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authornamehash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authorfullhash}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \strng{authorfullhashraw}{4b7afc2ad907ccfdd2b8c74899f1d22e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780226826639}
+      \field{title}{Evolution and the Machinery of Chance: Philosophy, Probability, and Scientific Practice in Biology}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=piO2EAAAQBAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=piO2EAAAQBAJ
+      \endverb
+    \endentry
+    \entry{Bentley2023}{book}{}{7}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7f40c6b3d380369bfc12711847a38b47}{%
            family={Bentley},
@@ -1589,7 +1659,7 @@
       \field{title}{Logical Empiricism and Naturalism: Neurath and Carnap?s Metatheory of Science}
       \field{year}{2023}
     \endentry
-    \entry{Carnap1938-CARFOL-10}{inbook}{}{}
+    \entry{Carnap1938-CARFOL-10}{inbook}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6ac7e21451c80f04ca26894d84279358}{%
            family={Carnap},
@@ -1824,7 +1894,7 @@
       \field{year}{2017}
       \keyw{correccionescap1}
     \endentry
-    \entry{Frank1956}{inbook}{}{}
+    \entry{Frank1956}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=5cfab282dc9ba8c859a002b7523fd98b}{%
            family={Frank},
@@ -1866,7 +1936,7 @@
       \field{title}{The variety of reasons for the acceptance of scientific theories}
       \field{year}{1956}
     \endentry
-    \entry{Frank1954}{article}{}{}
+    \entry{Frank1954}{article}{}{2}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=9607c922744f60a808db3d4eb161be79}{%
            family={Frank},
@@ -1946,7 +2016,7 @@
       \field{title}{Modelling {Nature}. {An} {Opinionated} {Introduction} to {Scientific} {Representation}}
       \field{year}{2020}
     \endentry
-    \entry{sep-pseudo-science}{inbook}{}{}
+    \entry{sep-pseudo-science}{inbook}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=dfe96a2af337cda966c57cf2072bd650}{%
            family={Hansson},
@@ -2208,7 +2278,7 @@
       \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
       \endverb
     \endentry
-    \entry{Howard2006}{inbook}{}{}
+    \entry{Howard2006}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0ebf1006f134bbfd4bfb5cf4fb834b22}{%
            family={Howard},
@@ -2324,7 +2394,7 @@
       \endverb
       \keyw{Political Science / History \& Theory,Science / Environmental Science,Science / Life Sciences / Genetics \& Genomics,Science / Life Sciences / Developmental Biology,Science / Life Sciences / Biological Diversity}
     \endentry
-    \entry{nordell2021end}{book}{}{}
+    \entry{nordell2021end}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d321dab8a3d1cdee7fa6551fda1c1b0c}{%
            family={Nordell},
@@ -2571,7 +2641,7 @@
       \verb https://www.jstor.org/stable/2181906
       \endverb
     \endentry
-    \entry{reichenbach1938experience}{article}{}{}
+    \entry{reichenbach1938experience}{article}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
            family={Reichenbach},
@@ -2598,7 +2668,7 @@
       \field{title}{Experience and prediction: An analysis of the foundations and the structure of knowledge}
       \field{year}{1938}
     \endentry
-    \entry{Richardson2023}{article}{}{}
+    \entry{Richardson2023}{article}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bc213d2babe8be5c1ef8393ce6c3b327}{%
            family={Richardson},
@@ -2629,7 +2699,6 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Cambridge Core - Philosophy of Science - Logical Empiricism as Scientific Philosophy}
-      \field{isbn}{9781009471497 9781009471510 9781009471473}
       \field{journaltitle}{Elements in the Philosophy of Science}
       \field{month}{12}
       \field{title}{Logical {Empiricism} as {Scientific} {Philosophy}}
@@ -2638,9 +2707,6 @@
       \field{urlyear}{2024}
       \field{year}{2023}
       \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1017/9781009471497
-      \endverb
       \verb{urlraw}
       \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
       \endverb
@@ -2648,7 +2714,7 @@
       \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
       \endverb
     \endentry
-    \entry{Riel2014}{book}{}{}
+    \entry{Riel2014}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d54fac7bc87839c84414246dd3ea8a14}{%
            family={Riel},
@@ -2681,7 +2747,7 @@
       \field{title}{The {Concept} of {Reduction}}
       \field{year}{2014}
     \endentry
-    \entry{Seo2015}{inbook}{}{}
+    \entry{Seo2015}{inbook}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=319cb35b1268ee2a63a473686383797e}{%
            family={Seo},
@@ -2744,7 +2810,7 @@
       \verb https://doi.org/10.1007/978-94-007-2150-0_239
       \endverb
     \endentry
-    \entry{Shapin1995}{book}{}{}
+    \entry{Shapin1995}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2e2ab6af788a9d8fd8e1b5ae682c3006}{%
            family={Shapin},
@@ -2782,7 +2848,7 @@
       \verb https://books.google.com.mx/books?id=Cr4lEAAAQBAJ
       \endverb
     \endentry
-    \entry{shapin2010never}{book}{}{}
+    \entry{shapin2010never}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=37133bbe457b00ce2744c88d3132358a}{%
            family={Shapin},
@@ -2813,7 +2879,7 @@
       \field{title}{Never pure: Historical studies of science as if it was produced by people with bodies, situated in time, space, culture, and society, and struggling for credibility and authority}
       \field{year}{2010}
     \endentry
-    \entry{stillwell1989mathematics}{book}{}{}
+    \entry{stillwell1989mathematics}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8e3125fd9a902a9b525121e39152ba3d}{%
            family={Stillwell},
@@ -2844,7 +2910,7 @@
       \field{volume}{3}
       \field{year}{1989}
     \endentry
-    \entry{Suarez2024}{book}{}{}
+    \entry{Suarez2024}{book}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d38046d5183ca0a9859dc6a514033de}{%
            family={Suárez},
@@ -2895,7 +2961,7 @@
       \endverb
       \keyw{Representation,Modeling,19th century science,Modeling attitude,Artistic representation}
     \endentry
-    \entry{Weinberg2015}{book}{}{}
+    \entry{Weinberg2015}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=15e144c72b0b9d10db00ddc6d37a19e6}{%
            family={Weinberg},
@@ -3024,7 +3090,7 @@
       \field{title}{{Causation and Manipulability}}
       \field{year}{2023}
     \endentry
-    \entry{Yturbe1995}{inbook}{}{}
+    \entry{Yturbe1995}{inbook}{}{10}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ec7de7818e15c1bbb4d024f73d57c583}{%
            family={Yturbe},

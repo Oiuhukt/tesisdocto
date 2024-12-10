@@ -32,21 +32,131 @@ No sólo eso, las teorías \emph{manipulabilistas} de la causalidad vinculan
 a la práctica de la investigación científica con la búsqueda de patrones
 causales \parencite{sep-causation-mani}. 
 
-\paragraph{De forma muy breve, las teorías \emph{manipulabilistas}
-afirman} que dadas dos variables $A$ y $B$, decimos que $A$ \emph{causa}
-$B$ si al intervenir (manipular) la variable $A$, la variable $B$ cambia
-en consecuencia. Esto, por supuesto sólo es una parte de la historia de
-las teorías \emph{manipulabilistas}. Si hay una función bien definida
-entre las variables, la tarea es ligeramente más sencilla. Pensemos, por
-ejemplo, en una función cualquiera entre dos variables, digamos que la
-función está definida como $F(x) = 2y$, donde $x \in \mathbb{N}$.
-Esto significa que si $x$ toma el $3$ como valor, la variable $y$ tendrá
-$6$ como valor.
-Supongamos que estos son los valores que puede tomar 
+\paragraph{De forma muy breve, las teorías
+\emph{manipulabilistas}\sidenote{La siguiente caracterización está basada
+en \parencite{sep-causation-mani, sep-causal-explanation-science,
+Woodward2004, Woodward2000-WOOEAI}} afirman que} dadas dos variables $A$ y $B$, decimos que
+$A$ \emph{causa} $B$ si al intervenir (manipular) la variable $A$, la
+variable $B$ cambia en consecuencia. Esto, por supuesto sólo es una parte
+de la historia de las teorías \emph{manipulabilistas}. Si hay una función
+bien definida entre las variables, la tarea es ligeramente más sencilla.
+Pensemos, por ejemplo, en una función cualquiera entre dos variables,
+digamos que la función está definida como $F(x) = 2y$, donde $x \in
+\mathbb{N}$. Esto significa que si $x$ toma el $3$ como valor, la variable
+$y$ tendrá $6$ como valor.
+
+Supongamos que estos son los valores que puede tomar una medida de fuerza.
+Digamos que \emph{dos centímetros} de presión en un resorte producen
+\emph{cuatro metros} de distancia de un proyectil, \emph{independiente} de
+cualquier fuerza externa, por ejemplo, la fuerza del aire --insisto en que
+esto es sólo un caso para ejemplificar. Esto significaría que la presión
+del resorte \emph{causa} que el proyectil alcanza más distancia. Además es
+posible que la función definida anteriormente no sea correcta para algunos
+de los valores de $x$, por ejemplo, si el resorte sólo mide $8$ cm,
+llegará un momento en que el resorte esté completamente comprimido.
+
+El ejemplo anterior sirve para describir algunas de las características de
+la teoría \emph{manipulabilista.} Que la función describa correctamente el
+comportamiento del proyectil, \emph{independiente} de otra fuerza, quiere
+decir que la compresión en el resorte es la única variable que afecta el
+traslado del proyectil. 
+
+Que la \emph{intervención} en el resorte cause que el proyectil llegue
+a mas distancia \emph{independiente} de cualquier otra fuerza, significa
+que es posible hacer una intervención \say{quirúrgica} y que sólo haya
+ciertos valores que describen correctamente el comportamiento del
+proyectil significa que es \emph{invariante} bajo un rango de
+intervenciones. En esto, a grandes rasgos, consiste una teoría
+\emph{manipulabilista} de la causalidad
+
+\paragraph{Las características anteriores no son} las únicas que integran
+la teoría \emph{manipulabilista} de la causalidad. 
+Otra caractertística que tiene es que usa condicionales
+\emph{contrafácticos.} En la teoría, estos condicionales sirven para
+responder preguntas del tipo \say{¿qué huibiera sucedido si $x$ hubiera
+tomado un valor diferente?} El uso que se le suele dar a los
+\emph{contrafácticos} en la investigación es principalmente en inferencias
+causales. 
+
+Si tomamos en serio el trabajo que realizan las personas cuando hacen
+investigación, es claro que el uso de estas herramientas juega un papel
+central y, de manera particular, los modelos estadísticos que se utilizan
+en esta actividad hacen uso de condicionales \emph{contrafácticos.} 
+Los condicionales \emph{contrafácticos} son aquellos condicionales que
+evaluamos bajo el supuesto de que algo no sucede, pero nos obligan
+a preguntarnos que pasaría bajo ciertas condiciones particulares. Dicho de
+otro modo, nos preguntamos cómo sería el mundo si modificamos ciertas
+condiciones. 
+Por ejemplo, podemos preguntarnos qué hubiera sido de México si no
+hubiéramos sido conquistados por los españoles. 
+
+Estos métodos sirven cuando utilizamos modelos estadísticos para
+justificar una hipótesis \parencite{Pearl2016, Pearl2018}, por ejemplo en
+las \emph{Pruebas Controladas Aleatorizadas} (RCT, por sus siglas en
+inglés), donde se interviene en una de las variables —típicamente un grupo
+de control al que se le da un placebo, mientras que otro grupo recibe el
+medicamento a testar,— esperando que seamos capaces de detectar si el
+medicamento está está jugando un papel causal. Los condicionales
+contrafácticos encuentran su aplicación en estos contextos para
+\say{crear} un evento alterno.
+
+\paragraph{No voy a hacer una defensa} de la teoría manipulabilista de la
+causalidad. Eso lo hice en mi proyecto de maestría, en particular tratando
+de elucidar cómo esta teoría lidia con explicaciones causales en biología
+evolutiva --con el éxito que haya tenido esta defensa,-- en este caso, con
+mi proyecto actual quiero hacer claro cómo sabemos qué condicionales
+contrafácticos son \say{verdaderos}. Además, queda claro que herramientas
+como los \emph{condicionales contrafácticos}, son ampliamente usados en
+modelos estadísticos. Además, son estos condiocionales, lo que nos
+permiten trazar relaciones causales según la teoría \emph{manipulabilista}
+
+Una motivación muy obvia para introducir métodos que nos permitan trazar
+relaciones causales es la llamada \say{paradoja de Simpson.} Este tema
+--el de la explicación causal-- está fuertemente vinculado con el uso de
+herramientas y \emph{modelos} estadísticos en investigación. Mi propósito
+es hacer claro cómo funcionan dichos modelos y qué herramientas nos
+permiten concluir que en efecto dos variables están causalmente
+relacionadas.
+
+Se suele señalar que hay un sentido en el cuál los modelos son
+\say{falsos}, sentido que por lo general se frasea como \say{[$\ldots$]
+models typically only hold \emph{approximately,} in some ranges of
+circumstances, and they liberally employ idealizations to accomplish this
+\emph{partial} fit.} \parencite[p.~18, énfasis agregado]{Potochnik 2017}
+Potochnik no es la única que ha señalado algo como lo anterior.
+\citeauthor{abrams2023evolution}, por ejemplo, nos dice que
+
+Potochnik también afirma que buena parte de la investigación se centra en
+ofrecer explicaciones causales y más aún, afirma que una buena manera de
+lidiar con explicaciones causales en investigacfión científica es
+adoptando una teoría causal \emph{manipulabilista.} Más aún, los
+argumentos de Potochnik que vinculan a la práctica de investigación con
+las teorías \emph{manipulabilistas}, dejan claro que hay una genuina
+preocupación sobre cómo de hecho se realiza investigación.
+
+Potochnik también defiende que el uso de modelos en investigación surge de
+la necesidad de que seres con capacidades cognitivas limitadas queremos
+representar fenómenos naturales para aislar factores causales. 
+Es importante poner énfasis en esto porque implica que los modelos se
+generan con ciertos objetivos en mente, o como ella misma señala
+\say{[$\ldots$] the nature of these idealizations is relative to the aim
+of research, as is most clearly demonstrated by the different
+idealizations involved in the various approaches to human aggression
+research.} Mi investigación actual lidia con la afirmación de que los
+modelos son falsos. Este no es un problema grave si la \say{verdad} no es
+una parte central de la investigación en cualquier área. Pero si la
+investigación se propone \emph{justificar} hipótesis y obtener
+\emph{conocimiento} de relaciones causales reales, entonces tenemos un
+problema.
+
+El problema, me parece, radica en cómo representamos adecuadamente un
+fenómeno. Mi hipótesis es que cierta forma de verdad debe estar
+involucrada en nuestra definición de \emph{conocimiento,} si es que
+queremos que las intervenciones en un sistema, para modificar una
+variable, seaa de alguna utilidad. En particular, si queremos que sea útil
+en la investigación (en cualquier área). 
 
 
-%Pero al finalizar mi licenciatura tuve teniendo severos problemas con la filosofía.
-%Sentí que lo que había aprendido era fútil y creo que esto se debió a que los profesores malos fueron más que los buenos.
 
 El hecho de que estos dos profesores buenos trabajaran filosofía de la
 ciencia --al menos lo que en ese momento creía que era la filosofía de la
@@ -105,7 +215,7 @@ role for drift.
 Biologists do often say things about evolution in infinite populations,
 and these claims are usually correct: the role of this terminology
 \emph{in practice} implies that it should not be understood literally.}
-\(énfasis agregado\) 
+(énfasis agregado) 
 
 A pesar de que los modelos no son completamente adecuados, en el sentido
 en el que, no representan totalmente el fenómeno en cuestión, son
@@ -121,6 +231,8 @@ tiene la historia de la ciencia en la filosofía de la ciencia. Me voy
 a permitir hacer una breve caracterización, exageradamente general, de dos
 posturas en historia de la ciencia.
 
+
+\chapter{Un rápido diagnóstico}
 
 \section{Un breve repaso de dos posturas}
 
@@ -197,8 +309,13 @@ En segundo lugar, los historiadores de la ciencia debaten si es posible definir 
 
 Y si adoptamos una metodología externalista, estas discusiones se vuelven cada vez más claras; y para lograr esta claridad debemos resaltar los \say{actos históricos fortuitos} de los que habla Weinberg; todo ello con la finalidad de elucidar cómo proceden las personas cuando investigan, qué influencias externas afectan el proceso de investigación; y que la historia debe jugar un papel central, si es que queremos responder estas preguntas.
 
-Un externalista explicará los procesos de investigación científica a partir de las condiciones históricas en las que se desarrollaron; periodos de tiempo durante los cuales se desenvolvieron los investigadores y sus investigaciones.
-El externalista resalta que la investigación científica no es una actividad que pueda separarse de su contexto \say{cultural}.
+Un externalista explicará los procesos de investigación
+científ<t_��>hlua require"cmp.utils.feedkeys".run(306) kuica
+a partir de las condiciones históricas en las que se desarrollaron;
+periodos de tiempo durante los cuales se desenvolvieron los investigadores
+y sus investigaciones. El externalista resalta que la investigación
+científica no es una actividad que pueda separarse de su contexto
+\say{cultural}.
 
 Quiero hacer notar que introduje deliberadamente el término \say{verdad.}
 La naturaleza de la verdad es una discusión que requiere más detalle; pero este término es central para la discusión que seguiré a lo largo del documento.
@@ -217,13 +334,20 @@ Es decir que la verdad estaba asociada no sólo a ser honesto, sino con la figur
 Si lo que he descrito hasta ahora es ligeramente correcto y asumimos que Weinberg es un \emph{internalista} y que Shapin es un \emph{externalista}, entonces los párrafos de arriba son suficientes para saber cómo la \emph{verdad} juega un papel en ambas metodologías.
 Para el internalista el objetivo de la ciencia es la verdad.
 Esta verdad, por supuesto, debería estar acorde con la forma en la que la naturaleza es.
-Por otro lado, el externalista nos dice que la verdad siempre está atravesada por un contexto histórico y que no siempre depende del modo en que la naturaleza es, sino también por consideraciones sociales como la honorabilidad.
-
-Parece que esta breve caracterización me ha desviado del tema.
-Pero el papel que juega la verdad en ambas metodologías es algo que los filósofos han discutido ampliamente.
-Además, esta exposición es importante porque quiero convencer al lector de que hay que considerar seriamente la distinción entre el \emph{contexto de descubrimiento} y el \emph{contexto de justificación.}
-¿Por qué lo anterior está relacionado con el \emph{contexto de justificación} y el \emp{contexto de descubrimiento}?
-Porque hay una autora que señala que la distinción entre factores \emph{internos} y \emph{externos}, surge a partir de la distinción de los dos contextos.
+Por otro lado, el externalista nos dice que la verdad siempre está
+atravesada por un contexto histórico y que no siempre depende del modo en
+que la naturaleza es, sino también por consideraciones sociales como la
+honorabilidad. <t_k�>ýrequire"cmp.utils.feedkeys".run(283) uParece que
+esta breve caracterización me ha desviado del tema. Pero el papel que
+juega la verdad en ambas metodologías es algo que los filósofos han
+discutido ampliamente. Además, esta exposición es importante porque
+quiero convencer al lector de que hay que considerar seriamente la
+distinción entre el \emph{contexto de descubrimiento} y el \emph{contexto
+de justificación.} ¿Por qué lo anterior está relacionado con el
+\emph{contexto de justificación} y el \emph{contexto de descubrimiento}?
+Porque hay una autora que señala que la distinción entre factores
+\emph{internos} y \emph{externos}, surge a partir de la distinción de los
+dos contextos.
 
 Para lograr mi propósito, quiero discutir un artículo que presenta un caso más cercano a la filosofía de la ciencia.
 Un artículo que relaciona por un lado a las metodologías que he discutido hasta aquí, y por otro cómo éstas juegan un papel en la filosofía de la ciencia.
@@ -325,9 +449,11 @@ Lo que aquí estamos llamando factores externos.
 
 Y al hablar específicamente de la justificación de creencias, Bentley señala que \say{[science], Neurath maintains, it is still the best we have} \parencite[p.~41]{Bentley2023}.
 Y si somos capaces de reconocer cómo las prácticas, digamos los factores externos,  juegan un papel, entonces podemos evaluar y mejorar nuestras prácticas de investigación.
-Utilizando la terminologá que sugiero, Neurath ofrece una respuesta al problema metodológico.
-Neurath nos dice que durante el \ermph{proceso de justificación} de una teoría, los factores externos están involucrados en la justificación.
-Es sólo cuando incluimos dichos factores que podemos mejorar el proceso de justificación
+Utilizando la terminologá que sugiero, Neurath ofrece una respuesta al
+problema metodológico. Neurath nos dice que durante el \emph{proceso de
+justificación} de una teoría, los factores externos están involucrados en
+la justificación. Es sólo cuando incluimos dichos factores que podemos
+mejorar el proceso de justificación
 
 No es tarea fácil mejorar las herramientas que usamos en investigación, porque modificar una herramienta tiene como consecuencia analizar detalladamente no sólo la herramienta, sino que hay que revisar los resultados que dependen de ella.
 Para mejorar nuestras prácticas, no debemos olvidar que Neurath fue un \say{holista} confirmacional; esto significa que Neurath creía que no podemos confirmar o falsificar una proposición aislada, sino que todo el conocimiento es juzgado a la vez; 
@@ -344,9 +470,15 @@ Philipp Frank expresa mucho mejor la relación entre los factores \emph{externos
 
 
 
-\paragraph{Philipp Frank} sostenía que los aspectos \say{externos} eran una parte crucial del análisis que los filósofos pueden ofrecer de las ciencias.
-En su artículo \citetile{Frank1956}, Frank argumenta que los aspectos sociales jamás han estado excluidos del proceso de justificación de teorías.
-Esto es más o menos claro cuando Frank nos dice que \say{The special mechanism by which social powers bring about a tendency to accept or reject a certain theory depends upon the structure of the society within which the scientist operate.} \parencite[p.~143]{Frank1954}
+\paragraph{Philipp Frank sostenía que} los aspectos \say{externos} eran
+una parte crucial del análisis que los filósofos pueden ofrecer de las
+ciencias. En su artículo \citetitle{Frank1956}, Frank argumenta que los
+aspectos sociales jamás han estado excluidos del proceso de
+justificación de teorías. Esto es más o menos claro cuando Frank nos dice
+que \say{The special mechanism by which social powers bring about
+a tendency to accept or reject a certain theory depends upon the structure
+of the society within which the scientist operate.}
+\parencite[p.~143]{Frank1954}
 
 Para su argumento, Frank comienza enfatizando que a lo largo de la historia, la elección de teorías nunca ha sido arbitraria;
 supongamos, por ejemplo, que tenemos dos teorías en competencia $a$ y $b$.
@@ -360,8 +492,12 @@ Si para el proceso de elección de teorías sólo evaluamos a la teoría al medi
 Hay que aclarar que Frank expresa que una teoría \emph{es mejor que} otra en términos de la \emph{utilidad} de la teoría.
 Diha utilidad, depende de los propósitos que queremos lograr con una teoría particular;
 y si la teoría va a ser \emph{usada}, entonces debe ser \emph{simple.}
-Esto lo expresa diciendo que \say{The final theory has to be in fair agreement with observations and also has to be sufficiently simple to be usable.} \parentcite[p.~14]{Frank1956}
-Siguiendo esta línea de razonamiento, Frank afirma que una teoría no se juzga sólo a partir de las consecuencias empíricas, sino también de acuerdo a qué uso queremos darle: cuando es usada para fines \emph{prácticos.}
+Esto lo expresa diciendo que \say{The final theory has to be in fair
+agreement with observations and also has to be sufficiently simple to be
+usable.} \parencite[p.~14]{Frank1956} Siguiendo esta línea de
+razonamiento, Frank afirma que una teoría no se juzga sólo a partir de las
+consecuencias empíricas, sino también de acuerdo a qué uso queremos darle:
+cuando es usada para fines \emph{prácticos.}
 
 Frank lo expresa mucho mejor al decir que \say{[h]owever, the situation becomes much more complex, if we mean by simplicity not only simplicity of the mathematical scheme but also simplicity of the whole discourse by which the theory is formulated.} \parencite[p.~4]{Frank1956}
 Hay que saber, además, que el discurso bajo el que la teoría está formulada, en algunas ocasiones, sirve para fines propagandísticos.
@@ -502,9 +638,14 @@ The  atoms are auxiliary conceptions just like others which  can be employed adv
 Más aún, Frank veía en la práctica científica una manera de resolver problemas como el de la representación y el de la elección, digamos \say{temporal}, de una teoría.
 Esto queda bastante claro cuando Frank afirma
 
-\begin{quote}
-	If we look for an answer to the question of wether a certain theory, say the copernican system or the theory of relativity, is preferred or true, we have to ask the preliminary question: what purpose is the theory to serve? \parencite[p. 15]{Frank1954}
-\end{quote}
+	\begin{quote}
+	
+	If we look for an answer to the question of wether a certain theory, say
+	the copernican system or the theory of relativity, is preferred or true,
+	we have to ask the preliminary question: what purpose is the theory to
+	serve? \parencite[p. 15]{Frank1954} 
+
+	\end{quote}
 
 Ambos filósofos estaban al tanto de que los factores externos afectan el contexto de justificación.
 Ambos fueron miembros del círculo de Viena y si ambos sostenían que hay una distinción entre el \emph{contexto de descubrimiento} y \emph{el contexto de justificación}; entonces no son equivalentes el \emph{contexto de descubrimiento} y los \emph{factores externos}; y  tampoco son equivalentes el \emph{contexto de justificación} y \emph{los factores internos}.
