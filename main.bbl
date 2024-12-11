@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{abrams2023evolution}{book}{}{2}
+    \entry{abrams2023evolution}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4b7afc2ad907ccfdd2b8c74899f1d22e}{%
            family={Abrams},
@@ -140,187 +140,6 @@
       \field{pages}{1\bibrangedash 70}
       \range{pages}{70}
     \endentry
-    \entry{Carrillo2021-CARAAP-12}{inbook}{}{5}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=971eacda1e2cc8947f4bf03bf7c9152a}{%
-           family={Carrillo},
-           familyi={C\bibinitperiod},
-           given={Natalia},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d87dc545799cf42a209496478c5a9ce5}{%
-           family={Knuuttila},
-           familyi={K\bibinitperiod},
-           given={Tarja},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=02add8616c43069b351276eac3c4d423}{%
-           family={Cassini},
-           familyi={C\bibinitperiod},
-           given={Alejandro},
-           giveni={A\bibinitperiod}}}%
-        {{hash=c8f249be5d9368938654197389ab6e71}{%
-           family={Redmond},
-           familyi={R\bibinitperiod},
-           given={Juan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Verlag}%
-      }
-      \strng{namehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \strng{bibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorbibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authornamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \strng{editorbibnamehash}{3df8a6da8d0f691599c6b55e71816f0c}
-      \strng{editornamehash}{3df8a6da8d0f691599c6b55e71816f0c}
-      \strng{editorfullhash}{3df8a6da8d0f691599c6b55e71816f0c}
-      \strng{editorfullhashraw}{3df8a6da8d0f691599c6b55e71816f0c}
-      \field{extraname}{1}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Models and Idealizations in Science: Artifactual and Fictional Approaches}
-      \field{title}{An Artifactual Perspective on Idealization: Constant Capacitance and the Hodgkin and Huxley Model}
-      \field{year}{2021}
-      \field{pages}{51\bibrangedash 70}
-      \range{pages}{20}
-    \endentry
-    \entry{Carrillo2022}{article}{}{5}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=971eacda1e2cc8947f4bf03bf7c9152a}{%
-           family={Carrillo},
-           familyi={C\bibinitperiod},
-           given={Natalia},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d87dc545799cf42a209496478c5a9ce5}{%
-           family={Knuuttila},
-           familyi={K\bibinitperiod},
-           given={Tarja},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \strng{bibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorbibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authornamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \field{extraname}{2}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Idealization is commonly understood as distortion: representing things differently than how they actually are. In this paper, we outline an alternative artifactual approach that does not make misrepresentation central for the analysis of idealization. We examine the contrast between the Hodgkin-Huxley (1952a, b, c) and the Heimburg-Jackson (2005, 2006) models of the nerve impulse from the artifactual perspective, and argue that, since the two models draw upon different epistemic resources and research programs, it is often difficult to tell which features of a system the central assumptions involved are supposed to distort. Many idealizations are holistic in nature. They cannot be locally undone without dismantling the model, as they occupy a central position in the entire research program. Nor is their holistic character mainly related to the use of mathematical and statistical modeling techniques as portrayed by Rice (2018, 2019). We suggest that holistic idealizations are implicit theoretical and representational assumptions that can only be understood in relation to the conceptual and representational tools exploited in modeling and experimental practices. Such holistic idealizations play a pivotal role not just in individual models, but also in defining research programs.}
-      \field{issn}{0039-3681}
-      \field{journaltitle}{Studies in History and Philosophy of Science}
-      \field{month}{2}
-      \field{shorttitle}{Holistic idealization}
-      \field{title}{Holistic idealization: {An} artifactual standpoint}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{91}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \field{pages}{49\bibrangedash 59}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.shpsa.2021.10.009
-      \endverb
-      \verb{file}
-      \verb ScienceDirect Full Text PDF:https\://www.sciencedirect.com/science/article/pii/S0039368121001655/pdfft?md5=8e3660d970bf468dafbe2edbde93daec&pid=1-s2.0-S0039368121001655-main.pdf&isDTMRedir=Y:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0039368121001655
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0039368121001655
-      \endverb
-      \keyw{Modeling,Idealization,Artifactual account of modeling,Scientific representation,Nerve impulse,Hodgkin and Huxley model}
-    \endentry
-    \entry{elgin2004}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=855466be8596c27d33ff368b999b2660}{%
-           family={Elgin},
-           familyi={E\bibinitperiod},
-           given={Catherine\bibnamedelima Z.},
-           giveni={C\bibinitperiod\bibinitdelim Z\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{855466be8596c27d33ff368b999b2660}
-      \strng{fullhash}{855466be8596c27d33ff368b999b2660}
-      \strng{fullhashraw}{855466be8596c27d33ff368b999b2660}
-      \strng{bibnamehash}{855466be8596c27d33ff368b999b2660}
-      \strng{authorbibnamehash}{855466be8596c27d33ff368b999b2660}
-      \strng{authornamehash}{855466be8596c27d33ff368b999b2660}
-      \strng{authorfullhash}{855466be8596c27d33ff368b999b2660}
-      \strng{authorfullhashraw}{855466be8596c27d33ff368b999b2660}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Philosophical Issues}
-      \field{number}{1}
-      \field{title}{True {{Enough}}}
-      \field{volume}{14}
-      \field{year}{2004}
-      \field{pages}{113\bibrangedash 131}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1111/j.1533-6077.2004.00023.x
-      \endverb
-    \endentry
-    \entry{elgin2017true}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=492cfeabeee1a7b6e27995dae064d98c}{%
-           family={Elgin},
-           familyi={E\bibinitperiod},
-           given={C.Z.},
-           giveni={C\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{fullhash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{fullhashraw}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{bibnamehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authorbibnamehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authornamehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authorfullhash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authorfullhashraw}{492cfeabeee1a7b6e27995dae064d98c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-262-34138-7}
-      \field{series}{The {{MIT}} Press}
-      \field{title}{True Enough}
-      \field{year}{2017}
-      \keyw{correccionescap1}
-    \endentry
     \entry{Frank1956}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=5cfab282dc9ba8c859a002b7523fd98b}{%
@@ -404,44 +223,44 @@
       \verb http://www.jstor.org/stable/21111
       \endverb
     \endentry
-    \entry{Frigg2020}{book}{}{2}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b904242ed2ff958dcef789f85b209779}{%
-           family={Frigg},
-           familyi={F\bibinitperiod},
-           given={Roman},
-           giveni={R\bibinitperiod},
+    \entry{Hajek2016-HAJOHO}{book}{}{1}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc279b3ba8140cddcff638158e09d710}{%
+           family={Hájek},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6428dcc06c869b60a8fb05d7c548f4bf}{%
-           family={Nguyen},
-           familyi={N\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
+        {{un=0,uniquepart=base,hash=4bfcf814d4d646a1553328ca8ed76322}{%
+           family={Hitchcock},
+           familyi={H\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {New York}%
+        {Oxford}%
       }
       \list{publisher}{1}{%
-        {Springer}%
+        {Oxford University Press}%
       }
-      \strng{namehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{fullhash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{fullhashraw}{672ae36166315c4b875acd17226a4b5b}
-      \strng{bibnamehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authorbibnamehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authornamehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authorfullhash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authorfullhashraw}{672ae36166315c4b875acd17226a4b5b}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \strng{namehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{fullhash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{fullhashraw}{524f37506b1d111d1edc279be06e6d81}
+      \strng{bibnamehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editorbibnamehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editornamehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editorfullhash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editorfullhashraw}{524f37506b1d111d1edc279be06e6d81}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{Modelling {Nature}. {An} {Opinionated} {Introduction} to {Scientific} {Representation}}
-      \field{year}{2020}
+      \field{title}{The Oxford Handbook of Probability and Philosophy}
+      \field{year}{2016}
     \endentry
     \entry{sep-pseudo-science}{inbook}{}{1}
       \name{author}{1}{}{%
@@ -486,224 +305,6 @@
       \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2021/entries/pseudo-science/}}
       \field{title}{{Science and Pseudo-Science}}
       \field{year}{2021}
-    \endentry
-    \entry{Hodgkin1951}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{fullhash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{fullhashraw}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{bibnamehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authorbibnamehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authornamehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authorfullhash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authorfullhashraw}{f245ea6325fec5c9f96ceebb69626059}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{1 Four methods of determining the potential difference across the surface membrane of living cells are described. 2 In a wide range of excitable tissues the resting membrane potential is of the order of 50–100 mV. and the action potential of the order of 80–130 mV. 3 At the height of activity the potential difference across the membrane is reversed by 30–50 mV. 4 The potassium concentration inside most excitable cells is 20–50 times greater than that in the external medium; sodium is 3–15 times more concentrated outside than it is inside, while chloride is 5–50 times more concentrated outside than inside. Isolated fibres lose potassium and gain sodium and chloride ions. 5 Potassium appears to exist as a free ion inside nerve and muscle fibres. 6 The nature of the organic anions which balance the high concentration of potassium inside excitable cells is still largely unknown. In certain cases amino-acids such as aspartic acid are present in high concentrations. 7 The resting membrane behaves as though it were moderately permeable to K+ and Cl- but sparingly permeable to Na+. The absolute magnitude of the resting potential is similar to that calculated from the potassium concentrations if allowance is made for the contributions of chloride and other ions. Movements of K+ and Cl- as determined by radioactive tracers or by chemical methods agree with a quantitative formulation of this hypothesis. 8 It is necessary to suppose that sodium is continuously pumped out of excitable cells by a process which depends on metabolism. 9 Electrical activity is due to a large and specific increase in the permeability to sodium. The reversed potential difference across the active membrane arises from the concentration difference of sodium and varies with the external concentration of sodium in the same manner as the theoretical potential of a sodium electrode. 10 In many cells, conduction of impulses is impossible if the external medium does not contain sodium or lithium ions. 11 The rate of rise of the action potential varies with the concentration of sodium ions in the external medium. 12 Sodium enters a nerve fibre when it is active. The quantity entering 1 cm.2 of membrane during one impulse is of the order of 3 μμmol. 13 Entry of sodium is approximately balanced by the leakage of a corresponding quantity of potassium. 14 It is suggested that sodium enters the nerve fibre during the rising phase of the action potential and that potassium leaves during the falling phase. 15 The permeability changes during the action potential probably consist of a rapid but transient increase in the permeability to sodium and a delayed increase in the permeability to potassium. It is suggested that both permeability changes vary with membrane potential in a graded but reversible manner. This hypothesis is applied to the phenomena of subthreshold activity, accomodation and oscillatory behaviour. 16 In vertebrate myelinated fibres there is much evidence to show that conduction is saltatory; this suggests that sodium entry is confined to the nodes of Ranvier, and that the internodes are depolarized by local circuit action. 17 Provided that nerves are not stimulated at a high rate, recovery heat production is sufficient to account for the metabolic extrusion of sodium after activity.}
-      \field{issn}{1469-185X}
-      \field{journaltitle}{Biological Reviews}
-      \field{number}{4}
-      \field{title}{The {Ionic} {Basis} of {Electrical} {Activity} in {Nerve} and {Muscle}}
-      \field{urlday}{21}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{volume}{26}
-      \field{year}{1951}
-      \field{urldateera}{ce}
-      \field{pages}{339\bibrangedash 409}
-      \range{pages}{71}
-      \verb{doi}
-      \verb 10.1111/j.1469-185X.1951.tb01204.x
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:https\://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-185X.1951.tb01204.x:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-185X.1951.tb01204.x
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-185X.1951.tb01204.x
-      \endverb
-    \endentry
-    \entry{Hodgkin1952b}{article}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7fdcc730bf64349a6b5d7abd25ae9402}{%
-           family={Huxley},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{bibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorbibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authornamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \field{extraname}{1}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-3751}
-      \field{journaltitle}{The Journal of Physiology}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{The components of membrane conductance in the giant axon of {Loligo}}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{116}
-      \field{year}{1952}
-      \field{urldateera}{ce}
-      \field{pages}{473\bibrangedash 496}
-      \range{pages}{24}
-      \verb{file}
-      \verb PubMed Central Link:Hodgkin1952b - The Components of Membrane Conductance in the Giant Axon of Loligo.html:URL:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/;PubMed Central Full Text PDF:Hodgkin1952b - The Components of Membrane Conductance in the Giant Axon of Loligo.pdf:PDF:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/pdf/jphysiol01447-0106.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/
-      \endverb
-    \endentry
-    \entry{Hodgkin1952a}{article}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7fdcc730bf64349a6b5d7abd25ae9402}{%
-           family={Huxley},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{bibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorbibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authornamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \field{extraname}{2}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-3751}
-      \field{journaltitle}{The Journal of Physiology}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{Currents carried by sodium and potassium ions through the membrane of the giant axon of {Loligo}}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{116}
-      \field{year}{1952}
-      \field{urldateera}{ce}
-      \field{pages}{449\bibrangedash 472}
-      \range{pages}{24}
-      \verb{file}
-      \verb PubMed Central Link:Hodgkin1952a - Currents Carried by Sodium and Potassium Ions through the Membrane of the Giant Axon of Loligo.html:URL:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/;PubMed Central Full Text PDF:Hodgkin1952a - Currents Carried by Sodium and Potassium Ions through the Membrane of the Giant Axon of Loligo.pdf:PDF:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/pdf/jphysiol01447-0082.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/
-      \endverb
-    \endentry
-    \entry{Hodgkin1952}{article}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7fdcc730bf64349a6b5d7abd25ae9402}{%
-           family={Huxley},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{bibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorbibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authornamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \field{extraname}{3}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-3751}
-      \field{journaltitle}{The Journal of Physiology}
-      \field{month}{8}
-      \field{number}{4}
-      \field{title}{A quantitative description of membrane current and its application to conduction and excitation in nerve}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{117}
-      \field{year}{1952}
-      \field{urldateera}{ce}
-      \field{pages}{500\bibrangedash 544}
-      \range{pages}{45}
-      \verb{file}
-      \verb PubMed Central Link:Hodgkin1952 - A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve.html:URL:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/;PubMed Central Full Text PDF:Hodgkin1952 - A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve.pdf:PDF:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
-      \endverb
     \endentry
     \entry{Howard2006}{inbook}{}{2}
       \name{author}{1}{}{%
@@ -768,7 +369,7 @@
       \verb https://doi.org/10.1007/1-4020-4251-5_2
       \endverb
     \endentry
-    \entry{Lewontin2017}{book}{}{2}
+    \entry{Lewontin2017}{book}{}{1}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=d9cfbde074beaef4c44088b7cb04e991}{%
            family={Lewontin},
@@ -851,7 +452,7 @@
       \field{title}{The end of bias: A beginning: The science and practice of overcoming unconscious bias}
       \field{year}{2021}
     \endentry
-    \entry{Pearl2018}{book}{}{}
+    \entry{Pearl2018}{book}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -894,7 +495,7 @@
       \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
       \endverb
     \endentry
-    \entry{Pearl2016}{book}{}{}
+    \entry{Pearl2016}{book}{}{1}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -943,63 +544,7 @@
       \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
       \endverb
     \endentry
-    \entry{Piccolino2013}{book}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ea7b065f9840ce5d6bdb0903c7c7acd7}{%
-           family={Piccolino},
-           familyi={P\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ebe4fdaf8bd2451a6a7c050b1f210daf}{%
-           family={Bresadola},
-           familyi={B\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{fullhash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{fullhashraw}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{bibnamehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authorbibnamehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authornamehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authorfullhash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authorfullhashraw}{b001b37459b849ce337a52cd3a3c7a8d}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Abstract. This book provides an accurate and detailed reconstruction of the research pathway that led the Bologna physician, Luigi Galvani, to discover the}
-      \field{isbn}{9780199345182}
-      \field{month}{11}
-      \field{shorttitle}{Shocking {Frogs}}
-      \field{title}{Shocking {Frogs}: {Galvani}, {Volta}, and the {Electric} {Origins} of {Neuroscience}}
-      \field{urlday}{21}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{year}{2013}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1093/acprof:oso/9780199782161.001.0001
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/book/2646
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/book/2646
-      \endverb
-    \endentry
-    \entry{Potochnik2017-POTIAT-3}{book}{}{8}
+    \entry{Potochnik2017-POTIAT-3}{book}{}{3}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b34884b484ced971d2f484cc714e59f}{%
            family={Potochnik},
@@ -1031,134 +576,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Idealization and the Aims of Science}
       \field{year}{2017}
-    \endentry
-    \entry{pritchardEpistemicValueCognitive2021}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=91b19af5cbeddedd91f48b5e62987d49}{%
-           family={Pritchard},
-           familyi={P\bibinitperiod},
-           given={Duncan},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{bibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorbibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authornamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \field{extraname}{1}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The {{Epistemic Value}} of {{Cognitive Contact}} with {{Reality}}}
-      \field{year}{2021}
-    \endentry
-    \entry{pritchard2021a}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=91b19af5cbeddedd91f48b5e62987d49}{%
-           family={Pritchard},
-           familyi={P\bibinitperiod},
-           given={Duncan},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{bibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorbibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authornamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \field{extraname}{2}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The idea that truth is the fundamental epistemic good is explained and defended. It is argued that this proposal has been prematurely rejected on grounds that are both independently problematic and which also turn on an implausible way of understanding the proposal. A more compelling account of what it means for truth to be the fundamental epistemic good is then developed, one that treats the intellectual virtues, and thereby virtuous inquiry, as the primary theoretical notion.}
-      \field{issn}{1573-0964}
-      \field{journaltitle}{Synthese}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{6}
-      \field{title}{Intellectual Virtues and the Epistemic Value of Truth}
-      \field{urlday}{8}
-      \field{urlmonth}{11}
-      \field{urlyear}{2022}
-      \field{volume}{198}
-      \field{year}{2021}
-      \field{urldateera}{ce}
-      \field{pages}{5515\bibrangedash 5528}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/s11229-019-02418-z
-      \endverb
-      \keyw{Epistemic value,Epistemology,Inquiry,Intellectual virtue,truth}
-    \endentry
-    \entry{Quine1951}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9c9299d851aa969452f97be782202d35}{%
-           family={Quine},
-           familyi={Q\bibinitperiod},
-           given={W.\bibnamedelimi V.},
-           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {[Duke University Press, Philosophical Review]}%
-      }
-      \strng{namehash}{9c9299d851aa969452f97be782202d35}
-      \strng{fullhash}{9c9299d851aa969452f97be782202d35}
-      \strng{fullhashraw}{9c9299d851aa969452f97be782202d35}
-      \strng{bibnamehash}{9c9299d851aa969452f97be782202d35}
-      \strng{authorbibnamehash}{9c9299d851aa969452f97be782202d35}
-      \strng{authornamehash}{9c9299d851aa969452f97be782202d35}
-      \strng{authorfullhash}{9c9299d851aa969452f97be782202d35}
-      \strng{authorfullhashraw}{9c9299d851aa969452f97be782202d35}
-      \field{sortinit}{Q}
-      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0031-8108}
-      \field{journaltitle}{The Philosophical Review}
-      \field{number}{1}
-      \field{shorttitle}{Main {Trends} in {Recent} {Philosophy}}
-      \field{title}{Main {Trends} in {Recent} {Philosophy}: {Two} {Dogmas} of {Empiricism}}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{60}
-      \field{year}{1951}
-      \field{urldateera}{ce}
-      \field{pages}{20\bibrangedash 43}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.2307/2181906
-      \endverb
-      \verb{file}
-      \verb JSTOR Full Text PDF:https\://www.jstor.org/stable/pdfplus/10.2307/2181906.pdf?acceptTC=true:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.jstor.org/stable/2181906
-      \endverb
-      \verb{url}
-      \verb https://www.jstor.org/stable/2181906
-      \endverb
     \endentry
     \entry{reichenbach1938experience}{article}{}{1}
       \name{author}{1}{}{%
@@ -1266,7 +683,7 @@
       \field{title}{The {Concept} of {Reduction}}
       \field{year}{2014}
     \endentry
-    \entry{sep-causal-explanation-science}{inbook}{}{}
+    \entry{sep-causal-explanation-science}{inbook}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d75a1d860c0a9657e89e1353677cd6cc}{%
            family={Ross},
@@ -1566,56 +983,7 @@
       \field{title}{To explain the world: The Discovery of Modern Science}
       \field{year}{2015}
     \endentry
-    \entry{Weisberg2007}{article}{}{3}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d49f7bc8f0cf4362165d2fae0e6a2d55}{%
-           family={Weisberg},
-           familyi={W\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Journal of Philosophy, Inc.}%
-      }
-      \strng{namehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{fullhash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{fullhashraw}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{bibnamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authorbibnamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authornamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authorfullhash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authorfullhashraw}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-362X}
-      \field{journaltitle}{The Journal of Philosophy}
-      \field{number}{12}
-      \field{title}{Three {Kinds} of {Idealization}}
-      \field{urlday}{22}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{volume}{104}
-      \field{year}{2007}
-      \field{urldateera}{ce}
-      \field{pages}{639\bibrangedash 659}
-      \range{pages}{21}
-      \verb{file}
-      \verb JSTOR Full Text PDF:https\://www.jstor.org/stable/pdfplus/10.2307/20620065.pdf?acceptTC=true:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.jstor.org/stable/20620065
-      \endverb
-      \verb{url}
-      \verb https://www.jstor.org/stable/20620065
-      \endverb
-    \endentry
-    \entry{Woodward2000-WOOEAI}{article}{}{}
+    \entry{Woodward2000-WOOEAI}{article}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
            family={Woodward},
@@ -1654,7 +1022,7 @@
       \verb 10.1093/bjps/51.2.197
       \endverb
     \endentry
-    \entry{Woodward2004}{book}{}{}
+    \entry{Woodward2004}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
            family={Woodward},
@@ -1822,7 +1190,7 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{abrams2023evolution}{book}{}{2}
+    \entry{abrams2023evolution}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=4b7afc2ad907ccfdd2b8c74899f1d22e}{%
            family={Abrams},
@@ -1943,187 +1311,6 @@
       \field{pages}{1\bibrangedash 70}
       \range{pages}{70}
     \endentry
-    \entry{Carrillo2021-CARAAP-12}{inbook}{}{5}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=971eacda1e2cc8947f4bf03bf7c9152a}{%
-           family={Carrillo},
-           familyi={C\bibinitperiod},
-           given={Natalia},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d87dc545799cf42a209496478c5a9ce5}{%
-           family={Knuuttila},
-           familyi={K\bibinitperiod},
-           given={Tarja},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=02add8616c43069b351276eac3c4d423}{%
-           family={Cassini},
-           familyi={C\bibinitperiod},
-           given={Alejandro},
-           giveni={A\bibinitperiod}}}%
-        {{hash=c8f249be5d9368938654197389ab6e71}{%
-           family={Redmond},
-           familyi={R\bibinitperiod},
-           given={Juan},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Springer Verlag}%
-      }
-      \strng{namehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \strng{bibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorbibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authornamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \strng{editorbibnamehash}{3df8a6da8d0f691599c6b55e71816f0c}
-      \strng{editornamehash}{3df8a6da8d0f691599c6b55e71816f0c}
-      \strng{editorfullhash}{3df8a6da8d0f691599c6b55e71816f0c}
-      \strng{editorfullhashraw}{3df8a6da8d0f691599c6b55e71816f0c}
-      \field{extraname}{1}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Models and Idealizations in Science: Artifactual and Fictional Approaches}
-      \field{title}{An Artifactual Perspective on Idealization: Constant Capacitance and the Hodgkin and Huxley Model}
-      \field{year}{2021}
-      \field{pages}{51\bibrangedash 70}
-      \range{pages}{20}
-    \endentry
-    \entry{Carrillo2022}{article}{}{5}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=971eacda1e2cc8947f4bf03bf7c9152a}{%
-           family={Carrillo},
-           familyi={C\bibinitperiod},
-           given={Natalia},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d87dc545799cf42a209496478c5a9ce5}{%
-           family={Knuuttila},
-           familyi={K\bibinitperiod},
-           given={Tarja},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{fullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \strng{bibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorbibnamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authornamehash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhash}{d83420ceb87206b767ffea2e3285c617}
-      \strng{authorfullhashraw}{d83420ceb87206b767ffea2e3285c617}
-      \field{extraname}{2}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Idealization is commonly understood as distortion: representing things differently than how they actually are. In this paper, we outline an alternative artifactual approach that does not make misrepresentation central for the analysis of idealization. We examine the contrast between the Hodgkin-Huxley (1952a, b, c) and the Heimburg-Jackson (2005, 2006) models of the nerve impulse from the artifactual perspective, and argue that, since the two models draw upon different epistemic resources and research programs, it is often difficult to tell which features of a system the central assumptions involved are supposed to distort. Many idealizations are holistic in nature. They cannot be locally undone without dismantling the model, as they occupy a central position in the entire research program. Nor is their holistic character mainly related to the use of mathematical and statistical modeling techniques as portrayed by Rice (2018, 2019). We suggest that holistic idealizations are implicit theoretical and representational assumptions that can only be understood in relation to the conceptual and representational tools exploited in modeling and experimental practices. Such holistic idealizations play a pivotal role not just in individual models, but also in defining research programs.}
-      \field{issn}{0039-3681}
-      \field{journaltitle}{Studies in History and Philosophy of Science}
-      \field{month}{2}
-      \field{shorttitle}{Holistic idealization}
-      \field{title}{Holistic idealization: {An} artifactual standpoint}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{91}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-      \field{pages}{49\bibrangedash 59}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1016/j.shpsa.2021.10.009
-      \endverb
-      \verb{file}
-      \verb ScienceDirect Full Text PDF:https\://www.sciencedirect.com/science/article/pii/S0039368121001655/pdfft?md5=8e3660d970bf468dafbe2edbde93daec&pid=1-s2.0-S0039368121001655-main.pdf&isDTMRedir=Y:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0039368121001655
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0039368121001655
-      \endverb
-      \keyw{Modeling,Idealization,Artifactual account of modeling,Scientific representation,Nerve impulse,Hodgkin and Huxley model}
-    \endentry
-    \entry{elgin2004}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=855466be8596c27d33ff368b999b2660}{%
-           family={Elgin},
-           familyi={E\bibinitperiod},
-           given={Catherine\bibnamedelima Z.},
-           giveni={C\bibinitperiod\bibinitdelim Z\bibinitperiod},
-           givenun=1}}%
-      }
-      \strng{namehash}{855466be8596c27d33ff368b999b2660}
-      \strng{fullhash}{855466be8596c27d33ff368b999b2660}
-      \strng{fullhashraw}{855466be8596c27d33ff368b999b2660}
-      \strng{bibnamehash}{855466be8596c27d33ff368b999b2660}
-      \strng{authorbibnamehash}{855466be8596c27d33ff368b999b2660}
-      \strng{authornamehash}{855466be8596c27d33ff368b999b2660}
-      \strng{authorfullhash}{855466be8596c27d33ff368b999b2660}
-      \strng{authorfullhashraw}{855466be8596c27d33ff368b999b2660}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Philosophical Issues}
-      \field{number}{1}
-      \field{title}{True {{Enough}}}
-      \field{volume}{14}
-      \field{year}{2004}
-      \field{pages}{113\bibrangedash 131}
-      \range{pages}{19}
-      \verb{doi}
-      \verb 10.1111/j.1533-6077.2004.00023.x
-      \endverb
-    \endentry
-    \entry{elgin2017true}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=492cfeabeee1a7b6e27995dae064d98c}{%
-           family={Elgin},
-           familyi={E\bibinitperiod},
-           given={C.Z.},
-           giveni={C\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{fullhash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{fullhashraw}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{bibnamehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authorbibnamehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authornamehash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authorfullhash}{492cfeabeee1a7b6e27995dae064d98c}
-      \strng{authorfullhashraw}{492cfeabeee1a7b6e27995dae064d98c}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-262-34138-7}
-      \field{series}{The {{MIT}} Press}
-      \field{title}{True Enough}
-      \field{year}{2017}
-      \keyw{correccionescap1}
-    \endentry
     \entry{Frank1956}{inbook}{}{2}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=5cfab282dc9ba8c859a002b7523fd98b}{%
@@ -2207,44 +1394,44 @@
       \verb http://www.jstor.org/stable/21111
       \endverb
     \endentry
-    \entry{Frigg2020}{book}{}{2}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=b904242ed2ff958dcef789f85b209779}{%
-           family={Frigg},
-           familyi={F\bibinitperiod},
-           given={Roman},
-           giveni={R\bibinitperiod},
+    \entry{Hajek2016-HAJOHO}{book}{}{1}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc279b3ba8140cddcff638158e09d710}{%
+           family={Hájek},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6428dcc06c869b60a8fb05d7c548f4bf}{%
-           family={Nguyen},
-           familyi={N\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod},
+        {{un=0,uniquepart=base,hash=4bfcf814d4d646a1553328ca8ed76322}{%
+           family={Hitchcock},
+           familyi={H\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {New York}%
+        {Oxford}%
       }
       \list{publisher}{1}{%
-        {Springer}%
+        {Oxford University Press}%
       }
-      \strng{namehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{fullhash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{fullhashraw}{672ae36166315c4b875acd17226a4b5b}
-      \strng{bibnamehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authorbibnamehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authornamehash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authorfullhash}{672ae36166315c4b875acd17226a4b5b}
-      \strng{authorfullhashraw}{672ae36166315c4b875acd17226a4b5b}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \strng{namehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{fullhash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{fullhashraw}{524f37506b1d111d1edc279be06e6d81}
+      \strng{bibnamehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editorbibnamehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editornamehash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editorfullhash}{524f37506b1d111d1edc279be06e6d81}
+      \strng{editorfullhashraw}{524f37506b1d111d1edc279be06e6d81}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
+      \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
-      \field{title}{Modelling {Nature}. {An} {Opinionated} {Introduction} to {Scientific} {Representation}}
-      \field{year}{2020}
+      \field{title}{The Oxford Handbook of Probability and Philosophy}
+      \field{year}{2016}
     \endentry
     \entry{sep-pseudo-science}{inbook}{}{1}
       \name{author}{1}{}{%
@@ -2289,224 +1476,6 @@
       \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2021/entries/pseudo-science/}}
       \field{title}{{Science and Pseudo-Science}}
       \field{year}{2021}
-    \endentry
-    \entry{Hodgkin1951}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{fullhash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{fullhashraw}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{bibnamehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authorbibnamehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authornamehash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authorfullhash}{f245ea6325fec5c9f96ceebb69626059}
-      \strng{authorfullhashraw}{f245ea6325fec5c9f96ceebb69626059}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{1 Four methods of determining the potential difference across the surface membrane of living cells are described. 2 In a wide range of excitable tissues the resting membrane potential is of the order of 50–100 mV. and the action potential of the order of 80–130 mV. 3 At the height of activity the potential difference across the membrane is reversed by 30–50 mV. 4 The potassium concentration inside most excitable cells is 20–50 times greater than that in the external medium; sodium is 3–15 times more concentrated outside than it is inside, while chloride is 5–50 times more concentrated outside than inside. Isolated fibres lose potassium and gain sodium and chloride ions. 5 Potassium appears to exist as a free ion inside nerve and muscle fibres. 6 The nature of the organic anions which balance the high concentration of potassium inside excitable cells is still largely unknown. In certain cases amino-acids such as aspartic acid are present in high concentrations. 7 The resting membrane behaves as though it were moderately permeable to K+ and Cl- but sparingly permeable to Na+. The absolute magnitude of the resting potential is similar to that calculated from the potassium concentrations if allowance is made for the contributions of chloride and other ions. Movements of K+ and Cl- as determined by radioactive tracers or by chemical methods agree with a quantitative formulation of this hypothesis. 8 It is necessary to suppose that sodium is continuously pumped out of excitable cells by a process which depends on metabolism. 9 Electrical activity is due to a large and specific increase in the permeability to sodium. The reversed potential difference across the active membrane arises from the concentration difference of sodium and varies with the external concentration of sodium in the same manner as the theoretical potential of a sodium electrode. 10 In many cells, conduction of impulses is impossible if the external medium does not contain sodium or lithium ions. 11 The rate of rise of the action potential varies with the concentration of sodium ions in the external medium. 12 Sodium enters a nerve fibre when it is active. The quantity entering 1 cm.2 of membrane during one impulse is of the order of 3 μμmol. 13 Entry of sodium is approximately balanced by the leakage of a corresponding quantity of potassium. 14 It is suggested that sodium enters the nerve fibre during the rising phase of the action potential and that potassium leaves during the falling phase. 15 The permeability changes during the action potential probably consist of a rapid but transient increase in the permeability to sodium and a delayed increase in the permeability to potassium. It is suggested that both permeability changes vary with membrane potential in a graded but reversible manner. This hypothesis is applied to the phenomena of subthreshold activity, accomodation and oscillatory behaviour. 16 In vertebrate myelinated fibres there is much evidence to show that conduction is saltatory; this suggests that sodium entry is confined to the nodes of Ranvier, and that the internodes are depolarized by local circuit action. 17 Provided that nerves are not stimulated at a high rate, recovery heat production is sufficient to account for the metabolic extrusion of sodium after activity.}
-      \field{issn}{1469-185X}
-      \field{journaltitle}{Biological Reviews}
-      \field{number}{4}
-      \field{title}{The {Ionic} {Basis} of {Electrical} {Activity} in {Nerve} and {Muscle}}
-      \field{urlday}{21}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{volume}{26}
-      \field{year}{1951}
-      \field{urldateera}{ce}
-      \field{pages}{339\bibrangedash 409}
-      \range{pages}{71}
-      \verb{doi}
-      \verb 10.1111/j.1469-185X.1951.tb01204.x
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:https\://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1469-185X.1951.tb01204.x:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-185X.1951.tb01204.x
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-185X.1951.tb01204.x
-      \endverb
-    \endentry
-    \entry{Hodgkin1952b}{article}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7fdcc730bf64349a6b5d7abd25ae9402}{%
-           family={Huxley},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{bibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorbibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authornamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \field{extraname}{1}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-3751}
-      \field{journaltitle}{The Journal of Physiology}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{The components of membrane conductance in the giant axon of {Loligo}}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{116}
-      \field{year}{1952}
-      \field{urldateera}{ce}
-      \field{pages}{473\bibrangedash 496}
-      \range{pages}{24}
-      \verb{file}
-      \verb PubMed Central Link:Hodgkin1952b - The Components of Membrane Conductance in the Giant Axon of Loligo.html:URL:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/;PubMed Central Full Text PDF:Hodgkin1952b - The Components of Membrane Conductance in the Giant Axon of Loligo.pdf:PDF:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/pdf/jphysiol01447-0106.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392209/
-      \endverb
-    \endentry
-    \entry{Hodgkin1952a}{article}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7fdcc730bf64349a6b5d7abd25ae9402}{%
-           family={Huxley},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{bibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorbibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authornamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \field{extraname}{2}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-3751}
-      \field{journaltitle}{The Journal of Physiology}
-      \field{month}{4}
-      \field{number}{4}
-      \field{title}{Currents carried by sodium and potassium ions through the membrane of the giant axon of {Loligo}}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{116}
-      \field{year}{1952}
-      \field{urldateera}{ce}
-      \field{pages}{449\bibrangedash 472}
-      \range{pages}{24}
-      \verb{file}
-      \verb PubMed Central Link:Hodgkin1952a - Currents Carried by Sodium and Potassium Ions through the Membrane of the Giant Axon of Loligo.html:URL:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/;PubMed Central Full Text PDF:Hodgkin1952a - Currents Carried by Sodium and Potassium Ions through the Membrane of the Giant Axon of Loligo.pdf:PDF:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/pdf/jphysiol01447-0082.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392213/
-      \endverb
-    \endentry
-    \entry{Hodgkin1952}{article}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=f245ea6325fec5c9f96ceebb69626059}{%
-           family={Hodgkin},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi L.},
-           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7fdcc730bf64349a6b5d7abd25ae9402}{%
-           family={Huxley},
-           familyi={H\bibinitperiod},
-           given={A.\bibnamedelimi F.},
-           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{fullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{bibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorbibnamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authornamehash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhash}{7d285c84e0578b90c81d7194bbb4059c}
-      \strng{authorfullhashraw}{7d285c84e0578b90c81d7194bbb4059c}
-      \field{extraname}{3}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-3751}
-      \field{journaltitle}{The Journal of Physiology}
-      \field{month}{8}
-      \field{number}{4}
-      \field{title}{A quantitative description of membrane current and its application to conduction and excitation in nerve}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{117}
-      \field{year}{1952}
-      \field{urldateera}{ce}
-      \field{pages}{500\bibrangedash 544}
-      \range{pages}{45}
-      \verb{file}
-      \verb PubMed Central Link:Hodgkin1952 - A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve.html:URL:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/;PubMed Central Full Text PDF:Hodgkin1952 - A Quantitative Description of Membrane Current and Its Application to Conduction and Excitation in Nerve.pdf:PDF:https\://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/pdf/jphysiol01442-0106.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
-      \endverb
-      \verb{url}
-      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1392413/
-      \endverb
     \endentry
     \entry{Howard2006}{inbook}{}{2}
       \name{author}{1}{}{%
@@ -2571,7 +1540,7 @@
       \verb https://doi.org/10.1007/1-4020-4251-5_2
       \endverb
     \endentry
-    \entry{Lewontin2017}{book}{}{2}
+    \entry{Lewontin2017}{book}{}{1}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=d9cfbde074beaef4c44088b7cb04e991}{%
            family={Lewontin},
@@ -2654,7 +1623,7 @@
       \field{title}{The end of bias: A beginning: The science and practice of overcoming unconscious bias}
       \field{year}{2021}
     \endentry
-    \entry{Pearl2016}{book}{}{}
+    \entry{Pearl2016}{book}{}{1}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -2703,7 +1672,7 @@
       \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
       \endverb
     \endentry
-    \entry{Pearl2018}{book}{}{}
+    \entry{Pearl2018}{book}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -2746,63 +1715,7 @@
       \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
       \endverb
     \endentry
-    \entry{Piccolino2013}{book}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=ea7b065f9840ce5d6bdb0903c7c7acd7}{%
-           family={Piccolino},
-           familyi={P\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ebe4fdaf8bd2451a6a7c050b1f210daf}{%
-           family={Bresadola},
-           familyi={B\bibinitperiod},
-           given={Marco},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{fullhash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{fullhashraw}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{bibnamehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authorbibnamehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authornamehash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authorfullhash}{b001b37459b849ce337a52cd3a3c7a8d}
-      \strng{authorfullhashraw}{b001b37459b849ce337a52cd3a3c7a8d}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Abstract. This book provides an accurate and detailed reconstruction of the research pathway that led the Bologna physician, Luigi Galvani, to discover the}
-      \field{isbn}{9780199345182}
-      \field{month}{11}
-      \field{shorttitle}{Shocking {Frogs}}
-      \field{title}{Shocking {Frogs}: {Galvani}, {Volta}, and the {Electric} {Origins} of {Neuroscience}}
-      \field{urlday}{21}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{year}{2013}
-      \field{urldateera}{ce}
-      \verb{doi}
-      \verb 10.1093/acprof:oso/9780199782161.001.0001
-      \endverb
-      \verb{urlraw}
-      \verb https://academic.oup.com/book/2646
-      \endverb
-      \verb{url}
-      \verb https://academic.oup.com/book/2646
-      \endverb
-    \endentry
-    \entry{Potochnik2017-POTIAT-3}{book}{}{8}
+    \entry{Potochnik2017-POTIAT-3}{book}{}{3}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b34884b484ced971d2f484cc714e59f}{%
            family={Potochnik},
@@ -2834,134 +1747,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Idealization and the Aims of Science}
       \field{year}{2017}
-    \endentry
-    \entry{pritchardEpistemicValueCognitive2021}{misc}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=91b19af5cbeddedd91f48b5e62987d49}{%
-           family={Pritchard},
-           familyi={P\bibinitperiod},
-           given={Duncan},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{bibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorbibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authornamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \field{extraname}{1}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The {{Epistemic Value}} of {{Cognitive Contact}} with {{Reality}}}
-      \field{year}{2021}
-    \endentry
-    \entry{pritchard2021a}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=91b19af5cbeddedd91f48b5e62987d49}{%
-           family={Pritchard},
-           familyi={P\bibinitperiod},
-           given={Duncan},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{fullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{bibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorbibnamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authornamehash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhash}{91b19af5cbeddedd91f48b5e62987d49}
-      \strng{authorfullhashraw}{91b19af5cbeddedd91f48b5e62987d49}
-      \field{extraname}{2}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{The idea that truth is the fundamental epistemic good is explained and defended. It is argued that this proposal has been prematurely rejected on grounds that are both independently problematic and which also turn on an implausible way of understanding the proposal. A more compelling account of what it means for truth to be the fundamental epistemic good is then developed, one that treats the intellectual virtues, and thereby virtuous inquiry, as the primary theoretical notion.}
-      \field{issn}{1573-0964}
-      \field{journaltitle}{Synthese}
-      \field{langid}{english}
-      \field{month}{6}
-      \field{number}{6}
-      \field{title}{Intellectual Virtues and the Epistemic Value of Truth}
-      \field{urlday}{8}
-      \field{urlmonth}{11}
-      \field{urlyear}{2022}
-      \field{volume}{198}
-      \field{year}{2021}
-      \field{urldateera}{ce}
-      \field{pages}{5515\bibrangedash 5528}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/s11229-019-02418-z
-      \endverb
-      \keyw{Epistemic value,Epistemology,Inquiry,Intellectual virtue,truth}
-    \endentry
-    \entry{Quine1951}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=9c9299d851aa969452f97be782202d35}{%
-           family={Quine},
-           familyi={Q\bibinitperiod},
-           given={W.\bibnamedelimi V.},
-           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {[Duke University Press, Philosophical Review]}%
-      }
-      \strng{namehash}{9c9299d851aa969452f97be782202d35}
-      \strng{fullhash}{9c9299d851aa969452f97be782202d35}
-      \strng{fullhashraw}{9c9299d851aa969452f97be782202d35}
-      \strng{bibnamehash}{9c9299d851aa969452f97be782202d35}
-      \strng{authorbibnamehash}{9c9299d851aa969452f97be782202d35}
-      \strng{authornamehash}{9c9299d851aa969452f97be782202d35}
-      \strng{authorfullhash}{9c9299d851aa969452f97be782202d35}
-      \strng{authorfullhashraw}{9c9299d851aa969452f97be782202d35}
-      \field{sortinit}{Q}
-      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0031-8108}
-      \field{journaltitle}{The Philosophical Review}
-      \field{number}{1}
-      \field{shorttitle}{Main {Trends} in {Recent} {Philosophy}}
-      \field{title}{Main {Trends} in {Recent} {Philosophy}: {Two} {Dogmas} of {Empiricism}}
-      \field{urlday}{3}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{volume}{60}
-      \field{year}{1951}
-      \field{urldateera}{ce}
-      \field{pages}{20\bibrangedash 43}
-      \range{pages}{24}
-      \verb{doi}
-      \verb 10.2307/2181906
-      \endverb
-      \verb{file}
-      \verb JSTOR Full Text PDF:https\://www.jstor.org/stable/pdfplus/10.2307/2181906.pdf?acceptTC=true:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.jstor.org/stable/2181906
-      \endverb
-      \verb{url}
-      \verb https://www.jstor.org/stable/2181906
-      \endverb
     \endentry
     \entry{reichenbach1938experience}{article}{}{1}
       \name{author}{1}{}{%
@@ -3069,7 +1854,7 @@
       \field{title}{The {Concept} of {Reduction}}
       \field{year}{2014}
     \endentry
-    \entry{sep-causal-explanation-science}{inbook}{}{}
+    \entry{sep-causal-explanation-science}{inbook}{}{1}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d75a1d860c0a9657e89e1353677cd6cc}{%
            family={Ross},
@@ -3369,56 +2154,7 @@
       \field{title}{To explain the world: The Discovery of Modern Science}
       \field{year}{2015}
     \endentry
-    \entry{Weisberg2007}{article}{}{3}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d49f7bc8f0cf4362165d2fae0e6a2d55}{%
-           family={Weisberg},
-           familyi={W\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Journal of Philosophy, Inc.}%
-      }
-      \strng{namehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{fullhash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{fullhashraw}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{bibnamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authorbibnamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authornamehash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authorfullhash}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \strng{authorfullhashraw}{d49f7bc8f0cf4362165d2fae0e6a2d55}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0022-362X}
-      \field{journaltitle}{The Journal of Philosophy}
-      \field{number}{12}
-      \field{title}{Three {Kinds} of {Idealization}}
-      \field{urlday}{22}
-      \field{urlmonth}{5}
-      \field{urlyear}{2024}
-      \field{volume}{104}
-      \field{year}{2007}
-      \field{urldateera}{ce}
-      \field{pages}{639\bibrangedash 659}
-      \range{pages}{21}
-      \verb{file}
-      \verb JSTOR Full Text PDF:https\://www.jstor.org/stable/pdfplus/10.2307/20620065.pdf?acceptTC=true:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.jstor.org/stable/20620065
-      \endverb
-      \verb{url}
-      \verb https://www.jstor.org/stable/20620065
-      \endverb
-    \endentry
-    \entry{Woodward2000-WOOEAI}{article}{}{}
+    \entry{Woodward2000-WOOEAI}{article}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
            family={Woodward},
@@ -3457,7 +2193,7 @@
       \verb 10.1093/bjps/51.2.197
       \endverb
     \endentry
-    \entry{Woodward2004}{book}{}{}
+    \entry{Woodward2004}{book}{}{1}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
            family={Woodward},
@@ -3624,8 +2360,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Potochnik 2017}
-  \missing{suárez emergence}
 \endrefsection
 \endinput
 

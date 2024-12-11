@@ -1,0 +1,126 @@
+% !TEX root = ../main.tex
+% LTeX: language=es, en
+
+\chapter{Introducción}
+%\label{ch:introduction}
+
+\section{Una breve anécdota}
+
+\noindent El doctorado ha sido un largo viaje durante el cuál aprendí mucho. 
+Una parte considerable del aprendizaje está relacionado con la
+filosofía,\sidenote{Juro que este breve relato tiene un punto. La otra
+parte de mi aprendizaje no está relacionado con filosofía, por tanto no
+aparecerá en el escrito. } y la alta calidad del posgrado me permitió
+profundizar en los temas que me interesaban. Quiero mencionar además, que
+mi interés en estos temas nació durante mi licenciatura. Me interesé en
+filosofía de la ciencia porque tuve dos profesores tuve durante este
+periodo; ambos excelentes maestros y excelentes filósofos.
+
+Los temas que vimos durante sus clases fueron sumamente interesantes, pero mi atención la dirigí especialmente a los temas de la \emph{explicación científica} y la \emph{naturaleza de la causalidad}. 
+Mis intuiciones --todavía queda un resabio de esto-- señalaban que encontrar la causa de un fenómeno es la mejor manera de explicar por qué sucede ese fenómeno.
+
+Esta intuición no está muy alejada de algunas teorías de la
+explicación, por ejemplo, Potochnik señala que \say{[$\ldots$] I make the case that much of science is profitably understood as the search for causal patterns.} \parencite[][p.~24]{Potochnik2017-POTIAT-3} 
+No sólo eso, Potochnik también afirma que son las teorías \emph{manipulabilistas} \parencite{sep-causation-mani} de la causalidad las que mejor vinculan a la práctica de la investigación científica con la búsqueda de patrones causales. 
+
+\paragraph{Brevemente, las teorías \emph{manipulabilistas}\sidenote{
+	La siguiente caracterización está basada en \parencite{sep-causation-mani, sep-causal-explanation-science, Woodward2004, Woodward2000-WOOEAI}
+	} afirman} que dadas dos variables $A$ y $B$, decimos que $A$ \emph{causa} $B$ si al intervenir (manipular) la variable $A$, la variable $B$ cambia en consecuencia.
+Esto, por supuesto sólo es una parte de la historia de las teorías \emph{manipulabilistas}. 
+Si hay una función bien definida entre las variables, la tarea es ligeramente sencilla.
+Pensemos, por ejemplo, en una función cualquiera entre dos variables, digamos que la función está definida de la siguiente manera $f(x) = 2y$, donde $x \in \mathbb{N}$.
+Esto significa que si $x$ toma el $3$ como valor, la variable $y$ tendrá $6$ como valor.
+
+Supongamos que estos son los valores que puede tomar una medida de fuerza.
+Digamos que \emph{dos centímetros} de presión en un resorte producen \emph{cuatro metros} de distancia de un proyectil, \emph{independiente} de cualquier fuerza externa, por ejemplo, la fuerza del aire --insisto en que esto es sólo un caso para ejemplificar. 
+
+Esto significaría que la compresión del resorte \emph{causa} que el proyectil alcance más distancia. 
+Además es posible que la función definida anteriormente no sea correcta para algunos de los valores de $x$, por ejemplo, si el resorte sólo mide $8$ cm, llegará un momento en que el resorte esté completamente comprimido como para que más compresión haga una diferencia.
+
+El ejemplo anterior sirve para describir algunas de las características de la teoría \emph{manipulabilista.} 
+Que la función describa correctamente el comportamiento del proyectil, \emph{independiente} de otra fuerza, quiere decir que la compresión en el resorte es la única variable que afecta el traslado del proyectil. 
+
+Que la \emph{intervención} en el resorte cause que el proyectil llegue a mas distancia, \emph{independiente} de cualquier otra fuerza, significa que es posible hacer una intervención \say{quirúrgica} y que sólo haya ciertos valores que describen correctamente el comportamiento del proyectil, significa que es \emph{invariante} bajo un rango de intervenciones. 
+En esto, a grandes rasgos, consiste una teoría \emph{manipulabilista} de la causalidad.
+
+Hay otras características integran la teoría \emph{manipulabilista} de la causalidad.
+Quizás la más controversial de ellas es que la teoría hace uso de condicionales \emph{contrafácticos.} 
+Estos condicionales sirven para responder preguntas del tipo \say{¿qué hubiera sucedido si $x$ hubiera tomado un valor distinto al que tomó?}
+En investigación, se suele mencionar el uso de condicionales \emph{contrafácticos}, principalmente en inferencias causales. 
+
+Si tomamos en serio el trabajo que realizan las personas cuando hacen investigación, es claro que el uso de estas herramientas juega un papel central y, de manera particular, los modelos estadísticos hacen uso de condicionales \emph{contrafácticos.} 
+Los condicionales \emph{contrafácticos} son aquellos condicionales que evaluamos bajo el supuesto de que algo no sucede, pero que nos obligan a preguntarnos que pasaría si se cumplieran ciertas condiciones particulares. 
+Dicho de otro modo, nos preguntamos cómo sería el mundo si, por ejemplo, México no hubiera sido conquistado por los españoles. 
+
+Estos métodos sirven, sobre todo, cuando utilizamos modelos estadísticos para justificar hipótesis causales \parencite{Pearl2016, Pearl2018}.
+Un ejemplo de esto son las \emph{Pruebas Controladas Aleatorizadas} (RCT, por sus siglas en inglés), donde se interviene en una de las variables --típicamente un grupo de control al que se le da un placebo,-- mientras que otro grupo recibe el medicamento a testar.
+Este esperando que seamos capaces de detectar si el medicamento está jugando un papel causal. 
+Los condicionales contrafácticos encuentran su aplicación en estos contextos para \say{crear} un evento alterno.
+
+\paragraph{No voy a hacer una defensa} de la teoría \emph{manipulabilista} de la causalidad. 
+Eso lo hice en mi proyecto de maestría, en particular tratando de elucidar cómo esta teoría lidia con explicaciones causales en biología evolutiva --sea cual sea el éxito que haya tenido esta defensa,-- con
+mi proyecto actual quiero hacer claro cómo sabemos qué condicionales \emph{contrafácticos} son \say{verdaderos}.
+
+Parece que queda claro que herramientas estadísticas, en el contexto de las inferencias causales, echan mano de \emph{condicionales contrafácticos.}
+Además, son estos condicionales, los que nos permiten trazar relaciones causales según la teoría \emph{manipulabilista}
+Una motivación que se ha mencionado en la literatura para introducir métodos que nos permitan trazar relaciones causales es la llamada \say{paradoja de Simpson.}
+Esto no es estrictamente una paradoja, pero aparece cuando los datos se comportan de manera poco intuitiva \parencite[p.~13]{Hajek2016-HAJOHO}, 
+Algunos autores han señalado que la solución radica en ser capaces de ofrecer un método para obtener relaciones causales a partir de datos estadísticos.
+
+Este tema --el de la explicación causal-- está fuertemente vinculado con el uso de herramientas y \emph{modelos} estadísticos en investigación.
+Mi propósito es hacer claro cómo funcionan dichos modelos y qué herramientas nos sirven para justificar que en efecto dos variables están causalmente relacionadas.
+Esto es importante, porque en muchos casos se suele decir que los \emph{modelos} usados en investigación, sea cual sea su uso, son \say{falsos} 
+
+\paragraph{Se suele señalar} que hay un sentido en el cuál los modelos son \say{falsos}, sentido que suele expresar como \say{[$\ldots$] models typically only hold \emph{approximately,} in some ranges of circumstances, and they liberally employ idealizations to accomplish this \emph{partial} fit.} \parencite[p.~18, énfasis agregado]{Potochnik2017-POTIAT-3}
+
+Potochnik también afirma que buena parte de la investigación se centra en ofrecer explicaciones causales y, más aún, afirma que una buena manera de lidiar con explicaciones causales en investigación científica es adoptando una teoría causal \emph{manipulabilista.} 
+Los argumentos de Potochnik que vinculan a la práctica de investigación con las teorías \emph{manipulabilistas}, dejan claro que hay una genuina preocupación sobre cómo de hecho se realiza investigación.
+
+Potochnik también defiende que el uso de modelos en investigación --y cualquier supuesto que imponga ciertas condiciones en el modelo-- surge de la necesidad de que seres con capacidades cognitivas limitadas queremos representar fenómenos naturales para aislar los factores causales bajo escrutinio. 
+Es importante poner énfasis en esto porque implica que los modelos \emph{son generados} con ciertos objetivos en mente, o como ella misma señala \say{[$\ldots$] the nature of these idealizations is relative to the aim of research, as is most clearly demonstrated by the different idealizations involved in the various approaches to human aggression research.} 
+
+Mi investigación actual lidia con la afirmación de que los modelos son falsos. 
+Este no es un problema grave si la \say{verdad} no es una parte central de la investigación científica (en cualquier disciplina). 
+Pero si la investigación se propone \emph{justificar} hipótesis para obtener \emph{conocimiento} de relaciones causales reales, entonces tenemos un problema.
+¿Cómo los modelos, que no representan adecuadamente el fenómeno, pueden dar como resultado conocimiento?
+Si suponemos que el conocimiento es fáctico, entonces entramos en problemas.
+
+El problema, me parece, radica en cómo representamos adecuadamente un fenómeno. 
+Debo aclarar también cómo es que funciona la representación científica y cómo la adecuación parcial de modelos que usan contara fácticos, implica fenómenos fácticos.
+
+Mi hipótesis es que cierta forma de verdad debe estar involucrada en nuestra definición de \emph{conocimiento,} si es que queremos que las intervenciones en un sistema sean de alguna utilidad. 
+Por ejemplo, si el aumento del salario mínimo causa un aumento en el desempleo y qué condiciones juegan un papel causal en dicha relación.
+
+\paragraph{Regresando a la anécdota,} el hecho de que estos dos profesores buenos trabajaran filosofía de la
+ciencia --al menos lo que en ese momento creía que era la filosofía de la ciencia-- sesgó mis intereses a lo que hasta ahora ha sido mi trabajo.
+La influencia de estos dos profesores me hizo tomar la decisión de entrar al posgrado en Filosofía de la Ciencia.
+
+En las clases de maestría hubo profesores excelentes.
+Mucho de lo que aprendí en estos cursos me sirvió para enmarcar de diferente manera las preguntas que me preocupaban, lo cuál me permitió entender --mejor, me parece-- la naturaleza de la investigación científica. 
+En particular quería responder preguntas sobre la epistemología de la ciencia, preguntas del tipo: \say{¿qué estamos justificados a creer?}, \say{¿cuándo podemos afirmar que una hipótesis ha sido corroborada?}, \say{¿es la explicación o compresión más básica que el conocimiento?}, etc. 
+Preguntas que surgen a partir de mi interés por la explicación causal.
+
+Ahondar en estas preguntas y tratar de responderlas es una tarea más que complicada. 
+Muchos de los obstáculos se deben a que la práctica científica es más caótica y heterogénea de lo que parece en un principio. 
+Incluso si nos concentramos en el uso de herramientas estadísticas o herramientas que echan mano de la teoría de la probabilidad, en casi todos los casos, ciertas propiedades del \emph{fenómeno en cuestión} son idealizadas o ignoradas para hacer que el modelo estadístico sea de utilidad.
+
+Esta representación parcial del fenómeno se debe a que en muchos casos buscamos destacar algunas propiedades particulares del fenómeno, sin que todas las variables estén representadas en el modelo.
+Que no involucremos todas y cada una de las variables que afectan el fenómeno es un reflejo de nuestra limitada capacidad cognitiva.
+A lo largo de su escrito, Potochnik nos recuerda que los modelos diseñados en la investigación científica tienen un propósito particular. 
+Son usados para destacar algunas propiedades particulares, especialmente, especialmente si lo que nos interesa son las relaciones causales. 
+Que simplifiquemos de ciertas manera el modelo se debe a que los investigadores intentan resaltar las características de un fenómeno en un momento particular.
+
+Potochnik no es la única que ha señalado esto,
+\textcite[][p.24]{abrams2023evolution}, por ejemplo, nos recuerda que \say{So-called infinite-population models are simply models that have no role for drift. 
+Biologists do often say things about evolution in infinite populations, and these claims are usually correct: the role of this terminology \emph{in practice} implies that it should not be understood literally.} (énfasis agregado) 
+
+A pesar de que los modelos no son completamente adecuados, --en el sentido en el que no representan totalmente el fenómeno en cuestión,-- son ampliamente utilizados en la investigación científica. 
+Si estas herramientas son usadas ampliamente, entonces como filósofos de la ciencia hay que ofrecer un análisis de cómo exactamente los modelos sirven para justificar hipótesis si parten de supuestos obviamente falsos.
+
+Me parece que buena parte del problema está relacionado con determinar cuál es el papel que juega la \emph{representación adecuada} y la \emph{verdad} en la investigación científica.
+Para motivar mi afirmación anterior, quiero dar un repaso por un periodo de la filosofía de la ciencia, un periodo en el cuál --suele decirse-- la \emph{verdad} jugaba un papel central en los análisis filosóficos de la ciencia: me refiero al periodo en el que los miembros del Círculo de Vienna estuvieron vivos.
+Este repaso sirve para motivar la afirmación de que la \emph{verdad} juega un papel en la investigación científica --por el momento no asumiré cuál es ese papel,-- mientras que esto es al mismo tiempo compatible con la \say{representación parcial} que hacen los modelos de un fenómeno.
+
+Para comenzar este repaso, debo señalar que en la maestría aprendí nuevas metodologías de investigación, además de diferentes maneras de plantear y entender las preguntas que me preocupaban.
+Pero lo más valioso que aprendí fue la importancia que tiene la historia de la ciencia en la filosofía de la ciencia. 
+Me voy a permitir hacer una breve caracterización, exageradamente general, de dos posturas en historia de la ciencia.
