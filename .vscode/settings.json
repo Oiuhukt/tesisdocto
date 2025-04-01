@@ -1,6 +1,0 @@
-{
-    "rewrap.autoWrap.enabled": true,
-    "[latex]": {
-        "editor.wordWrap": "on"
-    }
-}
