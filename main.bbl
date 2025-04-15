@@ -56,26 +56,37 @@
       \verb https://books.google.com.mx/books?id=piO2EAAAQBAJ
       \endverb
     \endentry
-    \entry{Bentley2023}{book}{}{7}
+    \entry{Bromberger1966}{inbook}{}{1}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7f40c6b3d380369bfc12711847a38b47}{%
-           family={Bentley},
+        {{un=0,uniquepart=base,hash=74efa4015c6e52a153e513112ac729e9}{%
+           family={Bromberger},
            familyi={B\bibinitperiod},
-           given={Joseph},
-           giveni={J\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {Springer Nature Switzerland}%
+      \name{editor}{1}{}{%
+        {{hash=f6178655f96e297c51098f3cdfdeff0d}{%
+           family={Colodny},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima Garland},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
-      \strng{namehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{fullhash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{fullhashraw}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{bibnamehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authorbibnamehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authornamehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authorfullhash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authorfullhashraw}{7f40c6b3d380369bfc12711847a38b47}
+      \list{publisher}{1}{%
+        {University of Pittsburgh Press}%
+      }
+      \strng{namehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{fullhash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{fullhashraw}{74efa4015c6e52a153e513112ac729e9}
+      \strng{bibnamehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authorbibnamehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authornamehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authorfullhash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authorfullhashraw}{74efa4015c6e52a153e513112ac729e9}
+      \strng{editorbibnamehash}{f6178655f96e297c51098f3cdfdeff0d}
+      \strng{editornamehash}{f6178655f96e297c51098f3cdfdeff0d}
+      \strng{editorfullhash}{f6178655f96e297c51098f3cdfdeff0d}
+      \strng{editorfullhashraw}{f6178655f96e297c51098f3cdfdeff0d}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -83,145 +94,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Logical Empiricism and Naturalism: Neurath and Carnap?s Metatheory of Science}
-      \field{year}{2023}
-    \endentry
-    \entry{Carnap1938-CARFOL-10}{inbook}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6ac7e21451c80f04ca26894d84279358}{%
-           family={Carnap},
-           familyi={C\bibinitperiod},
-           given={Rudolf},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=2d9f1b396401dfa4e96fe839605278f5}{%
-           family={Neurath},
-           familyi={N\bibinitperiod},
-           given={Otto},
-           giveni={O\bibinitperiod}}}%
-        {{hash=6ac7e21451c80f04ca26894d84279358}{%
-           family={Carnap},
-           familyi={C\bibinitperiod},
-           given={Rudolf},
-           giveni={R\bibinitperiod}}}%
-        {{hash=d5bdbe0deadc9f9774ae6e63d40a212b}{%
-           family={Morris},
-           familyi={M\bibinitperiod},
-           given={Charles\bibnamedelima William},
-           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chicago University Press}%
-      }
-      \strng{namehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{fullhash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{fullhashraw}{6ac7e21451c80f04ca26894d84279358}
-      \strng{bibnamehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authorbibnamehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authornamehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authorfullhash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authorfullhashraw}{6ac7e21451c80f04ca26894d84279358}
-      \strng{editorbibnamehash}{0291285b64d6297aebaa135b4804ad15}
-      \strng{editornamehash}{4f7f825c6791f2da0d0bac2ba776b20d}
-      \strng{editorfullhash}{0291285b64d6297aebaa135b4804ad15}
-      \strng{editorfullhashraw}{0291285b64d6297aebaa135b4804ad15}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{International Encyclopedia of Unified Science}
-      \field{title}{Foundations of Logic and Mathematics}
-      \field{year}{1939}
-      \field{pages}{1\bibrangedash 70}
-      \range{pages}{70}
-    \endentry
-    \entry{Frank1956}{inbook}{}{2}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=5cfab282dc9ba8c859a002b7523fd98b}{%
-           family={Frank},
-           familyi={F\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod},
-           givenun=1}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=5cfab282dc9ba8c859a002b7523fd98b}{%
-           family={Frank},
-           familyi={F\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The Beacon Press}%
-      }
-      \strng{namehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{fullhash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{fullhashraw}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{bibnamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authorbibnamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authornamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authorfullhash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authorfullhashraw}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editorbibnamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editornamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editorfullhash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editorfullhashraw}{5cfab282dc9ba8c859a002b7523fd98b}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The validation of scientific theories}
-      \field{chapter}{1}
-      \field{title}{The variety of reasons for the acceptance of scientific theories}
-      \field{year}{1956}
-    \endentry
-    \entry{Frank1954}{article}{}{2}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=9607c922744f60a808db3d4eb161be79}{%
-           family={Frank},
-           familyi={F\bibinitperiod},
-           given={Philipp\bibnamedelima G.},
-           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{publisher}{1}{%
-        {American Association for the Advancement of Science}%
-      }
-      \strng{namehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{fullhash}{9607c922744f60a808db3d4eb161be79}
-      \strng{fullhashraw}{9607c922744f60a808db3d4eb161be79}
-      \strng{bibnamehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authorbibnamehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authornamehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authorfullhash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authorfullhashraw}{9607c922744f60a808db3d4eb161be79}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00963771}
-      \field{journaltitle}{The Scientific Monthly}
-      \field{number}{3}
-      \field{title}{The Variety of Reasons for the Acceptance of Scientific Theories}
-      \field{volume}{79}
-      \field{year}{1954}
-      \field{pages}{139\bibrangedash 145}
-      \range{pages}{7}
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/21111
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/21111
-      \endverb
+      \field{booktitle}{Mind and Cosmos: Essays in Contemporary Science and Philosophy}
+      \field{title}{Why-Questions}
+      \field{year}{1966}
+      \field{pages}{86\bibrangedash 111}
+      \range{pages}{26}
     \endentry
     \entry{Hajek2016-HAJOHO}{book}{}{1}
       \name{editor}{2}{}{%
@@ -262,37 +139,32 @@
       \field{title}{The Oxford Handbook of Probability and Philosophy}
       \field{year}{2016}
     \endentry
-    \entry{sep-pseudo-science}{inbook}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dfe96a2af337cda966c57cf2072bd650}{%
-           family={Hansson},
+    \entry{Hempel1948}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=df1b3b1bbaae94031e7ce926697b80a2}{%
+           family={Hempel},
            familyi={H\bibinitperiod},
-           given={Sven\bibnamedelima Ove},
-           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Carl\bibnamedelima Gustav},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c03c0f88f53a677a0bf5f77b62b09a5}{%
+           family={Oppenheim},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
-           family={Zalta},
-           familyi={Z\bibinitperiod},
-           given={Edward\bibnamedelima N.},
-           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
-        {Metaphysics Research Lab, Stanford University}%
+        {Association for Symbolic Logic}%
       }
-      \strng{namehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{fullhash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{fullhashraw}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{bibnamehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authorbibnamehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authornamehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authorfullhash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authorfullhashraw}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
-      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
-      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
-      \strng{editorfullhashraw}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{namehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{fullhash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{fullhashraw}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{bibnamehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authorbibnamehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authornamehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authorfullhash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authorfullhashraw}{2e562ad2d29a1d18255ee22e2634acf4}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -300,159 +172,97 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
-      \field{edition}{{F}all 2021}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2021/entries/pseudo-science/}}
-      \field{title}{{Science and Pseudo-Science}}
-      \field{year}{2021}
+      \field{journaltitle}{Philosophy of Science}
+      \field{number}{2}
+      \field{title}{Studies in the Logic of Explanation}
+      \field{volume}{15}
+      \field{year}{1948}
+      \field{pages}{135\bibrangedash 175}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1086/286983
+      \endverb
     \endentry
-    \entry{Howard2006}{inbook}{}{2}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0ebf1006f134bbfd4bfb5cf4fb834b22}{%
-           family={Howard},
-           familyi={H\bibinitperiod},
-           given={Don},
-           giveni={D\bibinitperiod},
+    \entry{llaudet2023}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f46c7c400969bb931b09b95cb50ab5bd}{%
+           family={Llaudet},
+           familyi={L\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
            givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=7ad083cdf6af038fc3307ff04c16ac5f}{%
-           family={Schickore},
-           familyi={S\bibinitperiod},
-           given={Juta},
-           giveni={J\bibinitperiod}}}%
-        {{hash=79e9d045968468c50b60c682cb2bd0c2}{%
-           family={Steinle},
-           familyi={S\bibinitperiod},
-           given={Friedrich},
-           giveni={F\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=3fb69a8c942c769b74775b484c82bbe9}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Kosuke},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
       }
       \list{location}{1}{%
-        {Dordrecht}%
+        {New Jersey}%
       }
       \list{publisher}{1}{%
-        {Springer Netherlands}%
+        {Princeton University Press}%
       }
-      \strng{namehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{fullhash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{fullhashraw}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{bibnamehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authorbibnamehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authornamehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authorfullhash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authorfullhashraw}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{editorbibnamehash}{bcc4d05a01cc819df7227398a9489c4e}
-      \strng{editornamehash}{bcc4d05a01cc819df7227398a9489c4e}
-      \strng{editorfullhash}{bcc4d05a01cc819df7227398a9489c4e}
-      \strng{editorfullhashraw}{bcc4d05a01cc819df7227398a9489c4e}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Neo-positivism is dead. Let that imperfect designation stand for the project that dominated and defined the philosophy of science, especially in its Anglophone form, during the fifty or so years following the end of the Second World War. While its critics were many,1 its death was slow, and some think still to find a pulse.2 But die it did in the cul-de-sac into which it was led by its own faulty compass.}
-      \field{booktitle}{Revisiting Discovery and Justification: Historical and philosophical perspectives on the context distinction}
-      \field{isbn}{978-1-4020-4251-5}
-      \field{title}{Lost Wanderers in the Forest of Knowledge: Some Thoughts on the Discovery-Justification Distinction}
-      \field{year}{2006}
-      \field{pages}{3\bibrangedash 22}
-      \range{pages}{20}
-      \verb{doi}
-      \verb 10.1007/1-4020-4251-5_2
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/1-4020-4251-5_2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/1-4020-4251-5_2
-      \endverb
-    \endentry
-    \entry{Lewontin2017}{book}{}{1}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d9cfbde074beaef4c44088b7cb04e991}{%
-           family={Lewontin},
-           familyi={L\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d379aa51eed630b5bf86488fb5e94969}{%
-           family={Kamin},
-           familyi={K\bibinitperiod},
-           given={Leon\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=aea14f91d1f62fc818ca8a52ba6fe398}{%
-           family={Rose},
-           familyi={R\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Haymarket Books}%
-      }
-      \strng{namehash}{a98918af455b6f5103c72c1bdc19dc67}
-      \strng{fullhash}{9731366e66989a183d960ff2cc42091b}
-      \strng{fullhashraw}{9731366e66989a183d960ff2cc42091b}
-      \strng{bibnamehash}{9731366e66989a183d960ff2cc42091b}
-      \strng{authorbibnamehash}{9731366e66989a183d960ff2cc42091b}
-      \strng{authornamehash}{a98918af455b6f5103c72c1bdc19dc67}
-      \strng{authorfullhash}{9731366e66989a183d960ff2cc42091b}
-      \strng{authorfullhashraw}{9731366e66989a183d960ff2cc42091b}
+      \strng{namehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{fullhash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{fullhashraw}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{bibnamehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authorbibnamehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authornamehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authorfullhash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authorfullhashraw}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Informative, entertaining, lucid, forceful, frequently witty . . . never dull . . . should be read and remembered for a long time."--New York Times Book Review "The authors argue persuasively that biological explanations for why we act as we do are based on faulty (in some cases, fabricated) data and wild speculation. . . . It is debunking at its best."--Psychology Today "An important and timely book"--Stephen Jay Gould Not in our Genes systematically exposes and dismantles the claims that inequalities--class, race, gender--are the products of biological, genetic inheritances.}
-      \field{isbn}{9781608467273}
-      \field{note}{Google-Books-ID: jV1YjwEACAAJ}
-      \field{shorttitle}{Not in {Our} {Genes}}
-      \field{title}{Not in {Our} {Genes}: {Biology}, {Ideology}, and {Human} {Nature}}
-      \field{year}{2017}
-      \verb{file}
-      \verb Google Books Link:Lewontin2017 - Not in Our Genes_ Biology, Ideology, and Human Nature.html:URL:https\://books.google.com.mx/books?id=jV1YjwEACAAJ
-      \endverb
-      \keyw{Political Science / History \& Theory,Science / Environmental Science,Science / Life Sciences / Genetics \& Genomics,Science / Life Sciences / Developmental Biology,Science / Life Sciences / Biological Diversity}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Data {{Analysis}} for {{Social Science}}: A {{Friendly}} and {{Practical Introduction}}}
+      \field{year}{2023}
+      \keyw{caus1}
     \endentry
-    \entry{nordell2021end}{book}{}{1}
+    \entry{Otsuka2023}{book}{}{1}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d321dab8a3d1cdee7fa6551fda1c1b0c}{%
-           family={Nordell},
-           familyi={N\bibinitperiod},
-           given={Jessica},
+        {{un=0,uniquepart=base,hash=7a4c80b77f3717d8bb21c656e2a6b8e1}{%
+           family={Otsuka},
+           familyi={O\bibinitperiod},
+           given={J.},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Metropolitan Books}%
+        {Routledge, Taylor \& Francis Group}%
       }
-      \strng{namehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{fullhash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{fullhashraw}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{bibnamehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authorbibnamehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authornamehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authorfullhash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authorfullhashraw}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{fullhash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{fullhashraw}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{bibnamehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authorbibnamehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authornamehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authorfullhash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authorfullhashraw}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The end of bias: A beginning: The science and practice of overcoming unconscious bias}
-      \field{year}{2021}
+      \field{isbn}{9781032326108}
+      \field{series}{Philosophy (Routledge)}
+      \field{title}{Thinking about Statistics: The Philosophical Foundations}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=JPz4zgEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=JPz4zgEACAAJ
+      \endverb
     \endentry
-    \entry{Pearl2018}{book}{}{1}
+    \entry{Pearl2018}{book}{}{3}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -495,7 +305,7 @@
       \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
       \endverb
     \endentry
-    \entry{Pearl2016}{book}{}{1}
+    \entry{Pearl2016}{book}{}{5}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -544,7 +354,7 @@
       \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
       \endverb
     \endentry
-    \entry{Potochnik2017-POTIAT-3}{book}{}{3}
+    \entry{Potochnik2017-POTIAT-3}{book}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b34884b484ced971d2f484cc714e59f}{%
            family={Potochnik},
@@ -576,112 +386,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Idealization and the Aims of Science}
       \field{year}{2017}
-    \endentry
-    \entry{reichenbach1938experience}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
-           family={Reichenbach},
-           familyi={R\bibinitperiod},
-           given={Hans},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{fullhashraw}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authorfullhashraw}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Experience and prediction: An analysis of the foundations and the structure of knowledge}
-      \field{year}{1938}
-    \endentry
-    \entry{Richardson2023}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bc213d2babe8be5c1ef8393ce6c3b327}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Alan\bibnamedelima W.},
-           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{fullhash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{fullhashraw}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{bibnamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authorbibnamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authornamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authorfullhash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authorfullhashraw}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Cambridge Core - Philosophy of Science - Logical Empiricism as Scientific Philosophy}
-      \field{journaltitle}{Elements in the Philosophy of Science}
-      \field{month}{12}
-      \field{title}{Logical {Empiricism} as {Scientific} {Philosophy}}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
-      \endverb
-    \endentry
-    \entry{Riel2014}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d54fac7bc87839c84414246dd3ea8a14}{%
-           family={Riel},
-           familyi={R\bibinitperiod},
-           given={Raphael\bibnamedelima van},
-           giveni={R\bibinitperiod\bibinitdelim v\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{fullhash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{fullhashraw}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{bibnamehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authorbibnamehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authornamehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authorfullhash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authorfullhashraw}{d54fac7bc87839c84414246dd3ea8a14}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The {Concept} of {Reduction}}
-      \field{year}{2014}
     \endentry
     \entry{sep-causal-explanation-science}{inbook}{}{1}
       \name{author}{2}{}{%
@@ -738,46 +442,23 @@
       \field{title}{{Causal Approaches to Scientific Explanation}}
       \field{year}{2023}
     \endentry
-    \entry{Seo2015}{inbook}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=319cb35b1268ee2a63a473686383797e}{%
-           family={Seo},
+    \entry{Salmon1970}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0d1b1ca8b99c304f58126c93eaf49363}{%
+           family={Salmon},
            familyi={S\bibinitperiod},
-           given={Minwoo},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2b7be433ed6648dbffc34172c86ff099}{%
-           family={Chang},
-           familyi={C\bibinitperiod},
-           given={Hasok},
-           giveni={H\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=1f391ff23537bc29ceba9022b68ef33e}{%
-           family={Gunstone},
-           familyi={G\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Dordrecht}%
-      }
-      \list{publisher}{1}{%
-        {Springer Netherlands}%
-      }
-      \strng{namehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{fullhash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{fullhashraw}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{bibnamehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authorbibnamehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authornamehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authorfullhash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authorfullhashraw}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{editorbibnamehash}{1f391ff23537bc29ceba9022b68ef33e}
-      \strng{editornamehash}{1f391ff23537bc29ceba9022b68ef33e}
-      \strng{editorfullhash}{1f391ff23537bc29ceba9022b68ef33e}
-      \strng{editorfullhashraw}{1f391ff23537bc29ceba9022b68ef33e}
+      \strng{namehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{fullhash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{fullhashraw}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{bibnamehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authorbibnamehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authornamehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authorfullhash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authorfullhashraw}{0d1b1ca8b99c304f58126c93eaf49363}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -785,203 +466,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Encyclopedia of Science Education}
-      \field{isbn}{978-94-007-2150-0}
-      \field{title}{Context of Discovery and Context of Justification}
-      \field{year}{2015}
-      \field{pages}{229\bibrangedash 232}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1007/978-94-007-2150-0_239
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-94-007-2150-0_239
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-94-007-2150-0_239
-      \endverb
-    \endentry
-    \entry{Shapin1995}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2e2ab6af788a9d8fd8e1b5ae682c3006}{%
-           family={Shapin},
-           familyi={S\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {University of Chicago Press}%
-      }
-      \strng{namehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{fullhash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{fullhashraw}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{bibnamehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authorbibnamehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authornamehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authorfullhash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authorfullhashraw}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9780226750194}
-      \field{series}{Science and Its Conceptual Foundations series}
-      \field{title}{A Social History of Truth: Civility and Science in Seventeenth-Century England}
-      \field{year}{1995}
-      \verb{urlraw}
-      \verb https://books.google.com.mx/books?id=Cr4lEAAAQBAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.com.mx/books?id=Cr4lEAAAQBAJ
-      \endverb
-    \endentry
-    \entry{shapin2010never}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=37133bbe457b00ce2744c88d3132358a}{%
-           family={Shapin},
-           familyi={S\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {JHU Press}%
-      }
-      \strng{namehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{fullhash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{fullhashraw}{37133bbe457b00ce2744c88d3132358a}
-      \strng{bibnamehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authorbibnamehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authornamehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authorfullhash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authorfullhashraw}{37133bbe457b00ce2744c88d3132358a}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Ebook edition}
-      \field{title}{Never pure: Historical studies of science as if it was produced by people with bodies, situated in time, space, culture, and society, and struggling for credibility and authority}
-      \field{year}{2010}
-    \endentry
-    \entry{stillwell1989mathematics}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8e3125fd9a902a9b525121e39152ba3d}{%
-           family={Stillwell},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{fullhash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{fullhashraw}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{bibnamehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authorbibnamehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authornamehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authorfullhash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authorfullhashraw}{8e3125fd9a902a9b525121e39152ba3d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Mathematics and its History}
-      \field{volume}{3}
-      \field{year}{1989}
-    \endentry
-    \entry{Suarez2024}{book}{}{2}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2d38046d5183ca0a9859dc6a514033de}{%
-           family={Suárez},
-           familyi={S\bibinitperiod},
-           given={Mauricio},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{location}{1}{%
-        {Chicago, IL}%
-      }
-      \list{publisher}{1}{%
-        {University of Chicago Press}%
-      }
-      \strng{namehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{fullhash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{fullhashraw}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{bibnamehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authorbibnamehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authornamehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authorfullhash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authorfullhashraw}{2d38046d5183ca0a9859dc6a514033de}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The first comprehensive defense of an inferential conception of scientific representation with applications to art and epistemology.   Mauricio Suárez develops a conception of representation that delivers a compelling account of modeling practice. He begins by discussing the history and methodology of model building, charting the emergence of what he calls the modeling attitude, a nineteenth-century and fin de siècle development. Prominent cases of models, both historical and contemporary, are used as benchmarks for the accounts of representation considered throughout the book. After arguing against reductive naturalist theories of scientific representation, Suárez sets out his own account: a case for pluralism regarding the means of representation and minimalism regarding its constituents. He shows that scientists employ a variety of modeling relations in their representational practice—which helps them to assess the accuracy of their representations—while demonstrating that there is nothing metaphysically deep about the constituent relation that encompasses all these diverse means.   The book also probes the broad implications of Suárez’s inferential conception outside scientific modeling itself, covering analogies with debates about artistic representation and philosophical thought over the past several decades.}
-      \field{isbn}{9780226830049}
-      \field{month}{1}
-      \field{shorttitle}{Inference and {Representation}}
-      \field{title}{Inference and {Representation}: {A} {Study} in {Modeling} {Science}}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://press.uchicago.edu/ucp/books/book/chicago/I/bo207912978.html
-      \endverb
-      \verb{url}
-      \verb https://press.uchicago.edu/ucp/books/book/chicago/I/bo207912978.html
-      \endverb
-      \keyw{Representation,Modeling,19th century science,Modeling attitude,Artistic representation}
-    \endentry
-    \entry{Weinberg2015}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=15e144c72b0b9d10db00ddc6d37a19e6}{%
-           family={Weinberg},
-           familyi={W\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {HarperCollins}%
-      }
-      \strng{namehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{fullhash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{fullhashraw}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{bibnamehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authorbibnamehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authornamehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authorfullhash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authorfullhashraw}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Versión Epub}
-      \field{title}{To explain the world: The Discovery of Modern Science}
-      \field{year}{2015}
+      \field{booktitle}{The Nature and Function of Scientific Theories}
+      \field{title}{Statistical Explanation}
+      \field{year}{1970}
     \endentry
     \entry{Woodward2000-WOOEAI}{article}{}{1}
       \name{author}{1}{}{%
@@ -1114,79 +601,6 @@
       \field{howpublished}{\url{https://plato.stanford.edu/archives/sum2023/entries/causation-mani/}}
       \field{title}{{Causation and Manipulability}}
       \field{year}{2023}
-    \endentry
-    \entry{Yturbe1995}{inbook}{}{10}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ec7de7818e15c1bbb4d024f73d57c583}{%
-           family={Yturbe},
-           familyi={Y\bibinitperiod},
-           given={Corina},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=f3b152b88b2a2f2a6c20dd01e3fe21ae}{%
-           family={Ramirez},
-           familyi={R\bibinitperiod},
-           given={Santiago},
-           giveni={S\bibinitperiod}}}%
-        {{hash=00f9b8f6bba99328965ebca80938477e}{%
-           family={Cohen},
-           familyi={C\bibinitperiod},
-           given={Robert\bibnamedelima S.},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{location}{1}{%
-        {Dordrecht}%
-      }
-      \list{publisher}{1}{%
-        {Springer Netherlands}%
-      }
-      \strng{namehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{fullhash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{fullhashraw}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{bibnamehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authorbibnamehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authornamehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authorfullhash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authorfullhashraw}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{editorbibnamehash}{c901f1605840964c350e66654182d95c}
-      \strng{editornamehash}{c901f1605840964c350e66654182d95c}
-      \strng{editorfullhash}{c901f1605840964c350e66654182d95c}
-      \strng{editorfullhashraw}{c901f1605840964c350e66654182d95c}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{1. Contemporary historians and philosophers of science have shown an even greater reluctance to accept a dichotomy between ‘internal’ and ‘external’ factors that intervene in the development of scientific knowledge. In the recent Anglo-Saxon tradition, we find two fundamental positions with respect to the internal-history/external-history problem. One of these consists in defending an ‘internalist’ position with regard to the history of science, or, at least, in supposing that internal factors have a greater relevance for science than external ones. On the other hand, there is an increasingly more serious interest in constructing a ‘new history of science’, based on the complementarity of the internalist approach and the externalist approach, and on the utilization of methods drawn from other social disciplines.}
-      \field{isbn}{9789400901094}
-      \field{shorttitle}{The {History} of {Science}}
-      \field{title}{The {History} of {Science}: {Internal} or {External}?}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{1995}
-      \field{urldateera}{ce}
-      \field{pages}{71\bibrangedash 87}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1007/978-94-009-0109-4_6
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:Yturbe1995 - The History of Science_ Internal or External_.html:URL:https\://link.springer.com/content/pdf/10.1007%2F978-94-009-0109-4_6.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-94-009-0109-4_6
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-94-009-0109-4_6
-      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
@@ -1227,26 +641,37 @@
       \verb https://books.google.com.mx/books?id=piO2EAAAQBAJ
       \endverb
     \endentry
-    \entry{Bentley2023}{book}{}{7}
+    \entry{Bromberger1966}{inbook}{}{1}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7f40c6b3d380369bfc12711847a38b47}{%
-           family={Bentley},
+        {{un=0,uniquepart=base,hash=74efa4015c6e52a153e513112ac729e9}{%
+           family={Bromberger},
            familyi={B\bibinitperiod},
-           given={Joseph},
-           giveni={J\bibinitperiod},
+           given={Sylvain},
+           giveni={S\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {Springer Nature Switzerland}%
+      \name{editor}{1}{}{%
+        {{hash=f6178655f96e297c51098f3cdfdeff0d}{%
+           family={Colodny},
+           familyi={C\bibinitperiod},
+           given={Robert\bibnamedelima Garland},
+           giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
-      \strng{namehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{fullhash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{fullhashraw}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{bibnamehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authorbibnamehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authornamehash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authorfullhash}{7f40c6b3d380369bfc12711847a38b47}
-      \strng{authorfullhashraw}{7f40c6b3d380369bfc12711847a38b47}
+      \list{publisher}{1}{%
+        {University of Pittsburgh Press}%
+      }
+      \strng{namehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{fullhash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{fullhashraw}{74efa4015c6e52a153e513112ac729e9}
+      \strng{bibnamehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authorbibnamehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authornamehash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authorfullhash}{74efa4015c6e52a153e513112ac729e9}
+      \strng{authorfullhashraw}{74efa4015c6e52a153e513112ac729e9}
+      \strng{editorbibnamehash}{f6178655f96e297c51098f3cdfdeff0d}
+      \strng{editornamehash}{f6178655f96e297c51098f3cdfdeff0d}
+      \strng{editorfullhash}{f6178655f96e297c51098f3cdfdeff0d}
+      \strng{editorfullhashraw}{f6178655f96e297c51098f3cdfdeff0d}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -1254,145 +679,11 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Logical Empiricism and Naturalism: Neurath and Carnap?s Metatheory of Science}
-      \field{year}{2023}
-    \endentry
-    \entry{Carnap1938-CARFOL-10}{inbook}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6ac7e21451c80f04ca26894d84279358}{%
-           family={Carnap},
-           familyi={C\bibinitperiod},
-           given={Rudolf},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{3}{}{%
-        {{hash=2d9f1b396401dfa4e96fe839605278f5}{%
-           family={Neurath},
-           familyi={N\bibinitperiod},
-           given={Otto},
-           giveni={O\bibinitperiod}}}%
-        {{hash=6ac7e21451c80f04ca26894d84279358}{%
-           family={Carnap},
-           familyi={C\bibinitperiod},
-           given={Rudolf},
-           giveni={R\bibinitperiod}}}%
-        {{hash=d5bdbe0deadc9f9774ae6e63d40a212b}{%
-           family={Morris},
-           familyi={M\bibinitperiod},
-           given={Charles\bibnamedelima William},
-           giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Chicago University Press}%
-      }
-      \strng{namehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{fullhash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{fullhashraw}{6ac7e21451c80f04ca26894d84279358}
-      \strng{bibnamehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authorbibnamehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authornamehash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authorfullhash}{6ac7e21451c80f04ca26894d84279358}
-      \strng{authorfullhashraw}{6ac7e21451c80f04ca26894d84279358}
-      \strng{editorbibnamehash}{0291285b64d6297aebaa135b4804ad15}
-      \strng{editornamehash}{4f7f825c6791f2da0d0bac2ba776b20d}
-      \strng{editorfullhash}{0291285b64d6297aebaa135b4804ad15}
-      \strng{editorfullhashraw}{0291285b64d6297aebaa135b4804ad15}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{International Encyclopedia of Unified Science}
-      \field{title}{Foundations of Logic and Mathematics}
-      \field{year}{1939}
-      \field{pages}{1\bibrangedash 70}
-      \range{pages}{70}
-    \endentry
-    \entry{Frank1956}{inbook}{}{2}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=5cfab282dc9ba8c859a002b7523fd98b}{%
-           family={Frank},
-           familyi={F\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod},
-           givenun=1}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=5cfab282dc9ba8c859a002b7523fd98b}{%
-           family={Frank},
-           familyi={F\bibinitperiod},
-           given={Philipp},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The Beacon Press}%
-      }
-      \strng{namehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{fullhash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{fullhashraw}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{bibnamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authorbibnamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authornamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authorfullhash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{authorfullhashraw}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editorbibnamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editornamehash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editorfullhash}{5cfab282dc9ba8c859a002b7523fd98b}
-      \strng{editorfullhashraw}{5cfab282dc9ba8c859a002b7523fd98b}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The validation of scientific theories}
-      \field{chapter}{1}
-      \field{title}{The variety of reasons for the acceptance of scientific theories}
-      \field{year}{1956}
-    \endentry
-    \entry{Frank1954}{article}{}{2}
-      \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=9607c922744f60a808db3d4eb161be79}{%
-           family={Frank},
-           familyi={F\bibinitperiod},
-           given={Philipp\bibnamedelima G.},
-           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=1}}%
-      }
-      \list{publisher}{1}{%
-        {American Association for the Advancement of Science}%
-      }
-      \strng{namehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{fullhash}{9607c922744f60a808db3d4eb161be79}
-      \strng{fullhashraw}{9607c922744f60a808db3d4eb161be79}
-      \strng{bibnamehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authorbibnamehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authornamehash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authorfullhash}{9607c922744f60a808db3d4eb161be79}
-      \strng{authorfullhashraw}{9607c922744f60a808db3d4eb161be79}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{00963771}
-      \field{journaltitle}{The Scientific Monthly}
-      \field{number}{3}
-      \field{title}{The Variety of Reasons for the Acceptance of Scientific Theories}
-      \field{volume}{79}
-      \field{year}{1954}
-      \field{pages}{139\bibrangedash 145}
-      \range{pages}{7}
-      \verb{urlraw}
-      \verb http://www.jstor.org/stable/21111
-      \endverb
-      \verb{url}
-      \verb http://www.jstor.org/stable/21111
-      \endverb
+      \field{booktitle}{Mind and Cosmos: Essays in Contemporary Science and Philosophy}
+      \field{title}{Why-Questions}
+      \field{year}{1966}
+      \field{pages}{86\bibrangedash 111}
+      \range{pages}{26}
     \endentry
     \entry{Hajek2016-HAJOHO}{book}{}{1}
       \name{editor}{2}{}{%
@@ -1433,37 +724,32 @@
       \field{title}{The Oxford Handbook of Probability and Philosophy}
       \field{year}{2016}
     \endentry
-    \entry{sep-pseudo-science}{inbook}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=dfe96a2af337cda966c57cf2072bd650}{%
-           family={Hansson},
+    \entry{Hempel1948}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=df1b3b1bbaae94031e7ce926697b80a2}{%
+           family={Hempel},
            familyi={H\bibinitperiod},
-           given={Sven\bibnamedelima Ove},
-           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Carl\bibnamedelima Gustav},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c03c0f88f53a677a0bf5f77b62b09a5}{%
+           family={Oppenheim},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
-           family={Zalta},
-           familyi={Z\bibinitperiod},
-           given={Edward\bibnamedelima N.},
-           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
-      }
       \list{publisher}{1}{%
-        {Metaphysics Research Lab, Stanford University}%
+        {Association for Symbolic Logic}%
       }
-      \strng{namehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{fullhash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{fullhashraw}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{bibnamehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authorbibnamehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authornamehash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authorfullhash}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{authorfullhashraw}{dfe96a2af337cda966c57cf2072bd650}
-      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
-      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
-      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
-      \strng{editorfullhashraw}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{namehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{fullhash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{fullhashraw}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{bibnamehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authorbibnamehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authornamehash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authorfullhash}{2e562ad2d29a1d18255ee22e2634acf4}
+      \strng{authorfullhashraw}{2e562ad2d29a1d18255ee22e2634acf4}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{extradatescope}{labelyear}
@@ -1471,159 +757,97 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
-      \field{edition}{{F}all 2021}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2021/entries/pseudo-science/}}
-      \field{title}{{Science and Pseudo-Science}}
-      \field{year}{2021}
+      \field{journaltitle}{Philosophy of Science}
+      \field{number}{2}
+      \field{title}{Studies in the Logic of Explanation}
+      \field{volume}{15}
+      \field{year}{1948}
+      \field{pages}{135\bibrangedash 175}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.1086/286983
+      \endverb
     \endentry
-    \entry{Howard2006}{inbook}{}{2}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=0ebf1006f134bbfd4bfb5cf4fb834b22}{%
-           family={Howard},
-           familyi={H\bibinitperiod},
-           given={Don},
-           giveni={D\bibinitperiod},
+    \entry{llaudet2023}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f46c7c400969bb931b09b95cb50ab5bd}{%
+           family={Llaudet},
+           familyi={L\bibinitperiod},
+           given={Elena},
+           giveni={E\bibinitperiod},
            givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=7ad083cdf6af038fc3307ff04c16ac5f}{%
-           family={Schickore},
-           familyi={S\bibinitperiod},
-           given={Juta},
-           giveni={J\bibinitperiod}}}%
-        {{hash=79e9d045968468c50b60c682cb2bd0c2}{%
-           family={Steinle},
-           familyi={S\bibinitperiod},
-           given={Friedrich},
-           giveni={F\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=3fb69a8c942c769b74775b484c82bbe9}{%
+           family={Imai},
+           familyi={I\bibinitperiod},
+           given={Kosuke},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
       }
       \list{location}{1}{%
-        {Dordrecht}%
+        {New Jersey}%
       }
       \list{publisher}{1}{%
-        {Springer Netherlands}%
+        {Princeton University Press}%
       }
-      \strng{namehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{fullhash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{fullhashraw}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{bibnamehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authorbibnamehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authornamehash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authorfullhash}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{authorfullhashraw}{0ebf1006f134bbfd4bfb5cf4fb834b22}
-      \strng{editorbibnamehash}{bcc4d05a01cc819df7227398a9489c4e}
-      \strng{editornamehash}{bcc4d05a01cc819df7227398a9489c4e}
-      \strng{editorfullhash}{bcc4d05a01cc819df7227398a9489c4e}
-      \strng{editorfullhashraw}{bcc4d05a01cc819df7227398a9489c4e}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Neo-positivism is dead. Let that imperfect designation stand for the project that dominated and defined the philosophy of science, especially in its Anglophone form, during the fifty or so years following the end of the Second World War. While its critics were many,1 its death was slow, and some think still to find a pulse.2 But die it did in the cul-de-sac into which it was led by its own faulty compass.}
-      \field{booktitle}{Revisiting Discovery and Justification: Historical and philosophical perspectives on the context distinction}
-      \field{isbn}{978-1-4020-4251-5}
-      \field{title}{Lost Wanderers in the Forest of Knowledge: Some Thoughts on the Discovery-Justification Distinction}
-      \field{year}{2006}
-      \field{pages}{3\bibrangedash 22}
-      \range{pages}{20}
-      \verb{doi}
-      \verb 10.1007/1-4020-4251-5_2
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/1-4020-4251-5_2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/1-4020-4251-5_2
-      \endverb
-    \endentry
-    \entry{Lewontin2017}{book}{}{1}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=d9cfbde074beaef4c44088b7cb04e991}{%
-           family={Lewontin},
-           familyi={L\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d379aa51eed630b5bf86488fb5e94969}{%
-           family={Kamin},
-           familyi={K\bibinitperiod},
-           given={Leon\bibnamedelima J.},
-           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=aea14f91d1f62fc818ca8a52ba6fe398}{%
-           family={Rose},
-           familyi={R\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Haymarket Books}%
-      }
-      \strng{namehash}{a98918af455b6f5103c72c1bdc19dc67}
-      \strng{fullhash}{9731366e66989a183d960ff2cc42091b}
-      \strng{fullhashraw}{9731366e66989a183d960ff2cc42091b}
-      \strng{bibnamehash}{9731366e66989a183d960ff2cc42091b}
-      \strng{authorbibnamehash}{9731366e66989a183d960ff2cc42091b}
-      \strng{authornamehash}{a98918af455b6f5103c72c1bdc19dc67}
-      \strng{authorfullhash}{9731366e66989a183d960ff2cc42091b}
-      \strng{authorfullhashraw}{9731366e66989a183d960ff2cc42091b}
+      \strng{namehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{fullhash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{fullhashraw}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{bibnamehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authorbibnamehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authornamehash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authorfullhash}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
+      \strng{authorfullhashraw}{44ee1b1511afbd2cf6c1e2cac3c9bc7c}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Informative, entertaining, lucid, forceful, frequently witty . . . never dull . . . should be read and remembered for a long time."--New York Times Book Review "The authors argue persuasively that biological explanations for why we act as we do are based on faulty (in some cases, fabricated) data and wild speculation. . . . It is debunking at its best."--Psychology Today "An important and timely book"--Stephen Jay Gould Not in our Genes systematically exposes and dismantles the claims that inequalities--class, race, gender--are the products of biological, genetic inheritances.}
-      \field{isbn}{9781608467273}
-      \field{note}{Google-Books-ID: jV1YjwEACAAJ}
-      \field{shorttitle}{Not in {Our} {Genes}}
-      \field{title}{Not in {Our} {Genes}: {Biology}, {Ideology}, and {Human} {Nature}}
-      \field{year}{2017}
-      \verb{file}
-      \verb Google Books Link:Lewontin2017 - Not in Our Genes_ Biology, Ideology, and Human Nature.html:URL:https\://books.google.com.mx/books?id=jV1YjwEACAAJ
-      \endverb
-      \keyw{Political Science / History \& Theory,Science / Environmental Science,Science / Life Sciences / Genetics \& Genomics,Science / Life Sciences / Developmental Biology,Science / Life Sciences / Biological Diversity}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{Data {{Analysis}} for {{Social Science}}: A {{Friendly}} and {{Practical Introduction}}}
+      \field{year}{2023}
+      \keyw{caus1}
     \endentry
-    \entry{nordell2021end}{book}{}{1}
+    \entry{Otsuka2023}{book}{}{1}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d321dab8a3d1cdee7fa6551fda1c1b0c}{%
-           family={Nordell},
-           familyi={N\bibinitperiod},
-           given={Jessica},
+        {{un=0,uniquepart=base,hash=7a4c80b77f3717d8bb21c656e2a6b8e1}{%
+           family={Otsuka},
+           familyi={O\bibinitperiod},
+           given={J.},
            giveni={J\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Metropolitan Books}%
+        {Routledge, Taylor \& Francis Group}%
       }
-      \strng{namehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{fullhash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{fullhashraw}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{bibnamehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authorbibnamehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authornamehash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authorfullhash}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \strng{authorfullhashraw}{d321dab8a3d1cdee7fa6551fda1c1b0c}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \strng{namehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{fullhash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{fullhashraw}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{bibnamehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authorbibnamehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authornamehash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authorfullhash}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \strng{authorfullhashraw}{7a4c80b77f3717d8bb21c656e2a6b8e1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The end of bias: A beginning: The science and practice of overcoming unconscious bias}
-      \field{year}{2021}
+      \field{isbn}{9781032326108}
+      \field{series}{Philosophy (Routledge)}
+      \field{title}{Thinking about Statistics: The Philosophical Foundations}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://books.google.com.mx/books?id=JPz4zgEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.mx/books?id=JPz4zgEACAAJ
+      \endverb
     \endentry
-    \entry{Pearl2016}{book}{}{1}
+    \entry{Pearl2016}{book}{}{5}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -1672,7 +896,7 @@
       \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
       \endverb
     \endentry
-    \entry{Pearl2018}{book}{}{1}
+    \entry{Pearl2018}{book}{}{3}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=a7538e40e4167b5b26f26010293495d9}{%
            family={Pearl},
@@ -1715,7 +939,7 @@
       \verb https://books.google.com.mx/books?id=EmY8DwAAQBAJ
       \endverb
     \endentry
-    \entry{Potochnik2017-POTIAT-3}{book}{}{3}
+    \entry{Potochnik2017-POTIAT-3}{book}{}{2}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b34884b484ced971d2f484cc714e59f}{%
            family={Potochnik},
@@ -1747,112 +971,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Idealization and the Aims of Science}
       \field{year}{2017}
-    \endentry
-    \entry{reichenbach1938experience}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ad994bf69d3fd0b889b84fe3fcff8237}{%
-           family={Reichenbach},
-           familyi={R\bibinitperiod},
-           given={Hans},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{fullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{fullhashraw}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{bibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authorbibnamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authornamehash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authorfullhash}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \strng{authorfullhashraw}{ad994bf69d3fd0b889b84fe3fcff8237}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Experience and prediction: An analysis of the foundations and the structure of knowledge}
-      \field{year}{1938}
-    \endentry
-    \entry{Richardson2023}{article}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=bc213d2babe8be5c1ef8393ce6c3b327}{%
-           family={Richardson},
-           familyi={R\bibinitperiod},
-           given={Alan\bibnamedelima W.},
-           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{fullhash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{fullhashraw}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{bibnamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authorbibnamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authornamehash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authorfullhash}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \strng{authorfullhashraw}{bc213d2babe8be5c1ef8393ce6c3b327}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Cambridge Core - Philosophy of Science - Logical Empiricism as Scientific Philosophy}
-      \field{journaltitle}{Elements in the Philosophy of Science}
-      \field{month}{12}
-      \field{title}{Logical {Empiricism} as {Scientific} {Philosophy}}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
-      \endverb
-      \verb{url}
-      \verb https://www.cambridge.org/core/elements/logical-empiricism-as-scientific-philosophy/C73094AF20BE6019F846440EA8F72D54
-      \endverb
-    \endentry
-    \entry{Riel2014}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d54fac7bc87839c84414246dd3ea8a14}{%
-           family={Riel},
-           familyi={R\bibinitperiod},
-           given={Raphael\bibnamedelima van},
-           giveni={R\bibinitperiod\bibinitdelim v\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Heidelberg}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{fullhash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{fullhashraw}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{bibnamehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authorbibnamehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authornamehash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authorfullhash}{d54fac7bc87839c84414246dd3ea8a14}
-      \strng{authorfullhashraw}{d54fac7bc87839c84414246dd3ea8a14}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The {Concept} of {Reduction}}
-      \field{year}{2014}
     \endentry
     \entry{sep-causal-explanation-science}{inbook}{}{1}
       \name{author}{2}{}{%
@@ -1909,46 +1027,23 @@
       \field{title}{{Causal Approaches to Scientific Explanation}}
       \field{year}{2023}
     \endentry
-    \entry{Seo2015}{inbook}{}{1}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=319cb35b1268ee2a63a473686383797e}{%
-           family={Seo},
+    \entry{Salmon1970}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0d1b1ca8b99c304f58126c93eaf49363}{%
+           family={Salmon},
            familyi={S\bibinitperiod},
-           given={Minwoo},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2b7be433ed6648dbffc34172c86ff099}{%
-           family={Chang},
-           familyi={C\bibinitperiod},
-           given={Hasok},
-           giveni={H\bibinitperiod},
+           given={Wesley},
+           giveni={W\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=1f391ff23537bc29ceba9022b68ef33e}{%
-           family={Gunstone},
-           familyi={G\bibinitperiod},
-           given={Richard},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Dordrecht}%
-      }
-      \list{publisher}{1}{%
-        {Springer Netherlands}%
-      }
-      \strng{namehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{fullhash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{fullhashraw}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{bibnamehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authorbibnamehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authornamehash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authorfullhash}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{authorfullhashraw}{cd2f721ad5c50618a0de1c6f7912d6d0}
-      \strng{editorbibnamehash}{1f391ff23537bc29ceba9022b68ef33e}
-      \strng{editornamehash}{1f391ff23537bc29ceba9022b68ef33e}
-      \strng{editorfullhash}{1f391ff23537bc29ceba9022b68ef33e}
-      \strng{editorfullhashraw}{1f391ff23537bc29ceba9022b68ef33e}
+      \strng{namehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{fullhash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{fullhashraw}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{bibnamehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authorbibnamehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authornamehash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authorfullhash}{0d1b1ca8b99c304f58126c93eaf49363}
+      \strng{authorfullhashraw}{0d1b1ca8b99c304f58126c93eaf49363}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -1956,203 +1051,9 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Encyclopedia of Science Education}
-      \field{isbn}{978-94-007-2150-0}
-      \field{title}{Context of Discovery and Context of Justification}
-      \field{year}{2015}
-      \field{pages}{229\bibrangedash 232}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1007/978-94-007-2150-0_239
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-94-007-2150-0_239
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-94-007-2150-0_239
-      \endverb
-    \endentry
-    \entry{Shapin1995}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2e2ab6af788a9d8fd8e1b5ae682c3006}{%
-           family={Shapin},
-           familyi={S\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {University of Chicago Press}%
-      }
-      \strng{namehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{fullhash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{fullhashraw}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{bibnamehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authorbibnamehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authornamehash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authorfullhash}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \strng{authorfullhashraw}{2e2ab6af788a9d8fd8e1b5ae682c3006}
-      \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9780226750194}
-      \field{series}{Science and Its Conceptual Foundations series}
-      \field{title}{A Social History of Truth: Civility and Science in Seventeenth-Century England}
-      \field{year}{1995}
-      \verb{urlraw}
-      \verb https://books.google.com.mx/books?id=Cr4lEAAAQBAJ
-      \endverb
-      \verb{url}
-      \verb https://books.google.com.mx/books?id=Cr4lEAAAQBAJ
-      \endverb
-    \endentry
-    \entry{shapin2010never}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=37133bbe457b00ce2744c88d3132358a}{%
-           family={Shapin},
-           familyi={S\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {JHU Press}%
-      }
-      \strng{namehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{fullhash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{fullhashraw}{37133bbe457b00ce2744c88d3132358a}
-      \strng{bibnamehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authorbibnamehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authornamehash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authorfullhash}{37133bbe457b00ce2744c88d3132358a}
-      \strng{authorfullhashraw}{37133bbe457b00ce2744c88d3132358a}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Ebook edition}
-      \field{title}{Never pure: Historical studies of science as if it was produced by people with bodies, situated in time, space, culture, and society, and struggling for credibility and authority}
-      \field{year}{2010}
-    \endentry
-    \entry{stillwell1989mathematics}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8e3125fd9a902a9b525121e39152ba3d}{%
-           family={Stillwell},
-           familyi={S\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{fullhash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{fullhashraw}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{bibnamehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authorbibnamehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authornamehash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authorfullhash}{8e3125fd9a902a9b525121e39152ba3d}
-      \strng{authorfullhashraw}{8e3125fd9a902a9b525121e39152ba3d}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Mathematics and its History}
-      \field{volume}{3}
-      \field{year}{1989}
-    \endentry
-    \entry{Suarez2024}{book}{}{2}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=2d38046d5183ca0a9859dc6a514033de}{%
-           family={Suárez},
-           familyi={S\bibinitperiod},
-           given={Mauricio},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{location}{1}{%
-        {Chicago, IL}%
-      }
-      \list{publisher}{1}{%
-        {University of Chicago Press}%
-      }
-      \strng{namehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{fullhash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{fullhashraw}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{bibnamehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authorbibnamehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authornamehash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authorfullhash}{2d38046d5183ca0a9859dc6a514033de}
-      \strng{authorfullhashraw}{2d38046d5183ca0a9859dc6a514033de}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{The first comprehensive defense of an inferential conception of scientific representation with applications to art and epistemology.   Mauricio Suárez develops a conception of representation that delivers a compelling account of modeling practice. He begins by discussing the history and methodology of model building, charting the emergence of what he calls the modeling attitude, a nineteenth-century and fin de siècle development. Prominent cases of models, both historical and contemporary, are used as benchmarks for the accounts of representation considered throughout the book. After arguing against reductive naturalist theories of scientific representation, Suárez sets out his own account: a case for pluralism regarding the means of representation and minimalism regarding its constituents. He shows that scientists employ a variety of modeling relations in their representational practice—which helps them to assess the accuracy of their representations—while demonstrating that there is nothing metaphysically deep about the constituent relation that encompasses all these diverse means.   The book also probes the broad implications of Suárez’s inferential conception outside scientific modeling itself, covering analogies with debates about artistic representation and philosophical thought over the past several decades.}
-      \field{isbn}{9780226830049}
-      \field{month}{1}
-      \field{shorttitle}{Inference and {Representation}}
-      \field{title}{Inference and {Representation}: {A} {Study} in {Modeling} {Science}}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{2024}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://press.uchicago.edu/ucp/books/book/chicago/I/bo207912978.html
-      \endverb
-      \verb{url}
-      \verb https://press.uchicago.edu/ucp/books/book/chicago/I/bo207912978.html
-      \endverb
-      \keyw{Representation,Modeling,19th century science,Modeling attitude,Artistic representation}
-    \endentry
-    \entry{Weinberg2015}{book}{}{1}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=15e144c72b0b9d10db00ddc6d37a19e6}{%
-           family={Weinberg},
-           familyi={W\bibinitperiod},
-           given={Steven},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {HarperCollins}%
-      }
-      \strng{namehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{fullhash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{fullhashraw}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{bibnamehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authorbibnamehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authornamehash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authorfullhash}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \strng{authorfullhashraw}{15e144c72b0b9d10db00ddc6d37a19e6}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{Versión Epub}
-      \field{title}{To explain the world: The Discovery of Modern Science}
-      \field{year}{2015}
+      \field{booktitle}{The Nature and Function of Scientific Theories}
+      \field{title}{Statistical Explanation}
+      \field{year}{1970}
     \endentry
     \entry{Woodward2000-WOOEAI}{article}{}{1}
       \name{author}{1}{}{%
@@ -2285,79 +1186,6 @@
       \field{howpublished}{\url{https://plato.stanford.edu/archives/sum2023/entries/causation-mani/}}
       \field{title}{{Causation and Manipulability}}
       \field{year}{2023}
-    \endentry
-    \entry{Yturbe1995}{inbook}{}{10}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ec7de7818e15c1bbb4d024f73d57c583}{%
-           family={Yturbe},
-           familyi={Y\bibinitperiod},
-           given={Corina},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=f3b152b88b2a2f2a6c20dd01e3fe21ae}{%
-           family={Ramirez},
-           familyi={R\bibinitperiod},
-           given={Santiago},
-           giveni={S\bibinitperiod}}}%
-        {{hash=00f9b8f6bba99328965ebca80938477e}{%
-           family={Cohen},
-           familyi={C\bibinitperiod},
-           given={Robert\bibnamedelima S.},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{location}{1}{%
-        {Dordrecht}%
-      }
-      \list{publisher}{1}{%
-        {Springer Netherlands}%
-      }
-      \strng{namehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{fullhash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{fullhashraw}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{bibnamehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authorbibnamehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authornamehash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authorfullhash}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{authorfullhashraw}{ec7de7818e15c1bbb4d024f73d57c583}
-      \strng{editorbibnamehash}{c901f1605840964c350e66654182d95c}
-      \strng{editornamehash}{c901f1605840964c350e66654182d95c}
-      \strng{editorfullhash}{c901f1605840964c350e66654182d95c}
-      \strng{editorfullhashraw}{c901f1605840964c350e66654182d95c}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{1. Contemporary historians and philosophers of science have shown an even greater reluctance to accept a dichotomy between ‘internal’ and ‘external’ factors that intervene in the development of scientific knowledge. In the recent Anglo-Saxon tradition, we find two fundamental positions with respect to the internal-history/external-history problem. One of these consists in defending an ‘internalist’ position with regard to the history of science, or, at least, in supposing that internal factors have a greater relevance for science than external ones. On the other hand, there is an increasingly more serious interest in constructing a ‘new history of science’, based on the complementarity of the internalist approach and the externalist approach, and on the utilization of methods drawn from other social disciplines.}
-      \field{isbn}{9789400901094}
-      \field{shorttitle}{The {History} of {Science}}
-      \field{title}{The {History} of {Science}: {Internal} or {External}?}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2024}
-      \field{year}{1995}
-      \field{urldateera}{ce}
-      \field{pages}{71\bibrangedash 87}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1007/978-94-009-0109-4_6
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:Yturbe1995 - The History of Science_ Internal or External_.html:URL:https\://link.springer.com/content/pdf/10.1007%2F978-94-009-0109-4_6.pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-94-009-0109-4_6
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-94-009-0109-4_6
-      \endverb
     \endentry
   \enddatalist
 \endrefsection
