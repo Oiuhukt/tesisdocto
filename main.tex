@@ -2,17 +2,17 @@
     letterpaper, % Page size
     fontsize=12pt, % Base font size
     twoside=true, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
-	open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
-	fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the default for PdfLaTex, and "modern" is the default for those two.
+    open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
+    fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the default for PdfLaTex, and "modern" is the default for those two.
 ]{memoir}
 
 %Paquetes
 
 \usepackage[spanish]{babel} %Idioma
 \usepackage[
-backend=biber,
-style=apa,
-sorting=ynt
+  backend=biber,
+  style=apa,
+  sorting=ynt
 ]{biblatex} %Usar biblatex y no bibtex
 \usepackage{csquotes}
 \usepackage{bibcop} %para revisar las entradas del .bib
@@ -22,28 +22,28 @@ sorting=ynt
 \addbibresource{main.bib}
 
 
-
 \begin{document}
 
-\frontmatter
+%\frontmatter
 
-\pagestyle{empty}
-\input{chapters/title.tex}
-\clearpage
+%\pagestyle{empty}
+%\input{chapters/title.tex}
 
-\tableofcontents
-\clearpage
+%\clearpage
+
+%\tableofcontents
+%\clearpage
 
 \input{chapters/introduction.tex}
 
-\mainmatter
+%\mainmatter
 
 
-\input{chapters/brevediagnos.tex}
-\input{chapters/chapter_2.tex}
-\input{chapters/chapter_3.tex}
-\input{chapters/chapter_4.tex}
-\clearpage
+%\input{chapters/brevediagnos.tex}
+%\input{chapters/chapter_2.tex}
+%\input{chapters/chapter_3.tex}
+%\input{chapters/chapter_4.tex}
+%\clearpage
 
 
 \backmatter % Denotes the end of the main document content

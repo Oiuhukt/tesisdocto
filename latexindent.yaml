@@ -1,0 +1,37 @@
+---
+defaultIndent: " " # 1-space indentation
+removeTrailingWhitespace: 1
+
+# 70-column hard wrap
+modifyLineBreaks:
+  textWrapOptions:
+    columns: 70
+  preserveBlankLines: 1
+
+# Section heading indentation
+indentRules:
+  chapter: 1
+  section: 1
+  subsection: 1
+  subsubsection: 1
+
+# Quote environment setup
+environments:
+  quote:
+    indent: 1 # Environment indentation
+    body: 2 # Content indentation
+
+# Footnote formatting rules
+commands:
+  footnote:
+    arguments:
+      leadingLineBreaks: 1 # New line after \footnote{
+      trailingLineBreaks: 0 # Keep closing } on content line
+      indentation: 2 # Indent footnote content
+      wrap: 1 # Apply 70-column wrap to content
+
+# Protect verbatim environments
+verbatimEnvironments:
+  verbatim: 1
+  lstlisting: 1
+  minted: 1
