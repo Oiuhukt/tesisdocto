@@ -1,16 +1,24 @@
-\section{Problems with the ``artifactualist'' and ``de-idealizer'' stances}
+# Problems with the artifactualist and de-idealizer stances
 
-rnn the previous section I made a brief characterization of the three stances under discussion.
-At the end of the characterization of the ``causal relevant'' stance, I made clear the core differences between this stance, and the ``artifactualist'' \& ``de-idealizer'' stances.
-The order of exposition is biased towards the causal relevantist, I think that this stance has a more addecuate picture of what actual researchers do when they idealize phenomena.
+In the previous section I made a brief characterization of the three
+stances under discussion. At the end of the characterization of the 
+my explanation on the "causal relevant stance," I made clear the core
+differences between this stance, and the "artifactualist" & 
+"de-idealizer" stances. The order of exposition is biased towards the
+causal relevantist, I think that this stance has a more addecuate 
+picture of what actual researchers do when they idealize phenomena.
 
-In this section I want to argue that the de-idealizer and the artifactualist have the things wrong.
-The artuifactualists claim that her advantage is to not rely on the relation between idealization and the world.
-The de-idealizer argues that new tools with more computational power will render idealizations obsolete.
+In this section I want to argue that the de-idealizer and the 
+artifactualist have the things wrong. The artuifactualists claim that
+her advantage is to not rely on the relation between idealization and
+ the world. The de-idealizer argues that new tools with more 
+computational power will render idealizations obsolete.
 
 Both claims are misguided with respect to the actual research methods.
-As researchers we want to give explanations; we also want our explanations to be good.
-If we just turn our heads against the world, we will make a theory about an idealization, not about actual phenomena.
+As researchers we want to give explanations; we also want our 
+explanations to be good. If we just turn our heads against the world,
+we will make a theory about an idealization, not about actual
+phenomena.
 
 
 
