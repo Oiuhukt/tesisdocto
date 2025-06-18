@@ -93,7 +93,7 @@
       \verb 10.1086/286983
       \endverb
     \endentry
-    \entry{Kitcher1962-KITEUA}{inbook}{}{}
+    \entry{Kitcher1962}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d135fab97047219bb9b9296a2cece7b5}{%
            family={Kitcher},
@@ -250,7 +250,7 @@
       \field{title}{Statistical Explanation}
       \field{year}{1970}
     \endentry
-    \entry{Lewis1973-LEWC}{article}{}{}
+    \entry{Lewis1973b}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=987abb6adca7047e7c1fbaecfa4ef1af}{%
            family={Lewis},
@@ -260,7 +260,7 @@
            givenun=1}}%
       }
       \list{publisher}{1}{%
-        {Oxford Up}%
+        {Oxford UP}%
       }
       \strng{namehash}{987abb6adca7047e7c1fbaecfa4ef1af}
       \strng{fullhash}{987abb6adca7047e7c1fbaecfa4ef1af}
@@ -287,7 +287,7 @@
       \verb 10.2307/2025310
       \endverb
     \endentry
-    \entry{Lewis1973-LEWC-2}{book}{}{}
+    \entry{Lewis1973a}{book}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=e6ac7ef507481ae342fadc087c53c37d}{%
            family={Lewis},
@@ -386,6 +386,41 @@
       \field{year}{1978}
       \field{pages}{408\bibrangedash 422}
       \range{pages}{15}
+    \endentry
+    \entry{Hausman1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0725275c070931fb3e2207611f212b4}{%
+           family={Hausman},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Illinois Press}%
+      }
+      \strng{namehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{fullhash}{e0725275c070931fb3e2207611f212b4}
+      \strng{fullhashraw}{e0725275c070931fb3e2207611f212b4}
+      \strng{bibnamehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authorbibnamehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authornamehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authorfullhash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authorfullhashraw}{e0725275c070931fb3e2207611f212b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Philosophical Quarterly}
+      \field{number}{2}
+      \field{title}{Causation and Experimentation}
+      \field{volume}{23}
+      \field{year}{1986}
+      \field{pages}{143\bibrangedash 154}
+      \range{pages}{12}
     \endentry
     \entry{Bromberger1992}{book}{}{}
       \name{author}{1}{}{%
@@ -489,7 +524,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This book develops a manipulationist theory of causation and explanation: causal and explanatory relationships are relationships that are potentially exploitable for purposes of manipulation and control. The resulting theory is a species of counterfactual theory that (I claim) avoids the difficulties and counterexamples that have infected alternative accounts of causation and explanation, from the Deductive-Nomological model onwards. One of the key concepts in this theory is the notion of an intervention, which is an idealization of the notion of an experimental manipulation that is stripped of its anthropocentric elements. This notion is used to provide a characterization of causal relationships that is non-reductive but also not viciously circular. Relationships that correctly tell us how the value of one variable Y would change under interventions on a second variable Y are invariant. The notion of an invariant relationship is more helpful than the notion of a law of nature (the notion on which philosophers have traditionally relied) in understanding how explanation and causal attribution work in the special sciences.}
       \field{isbn}{9780195155273}
       \field{month}{01}
       \field{title}{Making Things Happen: A Theory of Causal Explanation}
@@ -539,9 +573,6 @@
       \range{pages}{26}
       \verb{doi}
       \verb 10.1093/aristotelian/13.1.1
-      \endverb
-      \verb{eprint}
-      \verb https://academic.oup.com/aristotelian/article-pdf/13/1/1/5018295/aristotelian13-0001.pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1093/aristotelian/13.1.1
@@ -638,6 +669,50 @@
       \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
       \endverb
     \endentry
+    \entry{Lewontin2017}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d9cfbde074beaef4c44088b7cb04e991}{%
+           family={Lewontin},
+           familyi={L\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d379aa51eed630b5bf86488fb5e94969}{%
+           family={Kamin},
+           familyi={K\bibinitperiod},
+           given={Leon\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aea14f91d1f62fc818ca8a52ba6fe398}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Haymarket Books}%
+      }
+      \strng{namehash}{a98918af455b6f5103c72c1bdc19dc67}
+      \strng{fullhash}{9731366e66989a183d960ff2cc42091b}
+      \strng{fullhashraw}{9731366e66989a183d960ff2cc42091b}
+      \strng{bibnamehash}{9731366e66989a183d960ff2cc42091b}
+      \strng{authorbibnamehash}{9731366e66989a183d960ff2cc42091b}
+      \strng{authornamehash}{a98918af455b6f5103c72c1bdc19dc67}
+      \strng{authorfullhash}{9731366e66989a183d960ff2cc42091b}
+      \strng{authorfullhashraw}{9731366e66989a183d960ff2cc42091b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781608467273}
+      \field{shorttitle}{Not in {Our} {Genes}}
+      \field{title}{Not in Our Genes: Biology, Ideology, and Human Nature}
+      \field{year}{2017}
+    \endentry
     \entry{Potochnik2017-POTIAT-3}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b34884b484ced971d2f484cc714e59f}{%
@@ -695,7 +770,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://philosophy.mit.edu/bromberger}}
       \field{title}{Sylvain Bromberger, 1924-2018}
       \field{year}{2018}
     \endentry
@@ -792,6 +866,43 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-3-030-52655-9_8
+      \endverb
+    \endentry
+    \entry{caushuman}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{bibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorbibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authornamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Causation with a Human Face: Normative Theory and Descriptive Psychology}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oso/9780197585412.001.0001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oso/9780197585412.001.0001
       \endverb
     \endentry
     \entry{Dewulf2022}{book}{}{}
@@ -895,7 +1006,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{F}all 2022}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2022/entries/wesley-salmon/}}
       \field{title}{{Wesley Salmon}}
       \field{year}{2022}
     \endentry
@@ -960,8 +1070,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://iep.utm.edu/arrow-of-time/#SH5c}}
-      \field{note}{[Accessed 06-05-2025]}
       \field{title}{{A}rrow of {T}ime}
       \field{year}{2023}
     \endentry
@@ -1004,7 +1112,47 @@
       \field{edition}{1}
       \field{title}{Data Analysis for Social Science: A Friendly and Practical Introduction}
       \field{year}{2023}
-      \keyw{caus1}
+    \endentry
+    \entry{Manola2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=679357ea4ff4dda404bfabf59318267c}{%
+           family={Manola},
+           familyi={M\bibinitperiod},
+           given={Violetta},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe29e890f30449d5972190740cee8da7}{%
+           family={Psillos},
+           familyi={P\bibinitperiod},
+           given={Stathis},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{fullhash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{fullhashraw}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{bibnamehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authorbibnamehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authornamehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authorfullhash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authorfullhashraw}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metascience}
+      \field{number}{3}
+      \field{title}{Causation, From a Human Point of View: James Woodward: Causation with a Human Face: Normative Theory and Descriptive Psychology. Oxford: Oxford University Press, 432 Pp, \pounds64 Hb}
+      \field{volume}{32}
+      \field{year}{2023}
+      \field{pages}{301\bibrangedash 307}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s11016-023-00904-2
+      \endverb
     \endentry
     \entry{Otsuka2023}{book}{}{}
       \name{author}{1}{}{%
@@ -1095,7 +1243,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{S}pring 2023}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2023/entries/causal-explanation-science/}}
       \field{title}{Causal Approaches to Scientific Explanation}
       \field{year}{2023}
     \endentry
@@ -1135,7 +1282,7 @@
       \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -1145,7 +1292,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{S}ummer 2023}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/sum2023/entries/causation-mani/}}
       \field{title}{Causation and Manipulability}
       \field{year}{2023}
     \endentry
@@ -1194,9 +1340,62 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{W}inter 2024}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/win2024/entries/laws-of-nature/}}
       \field{title}{{Laws of Nature}}
       \field{year}{2024}
+    \endentry
+    \entry{indis}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=08b20896faf4b8d94224964c3c5de548}{%
+           family={Colyvan},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=47603970fcd579d567acd0cb66cdb242}{%
+           family={Nodelman},
+           familyi={N\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{fullhash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{fullhashraw}{08b20896faf4b8d94224964c3c5de548}
+      \strng{bibnamehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authorbibnamehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authornamehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authorfullhash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authorfullhashraw}{08b20896faf4b8d94224964c3c5de548}
+      \strng{editorbibnamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{S}ummer 2024}
+      \field{title}{{Indispensability Arguments in the Philosophy of Mathematics}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb \url{https://plato.stanford.edu/archives/sum2024/entries/mathphil-indis/}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://plato.stanford.edu/archives/sum2024/entries/mathphil-indis/%7D
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{ynt/global//global/global/global}
@@ -1274,7 +1473,7 @@
       \verb 10.1086/286983
       \endverb
     \endentry
-    \entry{Kitcher1962-KITEUA}{inbook}{}{}
+    \entry{Kitcher1962}{inbook}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d135fab97047219bb9b9296a2cece7b5}{%
            family={Kitcher},
@@ -1431,7 +1630,7 @@
       \field{title}{Statistical Explanation}
       \field{year}{1970}
     \endentry
-    \entry{Lewis1973-LEWC}{article}{}{}
+    \entry{Lewis1973b}{article}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=987abb6adca7047e7c1fbaecfa4ef1af}{%
            family={Lewis},
@@ -1441,7 +1640,7 @@
            givenun=1}}%
       }
       \list{publisher}{1}{%
-        {Oxford Up}%
+        {Oxford UP}%
       }
       \strng{namehash}{987abb6adca7047e7c1fbaecfa4ef1af}
       \strng{fullhash}{987abb6adca7047e7c1fbaecfa4ef1af}
@@ -1468,7 +1667,7 @@
       \verb 10.2307/2025310
       \endverb
     \endentry
-    \entry{Lewis1973-LEWC-2}{book}{}{}
+    \entry{Lewis1973a}{book}{}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=e6ac7ef507481ae342fadc087c53c37d}{%
            family={Lewis},
@@ -1567,6 +1766,41 @@
       \field{year}{1978}
       \field{pages}{408\bibrangedash 422}
       \range{pages}{15}
+    \endentry
+    \entry{Hausman1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e0725275c070931fb3e2207611f212b4}{%
+           family={Hausman},
+           familyi={H\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {University of Illinois Press}%
+      }
+      \strng{namehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{fullhash}{e0725275c070931fb3e2207611f212b4}
+      \strng{fullhashraw}{e0725275c070931fb3e2207611f212b4}
+      \strng{bibnamehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authorbibnamehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authornamehash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authorfullhash}{e0725275c070931fb3e2207611f212b4}
+      \strng{authorfullhashraw}{e0725275c070931fb3e2207611f212b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Philosophical Quarterly}
+      \field{number}{2}
+      \field{title}{Causation and Experimentation}
+      \field{volume}{23}
+      \field{year}{1986}
+      \field{pages}{143\bibrangedash 154}
+      \range{pages}{12}
     \endentry
     \entry{Bromberger1992}{book}{}{}
       \name{author}{1}{}{%
@@ -1670,7 +1904,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This book develops a manipulationist theory of causation and explanation: causal and explanatory relationships are relationships that are potentially exploitable for purposes of manipulation and control. The resulting theory is a species of counterfactual theory that (I claim) avoids the difficulties and counterexamples that have infected alternative accounts of causation and explanation, from the Deductive-Nomological model onwards. One of the key concepts in this theory is the notion of an intervention, which is an idealization of the notion of an experimental manipulation that is stripped of its anthropocentric elements. This notion is used to provide a characterization of causal relationships that is non-reductive but also not viciously circular. Relationships that correctly tell us how the value of one variable Y would change under interventions on a second variable Y are invariant. The notion of an invariant relationship is more helpful than the notion of a law of nature (the notion on which philosophers have traditionally relied) in understanding how explanation and causal attribution work in the special sciences.}
       \field{isbn}{9780195155273}
       \field{month}{01}
       \field{title}{Making Things Happen: A Theory of Causal Explanation}
@@ -1720,9 +1953,6 @@
       \range{pages}{26}
       \verb{doi}
       \verb 10.1093/aristotelian/13.1.1
-      \endverb
-      \verb{eprint}
-      \verb https://academic.oup.com/aristotelian/article-pdf/13/1/1/5018295/aristotelian13-0001.pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1093/aristotelian/13.1.1
@@ -1819,6 +2049,50 @@
       \verb https://books.google.com.mx/books?id=L3G-CgAAQBAJ
       \endverb
     \endentry
+    \entry{Lewontin2017}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d9cfbde074beaef4c44088b7cb04e991}{%
+           family={Lewontin},
+           familyi={L\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d379aa51eed630b5bf86488fb5e94969}{%
+           family={Kamin},
+           familyi={K\bibinitperiod},
+           given={Leon\bibnamedelima J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aea14f91d1f62fc818ca8a52ba6fe398}{%
+           family={Rose},
+           familyi={R\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Haymarket Books}%
+      }
+      \strng{namehash}{a98918af455b6f5103c72c1bdc19dc67}
+      \strng{fullhash}{9731366e66989a183d960ff2cc42091b}
+      \strng{fullhashraw}{9731366e66989a183d960ff2cc42091b}
+      \strng{bibnamehash}{9731366e66989a183d960ff2cc42091b}
+      \strng{authorbibnamehash}{9731366e66989a183d960ff2cc42091b}
+      \strng{authornamehash}{a98918af455b6f5103c72c1bdc19dc67}
+      \strng{authorfullhash}{9731366e66989a183d960ff2cc42091b}
+      \strng{authorfullhashraw}{9731366e66989a183d960ff2cc42091b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{9781608467273}
+      \field{shorttitle}{Not in {Our} {Genes}}
+      \field{title}{Not in Our Genes: Biology, Ideology, and Human Nature}
+      \field{year}{2017}
+    \endentry
     \entry{Potochnik2017-POTIAT-3}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8b34884b484ced971d2f484cc714e59f}{%
@@ -1876,7 +2150,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://philosophy.mit.edu/bromberger}}
       \field{title}{Sylvain Bromberger, 1924-2018}
       \field{year}{2018}
     \endentry
@@ -1973,6 +2246,43 @@
       \endverb
       \verb{url}
       \verb https://doi.org/10.1007/978-3-030-52655-9_8
+      \endverb
+    \endentry
+    \entry{caushuman}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
+           family={Woodward},
+           familyi={W\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{fullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{bibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorbibnamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authornamehash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhash}{c46c1800e8b4085229725e303f5e07cf}
+      \strng{authorfullhashraw}{c46c1800e8b4085229725e303f5e07cf}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Causation with a Human Face: Normative Theory and Descriptive Psychology}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/oso/9780197585412.001.0001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/oso/9780197585412.001.0001
       \endverb
     \endentry
     \entry{Dewulf2022}{book}{}{}
@@ -2076,7 +2386,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{F}all 2022}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2022/entries/wesley-salmon/}}
       \field{title}{{Wesley Salmon}}
       \field{year}{2022}
     \endentry
@@ -2141,8 +2450,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://iep.utm.edu/arrow-of-time/#SH5c}}
-      \field{note}{[Accessed 06-05-2025]}
       \field{title}{{A}rrow of {T}ime}
       \field{year}{2023}
     \endentry
@@ -2185,7 +2492,47 @@
       \field{edition}{1}
       \field{title}{Data Analysis for Social Science: A Friendly and Practical Introduction}
       \field{year}{2023}
-      \keyw{caus1}
+    \endentry
+    \entry{Manola2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=679357ea4ff4dda404bfabf59318267c}{%
+           family={Manola},
+           familyi={M\bibinitperiod},
+           given={Violetta},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe29e890f30449d5972190740cee8da7}{%
+           family={Psillos},
+           familyi={P\bibinitperiod},
+           given={Stathis},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{fullhash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{fullhashraw}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{bibnamehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authorbibnamehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authornamehash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authorfullhash}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \strng{authorfullhashraw}{97ec8a28bfea67b06ce9cd0b25e2b235}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metascience}
+      \field{number}{3}
+      \field{title}{Causation, From a Human Point of View: James Woodward: Causation with a Human Face: Normative Theory and Descriptive Psychology. Oxford: Oxford University Press, 432 Pp, \pounds64 Hb}
+      \field{volume}{32}
+      \field{year}{2023}
+      \field{pages}{301\bibrangedash 307}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s11016-023-00904-2
+      \endverb
     \endentry
     \entry{Otsuka2023}{book}{}{}
       \name{author}{1}{}{%
@@ -2276,7 +2623,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{S}pring 2023}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2023/entries/causal-explanation-science/}}
       \field{title}{Causal Approaches to Scientific Explanation}
       \field{year}{2023}
     \endentry
@@ -2316,7 +2662,7 @@
       \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
       \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
@@ -2326,7 +2672,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{S}ummer 2023}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/sum2023/entries/causation-mani/}}
       \field{title}{Causation and Manipulability}
       \field{year}{2023}
     \endentry
@@ -2375,11 +2720,65 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
       \field{edition}{{W}inter 2024}
-      \field{howpublished}{\url{https://plato.stanford.edu/archives/win2024/entries/laws-of-nature/}}
       \field{title}{{Laws of Nature}}
       \field{year}{2024}
     \endentry
+    \entry{indis}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=08b20896faf4b8d94224964c3c5de548}{%
+           family={Colyvan},
+           familyi={C\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=47603970fcd579d567acd0cb66cdb242}{%
+           family={Nodelman},
+           familyi={N\bibinitperiod},
+           given={Uri},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{fullhash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{fullhashraw}{08b20896faf4b8d94224964c3c5de548}
+      \strng{bibnamehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authorbibnamehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authornamehash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authorfullhash}{08b20896faf4b8d94224964c3c5de548}
+      \strng{authorfullhashraw}{08b20896faf4b8d94224964c3c5de548}
+      \strng{editorbibnamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editornamehash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhash}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \strng{editorfullhashraw}{ab8d8ffb26096a29ec1c38ef9e4911c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{S}ummer 2024}
+      \field{title}{{Indispensability Arguments in the Philosophy of Mathematics}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb \url{https://plato.stanford.edu/archives/sum2024/entries/mathphil-indis/}
+      \endverb
+      \verb{url}
+      \verb %5Curl%7Bhttps://plato.stanford.edu/archives/sum2024/entries/mathphil-indis/%7D
+      \endverb
+    \endentry
   \enddatalist
+  \missing{Holland01121986}
 \endrefsection
 \endinput
 
