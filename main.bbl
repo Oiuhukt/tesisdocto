@@ -496,6 +496,44 @@
       \verb 10.1093/bjps/51.2.197
       \endverb
     \endentry
+    \entry{Cartwright2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fbaade670b892f3ab57ff980f8560928}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{fullhash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{fullhashraw}{fbaade670b892f3ab57ff980f8560928}
+      \strng{bibnamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorbibnamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authornamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorfullhash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorfullhashraw}{fbaade670b892f3ab57ff980f8560928}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal for the Philosophy of Science}
+      \field{number}{3}
+      \field{title}{Against Modularity, the Causal Markov Condition, and Any Link Between the Two: Comments on Hausman and Woodward}
+      \field{volume}{53}
+      \field{year}{2002}
+      \field{pages}{411\bibrangedash 453}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1093/bjps/53.3.411
+      \endverb
+    \endentry
     \entry{Woodward2004}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c46c1800e8b4085229725e303f5e07cf}{%
@@ -1874,6 +1912,44 @@
       \range{pages}{58}
       \verb{doi}
       \verb 10.1093/bjps/51.2.197
+      \endverb
+    \endentry
+    \entry{Cartwright2002}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fbaade670b892f3ab57ff980f8560928}{%
+           family={Cartwright},
+           familyi={C\bibinitperiod},
+           given={Nancy},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{fullhash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{fullhashraw}{fbaade670b892f3ab57ff980f8560928}
+      \strng{bibnamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorbibnamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authornamehash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorfullhash}{fbaade670b892f3ab57ff980f8560928}
+      \strng{authorfullhashraw}{fbaade670b892f3ab57ff980f8560928}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{British Journal for the Philosophy of Science}
+      \field{number}{3}
+      \field{title}{Against Modularity, the Causal Markov Condition, and Any Link Between the Two: Comments on Hausman and Woodward}
+      \field{volume}{53}
+      \field{year}{2002}
+      \field{pages}{411\bibrangedash 453}
+      \range{pages}{43}
+      \verb{doi}
+      \verb 10.1093/bjps/53.3.411
       \endverb
     \endentry
     \entry{Woodward2004}{book}{}{}
