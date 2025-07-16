@@ -1,0 +1,25 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'main.blg'
+[73] biber:342> INFO - === mar jul 15, 2025, 20:27:10
+[91] Biber.pm:421> INFO - Reading 'main.bcf'
+[212] Biber.pm:1002> INFO - Found 114 citekeys in bib section 0
+[229] Biber.pm:4487> INFO - Processing section 0
+[237] Biber.pm:4678> INFO - Looking for bibtex file 'main.bib' for section 0
+[240] bibtex.pm:1713> INFO - LaTeX decoding ...
+[426] bibtex.pm:1519> INFO - Found BibTeX data source 'main.bib'
+[1154] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1154] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1154] Biber.pm:4307> INFO - Sorting list 'ynt/apasortcite//global/global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[1362] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1362] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1362] Biber.pm:4307> INFO - Sorting list 'ynt/global//global/global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[1452] bbl.pm:676> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[1545] bbl.pm:779> INFO - Output to main.bbl
+[1545] Biber.pm:132> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Ariotti1968' and 'ariotti1968' in file 'main.bib'
+[1545] Biber.pm:132> WARN - Possible typo (case mismatch) between citation and datasource keys: 'Ramond2023' and 'ramond2023' in file 'main.bib'
+[1545] Biber.pm:132> WARN - ISBN '978-94-010-8505-2 978-94-009-4500-5' in entry 'freudenthalNewtonJustificationTheory1986' is invalid - run biber with '--validate_datamodel' for details.
+[1545] Biber.pm:132> WARN - ISBN '0-520-00928-2 978-0-520-00928-8' in entry 'newton1966' is invalid - run biber with '--validate_datamodel' for details.
+[1545] Biber.pm:132> WARN - I didn't find a database entry for 'Ariotti1968' (section 0)
+[1546] Biber.pm:132> WARN - I didn't find a database entry for 'Ramond2023' (section 0)
+[1546] Biber.pm:132> WARN - I didn't find a database entry for 'Saatsi2010-SAAFVC-2' (section 0)
+[1546] Biber.pm:134> INFO - WARNINGS: 7

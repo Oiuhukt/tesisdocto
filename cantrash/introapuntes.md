@@ -18,8 +18,16 @@ This conception constitutes the dominant framework in which the philosophy of sc
 
 # Esto es del de Stillwell
 
-This has certain risks, such as making the mathematics look simpler
-than it really was in its time, but the risk of obscuring ideas by cumbersome, unfamiliar notation is greater, in my opinion. Indeed, it is practically a truism that mathematical ideas generally arise before there is notation or language to express them clearly, and that ideas are implicit before they become explicit. Thus the historian, who is presumably trying to be both clear and explicit, often has no choice but to be anachronistic when tracing the origins of ideas.
+This has certain risks, such as making the mathematics look
+simpler than it really was in its time, but the risk of
+obscuring ideas by cumbersome, unfamiliar notation is
+greater, in my opinion. Indeed, it is practically a truism
+that mathematical ideas generally arise before there is
+notation or language to express them clearly, and that ideas
+are implicit before they become explicit. Thus the
+historian, who is presumably trying to be both clear and
+explicit, often has no choice but to be anachronistic when
+tracing the origins of ideas.
 
 Perhaps the low cultural status of mathematics today, not to mention the mathematical ignorance of politicians and philosophers, reflects the lack of an Elements suitable for the modern world.
 

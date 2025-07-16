@@ -1,8 +1,8 @@
 \documentclass[
     letterpaper, % Page size
     fontsize=12pt, % Base font size
-    twoside=true, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
-    open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
+    twoside=false, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
+    %open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
     fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the default for PdfLaTex, and "modern" is the default for those two.
 ]{memoir}
 
@@ -19,7 +19,7 @@
 \usepackage{dirtytalk} %Para usar el comando \say{} y no comillas
 \usepackage{amsmath}
 \usepackage{amsfonts}
-
+\usepackage{hyperref}
 \addbibresource{main.bib}
 
 
@@ -27,30 +27,26 @@
 
 \frontmatter
 
-\pagestyle{empty}
-\input{chapters/title.tex}
+%\pagestyle{empty}
 
+\input{chapters/title.tex}
 \clearpage
 
 \tableofcontents
 \clearpage
 
-\input{chapters/introduction.tex}
-
 \mainmatter
 
-
+\input{chapters/introduction.tex}
 \input{chapters/brevediagnos.tex}
-%\input{chapters/chapter_2.tex}
-%\input{chapters/chapter_3.tex}
-%\input{chapters/chapter_4.tex}
+\input{chapters/chapter_2.tex}
+\input{chapters/chapter_3.tex}
+\input{chapters/chapter_4.tex}
 %\clearpage
 
 
-\backmatter % Denotes the end of the main document content
-
+\backmatter
+\clearpage% Denotes the end of the main document content
 \printbibliography
-\clearpage
-
 
 \end{document}
