@@ -1,0 +1,7 @@
+PWD /home/oiuhukt/gitclones/tesisdocto/maintex/cantrash
+INPUT /home/oiuhukt/texlive/texmf.cnf
+INPUT /home/oiuhukt/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /home/oiuhukt/texlive/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /home/oiuhukt/gitclones/tesisdocto/maintex/cantrash/introapuntes.tex
+OUTPUT introapuntes.log
+INPUT /home/oiuhukt/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

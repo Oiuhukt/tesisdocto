@@ -1,0 +1,33 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice general}{\es@scroman {i}}{chapter*.1}%
+\contentsline {chapter}{\chapternumberline {1}Una breve anécdota}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Parte I}{1}{section.1.1}%
+\contentsline {paragraph}{Hempel y Oppenheim (\blx@tocontentsinit {0}\citeyear {Hempel1948}),}{2}{section*.2}%
+\contentsline {paragraph}{Sylvain Bromberger (\blx@tocontentsinit {0}\citeyear {Bromberger1966})}{3}{section*.3}%
+\contentsline {paragraph}{Wesley Salmon (\blx@tocontentsinit {0}\citeyear {Salmon1970})}{5}{section*.4}%
+\contentsline {paragraph}{James Woodward (\blx@tocontentsinit {0}\citeyear {Woodward2004})}{10}{section*.5}%
+\contentsline {section}{\numberline {1.2}Parte II}{14}{section.1.2}%
+\contentsline {paragraph}{La cuota metodológica}{14}{section*.6}%
+\contentsline {paragraph}{Woodward en (\blx@tocontentsinit {0}\citeyear {caushuman})}{17}{section*.7}%
+\contentsline {paragraph}{La deuda normativa}{19}{section*.8}%
+\contentsline {section}{\numberline {1.3}Parte III}{22}{section.1.3}%
+\contentsline {paragraph}{Algunos de los \emph {desiderata}}{23}{section*.9}%
+\contentsline {paragraph}{Los condicionales contrafácticos}{25}{section*.10}%
+\contentsline {paragraph}{En este trabajo}{27}{section*.11}%
+\contentsline {paragraph}{No voy a hacer una defensa}{30}{section*.12}%
+\contentsline {paragraph}{Regresando a la anécdota,}{32}{section*.13}%
+\contentsline {chapter}{\chapternumberline {2}Un rápido diagnóstico}{35}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Un breve repaso de dos posturas}{35}{section.2.1}%
+\contentsline {subsection}{Dos metodologías: \emph {externalismo} e \emph {internalismo}}{35}{section*.14}%
+\contentsline {subsection}{Un caso más cercano a la filosofía de la ciencia}{38}{section*.15}%
+\contentsline {paragraph}{La distinción entre los dos contextos}{39}{section*.16}%
+\contentsline {subsection}{El círculo de Viena}{40}{section*.17}%
+\contentsline {paragraph}{Otto Neurath,}{40}{section*.18}%
+\contentsline {paragraph}{Philipp Frank}{41}{section*.19}%
+\contentsline {subsection}{Justificar una teoría es el objetivo principal de la investigación}{44}{section*.20}%
+\contentsline {paragraph}{Justificar}{45}{section*.21}%
+\contentsline {paragraph}{Tanto Neurath como Frank}{45}{section*.22}%
+\contentsline {section}{\numberline {2.2}¿Qué podemos aprender de la historia de la ciencia?}{45}{section.2.2}%
+\contentsline {subsection}{La doctrina}{46}{section*.23}%
+\contentsline {subsection}{En defensa de la doctrina}{47}{section*.24}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{49}{section*.27}%
