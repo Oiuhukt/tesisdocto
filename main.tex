@@ -13,9 +13,9 @@ fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the def
 
 \usepackage[spanish, mexico, es-noquoting]{babel} %Idioma
 \usepackage[
-  backend=biber,
-  style=apa,
-  sorting=ynt
+ backend=biber,
+ style=apa,
+ sorting=ynt
 ]{biblatex} %Usar biblatex y no bibtex
 \usepackage{csquotes}
 %\usepackage{bibcop} %para revisar las entradas del .bib
@@ -23,14 +23,14 @@ fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the def
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{hyperref}
-\addbibresource{./main.bib}
+\addbibresource{main.bib}
 
 
 \begin{document}
 
 \frontmatter
 
-\input{chapters/title.tex}
+\input{maintex/chapters/title.tex}
 \clearpage
 
 \tableofcontents
@@ -39,7 +39,7 @@ fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the def
 \mainmatter
 
 %\input{chapters/introduction.tex}
-\input{chapters/brevediagnos.tex}
+\input{maintex/chapters/brevediagnos.tex}
 %\input{chapters/chapter-2.tex}
 %\input{chapters/chapter-3.tex}
 %\input{chapters/chapter-4.tex}
@@ -49,6 +49,8 @@ fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the def
 
 \clearpage
 % Denotes the end of the main documentcontent
+
 \printbibliography
+
 
 \end{document}

@@ -1,24 +1,28 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.12.27)  27 DEC 2025 22:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.6)  7 APR 2026 17:33
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-24>
-(/home/oiuhukt/texmf/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article document class
-(/home/oiuhukt/texmf/texmf-dist/tex/latex/xpatch/xpatch.sty (/home/oiuhukt/texmf/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-12-24 L3 programming layer (loader) 
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+L3 programming layer <2026-03-20>
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/xpatch/xpatch.sty
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-02-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count276
 ))
@@ -27,12 +31,14 @@ Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \xlvchars=\skip51
 \@memcnta=\count277
 \c@@memmarkcntra=\count278
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/iftex/iftex.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 )
 \trimtop=\skip52
 \trimedge=\skip53
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/memoir/mem10.clo
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/memoir/mem10.clo
 File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 )
 \binding=\skip54
@@ -46,7 +52,7 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \mem@maxfootheight=\skip62
 \headwidth=\skip63
 \c@storedpagenumber=\count279
-\memPD=\dimen148
+\memPD=\dimen150
 \m@mabparskip=\skip64
 \thanksmarkwidth=\skip65
 \thanksmarksep=\skip66
@@ -82,8 +88,8 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \pfbreakskip=\skip88
 \c@@ppsavesec=\count288
 \c@@ppsaveapp=\count289
-\ragrparindent=\dimen149
-\everylistparindent=\dimen150
+\ragrparindent=\dimen151
+\everylistparindent=\dimen152
 \parsepi=\skip89
 \topsepi=\skip90
 \itemsepi=\skip91
@@ -99,7 +105,7 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \@enLab=\toks17
 \abstitleskip=\skip101
 \absleftindent=\skip102
-\abs@leftindent=\dimen151
+\abs@leftindent=\dimen153
 \absrightindent=\skip103
 \absparindent=\skip104
 \absparsep=\skip105
@@ -113,7 +119,7 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \versewidth=\skip109
 \vgap=\skip110
 \vindent=\skip111
-\vleftmargin=\dimen152
+\vleftmargin=\dimen154
 \c@verse=\count294
 \c@chrsinstr=\count295
 \beforepoemtitleskip=\skip112
@@ -122,47 +128,52 @@ File: mem10.clo 2022/07/29 v0.5 memoir class 10pt size option
 \beforePoemTitleskip=\skip114
 \midPoemTitleskip=\skip115
 \afterPoemTitleskip=\skip116
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/tools/array.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen153
+\col@sep=\dimen155
 \ar@mcellbox=\box53
-\extrarowheight=\dimen154
+\extrarowheight=\dimen156
 \NC@list=\toks18
 \extratabsurround=\skip117
 \backup@length=\skip118
 \ar@cellbox=\box54
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/tools/dcolumn.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/tools/dcolumn.sty
 Package: dcolumn 2025/10/21 v1.06 decimal alignment package (DPC)
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/tools/delarray.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/tools/delarray.sty
 Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/tools/tabularx.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
-\TX@col@width=\dimen155
-\TX@old@table=\dimen156
-\TX@old@col=\dimen157
-\TX@target=\dimen158
-\TX@delta=\dimen159
+\TX@col@width=\dimen157
+\TX@old@table=\dimen158
+\TX@old@col=\dimen159
+\TX@target=\dimen160
+\TX@delta=\dimen161
 \TX@cols=\count297
 \TX@ftn=\toks19
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/booktabs/booktabs.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen160
-\lightrulewidth=\dimen161
-\cmidrulewidth=\dimen162
-\belowrulesep=\dimen163
-\belowbottomsep=\dimen164
-\aboverulesep=\dimen165
-\abovetopsep=\dimen166
-\cmidrulesep=\dimen167
-\cmidrulekern=\dimen168
-\defaultaddspace=\dimen169
+\heavyrulewidth=\dimen162
+\lightrulewidth=\dimen163
+\cmidrulewidth=\dimen164
+\belowrulesep=\dimen165
+\belowbottomsep=\dimen166
+\aboverulesep=\dimen167
+\abovetopsep=\dimen168
+\cmidrulesep=\dimen169
+\cmidrulekern=\dimen170
+\defaultaddspace=\dimen171
 \@cmidla=\count298
 \@cmidlb=\count299
-\@aboverulesep=\dimen170
-\@belowrulesep=\dimen171
+\@aboverulesep=\dimen172
+\@belowrulesep=\dimen173
 \@thisruleclass=\count300
 \@lastruleclass=\count301
-\@thisrulewidth=\dimen172
+\@thisrulewidth=\dimen174
 )
 \ctableftskip=\skip119
 \ctabrightskip=\skip120
@@ -171,7 +182,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@cellstogo=\count304
 \@cellsincolumn=\count305
 \crtok=\toks20
-\@mincolumnwidth=\dimen173
+\@mincolumnwidth=\dimen175
 \c@newflo@tctr=\count306
 \mem@margin@floatbox=\box55
 \@contcwidth=\skip121
@@ -183,37 +194,45 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \subfloatcaptopadj=\skip127
 \subfloatbottomskip=\skip128
 \subfloatlabelskip=\skip129
-\subfloatcapmargin=\dimen174
+\subfloatcapmargin=\dimen176
 \c@@contsubnum=\count307
 \m@mscap@capbox=\box56
 \m@mscap@fbox=\box57
-\sidecapsep=\dimen175
-\sidecapwidth=\dimen176
-\m@m@tempdima=\dimen177
-\m@mscapraise=\dimen178
-\sidecapraise=\dimen179
-\m@mscapmainwidth=\dimen180
-\m@mscaplkern=\dimen181
+\sidecapsep=\dimen177
+\sidecapwidth=\dimen178
+\m@m@tempdima=\dimen179
+\m@mscapraise=\dimen180
+\sidecapraise=\dimen181
+\m@mscapmainwidth=\dimen182
+\m@mscaplkern=\dimen183
 \beforeepigraphskip=\skip130
 \afterepigraphskip=\skip131
 \epigraphwidth=\skip132
 \epigraphrule=\skip133
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/refcount/refcount.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (/home/oiuhukt/texmf/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)) (/home/oiuhukt/texmf/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+))
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.st
+y
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/home/oiuhukt/.texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks21
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
 \c@section@level=\count308
@@ -222,8 +241,8 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \tocbaseline=\skip135
 \cftparskip=\skip136
 \cftbeforebookskip=\skip137
-\cftbookindent=\dimen182
-\cftbooknumwidth=\dimen183
+\cftbookindent=\dimen184
+\cftbooknumwidth=\dimen185
 \cftbeforepartskip=\skip138
 \cftpartindent=\skip139
 \cftpartnumwidth=\skip140
@@ -245,9 +264,9 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \cftbeforesubparagraphskip=\skip156
 \cftsubparagraphindent=\skip157
 \cftsubparagraphnumwidth=\skip158
-\prechapterprecisshift=\dimen184
+\prechapterprecisshift=\dimen186
 \c@maxsecnumdepth=\count309
-\bibindent=\dimen185
+\bibindent=\dimen187
 \bibitemsep=\skip159
 \indexcolsep=\skip160
 \indexrule=\skip161
@@ -255,8 +274,8 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \@indexbox=\insert252
 LaTeX Info: Redefining \raggedbottom on input line 8095.
 LaTeX Info: Redefining \flushbottom on input line 8099.
-\glossarycolsep=\dimen186
-\glossaryrule=\dimen187
+\glossarycolsep=\dimen188
+\glossaryrule=\dimen189
 \sideparvshift=\skip162
 \sideins=\insert251
 \sidebartopsep=\skip163
@@ -270,7 +289,7 @@ LaTeX Info: Redefining \flushbottom on input line 8099.
 \footinsv@r=\insert250
 \@mpfootinsv@r=\insert249
 \m@m@k=\count310
-\m@m@h=\dimen188
+\m@m@h=\dimen190
 \m@mipn@skip=\skip171
 \sidefootins=\insert248
 \sidefootadjust=\skip172
@@ -286,7 +305,8 @@ LaTeX Info: Redefining \flushbottom on input line 8099.
 \c@pagenote=\count312
 \c@pagenoteshadow=\count313
 \mem@pn@lastkern=\skip181
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/tools/verbatim.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks23
 \verbatim@line=\toks24
@@ -294,17 +314,19 @@ Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 )
 \verbatimindent=\skip182
 \verbatim@out=\write3
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/base/shortvrb.sty
-Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/base/shortvrb.sty
+Package: shortvrb 2024/12/25 v3.0q Standard LaTeX documentation package V3 (FMi
+)
 )
 \bvboxsep=\skip183
 \c@memfbvline=\count314
 \c@bvlinectr=\count315
 \bvnumlength=\skip184
-\fb@frw=\dimen189
-\fb@frh=\dimen190
-\FrameRule=\dimen191
-\FrameSep=\dimen192
+\fb@frw=\dimen191
+\fb@frh=\dimen192
+\FrameRule=\dimen193
+\FrameSep=\dimen194
 \c@cp@cntr=\count316
 \c@ism@mctr=\count317
 \c@xsm@mctr=\count318
@@ -357,25 +379,37 @@ Package tocbibind [2008/07/23] emulated by memoir.
 Package tocloft [2008/07/23] emulated by memoir.
 Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
-) (/home/oiuhukt/texmf/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/03/24 v26.5 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
 \babel@savecnt=\count335
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
-\U@D=\dimen193
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen195
 \l@unhyphenated=\language5
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/babel/txtbabel.def)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count336
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.te
+x)
 Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 4320.
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+(babel)             from babel-es.ini. Reported on input line 4330.
+ (/home/oiuhukt/.texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 
 
@@ -391,23 +425,31 @@ Package babel Info: Hyphen rules for 'spanish' set to \l@english
 \es@quotdepth=\count337
 Package babel Info: Making " an active character on input line 570.
 ))
-LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 15.
-LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 15.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/biblatex.sty
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) 
+on input line 15.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
+ on input line 15.
+ (/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/logreq/logreq.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count338
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/logreq/logreq.def
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (/home/oiuhukt/texmf/texmf-dist/tex/latex/base/ifthen.sty
+))
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/url/url.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -469,12 +511,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \c@mincompwidth=\count384
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/blx-dm.def
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'apa.dbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex-apa/apa.dbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex-apa/apa.dbx
 File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
@@ -573,12 +617,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip267
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/blx-compat.def
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/biblatex.def
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \c@textcitecount=\count463
 \c@textcitetotal=\count464
@@ -596,26 +642,35 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex-apa/apa.bbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex-apa/apa.bbx
 File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count472
 \c@bbx:relatedtotal=\count473
 )
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already defined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
+ed, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
+efined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
+ined, overwriting.
+Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
+ defined, overwriting.
 )
 Package biblatex Info: Trying to load citation style 'apa'...
 Package biblatex Info: ... file 'apa.cbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex-apa/apa.cbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex-apa/apa.cbx
 File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined, overwriting.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
+, overwriting.
 Package biblatex Info: Redefining '\fullcite'.
 Package biblatex Info: Redefining '\citeauthor'.
 Package biblatex Info: Redefining '\citeyear'.
@@ -634,18 +689,21 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/biblatex.cfg
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2025-12-24 L3 programming layer (loader) 
+(biblatex)             2026-03-20 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-)) (/home/oiuhukt/texmf/texmf-dist/tex/latex/csquotes/csquotes.sty
+))
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@reset=\count474
 \csq@gtype=\count475
@@ -654,31 +712,38 @@ Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
 \csq@maxlvl=\count478
 \csq@tshold=\count479
 \csq@ltx@everypar=\toks26
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/csquotes/csquotes.def
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/csquotes/csquotes.cfg
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-)) (/home/oiuhukt/texmf/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+))
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
 Package: dirtytalk 2010/11/21 A package making "quoting" easier
 \c@dirtytalk@qdepth=\count480
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsmath/amsmath.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip268
 
 For additional information on amsmath, use the `?' option.
-(/home/oiuhukt/texmf/texmf-dist/tex/latex/amsmath/amstext.sty
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsmath/amsgen.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks27
-\ex@=\dimen194
-)) (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\ex@=\dimen196
+))
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen195
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsmath/amsopn.sty
+\pmbraise@=\dimen197
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count481
@@ -698,7 +763,7 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen196
+\big@size=\dimen198
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
 \macc@depth=\count486
@@ -716,95 +781,112 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \column@=\count491
 \maxfields@=\count492
 \andhelp@=\toks29
-\eqnshift@=\dimen197
-\alignsep@=\dimen198
-\tagshift@=\dimen199
-\tagwidth@=\dimen256
-\totwidth@=\dimen257
-\lineht@=\dimen258
+\eqnshift@=\dimen199
+\alignsep@=\dimen256
+\tagshift@=\dimen257
+\tagwidth@=\dimen258
+\totwidth@=\dimen259
+\lineht@=\dimen260
 \@envbody=\toks30
 \multlinegap=\skip269
 \multlinetaggap=\skip270
 \mathdisplay@stack=\toks31
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/home/oiuhukt/texmf/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/hycolor/hycolor.sty
-Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/home/oiuhukt/texmf/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen259
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen261
 \Hy@linkcounter=\count493
 \Hy@pagecounter=\count494
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/home/oiuhukt/texmf/texmf-dist/tex/generic/intcalc/intcalc.sty
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count495
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
+Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count496
-LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen260
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/bitset/bitset.sty
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen262
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count497
-\Field@Width=\dimen261
-\Fld@charsize=\dimen262
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Field@Width=\dimen263
+\Fld@charsize=\dimen264
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
 \Hy@abspage=\count498
 \c@Item=\count499
 \c@Hfootnote=\count500
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count501
 \c@bookmark@seq@number=\count502
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (/home/oiuhukt/texmf/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
 )
 \Hy@SectionHShift=\skip271
-) (/home/oiuhukt/texmf/texmf-dist/tex/latex/memoir/memhfixc.sty
+) (/home/oiuhukt/.texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2025/09/16 v1.24 hyperref package fixes for memoir class
 \c@memhycontfloat=\count503
 \c@mem@Hpagenote=\count504
@@ -818,7 +900,7 @@ Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Warning: Unused global option(s):
     [fontmethod].
 
-(build/main.aux
+(maintex/build/main.aux
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
@@ -848,16 +930,19 @@ LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
 File: spanish-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'spanish'...
 Package biblatex Info: ... file 'spanish.lbx' found.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
 File: spanish.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 ))
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -867,29 +952,33 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (build/main.bbl)
+
+(maintex/build/main.bbl)
 Package biblatex Info: Reference section=0 on input line 29.
 Package biblatex Info: Reference segment=0 on input line 29.
 Package hyperref Info: Link coloring OFF on input line 29.
- (build/main.out) (build/main.out)
+ (maintex/build/main.out) (maintex/build/main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
- (./chapters/title.tex [1
+
+(./maintex/chapters/title.tex [1
 
 
-{/home/oiuhukt/texmf/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/home/oiuhukt/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-]) (build/main.toc
+]) (maintex/build/main.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/amsfonts/umsb.fd
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
@@ -905,336 +994,98 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 ] [2
 
 
-] (./chapters/introduction.tex
+] (./maintex/chapters/brevediagnos.tex
 Cap\'{\i }tulo 1.
 
-Overfull \hbox (6.00061pt too wide) in paragraph at lines 10--19
-\OT1/cmr/m/n/10 El Doc-tor-a-do ha si-do un pro-ce-so ex-ten-so du-rante el cual he apren-di-do much^^S^^Psimo.
+Overfull \hbox (8.7855pt too wide) in paragraph at lines 12--22
+\OT1/cmr/m/it/10 conocimien-to. \OT1/cmr/m/n/10 Si es-to es ver-dad, se sigue q
+ue si los in-ves-ti-gadores lo-gran cualquiera
  []
 
 
-Underfull \vbox (badness 1389) has occurred while \output is active []
+Overfull \hbox (11.8383pt too wide) in paragraph at lines 23--30
+[]\OT1/cmr/m/n/10 Siendo m^^Sas ex-pl^^S^^Pcito, es nece-sario que: si un su-je
+-to cualquiera tiene conocimien-
+ []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.65 S
-      almon hizo notar en \citetitle{Salmon1970} que una teoría [1
+l.43 E
+      sto, en espíritu, es algo que deja bien ilustrado Lynch al decir ``Es...
+[1
 
 ]
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 65.
- (/home/oiuhukt/texmf/texmf-dist/tex/latex/base/ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-LaTeX Info: Redefining \. on input line 145.
-LaTeX Info: Redefining \% on input line 145.
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 145.
+(babel)             Reported on input line 111.
 
 
 Class memoir Warning: The material used in the headers is too large
 (13.07225pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 145.
+(in both cases you will find help in the memoir manual). on input line 111.
 
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.145 
-       [2]
-LaTeX Info: Redefining \. on input line 208.
-LaTeX Info: Redefining \% on input line 208.
- [3]
-LaTeX Info: Redefining \. on input line 291.
-LaTeX Info: Redefining \% on input line 291.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [4]
-LaTeX Info: Redefining \. on input line 352.
-LaTeX Info: Redefining \% on input line 352.
- [5]
-LaTeX Info: Redefining \. on input line 422.
-LaTeX Info: Redefining \% on input line 422.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [6]
-LaTeX Info: Redefining \. on input line 495.
-LaTeX Info: Redefining \% on input line 495.
- [7]
-LaTeX Info: Redefining \. on input line 561.
-LaTeX Info: Redefining \% on input line 561.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [8]
-LaTeX Info: Redefining \. on input line 635.
-LaTeX Info: Redefining \% on input line 635.
- [9]
-LaTeX Info: Redefining \. on input line 709.
-LaTeX Info: Redefining \% on input line 709.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [10]
-LaTeX Info: Redefining \. on input line 772.
-LaTeX Info: Redefining \% on input line 772.
- [11]
-LaTeX Info: Redefining \. on input line 841.
-LaTeX Info: Redefining \% on input line 841.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [12]
-Overfull \hbox (1.14268pt too wide) in paragraph at lines 907--921
-[]\OT1/cmr/m/n/10 La sigu-iente sec-ci^^Son pro-ced-er^^Sa de la sigu-iente man-era: comen-zar^^Se despachan-
+l.111 
+       [2] [3]
+Overfull \hbox (21.16725pt too wide) in paragraph at lines 150--151
+[]\OT1/cmr/m/n/10 La in-ves-ti-gaci^^Son cient^^S^^Pfi-ca tiene in-flu-en-cias 
+y con-se-cuen-cias pr^^Sacti-cas (pol^^S^^Pticas,
  []
 
-
-Underfull \vbox (badness 1062) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 921.
-LaTeX Info: Redefining \% on input line 921.
- [13]
-LaTeX Info: Redefining \. on input line 992.
-LaTeX Info: Redefining \% on input line 992.
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
- [14]
-LaTeX Info: Redefining \. on input line 1039.
-LaTeX Info: Redefining \% on input line 1039.
- [15]
-LaTeX Info: Redefining \. on input line 1111.
-LaTeX Info: Redefining \% on input line 1111.
+
+[4])
+Runaway argument?
+{ \say {one of the philosophical theses in favor of the contrapositio\ETC.
+! File ended while scanning use of \@footnotetext.
+<inserted text> 
+                \par 
+l.42 \input{maintex/chapters/brevediagnos.tex}
+                                              
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
- [16]
-Overfull \hbox (0.54149pt too wide) in paragraph at lines 1112--1122
-[]\OT1/cmr/bx/sc/10 Woodward en ([]2021[])[] \OT1/cmr/m/n/10 comien-za re-toman-do una se-rie de dis-tin-ciones cl^^Sasicas
- []
 
-LaTeX Info: Redefining \. on input line 1174.
-LaTeX Info: Redefining \% on input line 1174.
-[17]
-LaTeX Info: Redefining \. on input line 1244.
-LaTeX Info: Redefining \% on input line 1244.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [18]
-LaTeX Info: Redefining \. on input line 1320.
-LaTeX Info: Redefining \% on input line 1320.
- [19]
-LaTeX Info: Redefining \. on input line 1396.
-LaTeX Info: Redefining \% on input line 1396.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [20]
-LaTeX Info: Redefining \. on input line 1445.
-LaTeX Info: Redefining \% on input line 1445.
- [21]
-LaTeX Info: Redefining \. on input line 1514.
-LaTeX Info: Redefining \% on input line 1514.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [22]
-Overfull \hbox (0.56052pt too wide) in paragraph at lines 1535--1546
-[]\OT1/cmr/m/n/10 En es-ta ter-cera parte del cap^^S^^Ptu-lo, pro-ce-do de la sigu-iente man-era: la primera
- []
-
-LaTeX Info: Redefining \. on input line 1601.
-LaTeX Info: Redefining \% on input line 1601.
-[23]
-LaTeX Info: Redefining \. on input line 1657.
-LaTeX Info: Redefining \% on input line 1657.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [24]
-Overfull \hbox (15.5255pt too wide) in paragraph at lines 1658--1672
-[]\OT1/cmr/bx/sc/10 Los condi-cionales con-traf^^Sacti-cos[] \OT1/cmr/m/n/10 son aque-l-los condi-cionales, cuyo an-tecedente
- []
-
-LaTeX Info: Redefining \. on input line 1722.
-LaTeX Info: Redefining \% on input line 1722.
-[25]
-Overfull \hbox (1.9739pt too wide) in paragraph at lines 1778--1790
-\OT1/cmr/m/n/10 con-traf^^Sacti-cos en-cuen-tran su apli-caci^^Son en es-tos con-tex-tos para, dig-amos ``crear''
- []
-
-LaTeX Info: Redefining \. on input line 1790.
-LaTeX Info: Redefining \% on input line 1790.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [26]
-LaTeX Info: Redefining \. on input line 1860.
-LaTeX Info: Redefining \% on input line 1860.
- [27]
-LaTeX Info: Redefining \. on input line 1939.
-LaTeX Info: Redefining \% on input line 1939.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [28]
-LaTeX Info: Redefining \. on input line 1984.
-LaTeX Info: Redefining \% on input line 1984.
- [29]
-LaTeX Info: Redefining \. on input line 2111.
-LaTeX Info: Redefining \% on input line 2111.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [30]
-LaTeX Info: Redefining \. on input line 2179.
-LaTeX Info: Redefining \% on input line 2179.
- [31]
-Overfull \hbox (8.61397pt too wide) in paragraph at lines 2180--2188
-\OT1/cmr/m/n/10 condi-cionales con-traf^^Sacti-cos, us-a-dos para for-mu-lar hip^^Sotesis es-tad^^S^^Psti-cas, hip^^Sotesis
- []
-
-
-Overfull \hbox (11.52055pt too wide) in paragraph at lines 2189--2197
-[]\OT1/cmr/m/n/10 Pero si la in-ves-ti-gaci^^Son se pro-pone \OT1/cmr/m/it/10 jus-ti-ficar \OT1/cmr/m/n/10 hip^^Sotesis para obten-er \OT1/cmr/m/it/10 conocimien-
- []
-
-LaTeX Info: Redefining \. on input line 2248.
-LaTeX Info: Redefining \% on input line 2248.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [32]) (./chapters/brevediagnos.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
- [33] [34
+[5] [6
 
 ]
-Cap\'{\i }tulo 2.
-LaTeX Font Info:    Trying to load font information for OML+cmr on input line 18.
-(/home/oiuhukt/texmf/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OML/cmm/b/it' tried instead on input line 18.
-
-
-LaTeX Warning: Citation '' on page 35 undefined on input line 18.
-
-[35]
-LaTeX Info: Redefining \. on input line 120.
-LaTeX Info: Redefining \% on input line 120.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [36]
-LaTeX Info: Redefining \. on input line 157.
-LaTeX Info: Redefining \% on input line 157.
- [37]
-LaTeX Info: Redefining \. on input line 196.
-LaTeX Info: Redefining \% on input line 196.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [38]
-LaTeX Info: Redefining \. on input line 224.
-LaTeX Info: Redefining \% on input line 224.
- [39]
-LaTeX Info: Redefining \. on input line 261.
-LaTeX Info: Redefining \% on input line 261.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [40]
-LaTeX Info: Redefining \. on input line 303.
-LaTeX Info: Redefining \% on input line 303.
- [41]
-LaTeX Info: Redefining \. on input line 325.
-LaTeX Info: Redefining \% on input line 325.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [42]
-LaTeX Info: Redefining \. on input line 363.
-LaTeX Info: Redefining \% on input line 363.
- [43]
-Underfull \vbox (badness 1454) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 397.
-LaTeX Info: Redefining \% on input line 397.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [44]
-LaTeX Info: Redefining \. on input line 537.
-LaTeX Info: Redefining \% on input line 537.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [45]
-LaTeX Info: Redefining \. on input line 562.
-LaTeX Info: Redefining \% on input line 562.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [46]
-LaTeX Info: Redefining \. on input line 592.
-LaTeX Info: Redefining \% on input line 592.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [47])
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [48] [49
-
-
-
-]
-Overfull \hbox (4.19785pt too wide) in paragraph at lines 54--54
-[][]\OT1/cmr/m/n/10 Shapin, S. (1995). \OT1/cmr/m/it/10 A So-cial His-to-ry of Truth: Ci-vil-i-ty and Sci-ence in Seventeenth-
- []
-
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [50]
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
-
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
-
- [51]
 
 Class memoir Warning: The material used in the headers is too large
 (13.07225pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 55.
+(in both cases you will find help in the memoir manual). on input line 56.
 
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
+[7
 
-Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
- [52]
+]
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- (build/main.aux
+ (maintex/build/main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1247,25 +1098,53 @@ L3 programming layer <2020/03/25>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BA635D380B6877625ACAA94E50BC0D88;1384.
+
+LaTeX Warning: There were undefined references.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 5CFE08A71C3AA6F240265DCB7C2CBFA9;619
+(rerunfilecheck)             After:  DE63800636F2167F5B3BF03466422460;726.
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22635 strings out of 469476
- 397375 string characters out of 5468841
- 1362906 words of memory out of 5000000
- 50880 multiletter control sequences out of 15000+600000
- 639484 words of font info for 83 fonts, out of 8000000 for 9000
+ 21986 strings out of 469296
+ 380216 string characters out of 5465148
+ 1357599 words of memory out of 5000000
+ 50588 multiletter control sequences out of 15000+600000
+ 637553 words of font info for 76 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 85i,13n,93p,1197b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/oiuhukt/.texlive2025/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy8.pfb></home/oiuhukt/texmf/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on build/main.pdf (56 pages, 428411 bytes).
+ 85i,12n,93p,1197b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+</home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></
+home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></ho
+me/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></home/
+oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></home/o
+iuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/oiu
+hukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/oiuhuk
+t/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/oiuhukt/.t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/oiuhukt/.texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/oiuhukt/.texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/oiuhukt/.texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/oiuhukt/.texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on maintex/build/main.pdf (11 pages, 166630 bytes).
 PDF statistics:
- 773 PDF objects out of 1000 (max. 8388607)
- 665 compressed objects within 7 object streams
- 194 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 165 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 

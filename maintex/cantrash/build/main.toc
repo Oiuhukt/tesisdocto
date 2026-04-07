@@ -4,6 +4,3 @@
 \contentsline {paragraph}{Siendo sincero,}{2}{section*.2}%
 \contentsline {paragraph}{Estoy suponiendo}{3}{section*.3}%
 \contentsline {section}{\numberline {1.1}¿Qué podemos aprender de la historia de la ciencia?}{4}{section.1.1}%
-\contentsline {subsection}{La doctrina}{5}{section*.4}%
-\contentsline {subsection}{En defensa de la doctrina}{6}{section*.5}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{9}{section*.8}%

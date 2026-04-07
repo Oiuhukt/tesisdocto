@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber maintex/build/main"] 1775604821.79057 "maintex/build/main.bcf" "maintex/build/main.bbl" "maintex/build/main" 1775604823.91375 0
+["biber maintex/build/main"] 0 "maintex/build/main.bcf" "maintex/build/main.bbl" "maintex/build/main" 0 -1
   "main.bib" 1775597526.7468 67514 2288cb82b693d47a1032a89ca2a6707b ""
-  "maintex/build/main.bcf" 1775604823.80522 133384 9a1379d9f03e9d686a021772d0849cb3 "pdflatex"
+  "maintex/build/main.bcf" 1775598648.02834 133384 9a1379d9f03e9d686a021772d0849cb3 "pdflatex"
   (generated)
   "maintex/build/main.bbl"
   "maintex/build/main.blg"
   (rewritten before read)
-["pdflatex"] 1775604822.93899 "main.tex" "maintex/build/main.pdf" "main" 1775604823.91412 2
+["pdflatex"] 1775598647.19657 "main.tex" "maintex/build/main.pdf" "main" 1775598648.14757 2
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -17,7 +17,6 @@
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
-  "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1136768653 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -35,7 +34,6 @@
   "/home/oiuhukt/.texlive/texmf-dist/fonts/tfm/public/cm/cmti8.tfm" 1136768653 1504 1747189e0441d1c18f3ea56fafc1c480 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb" 1248133631 32007 e8fa0078355f39467039935974716569 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1248133631 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/home/oiuhukt/.texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -123,12 +121,11 @@
   "/home/oiuhukt/.texlive/texmf.cnf" 1775530116.56909 496 01ab80fa0036a81d2df86fb0ac70c709 ""
   "main.tex" 1775597518.98775 1363 ce43992f0435665e71a362c83c27961b ""
   "main.toc" 0 -1 0 ""
-  "maintex/build/main.aux" 1775604823.80022 1758 4076ef4d40f536964a29f564c417221b "pdflatex"
-  "maintex/build/main.bbl" 1775604822.90721 5830 51e38805fa51e264aacc28a77e3adf09 "biber maintex/build/main"
-  "maintex/build/main.out" 1775604823.80322 726 de63800636f2167f5b3bf03466422460 "pdflatex"
-  "maintex/build/main.run.xml" 1775604823.80741 2353 54ec35def3cff501f9a549da39893926 "pdflatex"
-  "maintex/build/main.toc" 1775604823.80741 482 e8d4f37d26195e2ab0cd4e6e06493952 "pdflatex"
-  "maintex/chapters/brevediagnos.tex" 1775600140.27944 21399 7ea35ebc5c10a625cd48b9f2dc524eb7 ""
+  "maintex/build/main.aux" 1775598648.02334 1420 e222279805293d71040b0a3fa46ae404 "pdflatex"
+  "maintex/build/main.bbl" 0 -1 0 "biber maintex/build/main"
+  "maintex/build/main.out" 1775598648.02634 619 5cfe08a71c3aa6f240265dcb7c2cbfa9 "pdflatex"
+  "maintex/build/main.toc" 1775598648.03039 422 f44b7c57ca84ebb03897e29ee64e030f "pdflatex"
+  "maintex/chapters/brevediagnos.tex" 1775597548.61793 21394 cb830a7834a204159b01ae37e7309484 ""
   "maintex/chapters/title.tex" 1773973642.36914 1066 cb5d48aff3e86c504ee96235db8e0606 ""
   (generated)
   "maintex/build/main.aux"
