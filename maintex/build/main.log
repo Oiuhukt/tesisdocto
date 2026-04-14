@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.6)  7 APR 2026 17:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.6)  14 APR 2026 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,12 +997,6 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 ] (./maintex/chapters/brevediagnos.tex
 Cap\'{\i }tulo 1.
 
-Overfull \hbox (8.7855pt too wide) in paragraph at lines 12--22
-\OT1/cmr/m/it/10 conocimien-to. \OT1/cmr/m/n/10 Si es-to es ver-dad, se sigue q
-ue si los in-ves-ti-gadores lo-gran cualquiera
- []
-
-
 Overfull \hbox (11.8383pt too wide) in paragraph at lines 23--30
 []\OT1/cmr/m/n/10 Siendo m^^Sas ex-pl^^S^^Pcito, es nece-sario que: si un su-je
 -to cualquiera tiene conocimien-
@@ -1013,21 +1007,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.43 E
+l.44 E
       sto, en espíritu, es algo que deja bien ilustrado Lynch al decir ``Es...
 [1
 
 ]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 111.
 
+LaTeX Warning: Citation 'kvanvig2003' on page 2 undefined on input line 78.
+
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 97.
 
 Class memoir Warning: The material used in the headers is too large
 (13.07225pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 111.
+(in both cases you will find help in the memoir manual). on input line 97.
 
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
@@ -1037,15 +1033,16 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.111 
-       [2] [3]
-Overfull \hbox (21.16725pt too wide) in paragraph at lines 150--151
+l.97 A
+       lo largo de este trabajo voy a hablar en términos de un marco [2]
+[3]
+Overfull \hbox (21.16725pt too wide) in paragraph at lines 148--149
 []\OT1/cmr/m/n/10 La in-ves-ti-gaci^^Son cient^^S^^Pfi-ca tiene in-flu-en-cias 
 y con-se-cuen-cias pr^^Sacti-cas (pol^^S^^Pticas,
  []
 
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
+LaTeX Info: Redefining \. on input line 182.
+LaTeX Info: Redefining \% on input line 182.
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
@@ -1072,6 +1069,11 @@ Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 [5] [6
 
 ]
+Overfull \hbox (4.19785pt too wide) in paragraph at lines 54--54
+[][]\OT1/cmr/m/n/10 Shapin, S. (1995). \OT1/cmr/m/it/10 A So-cial His-to-ry of 
+Truth: Ci-vil-i-ty and Sci-ence in Seventeenth-
+ []
+
 
 Class memoir Warning: The material used in the headers is too large
 (13.07225pt) for the given head height (12.0pt), it is recommended to
@@ -1101,30 +1103,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: DE63800636F2167F5B3BF03466422460;726.
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 5CFE08A71C3AA6F240265DCB7C2CBFA9;619
-(rerunfilecheck)             After:  DE63800636F2167F5B3BF03466422460;726.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 21986 strings out of 469296
- 380216 string characters out of 5465148
- 1357599 words of memory out of 5000000
- 50588 multiletter control sequences out of 15000+600000
+ 22020 strings out of 469296
+ 381489 string characters out of 5465148
+ 1358244 words of memory out of 5000000
+ 50618 multiletter control sequences out of 15000+600000
  637553 words of font info for 76 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 85i,12n,93p,1197b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,13n,93p,1197b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
 , replaced by a fixed one
@@ -1141,10 +1138,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/oiuhukt/.texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/oiuhukt/.texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/oiuhukt/.texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on maintex/build/main.pdf (11 pages, 166630 bytes).
+Output written on maintex/build/main.pdf (11 pages, 172713 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 181 PDF objects out of 1000 (max. 8388607)
+ 142 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

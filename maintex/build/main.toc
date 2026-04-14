@@ -1,7 +1,7 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{\'{I}ndice general}{\es@scroman {i}}{chapter*.1}%
 \contentsline {chapter}{\chapternumberline {1}Un rápido diagnóstico}{1}{chapter.1}%
-\contentsline {paragraph}{Siendo sincero,}{2}{section*.2}%
+\contentsline {paragraph}{Me parece que}{2}{section*.2}%
 \contentsline {paragraph}{Estoy suponiendo}{3}{section*.3}%
-\contentsline {section}{\numberline {1.1}¿Qué podemos aprender de la historia de la ciencia?}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.1}¿Qué podemos aprender de la historia de la ciencia?}{5}{section.1.1}%
 \contentsline {chapter}{Bibliograf\'{\i }a}{7}{section*.6}%

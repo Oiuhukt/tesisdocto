@@ -3068,11 +3068,16 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">main.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">/home/oiuhukt/gitclones/tesisdocto/maintex/build/main.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">gettier1963</bcf:citekey>
     <bcf:citekey order="2" intorder="1">stern2007</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">lynch2025truth</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">elgin2004</bcf:citekey>
+    <bcf:citekey order="4" intorder="2">elgin2017true</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Shapin1995</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">kvanvig2003</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">
