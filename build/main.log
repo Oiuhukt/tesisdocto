@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.6)  14 APR 2026 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.4.14)  14 APR 2026 19:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,7 +399,7 @@ on input line 2086.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
 on input line 2111.
 \U@D=\dimen195
-\l@unhyphenated=\language5
+\l@unhyphenated=\language6
 
 (/home/oiuhukt/.texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
@@ -411,16 +411,6 @@ Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 4330.
  (/home/oiuhukt/.texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-
-
-Package babel Warning: No hyphenation patterns were preloaded for
-(babel)                the language 'Spanish' into the format.
-(babel)                Please, configure your TeX system to add them and
-(babel)                rebuild the format. Now I will use the patterns
-(babel)                preloaded for \language=0 instead on input line 51.
-
-Package babel Info: Hyphen rules for 'spanish' set to \l@english
-(babel)             (\language0). Reported on input line 52.
 \es@quottoks=\toks25
 \es@quotdepth=\count337
 Package babel Info: Making " an active character on input line 570.
@@ -429,7 +419,8 @@ LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1)
 on input line 15.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1)
  on input line 15.
- (/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
 
 (/home/oiuhukt/.texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
@@ -505,7 +496,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip197
 \blx@bcfin=\read4
 \blx@bcfout=\write4
-\blx@langwohyphens=\language6
+\blx@langwohyphens=\language7
 \c@mincomprange=\count382
 \c@maxcomprange=\count383
 \c@mincompwidth=\count384
@@ -891,6 +882,28 @@ Package: memhfixc 2025/09/16 v1.24 hyperref package fixes for memoir class
 \c@memhycontfloat=\count503
 \c@mem@Hpagenote=\count504
 )
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+)
+(/home/oiuhukt/.texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -900,7 +913,7 @@ Package csquotes Info: Redefining alias 'default' -> 'spanish'.
 LaTeX Warning: Unused global option(s):
     [fontmethod].
 
-(maintex/build/main.aux
+(build/main.aux
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
@@ -908,26 +921,26 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-apa'...
 Package biblatex Info: ... file 'spanish-apa.lbx' found.
 
@@ -953,21 +966,34 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
-(maintex/build/main.bbl)
-Package biblatex Info: Reference section=0 on input line 29.
-Package biblatex Info: Reference segment=0 on input line 29.
-Package hyperref Info: Link coloring OFF on input line 29.
- (maintex/build/main.out) (maintex/build/main.out)
+(build/main.bbl)
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
+Package hyperref Info: Link coloring OFF on input line 45.
+ (build/main.out) (build/main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
 
-(./maintex/chapters/title.tex [1
+(/home/oiuhukt/.texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count505
+\scratchdimen=\dimen265
+\scratchbox=\box60
+\nofMPsegments=\count506
+\nofMParguments=\count507
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count508
+\MPscratchDim=\dimen266
+\MPnumerator=\count509
+\makeMPintoPDFobject=\count510
+\everyMPtoPDFconversion=\toks33
+) (./maintex/chapters/title.tex [1
 
 
 {/home/oiuhukt/.texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
-]) (maintex/build/main.toc
+]) (build/main.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -997,12 +1023,6 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 ] (./maintex/chapters/brevediagnos.tex
 Cap\'{\i }tulo 1.
 
-Overfull \hbox (11.8383pt too wide) in paragraph at lines 23--30
-[]\OT1/cmr/m/n/10 Siendo m^^Sas ex-pl^^S^^Pcito, es nece-sario que: si un su-je
--to cualquiera tiene conocimien-
- []
-
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1012,18 +1032,16 @@ l.44 E
 [1
 
 ]
-
-LaTeX Warning: Citation 'kvanvig2003' on page 2 undefined on input line 78.
-
-LaTeX Info: Redefining \. on input line 97.
-LaTeX Info: Redefining \% on input line 97.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 97.
+(babel)             Reported on input line 94.
+
 
 Class memoir Warning: The material used in the headers is too large
 (13.07225pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 97.
+(in both cases you will find help in the memoir manual). on input line 94.
 
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
@@ -1033,16 +1051,15 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.97 A
-       lo largo de este trabajo voy a hablar en términos de un marco [2]
-[3]
-Overfull \hbox (21.16725pt too wide) in paragraph at lines 148--149
-[]\OT1/cmr/m/n/10 La in-ves-ti-gaci^^Son cient^^S^^Pfi-ca tiene in-flu-en-cias 
-y con-se-cuen-cias pr^^Sacti-cas (pol^^S^^Pticas,
+l.94 
+      [2] [3]
+Overfull \hbox (8.3339pt too wide) in paragraph at lines 174--175
+[]\OT1/cmr/m/n/10 La in-ves-ti-ga-ci^^Son cient^^S^^Pfi-ca tie-ne in-fluen-cias
+ y con-se-cuen-cias pr^^Sacti-cas (pol^^S^^Pti-
  []
 
-LaTeX Info: Redefining \. on input line 182.
-LaTeX Info: Redefining \% on input line 182.
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
@@ -1053,15 +1070,15 @@ Runaway argument?
 ! File ended while scanning use of \@footnotetext.
 <inserted text> 
                 \par 
-l.42 \input{maintex/chapters/brevediagnos.tex}
+l.58 \input{maintex/chapters/brevediagnos.tex}
                                               
 I suspect you have forgotten a `}', causing me
 to read past where you wanted me to stop.
 I'll try to recover; but if the error is serious,
 you'd better type `E' or `X' now and fix your file.
 
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
 
 Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 
@@ -1069,16 +1086,16 @@ Overfull \vbox (1.07225pt too high) has occurred while \output is active []
 [5] [6
 
 ]
-Overfull \hbox (4.19785pt too wide) in paragraph at lines 54--54
-[][]\OT1/cmr/m/n/10 Shapin, S. (1995). \OT1/cmr/m/it/10 A So-cial His-to-ry of 
-Truth: Ci-vil-i-ty and Sci-ence in Seventeenth-
+Overfull \hbox (4.19785pt too wide) in paragraph at lines 70--70
+[][]\OT1/cmr/m/n/10 Shapin, S. (1995). \OT1/cmr/m/it/10 A So-cial His-tory of T
+ruth: Ci-vi-lity and Scien-ce in Seventeenth-
  []
 
 
 Class memoir Warning: The material used in the headers is too large
 (13.07225pt) for the given head height (12.0pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 56.
+(in both cases you will find help in the memoir manual). on input line 72.
 
 [7
 
@@ -1087,7 +1104,7 @@ either increase the head height or redesign the header
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- (maintex/build/main.aux
+ (build/main.aux
 LaTeX Info: Redefining \sptext on input line 10.
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -1100,28 +1117,20 @@ L3 programming layer <2020/03/25>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: DE63800636F2167F5B3BF03466422460;726.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22020 strings out of 469296
- 381489 string characters out of 5465148
- 1358244 words of memory out of 5000000
- 50618 multiletter control sequences out of 15000+600000
+ 22971 strings out of 469280
+ 395098 string characters out of 5464490
+ 1377414 words of memory out of 5000000
+ 51552 multiletter control sequences out of 15000+600000
  637553 words of font info for 76 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 85i,13n,93p,1197b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,12n,93p,1197b,2807s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
 , replaced by a fixed one
@@ -1138,10 +1147,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/oiuhukt/.texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></home/oiuhukt/.texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></home/oiuhukt/.texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on maintex/build/main.pdf (11 pages, 172713 bytes).
+Output written on build/main.pdf (11 pages, 174823 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

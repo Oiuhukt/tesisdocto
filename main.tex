@@ -23,7 +23,23 @@ fontmethod=tex, % Can also use "modern" with XeLaTeX or LuaTex; "tex" is the def
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{hyperref}
-\addbibresource{/home/oiuhukt/gitclones/tesisdocto/maintex/build/main.bib}
+
+
+\usepackage{xcolor}
+
+% Definimos un color profesional para citas
+\definecolor{citeblue}{RGB}{0, 51, 102}
+
+% Comando para resaltar citas sin romper APA
+\DeclareFieldFormat{citehyperref}{\textcolor{citeblue}{#1}}
+\DeclareFieldFormat{textcitehyperref}{\textcolor{citeblue}{#1}}
+
+
+
+
+
+
+\addbibresource{/home/oiuhukt/gitclones/tesisdocto/main.bib}
 
 
 \begin{document}
