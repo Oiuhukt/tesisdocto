@@ -1,0 +1,20 @@
+dictionaries = ["en_us", "es"]
+
+words = [
+    "contrafácticos", "epistémicos", "textit", "parencite", 
+    "contraejemplos", "Gettier", "epistémico", "epistémica", 
+    "Elgin", "Shapin", "correspondentista", "Engel"
+]
+
+# ... otras configuraciones ...
+
+ignore_patterns = [
+    '\\textit(?=\{)',      # 1. Ignora el comando \textit pero no su contenido
+    '\\parencite\{[^}]*\}', # 2. Ignora \parencite Y todo lo que esté dentro de las llaves
+    'https?://[^\s]+',      # URLs (recomendado mantener)
+    '^[A-Z]{2,}$'           # Siglas en mayúsculas (opcional)
+]
+
+# Asegúrate de que "text" o "markup" esté en include_tags si Codebook 
+# no detecta automáticamente el cuerpo del documento LaTeX.
+include_tags = ["comment", "string", "text", "markup"]

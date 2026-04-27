@@ -1,0 +1,19 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'build/main.blg'
+[71] biber:342> INFO - === lun abr 27, 2026, 15:42:34
+[89] Biber.pm:421> INFO - Reading 'build/main.bcf'
+[186] Biber.pm:1002> INFO - Found 15 citekeys in bib section 0
+[208] Biber.pm:4487> INFO - Processing section 0
+[221] Biber.pm:4678> INFO - Looking for bibtex file '/home/oiuhukt/gitclones/tesisdocto/main.bib' for section 0
+[227] bibtex.pm:1713> INFO - LaTeX decoding ...
+[437] bibtex.pm:1519> INFO - Found BibTeX data source '/home/oiuhukt/gitclones/tesisdocto/main.bib'
+[600] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[600] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[600] Biber.pm:4307> INFO - Sorting list 'ynt/apasortcite//global/global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[637] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[637] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[638] Biber.pm:4307> INFO - Sorting list 'ynt/global//global/global/global' of type 'entry' with template 'ynt' and locale 'es-ES'
+[656] bbl.pm:676> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[670] bbl.pm:779> INFO - Output to build/main.bbl
+[670] Biber.pm:132> WARN - I didn't find a database entry for 'fre' (section 0)
+[671] Biber.pm:134> INFO - WARNINGS: 1
