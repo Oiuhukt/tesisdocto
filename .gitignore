@@ -1,0 +1,24 @@
+# Auxiliares de LaTeX
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.bbl-SAVE-ERROR
+*.bcf-SAVE-ERROR
+
+# PDFs generados
+main.pdf
+maintex/main.pdf
+build/main.pdf
+
+# Sistema
+.DS_Store
+*~
